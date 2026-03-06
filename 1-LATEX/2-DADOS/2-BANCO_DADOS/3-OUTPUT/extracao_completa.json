@@ -1,0 +1,1588 @@
+[
+  {
+    "study_id": 47,
+    "auth": "Rodriguez-Cruz",
+    "year": 2022,
+    "file": "Socialecological-interactions-in-a-disaster-context-Puerto-Rican-farmer-households-food-security-after-Hurricane-Maria_2022_IOP-Publishing-Ltd.pdf",
+    "n_chars": 70627,
+    "has_results_section": true,
+    "results_chars": 20362,
+    "table_refs": 10,
+    "n_numeric_results": 36,
+    "n_numeric_total": 37,
+    "n_sample_sizes": 6,
+    "n_comparisons": 1,
+    "stats_summary": {
+      "mean_pm_sd": 24,
+      "n_eq": 5,
+      "p_value": 7
+    },
+    "numeric_in_results": [
+      {
+        "type": "mean_pm_sd",
+        "match": "54.0 ± 13.5",
+        "context": ". Variables Scale Frequency (%) Mean ± SD n = Survey variables Age Continuous — 54.0 ± 13.5 391 Bona fide Yes No 210 (52.8%) 188 (47.2%) — 398 Damages Total loss Not total",
+        "position": 428
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "3.1 ± 2.5",
+        "context": ".2%) 82 (20.5%) 42 (10.5%) 66 (16.5%) 162 (40.4%) — 401 Farm production Count — 3.1 ± 2.5 402 Farm size (cuerdas) Continuous — 58.1 ± 99.0 383 Food assistance Yes No 65",
+        "position": 759
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "58.1 ± 99.0",
+        "context": "%) — 401 Farm production Count — 3.1 ± 2.5 402 Farm size (cuerdas) Continuous — 58.1 ± 99.0 383 Food assistance Yes No 65 (18.0%) 294 (82.0%) — 359 Sex Female Male 55 (14.",
+        "position": 806
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "2.3 ± 2.1",
+        "context": "tan Metropolitan Not metropolitan 229 (57.5%) 169 (42.5%) — 398 Network Count — 2.3 ± 2.1 398 Biophysical variables Distance to eye (km) Continuous — 21.7 ± 14.0 379 Lan",
+        "position": 1008
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "21.7 ± 14.0",
+        "context": "k Count — 2.3 ± 2.1 398 Biophysical variables Distance to eye (km) Continuous — 21.7 ± 14.0 379 Landslides (km2) Continuous — 9.8 ± 13.4 338 comparable to Puerto Rico’s ag",
+        "position": 1078
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "9.8 ± 13.4",
+        "context": "Distance to eye (km) Continuous — 21.7 ± 14.0 379 Landslides (km2) Continuous — 9.8 ± 13.4 338 comparable to Puerto Rico’s agricultural census data on sex, farm size, inc",
+        "position": 1124
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "2.0 ± 2.1",
+        "context": "r and after Hurricane Maria’s landfall. Overall, farmers reported an average of 2.0 ± 2.1 months of negatively impacted house- hold food security (n = 401). Most farmer",
+        "position": 2283
+      },
+      {
+        "type": "n_eq",
+        "match": "n = 401",
+        "context": "n average of 2.0 ± 2.1 months of negatively impacted house- hold food security (n = 401). Most farmer house- holds (69%) reported at least one month of not hav- ing en",
+        "position": 2350
+      },
+      {
+        "type": "n_eq",
+        "match": "n = 401",
+        "context": "ted negative effects on their food security prior to and after Hurricane Maria (n = 401). The hurricane made landfall on 20 September 2017, two weeks after category 5",
+        "position": 4370
+      },
+      {
+        "type": "n_eq",
+        "match": "n = 124",
+        "context": "d insecurity category Statistical test significance (p) Variables Food secured (n = 124; 31.0%) Immediate food insecurity (n = 123; 31.0%) Persistent food insecurity (",
+        "position": 4663
+      },
+      {
+        "type": "n_eq",
+        "match": "n = 123",
+        "context": "ificance (p) Variables Food secured (n = 124; 31.0%) Immediate food insecurity (n = 123; 31.0%) Persistent food insecurity (n = 154; 38%) Kruskal–Wallis Chi Square Sur",
+        "position": 4706
+      },
+      {
+        "type": "n_eq",
+        "match": "n = 154",
+        "context": "; 31.0%) Immediate food insecurity (n = 123; 31.0%) Persistent food insecurity (n = 154; 38%) Kruskal–Wallis Chi Square Survey variables Age 52.5 ± 13.5 52.6 ± 13.0 56",
+        "position": 4750
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "52.5 ± 13.5",
+        "context": "t food insecurity (n = 154; 38%) Kruskal–Wallis Chi Square Survey variables Age 52.5 ± 13.5 52.6 ± 13.0 56.4 ± 13.0 0.053 — Bona fidea Being bona fide No 79 (37.6%) 43 (22",
+        "position": 4811
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "52.6 ± 13.0",
+        "context": "urity (n = 154; 38%) Kruskal–Wallis Chi Square Survey variables Age 52.5 ± 13.5 52.6 ± 13.0 56.4 ± 13.0 0.053 — Bona fidea Being bona fide No 79 (37.6%) 43 (22.9%) 65 (31.",
+        "position": 4823
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "56.4 ± 13.0",
+        "context": "54; 38%) Kruskal–Wallis Chi Square Survey variables Age 52.5 ± 13.5 52.6 ± 13.0 56.4 ± 13.0 0.053 — Bona fidea Being bona fide No 79 (37.6%) 43 (22.9%) 65 (31.0%) 57 (30.3",
+        "position": 4835
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "3.4 ± 2.5",
+        "context": "40 (30.0%) 85 (31.5%) 36 (27.5%) 100 (37.0%) 54 (41.2%) — 0.644 Farm production 3.4 ± 2.5 2.8 ± 2.2 3.3 ± 2.7 0.227 — Farm sizea 75.6 ± 118.5 58.0 ± 95 45.1 ± 81.6 0.029",
+        "position": 5227
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "2.8 ± 2.2",
+        "context": "85 (31.5%) 36 (27.5%) 100 (37.0%) 54 (41.2%) — 0.644 Farm production 3.4 ± 2.5 2.8 ± 2.2 3.3 ± 2.7 0.227 — Farm sizea 75.6 ± 118.5 58.0 ± 95 45.1 ± 81.6 0.029 — Food as",
+        "position": 5237
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "3.3 ± 2.7",
+        "context": ") 36 (27.5%) 100 (37.0%) 54 (41.2%) — 0.644 Farm production 3.4 ± 2.5 2.8 ± 2.2 3.3 ± 2.7 0.227 — Farm sizea 75.6 ± 118.5 58.0 ± 95 45.1 ± 81.6 0.029 — Food assistance P",
+        "position": 5247
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "75.6 ± 118.5",
+        "context": "41.2%) — 0.644 Farm production 3.4 ± 2.5 2.8 ± 2.2 3.3 ± 2.7 0.227 — Farm sizea 75.6 ± 118.5 58.0 ± 95 45.1 ± 81.6 0.029 — Food assistance Participant of PAN Not participan",
+        "position": 5276
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "45.1 ± 81.6",
+        "context": "duction 3.4 ± 2.5 2.8 ± 2.2 3.3 ± 2.7 0.227 — Farm sizea 75.6 ± 118.5 58.0 ± 95 45.1 ± 81.6 0.029 — Food assistance Participant of PAN Not participant 15 (23.1%) 105 (35.7",
+        "position": 5299
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "2.6 ± 2.6",
+        "context": "(31.4%) 52 (30.8%) 40 (17.5%) 81 (47.9%) 76 (33.2%) 75 (44.4%) — 0.016 Network 2.6 ± 2.6 2.5 ± 2.0 2.0 ± 1.8 0.140 — Biophysical variables Distance from eyea 25.3 ± 15.",
+        "position": 5678
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "2.5 ± 2.0",
+        "context": "2 (30.8%) 40 (17.5%) 81 (47.9%) 76 (33.2%) 75 (44.4%) — 0.016 Network 2.6 ± 2.6 2.5 ± 2.0 2.0 ± 1.8 0.140 — Biophysical variables Distance from eyea 25.3 ± 15.1 21.5 ± 1",
+        "position": 5688
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "2.0 ± 1.8",
+        "context": "40 (17.5%) 81 (47.9%) 76 (33.2%) 75 (44.4%) — 0.016 Network 2.6 ± 2.6 2.5 ± 2.0 2.0 ± 1.8 0.140 — Biophysical variables Distance from eyea 25.3 ± 15.1 21.5 ± 14.2 18.9 ±",
+        "position": 5698
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "25.3 ± 15.1",
+        "context": "2.6 ± 2.6 2.5 ± 2.0 2.0 ± 1.8 0.140 — Biophysical variables Distance from eyea 25.3 ± 15.1 21.5 ± 14.2 18.9 ± 12.3 0.001 — Landslides 9.1 ± 11.6 7.7 ± 10.3 12.2 ± 16.4 0.",
+        "position": 5757
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "21.5 ± 14.2",
+        "context": ".5 ± 2.0 2.0 ± 1.8 0.140 — Biophysical variables Distance from eyea 25.3 ± 15.1 21.5 ± 14.2 18.9 ± 12.3 0.001 — Landslides 9.1 ± 11.6 7.7 ± 10.3 12.2 ± 16.4 0.208 — Note:",
+        "position": 5769
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "18.9 ± 12.3",
+        "context": "± 1.8 0.140 — Biophysical variables Distance from eyea 25.3 ± 15.1 21.5 ± 14.2 18.9 ± 12.3 0.001 — Landslides 9.1 ± 11.6 7.7 ± 10.3 12.2 ± 16.4 0.208 — Note: Percentage o",
+        "position": 5781
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "9.1 ± 11.6",
+        "context": "ables Distance from eyea 25.3 ± 15.1 21.5 ± 14.2 18.9 ± 12.3 0.001 — Landslides 9.1 ± 11.6 7.7 ± 10.3 12.2 ± 16.4 0.208 — Note: Percentage of categorical variables is bas",
+        "position": 5812
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "7.7 ± 10.3",
+        "context": "nce from eyea 25.3 ± 15.1 21.5 ± 14.2 18.9 ± 12.3 0.001 — Landslides 9.1 ± 11.6 7.7 ± 10.3 12.2 ± 16.4 0.208 — Note: Percentage of categorical variables is based on the t",
+        "position": 5823
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "12.2 ± 16.4",
+        "context": "ea 25.3 ± 15.1 21.5 ± 14.2 18.9 ± 12.3 0.001 — Landslides 9.1 ± 11.6 7.7 ± 10.3 12.2 ± 16.4 0.208 — Note: Percentage of categorical variables is based on the total n of ea",
+        "position": 5834
+      },
+      {
+        "type": "p_value",
+        "match": "p < 0.05",
+        "context": "cal variables is based on the total n of each variable. a Significant variable (p < 0.05). 7  Environ. Res. Lett. 17 (2022) 044057 L A Rodríguez-Cruz et al Figure 2. Ma",
+        "position": 5962
+      }
+    ],
+    "sample_sizes": [
+      {
+        "n": 31,
+        "context": "onducted in February 2018 with a pool of farmers (n = 31), which resulted in survey refinement and clarifi"
+      },
+      {
+        "n": 401,
+        "context": "of negatively impacted house- hold food security (n = 401). Most farmer house- holds (69%) reported at leas"
+      },
+      {
+        "n": 401,
+        "context": "food security prior to and after Hurricane Maria (n = 401). The hurricane made landfall on 20 September 201"
+      },
+      {
+        "n": 124,
+        "context": "cal test significance (p) Variables Food secured (n = 124; 31.0%) Immediate food insecurity (n = 123; 31.0%"
+      },
+      {
+        "n": 123,
+        "context": "cured (n = 124; 31.0%) Immediate food insecurity (n = 123; 31.0%) Persistent food insecurity (n = 154; 38%)"
+      },
+      {
+        "n": 154,
+        "context": "rity (n = 123; 31.0%) Persistent food insecurity (n = 154; 38%) Kruskal–Wallis Chi Square Survey variables"
+      }
+    ],
+    "comparisons": [
+      {
+        "group": "food secure",
+        "value": "0.09330",
+        "context": "od insec- ure, as compared to food secure (β = 0.09330, p = 0.040). Multiple variables predicted persistent food i"
+      }
+    ],
+    "results_preview": "\n3. Results\n3.1. Participants’ characteristics\nDescriptive statistics for all independent variables of\nall respondents are shown in table 2. Respondents are\n5\n\nEnviron. Res. Lett. 17 (2022) 044057\nL A Rodríguez-Cruz et al\nTable 2. Descriptive statistics of study’s variables. Frequency, mean, standard deviation (SD), and responses (n) are included.\nVariables\nScale\nFrequency (%)\nMean ± SD\nn =\nSurvey variables\nAge\nContinuous\n—\n54.0 ± 13.5\n391\nBona fide\nYes\nNo\n210 (52.8%)\n188 (47.2%)\n—\n398\nDamages\nTotal loss\nNot total loss\n170 (42.6%)\n229 (57.3%)\n—\n399\nEducation\nLess than high school\nHigh school diploma\nSome college\nTechnical/Associate degree\nBachelor’s degree or more\n49 (12.2%)\n82 (20.5%)\n42 (10.5%)\n66 (16.5%)\n162 (40.4%)\n—\n401\nFarm production\nCount\n—\n3.1 ± 2.5\n402\nFarm size (cuerdas)\nContinuous\n—\n58.1 ± 99.0\n383\nFood assistance\nYes\nNo\n65 (18.0%)\n294 (82.0%)\n—\n359\nSex\nFemale\nMale\n55 (14.0%)\n340 (86.0%)\n—\n395\nMetropolitan\nMetropolitan\nNot metropolitan\n229 (57.5%)\n169 (42.5%)\n—\n398\nNetwork\nCount\n—\n2.3 ± 2.1\n398\nBiophysical variables\nDistance to eye (km)\nContinuous\n—\n21.7 ± 14.0\n379\nLandslides (km2)\nContinuous\n—\n9.8 ± 13.4\n338\ncomparable to Puerto Rico’s agricultural census data\non sex, farm size, income, and education levels [69].\nHowever, data shows an overrepresentation of bona\nfide farmers (53%, compared to 24% in Puerto Rico\n[88]). Respondents had an average age of 54; 53%\nwere 55 years or older. The majority were male (86%).\nAverage farm size was 58 cuerdas (55 acres or 22 ha).\nMoreover, the majority reported attending some col-\nlege or more formal education (67%). Almost half of\nfarmers reported total loss of their farms due to Hur-\nricane Maria’s impact (43%). The majority of farm-\ners farmed in metropolitan municipalities (58%),\nproduced two or more agricultural products (65%),\nand had a network of one or more organizations\nand groups (75%). On average, municipalities cor-\nresponding to the location of the respondents’ farms\nare 22 km from the passage of Hurricane Maria and\nhad ten hurricane-triggered landslides per squared\nkilometer.\n3.2. Food security\nFigure 1 shows the number of months farmer\nhouseholds experienced negative effects on their\nfood security prior and after Hurricane Maria’s\nlandfall. Overall, farmers reported an average of\n2.0 ± 2.1 months of negatively impacted house-\nhold food security (n = 401). Most farmer house-\nholds (69%) reported at least one month of not hav-\ning enough food to consume or having struggled to\nacquire food. High ",
+    "methods_preview": "[NOT FOUND]"
+  },
+  {
+    "study_id": 10,
+    "auth": "Suwardi",
+    "year": 2017,
+    "file": "s10722-017-0544-y.pdf",
+    "n_chars": 79920,
+    "has_results_section": true,
+    "results_chars": 36211,
+    "table_refs": 24,
+    "n_numeric_results": 28,
+    "n_numeric_total": 28,
+    "n_sample_sizes": 9,
+    "n_comparisons": 2,
+    "stats_summary": {
+      "p_value": 21,
+      "n_eq": 7
+    },
+    "numeric_in_results": [
+      {
+        "type": "p_value",
+        "match": "p = 0.421",
+        "context": "ion of estimated MAD 456 Genet Resour Crop Evol (2018) 65:449–469 123  periods (p = 0.421). Growth cycle period differed signiﬁcantly (p \\ 0.05) among landraces in 1994/",
+        "position": 6620
+      },
+      {
+        "type": "p_value",
+        "match": "p = 0.40",
+        "context": "ri communities). Plant density per square meter was not signiﬁcantly different (p = 0.40) for the 1994/96 and 2012 and landraces (p = 0.50). However, density differed b",
+        "position": 7729
+      },
+      {
+        "type": "p_value",
+        "match": "p = 0.50",
+        "context": "s not signiﬁcantly different (p = 0.40) for the 1994/96 and 2012 and landraces (p = 0.50). However, density differed between the new collected landraces in 2012 (p = 0.",
+        "position": 7779
+      },
+      {
+        "type": "p_value",
+        "match": "p = 0.008",
+        "context": "= 0.50). However, density differed between the new collected landraces in 2012 (p = 0.008). For the landraces [b1a/w1a], [b2] and [rb] the plant densities were 9, 11, an",
+        "position": 7861
+      },
+      {
+        "type": "p_value",
+        "match": "p = 0.181",
+        "context": "tions were not available for 2012. Root yields were not signiﬁcantly different (p = 0.181) between the two cropping periods (1994/96 and 2012), nor among the landraces (",
+        "position": 9900
+      },
+      {
+        "type": "p_value",
+        "match": "p = 0.228",
+        "context": ") between the two cropping periods (1994/96 and 2012), nor among the landraces (p = 0.228). Nevertheless, there were signiﬁcant differences among the new landraces ident",
+        "position": 9989
+      },
+      {
+        "type": "p_value",
+        "match": "p=0.181",
+        "context": "la, Pilaya (pil), photos J.P. Rodriguez Traditional cropping systems c.periods: p=0.181 ahipa: p=0.228 ahipa: p<0.001 Cycle length (days) 0 100 200 300 400 Landraces x",
+        "position": 10928
+      },
+      {
+        "type": "p_value",
+        "match": "p=0.228",
+        "context": "), photos J.P. Rodriguez Traditional cropping systems c.periods: p=0.181 ahipa: p=0.228 ahipa: p<0.001 Cycle length (days) 0 100 200 300 400 Landraces xb1 xb2 xb3 sb b",
+        "position": 10943
+      },
+      {
+        "type": "p_value",
+        "match": "p<0.001",
+        "context": "Rodriguez Traditional cropping systems c.periods: p=0.181 ahipa: p=0.228 ahipa: p<0.001 Cycle length (days) 0 100 200 300 400 Landraces xb1 xb2 xb3 sb b1 w1 b3 rb b2 b",
+        "position": 10958
+      },
+      {
+        "type": "p_value",
+        "match": "p=0.40",
+        "context": "b b1 w1 b3 rb b2 b1a/w1a xa3 River basin communities pil ayp por lpz c.periods: p=0.40 ahipa: p=0.50 Plant density (m2) 0 10 20 30 40 b3 rb b2 b1a/w1a xa3 Root yield",
+        "position": 11107
+      },
+      {
+        "type": "p_value",
+        "match": "p=0.50",
+        "context": "b2 b1a/w1a xa3 River basin communities pil ayp por lpz c.periods: p=0.40 ahipa: p=0.50 Plant density (m2) 0 10 20 30 40 b3 rb b2 b1a/w1a xa3 Root yield (t ha-1) 0 20",
+        "position": 11121
+      },
+      {
+        "type": "p_value",
+        "match": "p=0.649",
+        "context": "3 0.4 0.5 0.6 2012  2012  1994-1996  Parcela Ananta K'ata Chiru n.a. c.periods: p=0.649 ahipa: p=0.675 ahipa: p=0.02 Taqana Ananta K'ata c.periods: p=0.421 ahipa: p=0.",
+        "position": 11363
+      },
+      {
+        "type": "p_value",
+        "match": "p=0.675",
+        "context": "012  2012  1994-1996  Parcela Ananta K'ata Chiru n.a. c.periods: p=0.649 ahipa: p=0.675 ahipa: p=0.02 Taqana Ananta K'ata c.periods: p=0.421 ahipa: p=0.038 ahipa: p=0.",
+        "position": 11378
+      },
+      {
+        "type": "p_value",
+        "match": "p=0.02",
+        "context": "-1996  Parcela Ananta K'ata Chiru n.a. c.periods: p=0.649 ahipa: p=0.675 ahipa: p=0.02 Taqana Ananta K'ata c.periods: p=0.421 ahipa: p=0.038 ahipa: p=0.008 ahipa: p<0",
+        "position": 11393
+      },
+      {
+        "type": "p_value",
+        "match": "p=0.421",
+        "context": "c.periods: p=0.649 ahipa: p=0.675 ahipa: p=0.02 Taqana Ananta K'ata c.periods: p=0.421 ahipa: p=0.038 ahipa: p=0.008 ahipa: p<0.001 lpz ayp por *** *  ** *** *** ***",
+        "position": 11431
+      },
+      {
+        "type": "p_value",
+        "match": "p=0.038",
+        "context": ".649 ahipa: p=0.675 ahipa: p=0.02 Taqana Ananta K'ata c.periods: p=0.421 ahipa: p=0.038 ahipa: p=0.008 ahipa: p<0.001 lpz ayp por *** *  ** *** *** *** *** *** *** * *",
+        "position": 11446
+      },
+      {
+        "type": "p_value",
+        "match": "p=0.008",
+        "context": ".675 ahipa: p=0.02 Taqana Ananta K'ata c.periods: p=0.421 ahipa: p=0.038 ahipa: p=0.008 ahipa: p<0.001 lpz ayp por *** *  ** *** *** *** *** *** *** * ** n=3 n=3 n=2 n",
+        "position": 11461
+      },
+      {
+        "type": "p_value",
+        "match": "p<0.001",
+        "context": ".02 Taqana Ananta K'ata c.periods: p=0.421 ahipa: p=0.038 ahipa: p=0.008 ahipa: p<0.001 lpz ayp por *** *  ** *** *** *** *** *** *** * ** n=3 n=3 n=2 n=4 n=1 n=4 n=2",
+        "position": 11476
+      },
+      {
+        "type": "n_eq",
+        "match": "n=3",
+        "context": "hipa: p=0.008 ahipa: p<0.001 lpz ayp por *** *  ** *** *** *** *** *** *** * ** n=3 n=3 n=2 n=4 n=1 n=4 n=2 n=7 n=13 n=2 n=2 n=1 n=17 n=3 n=4 (A) (B) (C) (D) Fig.",
+        "position": 11535
+      },
+      {
+        "type": "n_eq",
+        "match": "n=2",
+        "context": "0.008 ahipa: p<0.001 lpz ayp por *** *  ** *** *** *** *** *** *** * ** n=3 n=3 n=2 n=4 n=1 n=4 n=2 n=7 n=13 n=2 n=2 n=1 n=17 n=3 n=4 (A) (B) (C) (D) Fig. 5 A–D In",
+        "position": 11543
+      },
+      {
+        "type": "n_eq",
+        "match": "n=1",
+        "context": "ipa: p<0.001 lpz ayp por *** *  ** *** *** *** *** *** *** * ** n=3 n=3 n=2 n=4 n=1 n=4 n=2 n=7 n=13 n=2 n=2 n=1 n=17 n=3 n=4 (A) (B) (C) (D) Fig. 5 A–D In-situ co",
+        "position": 11551
+      },
+      {
+        "type": "n_eq",
+        "match": "n=7",
+        "context": "lpz ayp por *** *  ** *** *** *** *** *** *** * ** n=3 n=3 n=2 n=4 n=1 n=4 n=2 n=7 n=13 n=2 n=2 n=1 n=17 n=3 n=4 (A) (B) (C) (D) Fig. 5 A–D In-situ comparisons of",
+        "position": 11563
+      },
+      {
+        "type": "n_eq",
+        "match": "n=2",
+        "context": "por *** *  ** *** *** *** *** *** *** * ** n=3 n=3 n=2 n=4 n=1 n=4 n=2 n=7 n=13 n=2 n=2 n=1 n=17 n=3 n=4 (A) (B) (C) (D) Fig. 5 A–D In-situ comparisons of ahipa la",
+        "position": 11572
+      },
+      {
+        "type": "n_eq",
+        "match": "n=1",
+        "context": "*  ** *** *** *** *** *** *** * ** n=3 n=3 n=2 n=4 n=1 n=4 n=2 n=7 n=13 n=2 n=2 n=1 n=17 n=3 n=4 (A) (B) (C) (D) Fig. 5 A–D In-situ comparisons of ahipa landraces",
+        "position": 11580
+      },
+      {
+        "type": "n_eq",
+        "match": "n=4",
+        "context": "*** *** *** *** * ** n=3 n=3 n=2 n=4 n=1 n=4 n=2 n=7 n=13 n=2 n=2 n=1 n=17 n=3 n=4 (A) (B) (C) (D) Fig. 5 A–D In-situ comparisons of ahipa landraces in two period",
+        "position": 11593
+      },
+      {
+        "type": "p_value",
+        "match": "p = 0.649",
+        "context": "There were no differences between 1994/96 and 2012 in area planted with ahipa (p = 0.649) nor among landraces (p = 0.675). The planted areas differed signiﬁcantly betwe",
+        "position": 12264
+      },
+      {
+        "type": "p_value",
+        "match": "p = 0.675",
+        "context": "en 1994/96 and 2012 in area planted with ahipa (p = 0.649) nor among landraces (p = 0.675). The planted areas differed signiﬁcantly between the new landraces in 2012 (p",
+        "position": 12296
+      },
+      {
+        "type": "p_value",
+        "match": "p = 0.02",
+        "context": "75). The planted areas differed signiﬁcantly between the new landraces in 2012 (p = 0.02). In 1994/96 the planted area was higher (Fig. 5D) for landraces [b1a/w1a], [b2",
+        "position": 12383
+      }
+    ],
+    "sample_sizes": [
+      {
+        "n": 3,
+        "context": "pz ayp por *** *  ** *** *** *** *** *** *** * ** n=3 n=3 n=2 n=4 n=1 n=4 n=2 n=7 n=13 n=2 n=2 n=1 n=17"
+      },
+      {
+        "n": 3,
+        "context": "yp por *** *  ** *** *** *** *** *** *** * ** n=3 n=3 n=2 n=4 n=1 n=4 n=2 n=7 n=13 n=2 n=2 n=1 n=17 n=3"
+      },
+      {
+        "n": 4,
+        "context": "** *  ** *** *** *** *** *** *** * ** n=3 n=3 n=2 n=4 n=1 n=4 n=2 n=7 n=13 n=2 n=2 n=1 n=17 n=3 n=4 (A)"
+      },
+      {
+        "n": 4,
+        "context": "*** *** *** *** *** *** * ** n=3 n=3 n=2 n=4 n=1 n=4 n=2 n=7 n=13 n=2 n=2 n=1 n=17 n=3 n=4 (A) (B) (C)"
+      },
+      {
+        "n": 7,
+        "context": "*** *** *** *** * ** n=3 n=3 n=2 n=4 n=1 n=4 n=2 n=7 n=13 n=2 n=2 n=1 n=17 n=3 n=4 (A) (B) (C) (D) Fig"
+      },
+      {
+        "n": 13,
+        "context": "*** *** *** * ** n=3 n=3 n=2 n=4 n=1 n=4 n=2 n=7 n=13 n=2 n=2 n=1 n=17 n=3 n=4 (A) (B) (C) (D) Fig. 5 A"
+      },
+      {
+        "n": 17,
+        "context": "n=3 n=3 n=2 n=4 n=1 n=4 n=2 n=7 n=13 n=2 n=2 n=1 n=17 n=3 n=4 (A) (B) (C) (D) Fig. 5 A–D In-situ compar"
+      },
+      {
+        "n": 3,
+        "context": "n=3 n=2 n=4 n=1 n=4 n=2 n=7 n=13 n=2 n=2 n=1 n=17 n=3 n=4 (A) (B) (C) (D) Fig. 5 A–D In-situ comparison"
+      },
+      {
+        "n": 4,
+        "context": "n=2 n=4 n=1 n=4 n=2 n=7 n=13 n=2 n=2 n=1 n=17 n=3 n=4 (A) (B) (C) (D) Fig. 5 A–D In-situ comparisons of"
+      }
+    ],
+    "comparisons": [
+      {
+        "group": "old",
+        "value": "0.11",
+        "context": "er basin commu- nities. Smallhold sizes range from 0.03 to 0.11 ha, and crop farming relies on popular cash crops followed"
+      },
+      {
+        "group": "local",
+        "value": "1.5",
+        "context": ". Commonly ahipa is traded by local units a.k.a. libra (0.45 kg) and arroba (11.5 kg). The price obtained for roots of ahipa landraces change"
+      }
+    ],
+    "results_preview": "\nResults\nChanges of agro-biodiversity and the status\nof ahipa in traditional farming systems\nWe present and compare results from the two periods,\nand discuss the effect of changes in agro-biodiversity\non ahipa on-farm conservation in eleven rural com-\nmunities located in the IAVs. The Brillouin diversity\nindex (HB) and the crop diversity index or richness of\ncrop species (S) were calculated for the communities\nlocated in each river basin. When (HB) values are\nhigher than 1.0, they reﬂect more diversity among\ncultivated crop species, while (S) denotes higher\noverall crop diversity managed by farmers. HB and\nS are arranged from large to small values for\ncomparing two periods (Fig. 2A–D). For the 2012\nperiod HB ranked from 0.68 to 1.63, i.e. high, for the\nthree communities, Angostura, Lloja and Ornuni in the\nLa Paz River basin (Fig. 2A). The communities Lloja\nand Ornuni had high S in 2012 and 1994. Lloja and\nCikilini had a low HB of 0.79 and 0.35 respectively.\nLloja and Cikilini had S values of only 4 and 2 crop\nspecies, respectively.\nIn 1994/96 the recorded seed diversity in ahipa\nlandraces was lower compared to 2012. We have only\ninformation about ﬁve landraces (b1a/wi1, xa3, b2 and\nrb) from four rural villages of La Paz River basin, one in\nthe Porvenir River basin and two in the Ayopaya River\nbasin, (Fig. 3A–C). The diversity of ahipa landraces\n(MAD) used by the ajiperos and the area planted did\nvary between the two cropping periods. The land used\nby the individual ajipero to cultivate ahipa does reach a\nquarter of hectare. The communities of the La Paz River\nbasinuseevenlesslandtogrowahipa;onlyone landrace\nwas grown in 2012 (Table 2). In the community of\nLloja, two landraces were recorded in 2012. In this river\nbasin thelandusedfor growingahipa waslesscompared\nto\nthe\nremaining\nahipa\nproducing\ncommunities\n(Fig. 3A); i.e. the diversity was low (0.16) according\nto the Margalef Index.\nIn Angostura and Ornuni, traditional pre-Colum-\nbian terraces, known as ‘Andenes& in Spanish and\n‘Taqana& in Quechua, were discovered (Fig. 4A).\nSeveral terraces still remained in good condition and\nwere used for growing ahipa and green beans (Phase-\nolus vulgaris L.). Pachyrhizus ahipa were cultivated in\nthe taqana (15 ± 5 m2) associated with Lima beans\n(Phaseolus lunatus L.), and with achoccha (Cyclan-\nthera pedata (L.) Schrad.) along the borders. Lloja is a\ncommunity where the cultivation of cherimoya\n(Anona cherimola Mill.) has been popular for a long-\ntime. Here the fragmen",
+    "methods_preview": "\nmethods\n16:285–306.\ndoi:10.1177/\n1525822X04266844\nWeddell H-A (1857) Notice sur l’Ahipa et l’Aricoma, Plantes\nAlimentaires du Haut-Pe´rou. Annls Sci Nat 4:111–115\nZimmerer KS (1992) The loss and maintenance of native crops\nin\nmountain\nagriculture\namong\nindigenous\npeople.\nGeoJournal 27(1):61–72\nZimmerer KS (1996) Changing fortunes: biodiversity and\npeasant livelihood in the peruvian andes. University of\nCalifornia Press, California\nZimmerer KS (2013) The compatibility of agricultural intensi-\nﬁcation in a global hotspot of smallholder agrobiodiversity\n(Bolivia). Proc Natl Acad Sci 110(8):2769–2774\nZimmerer KS, Co´rdova H, Mata-Olmos R, Jime´nez-Olivencia\nY, Vanek SJ (2017) Mountain ecology, remoteness, and the\nrise of agrobiodiversity: Tracing the spaces of human-en-\nvironment\nknowledge.\nAnn\nAssoc\nAmer\nGeorgr\n107(2):441–445. doi:10.1080/24694452.2016.1235482\nGenet Resour Crop Evol (2018) 65:449–469\n469\n123\n"
+  },
+  {
+    "study_id": 9,
+    "auth": "Sibanda",
+    "year": 2022,
+    "file": "A-Quantitative-Study-on-the-Ethnobotanical-Knowledge-about-Wild-Edible-Plants-among-the-Population-of-Messiwa_2022_NLM-Medline.pdf",
+    "n_chars": 30563,
+    "has_results_section": true,
+    "results_chars": 11754,
+    "table_refs": 9,
+    "n_numeric_results": 27,
+    "n_numeric_total": 28,
+    "n_sample_sizes": 0,
+    "n_comparisons": 1,
+    "stats_summary": {
+      "freq_index": 1,
+      "mean_pm_sd": 20,
+      "t_value": 3,
+      "f_value": 3
+    },
+    "numeric_in_results": [
+      {
+        "type": "freq_index",
+        "match": "CF= 0.9",
+        "context": "hest  recent  consumption  frequency  (RCF)was  observed in Foeniculum vulgare(RCF= 0.9),  which  indicates  that  90%  of  informants  consumed the plant in a period",
+        "position": 8433
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "38.96 ±10.67",
+        "context": "e plants recognized was  significant at the 0.05 level. The mean for  women was 38.96 ±10.67, while men showed a  mean of 34.85 ±11.65. For the age category, the  differenc",
+        "position": 9871
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "34.85 ±11.65",
+        "context": "e 0.05 level. The mean for  women was 38.96 ±10.67, while men showed a  mean of 34.85 ±11.65. For the age category, the  difference of means was highly significant in  favo",
+        "position": 9913
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "41.38±10.73",
+        "context": "nce of means was highly significant in  favor of those aged 45 years and over  (41.38±10.73). In addition, those working in non- agricultural fields recognized fewer wild",
+        "position": 10041
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "34,85 ±11,65",
+        "context": "plants   Statistical test  Homogeneous  groups  Sex   Men  Women    100  100    34,85 ±11,65  38,96 ±10,67    t= -2.6 *    Age  Less than 45 years  45 years and over    100",
+        "position": 10921
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "38,96 ±10,67",
+        "context": "stical test  Homogeneous  groups  Sex   Men  Women    100  100    34,85 ±11,65  38,96 ±10,67    t= -2.6 *    Age  Less than 45 years  45 years and over    100  100    32,43",
+        "position": 10935
+      },
+      {
+        "type": "t_value",
+        "match": "t= -2.6",
+        "context": "ogeneous  groups  Sex   Men  Women    100  100    34,85 ±11,65  38,96 ±10,67    t= -2.6 *    Age  Less than 45 years  45 years and over    100  100    32,43±10,14  41,",
+        "position": 10951
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "32,43±10,14",
+        "context": "10,67    t= -2.6 *    Age  Less than 45 years  45 years and over    100  100    32,43±10,14  41,38±10,73    t= -6.062 ***    Occupation  Agricultural  Non-agricultural  Ho",
+        "position": 11022
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "41,38±10,73",
+        "context": "2.6 *    Age  Less than 45 years  45 years and over    100  100    32,43±10,14  41,38±10,73    t= -6.062 ***    Occupation  Agricultural  Non-agricultural  Housewife    58",
+        "position": 11035
+      },
+      {
+        "type": "t_value",
+        "match": "t= -6.062",
+        "context": "ess than 45 years  45 years and over    100  100    32,43±10,14  41,38±10,73    t= -6.062 ***    Occupation  Agricultural  Non-agricultural  Housewife    58  52  90    3",
+        "position": 11050
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "37,64±11,44",
+        "context": "2 ***    Occupation  Agricultural  Non-agricultural  Housewife    58  52  90    37,64±11,44  32,98±11,62  38,70±10,66      F= 4.517 *      (1,3)  Education level  Illitera",
+        "position": 11138
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "32,98±11,62",
+        "context": "pation  Agricultural  Non-agricultural  Housewife    58  52  90    37,64±11,44  32,98±11,62  38,70±10,66      F= 4.517 *      (1,3)  Education level  Illiterate Primary  c",
+        "position": 11151
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "38,70±10,66",
+        "context": "ultural  Non-agricultural  Housewife    58  52  90    37,64±11,44  32,98±11,62  38,70±10,66      F= 4.517 *      (1,3)  Education level  Illiterate Primary  college level",
+        "position": 11164
+      },
+      {
+        "type": "f_value",
+        "match": "F= 4.517",
+        "context": "cultural  Housewife    58  52  90    37,64±11,44  32,98±11,62  38,70±10,66      F= 4.517 *      (1,3)  Education level  Illiterate Primary  college level  Middle school",
+        "position": 11181
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "39,94±10,59",
+        "context": "college level  Middle school  High school  University    123  34  27  8  8    39,94±10,59  34,80±09,41  34,67±11,25  21,00±05,24  22,75±07,99      F= 11.967 ***      (1,",
+        "position": 11319
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "34,80±09,41",
+        "context": "el  Middle school  High school  University    123  34  27  8  8    39,94±10,59  34,80±09,41  34,67±11,25  21,00±05,24  22,75±07,99      F= 11.967 ***      (1,2)(3, 4,5)  F",
+        "position": 11332
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "34,67±11,25",
+        "context": "hool  High school  University    123  34  27  8  8    39,94±10,59  34,80±09,41  34,67±11,25  21,00±05,24  22,75±07,99      F= 11.967 ***      (1,2)(3, 4,5)  Family type  S",
+        "position": 11345
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "21,00±05,24",
+        "context": "hool  University    123  34  27  8  8    39,94±10,59  34,80±09,41  34,67±11,25  21,00±05,24  22,75±07,99      F= 11.967 ***      (1,2)(3, 4,5)  Family type  Simple  Extend",
+        "position": 11358
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "22,75±07,99",
+        "context": "ity    123  34  27  8  8    39,94±10,59  34,80±09,41  34,67±11,25  21,00±05,24  22,75±07,99      F= 11.967 ***      (1,2)(3, 4,5)  Family type  Simple  Extended    158  42",
+        "position": 11371
+      },
+      {
+        "type": "f_value",
+        "match": "F= 11.967",
+        "context": "7  8  8    39,94±10,59  34,80±09,41  34,67±11,25  21,00±05,24  22,75±07,99      F= 11.967 ***      (1,2)(3, 4,5)  Family type  Simple  Extended    158  42    36,13±11,28",
+        "position": 11388
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "36,13±11,28",
+        "context": "F= 11.967 ***      (1,2)(3, 4,5)  Family type  Simple  Extended    158  42    36,13±11,28  39,81±11,21    t= -1.88 ns    Income  Less than 3000 MDh  3000 to 5000 MDh  Mo",
+        "position": 11466
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "39,81±11,21",
+        "context": "**      (1,2)(3, 4,5)  Family type  Simple  Extended    158  42    36,13±11,28  39,81±11,21    t= -1.88 ns    Income  Less than 3000 MDh  3000 to 5000 MDh  More than 5000",
+        "position": 11479
+      },
+      {
+        "type": "t_value",
+        "match": "t= -1.88",
+        "context": ", 4,5)  Family type  Simple  Extended    158  42    36,13±11,28  39,81±11,21    t= -1.88 ns    Income  Less than 3000 MDh  3000 to 5000 MDh  More than 5000 MDh    140",
+        "position": 11494
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "37,37±11,49",
+        "context": "ome  Less than 3000 MDh  3000 to 5000 MDh  More than 5000 MDh    140  45  15    37,37±11,49  35,71±10,55  36,13±12,61      F= 4 ns                    A Qualitative Study o",
+        "position": 11592
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "35,71±10,55",
+        "context": "n 3000 MDh  3000 to 5000 MDh  More than 5000 MDh    140  45  15    37,37±11,49  35,71±10,55  36,13±12,61      F= 4 ns                    A Qualitative Study on the Ethnome",
+        "position": 11605
+      },
+      {
+        "type": "mean_pm_sd",
+        "match": "36,13±12,61",
+        "context": "000 to 5000 MDh  More than 5000 MDh    140  45  15    37,37±11,49  35,71±10,55  36,13±12,61      F= 4 ns                    A Qualitative Study on the Ethnomedical Knowled",
+        "position": 11618
+      },
+      {
+        "type": "f_value",
+        "match": "F= 4",
+        "context": "More than 5000 MDh    140  45  15    37,37±11,49  35,71±10,55  36,13±12,61      F= 4 ns                    A Qualitative Study on the Ethnomedical Knowledgde",
+        "position": 11635
+      }
+    ],
+    "sample_sizes": [],
+    "comparisons": [
+      {
+        "group": "women",
+        "value": "0.67",
+        "context": "the 0.05 level. The mean for  women was 38.96 ±10.67, while men showed a  mean of 34.85 ±11.65. For the age cate"
+      }
+    ],
+    "results_preview": "\n \nRESULTS \n \nStructure of the studied population: The \nnumber of respondents was 200 (Table 1). \nAmong them were 50 women aged 45 or more, \n50 women under 45, 50 men aged 45 or more, \nand 50 men under 45. More than half of the \nmen work in agriculture (52%), while the \nmajority of the women are housewives (89%). \nFamilies consisting of parents and children \n(single family) represent 79% and extended \nfamilies (containing children, parents, and \ngrandparents) represent only 21%. Regarding \nmonthly income, 65% of men and 75% of \nwomen have incomes below 3000 MDh \n(equivalent to 300 €). In addition, women have \na high illiteracy rate (75%) compared to men \nwho showed 48%. The percentage of people \nwho have a university level was very low for \nwomen (1%) and also for men (7%). \n \nTable 1: Socio-demographic and economic structure of the study population. \n \nVariables \nMan (%) \nWomen (%) \nAge \nLess than 45 years old \n50 \n50 \n45 years and older \n50 \n50 \nOccupation \nAgricultural \n52 \n6 \nNon- agricultural \n48 \n5 \nHousewife \n0 \n89 \nFamily type \nSimple \n79 \n79 \nExtended \n21 \n21 \nIncome \nLess than 3000 MDh \n65 \n75 \n3000 to 5000 MDh \n25 \n20 \nMore than 5000 \n10 \n5 \nEducation level \nIlliterate \n48 \n75 \nPrimary \n20 \n14 \nMiddle school \n18 \n9 \nHigh School \n7 \n1 \nUniversity \n7 \n1 \n \n \nQuantitative indices: Table 2 represents the \nlist of edible wild plants and the different \nquantitative indices (RF, UF, CF, and RCF). \nThe \nthree \nspecies; \nFoeniculum \nvulgare, \nZiziphus lotus, and Malva sylvestriswere the \nmost recognized plants by the informants. The \nrecognition frequency (RF) and use frequency \n(UF) for the three plants were 1; which means \nthat all the informants were able to recognize \nthese three species and they knew that they are \nedible. Regarding the general consumption \nfrequency; Foeniculum vulgare showed an\n\n             Ethiop J Health Sci.                           Vol. 32, No. 6                           November 2022 \n \n  \n \n1240 \nTable 2: List of wild edible plants, their medicinal uses, and their recognition, use, and consumption indices. \n \nScientific name \nFamily \nLocal name \nMedicinal uses \nFR \nFU \nFC \nFCR \nAjuga iva (L.) Schreb \nLamiaceae \nChandgoura \ncold and abdominal pain \n0,36 \n0,1 \n0,08 \n0,06 \nAllium roseum L \nAmaryllidaceae \nlbsal barri \nonly edible in times of famine \n0,48 \n0,31 \n0,23 \n0,13 \nArbutus unedo L \nEricaceae \nSasnou \nonly edible \n0,43 \n0,41 \n0,38 \n0,22 \nArisarum vulgare O.Targ.Tozz \nAraceae \nIrni \nonly edible \n0,26 \n0,14 \n0,07 \n0,04 ",
+    "methods_preview": "\n \n \n \n \nMETHODS \n \nStudy area: This study was conducted in the \nprovince of Al-Haouz in Morocco (Figure 1) \namong \nthe \nMessiwa \npopulation. \nThe \ntopography of the Al-Haouz region shows a \nplain part and a mountainous part (belonging \nto the High Atlas Mountains) (13). The rural \ncommunities represent 88% of the total \npopulation of Al-Haouz, with farming and \npastoral activities for a large part of this \npopulation(14). Moreover, as this region \nincludes a plain part and another mountainous \npart, the climate ranges from arid to humid. \nFurthermore, this diversity of climate is \naccompanied by a diversity of vegetation (15). \nThe \nstudied \npopulation: \nThe \nMessiwa \npopulation is a native population of the Al-\nHaouz region (16). Regarding the activities of \nthe local population, a part of them is involved \nin agricultural activities such as subsistence \nfarming, nurseries, and herbal plants. The other \npart has non-agricultural occupations such as \nprivate security, local trade, and construction \nwork. However, the majority of women are \nhousewives (14). All informants were adults \nable to answer our questions. Informed consent \nwas obtained from all informants after \nexplaining the purpose of the study. \n \n \nFigure 1: The geographical location of the study area. \n \nQuestionnaire design: The questionnaire \nincluded two parts; the first part contained the \nrespondent's \npersonal \ninformation \n(age, \ngender, family types, income, educational \nlevel, occupation...) and the se"
+  },
+  {
+    "study_id": 35,
+    "auth": "Arce",
+    "year": 2018,
+    "file": "Unearthing-Unevenness-of-Potato-Seed-Networks-in-the-High-Andes-A-Comparison-of-Distinct-Cultivar-Groups-and-Farmer-Types-Following-Seasons-With-and-Without-Acute-Stress_2018_Frontiers-Media-SA-infofrontiersinorg.pdf",
+    "n_chars": 114719,
+    "has_results_section": true,
+    "results_chars": 47842,
+    "table_refs": 17,
+    "n_numeric_results": 14,
+    "n_numeric_total": 20,
+    "n_sample_sizes": 19,
+    "n_comparisons": 5,
+    "stats_summary": {
+      "n_eq": 13,
+      "p_value": 1
+    },
+    "numeric_in_results": [
+      {
+        "type": "n_eq",
+        "match": "n = 187",
+        "context": "actions involved cash payments. Following seasons with stress, seed provisions (n = 187 transactions) and acquisitions (n = 568 transactions) respectively occurred thr",
+        "position": 6249
+      },
+      {
+        "type": "n_eq",
+        "match": "n = 568",
+        "context": "g seasons with stress, seed provisions (n = 187 transactions) and acquisitions (n = 568 transactions) respectively occurred through sales (63%/86%), gifts (20%/2%), ba",
+        "position": 6289
+      },
+      {
+        "type": "n_eq",
+        "match": "n = 582",
+        "context": "utional donations (0%/2%). Following seasons without stress, seed was provided (n = 582 transactions) and acquired (n = 357 transactions) respectively through sales (6",
+        "position": 6521
+      },
+      {
+        "type": "n_eq",
+        "match": "n = 357",
+        "context": "seasons without stress, seed was provided (n = 582 transactions) and acquired (n = 357 transactions) respectively through sales (65%/92%), gifts (19%/3%), barter (14%",
+        "position": 6557
+      },
+      {
+        "type": "p_value",
+        "match": "p = 0.39",
+        "context": "tress. This diﬀerence in volume (−149,386 kg) was not statistically signiﬁcant (p = 0.39). We compared the average total seed volumes procured per household across farm",
+        "position": 8134
+      },
+      {
+        "type": "n_eq",
+        "match": "n = 568",
+        "context": "ars) Non-commercial ﬂoury landraces (mixed cultivars) Bitter landraces Total % (n = 568)a Total % (n = 187)b Source Sink Source Sink Source Sink Source Sink Source Sin",
+        "position": 21116
+      },
+      {
+        "type": "n_eq",
+        "match": "n = 187",
+        "context": "ﬂoury landraces (mixed cultivars) Bitter landraces Total % (n = 568)a Total % (n = 187)b Source Sink Source Sink Source Sink Source Sink Source Sink Source Sink Famil",
+        "position": 21135
+      },
+      {
+        "type": "n_eq",
+        "match": "n = 357",
+        "context": "ars) Non-commercial ﬂoury landraces (mixed cultivars) Bitter landraces Total % (n = 357)a Total % (n = 582)b Source Sink Source Sink Source Sink Source Sink Source Sin",
+        "position": 22265
+      },
+      {
+        "type": "n_eq",
+        "match": "n = 582",
+        "context": "ﬂoury landraces (mixed cultivars) Bitter landraces Total % (n = 357)a Total % (n = 582)b Source Sink Source Sink Source Sink Source Sink Source Sink Source Sink Famil",
+        "position": 22284
+      },
+      {
+        "type": "n_eq",
+        "match": "n = 450",
+        "context": "s. Network Main clusters With stress Without stress With stress Without stress (n = 450)† (n = 527) C1‡ (n = 159) C2 (n = 131) C1 (n = 404) Average degree [Ties] 1.011",
+        "position": 25266
+      },
+      {
+        "type": "n_eq",
+        "match": "n = 527",
+        "context": "Main clusters With stress Without stress With stress Without stress (n = 450)† (n = 527) C1‡ (n = 159) C2 (n = 131) C1 (n = 404) Average degree [Ties] 1.0111 1.0759 1.",
+        "position": 25277
+      },
+      {
+        "type": "n_eq",
+        "match": "n = 159",
+        "context": "With stress Without stress With stress Without stress (n = 450)† (n = 527) C1‡ (n = 159) C2 (n = 131) C1 (n = 404) Average degree [Ties] 1.0111 1.0759 1.2516 1.0916 1.",
+        "position": 25291
+      },
+      {
+        "type": "n_eq",
+        "match": "n = 131",
+        "context": "ithout stress With stress Without stress (n = 450)† (n = 527) C1‡ (n = 159) C2 (n = 131) C1 (n = 404) Average degree [Ties] 1.0111 1.0759 1.2516 1.0916 1.2104 Out-cent",
+        "position": 25304
+      },
+      {
+        "type": "n_eq",
+        "match": "n = 404",
+        "context": "With stress Without stress (n = 450)† (n = 527) C1‡ (n = 159) C2 (n = 131) C1 (n = 404) Average degree [Ties] 1.0111 1.0759 1.2516 1.0916 1.2104 Out-centralization [P",
+        "position": 25317
+      }
+    ],
+    "sample_sizes": [
+      {
+        "n": 336,
+        "context": "rmer households surveyed by site and farmer type (n = 336). Site Description of site Communities† (n = 9) S"
+      },
+      {
+        "n": 9,
+        "context": "(n = 336). Site Description of site Communities† (n = 9) Seed specialists‡(n = 14) Custodians (n = 34) Ge"
+      },
+      {
+        "n": 14,
+        "context": "on of site Communities† (n = 9) Seed specialists‡(n = 14) Custodians (n = 34) General Farmers (n = 288) Ma"
+      },
+      {
+        "n": 34,
+        "context": "es† (n = 9) Seed specialists‡(n = 14) Custodians (n = 34) General Farmers (n = 288) Male Female Male Femal"
+      },
+      {
+        "n": 288,
+        "context": "sts‡(n = 14) Custodians (n = 34) General Farmers (n = 288) Male Female Male Female Male Female 1 Huancaveli"
+      },
+      {
+        "n": 309,
+        "context": "ovided seed in any season. For remaining farmers (n = 309), each person or institution indicated as a seed"
+      },
+      {
+        "n": 187,
+        "context": ". Following seasons with stress, seed provisions (n = 187 transactions) and acquisitions (n = 568 transacti"
+      },
+      {
+        "n": 568,
+        "context": "ovisions (n = 187 transactions) and acquisitions (n = 568 transactions) respectively occurred through sales"
+      },
+      {
+        "n": 582,
+        "context": "lowing seasons without stress, seed was provided (n = 582 transactions) and acquired (n = 357 transactions)"
+      },
+      {
+        "n": 357,
+        "context": "was provided (n = 582 transactions) and acquired (n = 357 transactions) respectively through sales (65%/92%"
+      },
+      {
+        "n": 568,
+        "context": "races (mixed cultivars) Bitter landraces Total % (n = 568)a Total % (n = 187)b Source Sink Source Sink Sour"
+      },
+      {
+        "n": 187,
+        "context": "ars) Bitter landraces Total % (n = 568)a Total % (n = 187)b Source Sink Source Sink Source Sink Source Sink"
+      },
+      {
+        "n": 357,
+        "context": "races (mixed cultivars) Bitter landraces Total % (n = 357)a Total % (n = 582)b Source Sink Source Sink Sour"
+      },
+      {
+        "n": 582,
+        "context": "ars) Bitter landraces Total % (n = 357)a Total % (n = 582)b Source Sink Source Sink Source Sink Source Sink"
+      },
+      {
+        "n": 450,
+        "context": "stress Without stress With stress Without stress (n = 450)† (n = 527) C1‡ (n = 159) C2 (n = 131) C1 (n = 40"
+      }
+    ],
+    "comparisons": [
+      {
+        "group": "old",
+        "value": "4.4",
+        "context": "ears for males. Average household size was 4.4 members. Nearly half (48.8%) of farmers had primary-level e"
+      },
+      {
+        "group": "post",
+        "value": "3.26",
+        "context": "rage in-degree and out-degree post-stress also decreased to 1.01 (±1.04) and 1.01 (±3.26) respectively. The average betweenness (intermediary power)"
+      },
+      {
+        "group": "without stress",
+        "value": "4.1",
+        "context": "provisions following seasons without stress and 24.1% following seasons with stress. Their role involved trade w"
+      },
+      {
+        "group": "with stress",
+        "value": "8.9",
+        "context": "ts (15.4%). Following seasons with stress they involved government (28.9%), general farmers (28.9%), farmer associations (15.6%), NG"
+      },
+      {
+        "group": "with stress",
+        "value": "5.4",
+        "context": "ers across seasons: from 2.2% with stress (C2) to 5.4% without stress (C1). Regardless of the season, the network"
+      }
+    ],
+    "results_preview": "\nRESULTS\nFarmers, Seasons and Stressors\nOf the 336 survey respondents, 20.2% were female. The average\nage of respondents was 42 years for females and 47 years\nfor males. Average household size was 4.4 members. Nearly\nhalf (48.8%) of farmers had primary-level education, 23.5%\nﬁnished secondary school, and 3.0% had post-secondary school\neducation (technical school, agronomy degree). Among male\nrespondents 6.3% had no formal education; among female\nrespondents this proportion was 29.4%. Disaggregated by region,\n46.7% of farmers were from Huancavelica, 36.9% from Pasco,\nand 16.4% from Junín. By farmer type, 85.7% of survey\nrespondents were general farmers, 10.1% were custodians, and\n4.2% were seed specialists. Of the 27 farmers that neither\nacquired nor provided seed following both seasons (with/without\nstress) 23 were general farmers and 4 were custodians. Final\nrespondent numbers included for further analyses were: 265\n(85.8%) general farmers, 30 (9.7%) custodians, and 14 (4.5%) seed\nspecialists.\nMost cropping seasons with stress fell between 2007 and 2015\n(93.2%) with a few respondents recalling years back to 2000.\nCropping seasons without stress pre-dominantly fell between\n2009 and 2015 (93.5%) with a few going as far back as 2001.\nThe medians for seasons with/without stress were 2012 and 2013\nrespectively. Frost was nominated as the stressor leading to seed\ninsecurity in 47.2% of farmer responses, followed by late blight\n(27.0%), hail (24.3%) and pests and drought (1.5%).\nIntensity of Seed Procurement Across\nSeasons\nIn the years following stress seasons, the number of seed\nprovisions from households in the network decreased by 68%\nand the number of seed acquisitions increased by 59% compared\nto seasons without stress. The number of farmers acquiring seed\nincreased by 45% compared to seasons without stress (Table 3)\nand the most procured cultivar groups were bred varieties and\ncommercial ﬂoury landraces. The number of farmers providing\nseed dropped sharply following stress seasons: by 55% for\nbred varieties and by 68% for commercial ﬂoury landraces.\nThere was a comparable decrease in the number of farmers\nproviding seed of non-commercial ﬂoury landraces for single\n(−56%) and mixed cultivars (-74%). In contrast, the number\nof farmers acquiring seed of bred varieties and commercial\nﬂoury landraces following stress increased by 28 and 43%\nrespectively. This eﬀect was even more notable for the other\ncultivar groups as the number of farmers acquiring seed of no",
+    "methods_preview": "\nMaterial\n2).\nThe\nnon-commercial\nﬂoury\nlandraces (mixed cultivars) or chaqru and the commercial\nﬂoury landrace Huamantanga were the least likely to be sold\nfollowing stress. They were also the most likely to be procured\nthrough alternative mechanisms: barter and gift for chaqru,\nand only as gift for Huamantanga (Supplementary Material\n2A). Following non-stress seasons the same applied to chaqru\nand Huamantanga (Supplementary Material 2B). Only the\ncommercial ﬂoury landraces Chaulina and Huayro moro showed\npropensities to be sold (Supplementary Material 2B). No other\nsigniﬁcant associations between cultivar and transaction type\nemerged following seasons without stress.\nInstitutional\ndonations\nwere\nminimal\nand\nrelatively\ninsigniﬁcant as a transaction type following both seasons.\nThese involved the commercial ﬂoury landraces Huamantanga\nand Huayro mix. Following stress, only modest amounts of\nHuamantanga (ranging from 12 to 100 kg per transaction)\nwere donated to farmers in Huancavelica region through a\ngovernment scheme.\nVolumes of Seed Procurement Across\nSeasons\nThe total volume of seed procured (acquired + provided) in\nthe network decreased by 11% following seasons with stress.\nThis diﬀerence in volume (−149,386 kg) was not statistically\nsigniﬁcant (p = 0.39). We compared the average total seed\nvolumes procured per household across farmer types and cultivar\ngroups following seasons with and without stress (Tables 4A,B).\nThe highest acquired and provided seed volumes following"
+  },
+  {
+    "study_id": 29,
+    "auth": "La Rosa",
+    "year": 2021,
+    "file": "1-s2.0-S1470160X20308037-main.pdf",
+    "n_chars": 66966,
+    "has_results_section": true,
+    "results_chars": 22427,
+    "table_refs": 6,
+    "n_numeric_results": 10,
+    "n_numeric_total": 10,
+    "n_sample_sizes": 0,
+    "n_comparisons": 1,
+    "stats_summary": {
+      "p_value": 10
+    },
+    "numeric_in_results": [
+      {
+        "type": "p_value",
+        "match": "p < 0.001",
+        "context": "inal minimal adequate model for comparison of means was significant as a whole (p < 0.001). S. Aswani, et al. Ecological Indicators 119 (2020) 106865 4  The number of sp",
+        "position": 923
+      },
+      {
+        "type": "p_value",
+        "match": "p = 0.004",
+        "context": "er, but was significantly influenced by age (two-way crossed ANOSIM, R = 0.293, p = 0.004) and community (two-way crossed ANOSIM, R = 0.505, p = 0.001). Pairwise tests s",
+        "position": 1971
+      },
+      {
+        "type": "p_value",
+        "match": "p = 0.001",
+        "context": "ANOSIM, R = 0.293, p = 0.004) and community (two-way crossed ANOSIM, R = 0.505, p = 0.001). Pairwise tests showed that significant differences existed between age groups",
+        "position": 2032
+      },
+      {
+        "type": "p_value",
+        "match": "p = 0.037",
+        "context": "showed that significant differences existed between age groups 13–19 and 20–35 (p = 0.037) as well as 13–19 and > 55 (p = 0.012). Among communities, differences existed",
+        "position": 2139
+      },
+      {
+        "type": "p_value",
+        "match": "p = 0.012",
+        "context": "isted between age groups 13–19 and 20–35 (p = 0.037) as well as 13–19 and > 55 (p = 0.012). Among communities, differences existed between Ilangana and Baraulu (p = 0.01",
+        "position": 2177
+      },
+      {
+        "type": "p_value",
+        "match": "p = 0.012",
+        "context": "= 0.012). Among communities, differences existed between Ilangana and Baraulu (p = 0.012), Ilangana and Nusa Hope (p = 0.012), and Nusa Roviana and Baraulu (p = 0.012).",
+        "position": 2258
+      },
+      {
+        "type": "p_value",
+        "match": "p = 0.012",
+        "context": "ences existed between Ilangana and Baraulu (p = 0.012), Ilangana and Nusa Hope (p = 0.012), and Nusa Roviana and Baraulu (p = 0.012). Groups of male respondents showed a",
+        "position": 2294
+      },
+      {
+        "type": "p_value",
+        "match": "p = 0.012",
+        "context": "(p = 0.012), Ilangana and Nusa Hope (p = 0.012), and Nusa Roviana and Baraulu (p = 0.012). Groups of male respondents showed a slightly higher average similarity than g",
+        "position": 2336
+      },
+      {
+        "type": "p_value",
+        "match": "p = 0.074",
+        "context": "(albeit insig- nificant) relationship (Spearman’s rank correlation, ϱ = 0.320, p = 0.074), indicating that both parameters show a similar trend on a fundamental level,",
+        "position": 4111
+      },
+      {
+        "type": "p_value",
+        "match": "p = 0.014",
+        "context": "resulted in a minimal adequate linear model which was sig- nificant as a whole (p = 0.014). Community was the only significant driver of folk taxonomic complexity (Table",
+        "position": 4471
+      }
+    ],
+    "sample_sizes": [],
+    "comparisons": [
+      {
+        "group": "comparison",
+        "value": "0.001",
+        "context": "al minimal adequate model for comparison of means was significant as a whole (p < 0.001). S. Aswani, et al. Ecological Indicators 119 (2020) 106865"
+      }
+    ],
+    "results_preview": "\n3. Results\n3.1. Species number and diversity\nA total of 456 local species names were recorded over the more than\ntwo decades of research (doi of raw data: https://doi.org/10.1594/\nPANGAEA.918696). These included 279 names compiled during an\ninitial comprehensive survey in the 1990s (52 of which were not re-\ncorded again in the later survey) and 177 names newly recorded in\n2014–15 (Table A.1 and A.2). In a few instances, the latter comprised\ngeneric terms to describe higher taxonomic groups (usually at the genus\nor family level) for which a finer resolution had been recorded in the\nprevious survey. This increasing use of more generic terms may indicate\na loss of detailed folk taxonomic knowledge by particular groups of\nrespondents (Fig. 2). The number of local species names listed by re-\nspondent groups ranged from 25 to 168. The final minimal adequate\nmodel for comparison of means was significant as a whole (p < 0.001).\nS. Aswani, et al.\nEcological Indicators 119 (2020) 106865\n4\n\nThe number of species names differed significantly by gender and\namong age groups and communities, while the interaction of age and\ncommunity was not significant (Table 1a). The number of species\nmentioned was higher for groups of males than females, and increased\nboth with respondents’ age and with distance from Munda market\n(Fig. 2).\n3.2. Taxonomic groupings and distinctiveness\nTaxonomic inventories of focus groups formed similarity clusters\nthat broadly reflect geographic distribution of the communities, with\ninventories of older groups and remote communities being most similar\nto the comprehensive species inventory for the lagoon developed in\n1992–95 (Fig. 3). Three female groups of respondents, each from dif-\nferent ages and communities, showed particularly distinct taxonomic\ninventories. Overall however, the composition of taxonomic inventories\ndid not differ according to gender, but was significantly influenced by\nage (two-way crossed ANOSIM, R = 0.293, p = 0.004) and community\n(two-way crossed ANOSIM, R = 0.505, p = 0.001). Pairwise tests\nshowed that significant differences existed between age groups 13–19\nand 20–35 (p = 0.037) as well as 13–19 and > 55 (p = 0.012). Among\ncommunities,\ndifferences\nexisted\nbetween\nIlangana\nand\nBaraulu\n(p = 0.012), Ilangana and Nusa Hope (p = 0.012), and Nusa Roviana\nand Baraulu (p = 0.012). Groups of male respondents showed a slightly\nhigher average similarity than groups of female respondents (SIMPER,\n51.73% and 43.40%, respectively). Diff",
+    "methods_preview": "[NOT FOUND]"
+  },
+  {
+    "study_id": 14,
+    "auth": "de Sousa",
+    "year": 2022,
+    "file": "A-Biodiversity-Hotspot-Losing-Its-Biocultural-Heritage-The-Challenge-to-Biocultural-Conservation-of-Brazilwood-Paubrasilia-echinata_2022_Frontiers-Media-SA.pdf",
+    "n_chars": 55642,
+    "has_results_section": true,
+    "results_chars": 18087,
+    "table_refs": 10,
+    "n_numeric_results": 5,
+    "n_numeric_total": 6,
+    "n_sample_sizes": 0,
+    "n_comparisons": 0,
+    "stats_summary": {
+      "p_value": 5
+    },
+    "numeric_in_results": [
+      {
+        "type": "p_value",
+        "match": "p = 0.021208",
+        "context": "viewed in both periods as a whole (for interviews in 2003: chi-square = 7.7067, p = 0.021208; for interviews in 2018: chi-square = 2.6987, p = 0.259403) and at the communit",
+        "position": 1476
+      },
+      {
+        "type": "p_value",
+        "match": "p = 0.259403",
+        "context": "chi-square = 7.7067, p = 0.021208; for interviews in 2018: chi-square = 2.6987, p = 0.259403) and at the community level (Jacaré chi-square = 1.9302, p = 0.164731; José Gon",
+        "position": 1535
+      },
+      {
+        "type": "p_value",
+        "match": "p = 0.164731",
+        "context": "= 2.6987, p = 0.259403) and at the community level (Jacaré chi-square = 1.9302, p = 0.164731; José Gonçalves chi-square = 0.8184, p = 0.365644), except for Peró where these",
+        "position": 1605
+      },
+      {
+        "type": "p_value",
+        "match": "p = 0.365644",
+        "context": "(Jacaré chi-square = 1.9302, p = 0.164731; José Gonçalves chi-square = 0.8184, p = 0.365644), except for Peró where these diﬀerences were signiﬁcant (chi-square = 9.5085,",
+        "position": 1655
+      },
+      {
+        "type": "p_value",
+        "match": "p =\n0.002045",
+        "context": "), except for Peró where these diﬀerences were signiﬁcant (chi-square = 9.5085, p = 0.002045). Frontiers in Forests and Global Change | www.frontiersin.org 6 June 2022 | Vo",
+        "position": 1747
+      }
+    ],
+    "sample_sizes": [],
+    "comparisons": [],
+    "results_preview": "\nRESULTS\nBrazilwood Among the Current Residents\nTable 2\nhighlights\nthe\ndiﬀerences\nbetween\nthe\nstudied\ncommunities and how they evolved throughout 15 years.\nFIGURE 2 | Study area: local communities studied and the local protected areas: PECS (Costa do Sol State Park) hatched and APABR (Pau Brasil Environmental\nProtected Area) in yellow.\nFrontiers in Forests and Global Change | www.frontiersin.org\n5\nJune 2022 | Volume 5 | Article 696757\n\nBastos et al.\nThe Challenge to Biocultural Conservation of Brazilwood\nFIGURE 3 | (A) Brazilwood, Paubrasilia echinata (Lam.) E. Gagnon, H.C. Lima & G.P. Lewis, (B) Schinus terebinthifolia Raddi, (C) Tabebuia roseo-alba (Ridl.) S, and\n(D) Casuarina equisetifolia L.\nTABLE 2 | Interview’s data collection.\nGender\nSchooling\nNaturalness\n2003\n2018\n2003\n2018\n2003\n2018\nMan\nWoman\nMan\nWoman\nFD\nMD\nSD\nFD\nMD\nSD\nBorn\nPeró\n89\n76\n16\n34\n72%\n23.1%\n4.4%\n30%\n40%\n30%\n21.7%\n26%\nJacaré\n174\n207\n9\n19\n85.8%\n13.4%\n0.8%\n53.6%\n39.3%\n7,1%\n25.7%\n32.1%\nJosé Gonçalves\n15\n25\n19\n21\n82.5%\n15%\n2.5%\n30%\n55%\n15%\n55%\n40%\nM, man; W, woman; FD, Fundamental degree; MD, Medium degree; and SD, Superior degree.\nFIGURE 4 | Results of the visual stimuli technique among the interviewees in the municipalities of Cabo Frio (Peró and Jacaré) and Armação dos Búzios (José\nGonçalves) in the state of Rio de Janeiro, Brazil.\nWe found no signiﬁcant diﬀerences in the proportions of women\nand men interviewed in both periods as a whole (for interviews\nin 2003: chi-square = 7.7067, p = 0.021208; for interviews in\n2018: chi-square = 2.6987, p = 0.259403) and at the community\nlevel (Jacaré chi-square = 1.9302, p = 0.164731; José Gonçalves\nchi-square = 0.8184, p = 0.365644), except for Peró where\nthese diﬀerences were signiﬁcant (chi-square = 9.5085, p =\n0.002045).\nFrontiers in Forests and Global Change | www.frontiersin.org\n6\nJune 2022 | Volume 5 | Article 696757\n\nBastos et al.\nThe Challenge to Biocultural Conservation of Brazilwood\nTABLE 3 | Cultural salience index (CSI) results among the interviewees in the municipalities of Cabo Frio (Peró and Jacaré) and Armação dos Búzios (José Gonçalves) in\nthe state of Rio de Janeiro, Brazil.\nCabo frio region\nCSI\nPeró\nCSI\nJacaré\nCSI\nJosé gonçalves\nCSI\n1◦\nSchinus terebinthifolia\n0.309\nSchinus terebinthifolia\n0.376\nMangífera indica\n0.358\nPaubrasilia echinata\n0.541\n2◦\nPaubrasilia echinata\n0.227\nEugenia uniﬂora\n0.269\nPsidium guajava\n0.117\nSchinus terebinthifolia\n0.376\n3◦\nEugenia uniﬂora\n0.187\nPaubrasilia echinata\n0.176\nMusa\n0.208\nHandroanthus\n0.176\n4◦\n",
+    "methods_preview": "\nMethods\nWe combined bibliographic research to map the main historical\nevents and socioeconomic changes of the region considering the\nbrazilwood trade, with local residents’ interviews regarding their\nknowledge on this tree. The 2018 research was registered in the\nNational System for the Management of Genetic Heritage and\nAssociated Traditional Knowledge (SisGen), under the number\nA238919, and each interviewee signed the Free and Informed\nConsent Form (TCLE). There was no such system in 2003, which\nresulted in a bigger participation of respondents.\nWe interviewed one representative of each household, either\nan adult, male or female, either natural (born) or migrant in the\nCabo Frio region. Data were collected through semi-structured\ninterviews, including questions about socioeconomic data (e.g.,\nage, gender, birthplace, economic income, and schooling), free\nlists (Weller and Romney, 1988), and open-ended questions for\ncontent analysis (Bardin, 1977).\nThe main interview questions were: Could you list the ﬁve most\ncommon trees in the region? Do you know any Protected Areas\nin the region? Do you know brazilwood? Would you know how\nto inform others about the importance of brazilwood? For those\nwho were familiar with brazilwood, we also asked: Over the years,\nhave you noticed an increase or decrease in brazilwood trees? Why?\nIs it easy or diﬃcult to ﬁnd brazilwood in the region? From this\nset of images of trees, could you indicate if there is a photo of\nFrontiers in Forests and Gl"
+  },
+  {
+    "study_id": 46,
+    "auth": "Malapane",
+    "year": 2024,
+    "file": "s13412-024-00888-3.pdf",
+    "n_chars": 80020,
+    "has_results_section": true,
+    "results_chars": 20000,
+    "table_refs": 0,
+    "n_numeric_results": 4,
+    "n_numeric_total": 11,
+    "n_sample_sizes": 11,
+    "n_comparisons": 0,
+    "stats_summary": {
+      "n_eq": 4
+    },
+    "numeric_in_results": [
+      {
+        "type": "n_eq",
+        "match": "n = 29",
+        "context": "eview received the most contributions from East Africa,  which contributed 38% (n = 29), South Africa, which con- tributed 29% (n = 22), and Central Africa, which con",
+        "position": 465
+      },
+      {
+        "type": "n_eq",
+        "match": "n = 22",
+        "context": "Africa,  which contributed 38% (n = 29), South Africa, which con- tributed 29% (n = 22), and Central Africa, which contrib- uted 18% (n = 14). The region with the low",
+        "position": 513
+      },
+      {
+        "type": "n_eq",
+        "match": "n = 14",
+        "context": "which con- tributed 29% (n = 22), and Central Africa, which contrib- uted 18% (n = 14). The region with the lowest origination  Fig. 2   Temporal distribution of rev",
+        "position": 567
+      },
+      {
+        "type": "n_eq",
+        "match": "n = 11",
+        "context": "ies and Sciences (2024) 14:400–414 rate was West Africa, contributed about 16% (n = 11) of  publications (Fig. 3). Value and context for the application of indigenous",
+        "position": 836
+      }
+    ],
+    "sample_sizes": [
+      {
+        "n": 97,
+        "context": "he data  Records identified from Web  of Science (n = 97) Primary selection through screening Secondary sc"
+      },
+      {
+        "n": 97,
+        "context": "Secondary screening through  browsing full texts (n = 97) Total articles considered (n = 77) Removal after"
+      },
+      {
+        "n": 77,
+        "context": "ng full texts (n = 97) Total articles considered (n = 77) Removal after screening:  Duplicated studies (n"
+      },
+      {
+        "n": 24,
+        "context": "77) Removal after screening:  Duplicated studies (n = 24)  Removal after screening: Not  accessible (n = 1"
+      },
+      {
+        "n": 14,
+        "context": "= 24)  Removal after screening: Not  accessible (n = 14), non- English  languages (n = 6) Records from Go"
+      },
+      {
+        "n": 6,
+        "context": "ot  accessible (n = 14), non- English  languages (n = 6) Records from Google Scholar  search (n=24) Ident"
+      },
+      {
+        "n": 24,
+        "context": "ages (n = 6) Records from Google Scholar  search (n=24) Identification  Screening Eligibility Included F"
+      },
+      {
+        "n": 29,
+        "context": "butions from East Africa,  which contributed 38% (n = 29), South Africa, which con- tributed 29% (n = 22),"
+      },
+      {
+        "n": 22,
+        "context": "(n = 29), South Africa, which con- tributed 29% (n = 22), and Central Africa, which contrib- uted 18% (n"
+      },
+      {
+        "n": 14,
+        "context": "22), and Central Africa, which contrib- uted 18% (n = 14). The region with the lowest origination  Fig. 2"
+      },
+      {
+        "n": 11,
+        "context": "–414 rate was West Africa, contributed about 16% (n = 11) of  publications (Fig. 3). Value and context for"
+      }
+    ],
+    "comparisons": [],
+    "results_preview": "\nResults and discussion\nIntroducing the literature\nThe majority of the 77 papers that were chosen were pub-\nlished in 2021, with 2017 and 2020 coming in second and \nthird (Fig. 2). However, no literature for the year 2002 \ncould be found in the articles that were reviewed.\nFigure 3 illustrates how the different parts of SSA \nwere addressed by the reviewed papers. The papers under \nreview received the most contributions from East Africa, \nwhich contributed 38% (n = 29), South Africa, which con-\ntributed 29% (n = 22), and Central Africa, which contrib-\nuted 18% (n = 14). The region with the lowest origination \nFig. 2   Temporal distribution of reviewed articles\nFig. 3   Spatial distribution of \nreviewed articles\n\n404\n\t\nJournal of Environmental Studies and Sciences (2024) 14:400–414\nrate was West Africa, contributed about 16% (n = 11) of \npublications (Fig. 3).\nValue and context for the application of indigenous \nknowledge\nThis section merely sought to draw attention to a few of \nthe indigenous adaptation techniques employed by small-\nholder farmers and the degree to which these techniques \nare essential for mitigating their vulnerability to climate-\nrelated impacts. We discovered from the review that the agri-\ncultural community in various parts of SSA has developed \nand adopted various types of IK and practices to mitigate \nthe vulnerability of agriculture to climate change-related \nstresses (Fig. 4). Out of the reviewed articles, 35% dealt with \nlivelihood diversification, followed by 25% that were asso-\nciated with soil and water conservation-related knowledge. \nLikewise, agroforestry and climate early warning systems \nwere discussed in 23% and 12% of the articles, respectively. \nThe remaining 4% of the reviewed articles addressed a range \nof adaptation strategies, including migration and mobility.\nFarmers developed the aforementioned indigenous adap-\ntation practices to cope with drought, flooding, and rainfall \nvariability (Maru et al. 2019; Ogalleh et al. 2012; Rahut \net al. 2021; Singh 2012). Furthermore, smallholder farmers \nused their IK and practical skills for weather forecasting and \nvulnerability assessment (Bohensky & Maru 2011; Chanza \n& De Wit 2016; Maru et al. 2019; Shiferaw et al. 2013). \nMost of the IK-based vulnerability assessment findings \nand weather forecasting results were relatively consistent \nwith those of scientific information disseminated through \nformal public institutions (Oliveira Andreotti et al. 2017). \nThis argument sheds",
+    "methods_preview": "[NOT FOUND]"
+  },
+  {
+    "study_id": 28,
+    "auth": "Ferrante",
+    "year": 2021,
+    "file": "Ethnobotany-of-the-Aegadian-Islands-safeguarding-biocultural-refugia-in-the-Mediterranean_2021_BioMed-Central-Ltd.pdf",
+    "n_chars": 79754,
+    "has_results_section": true,
+    "results_chars": 9864,
+    "table_refs": 13,
+    "n_numeric_results": 2,
+    "n_numeric_total": 5,
+    "n_sample_sizes": 0,
+    "n_comparisons": 0,
+    "stats_summary": {
+      "freq_index": 2
+    },
+    "numeric_in_results": [
+      {
+        "type": "freq_index",
+        "match": "FL = 89",
+        "context": "47  Page 9 of 19  uses in basket making and furniture making, its central role (FL = 89%) is as a source of firewood used in baking bread, and it is traded between isl",
+        "position": 7579
+      },
+      {
+        "type": "freq_index",
+        "match": "FL = 40",
+        "context": "od prepared either by earing it raw in salads when leaves are young and tender (FL = 40%) or boiling older leaves to eat (58%). Use-value citation analysis Use-value c",
+        "position": 8322
+      }
+    ],
+    "sample_sizes": [],
+    "comparisons": [],
+    "results_preview": "\nResults\nA total of 123 plant and five fungal taxa, representing 54\nfamilies (Fig. 3), were cited by the 48 study participants,\nTable 1 Summary of informant data\nIsland\nSize\n(km2)\nMax elevation\n(m.a.s.l.)\nNo. of men\ninterviewed\nAverage age ±\nstandard deviation\nNo. of women\ninterviewed\nAverage age ±\nstandard deviation\nTotal no.\ninterviewed\nLevanzo\n5.82\n278\n8\n65 ± 11\n2\n72 ± 26\n10\nFavignana\n19.8\n314\n13\n75 ± 10\n14\n78 ± 10\n27\nMarettimo\n12.3\n686\n8\n77 ± 9\n3\n75 ± 9\n11\nTotal\n37.9\n--\n29\n74 ± 11\n19\n77 ± 11\n48\nRosa et al. Journal of Ethnobiology and Ethnomedicine           (2021) 17:47 \nPage 6 of 19\n\nTable 3 Informant consensus factor analysis for plants and fungi\nCategory of use\nNumber of taxa (Nt)\nNumber of use citations (Nuc)\nInformant consensus factor (Fic)\nGeneral category of use\nEthnoveterinary\n22\n77\n0.72\nFood\n56\n378\n0.85\nHousehold\n43\n263\n0.84\nMaritime\n9\n35\n0.76\nNuisance\n6\n29\n0.82\nHuman medicinal use\nCardiovascular\n4\n8\n0.57\nDermatological\n25\n88\n0.72\nGastrointestinal\n13\n94\n0.87\nGeneral health\n19\n95\n0.81\nMusculoskeletal/ neurological\n6\n44\n0.88\nOptometric\n2\n2\n--\nOral health\n4\n13\n0.75\nOtolaryngological/ respiratory\n10\n28\n0.67\nUrological\n8\n57\n0.88\nTotal\n227\n1211\nTable 2 Division of ethnobotanical use reports by general categories for Informant Consensus Factor (Fic) analysis\nExamples of indications\nGeneral category of use\nEthnoveterinary\nLivestock feed, “healthy” fodder, forage, laxative, digestive aide, encourage weight gain for livestock\nFood\nEdible plants and fungi, cooked or raw ingredients, ingredient substitutes (e.g., coffee substitute), flavoring for liqueurs\nand grappa, snacks, seasoning, condiments, marmalade\nHousehold\nGames, cleaning tools, decorative (indoor and outdoor), fire-starter, home construction, window shade, baskets, agricul-\ntural tools, fencing, dyes, insect deterrent, ink, protectant, fiber source, pest repellent, firewood, saddle construction; en-\nvironmental indicator of other species; acquired by trade with other islands or mainland; ritual applications; tools used\nto form the shape of food ingredients\nMaritime\nFishing tools, fish poison, boat construction, fishing net dye\nNuisance\nPest plant (thorny, poisonous), problematic for people or livestock, crop allelopathy, cause of allergies, cause of contact\ndermatitis, skin irritant\nHuman medicinal uses\nCardiological\nPromote heart health\nDermatological\nLacerations and bleeding wounds, weak hair, burn wounds, abscesses, furuncles. skin and soft tissue infections, skin\ninflammation, hair loss, e",
+    "methods_preview": "\nMethods\nStudy site\nThe Aegadian Islands are a group of five small moun-\ntainous islands situated off of the northwest coast of Si-\ncily in the Mediterranean Sea, with the three inhabited\nislands of Levanzo (38° 00' 02.4\" N, 12° 19' 54.7\" E),\nFavignana (37° 55' 53.7\" N, 12° 19' 38.2\" E), and Maret-\ntimo (37° 58' 28.3\" N, 12° 03' 17.1\" E) located roughly 13,\n16, and 24 km west of Trapani. The two smaller islands\nof Formica (37° 59' 22.2\" N, 12° 25' 29.3\" E) and Mar-\naone (37° 59' 24.9\" N, 12° 24' 49.1\" E) are positioned be-\ntween Levanzo and the Sicilian coastline (Fig. 1). In all,\nthe islands make up a landmass of roughly 37 km2 and, as\nof a 2017 census, are inhabited by 4292 people [23].\nMarettimo Island is made up of four tectonic units,\nderiving from the deformations of Mesozoic substrate,\nconsisting mainly of dolomites, marls, and limestones\n[24, 25], while Levanzo Island is characterized by car-\nbonate and clastic-terrigenous deposits [26]. Favignana\nIsland hosts a ridge of dolomite and limestone oriented\nNorth to South (Mt. Santa Caterina—312 m a.s.l.) and\ntwo large plain areas that indicate ancient surfaces of\nmarine erosion; the eastern plain is covered by whitish\nsandstone deposits of the Lower Pleistocene, whereas\nthe western one is characterized by Mesozoic-tertiary\ncarbonate sequences, sometimes covered by more recent\nTyrrhenian\nconglomeratic\nlayers,\nHolocene\naeolian\nsediments, and colluvial and eluvial deposits [27].\nAccording\nto\nthe\nclassification\nof\nRivas-Marti"
+  },
+  {
+    "study_id": 20,
+    "auth": "Plieninger",
+    "year": 2025,
+    "file": "Voices-Around-the-South-Tyrolean-Herbal-PharmacyExploring-the-Stakeholder-Landscape-and-Perspectives-on-Medicinal-Plants-as-Culturally-Salient-Species_2025_SAGE-Publications-Ltd.pdf",
+    "n_chars": 72049,
+    "has_results_section": true,
+    "results_chars": 46223,
+    "table_refs": 2,
+    "n_numeric_results": 2,
+    "n_numeric_total": 2,
+    "n_sample_sizes": 2,
+    "n_comparisons": 0,
+    "stats_summary": {
+      "n_eq": 2
+    },
+    "numeric_in_results": [
+      {
+        "type": "n_eq",
+        "match": "N = 52",
+        "context": "9%), 8: Others (9%). (C) Main Ways of Acquisition of Medicinal Plants. For A–C: N = 52, Multiple Answers Possible. See Details for A–C in Supplementary Appendix III.",
+        "position": 7137
+      },
+      {
+        "type": "n_eq",
+        "match": "N = 52",
+        "context": "eholder Power-Interest map Based on Mean Values of Ratings of the Participants (N = 52) on a Scale From One to Five Regarding their Power and Interest in Medicinal Pl",
+        "position": 7311
+      }
+    ],
+    "sample_sizes": [
+      {
+        "n": 52,
+        "context": "Ways of Acquisition of Medicinal Plants. For A–C: N = 52, Multiple Answers Possible. See Details for A–C i"
+      },
+      {
+        "n": 52,
+        "context": "ed on Mean Values of Ratings of the Participants (N = 52) on a Scale From One to Five Regarding their Powe"
+      }
+    ],
+    "comparisons": [],
+    "results_preview": "\n\nResults\nCharacterization of Interviewees\nEach category of the questionnaire gathered around 43–51\nresponses, while during the one-on-one interviews, depending\non the semi-structured ﬂow additional questions were added\nor omitted. Most of the participants identify as female, 73%,\nand only 27% identify as male; their age ranged from 25 to\n73 years. Most belong to the age group of 40–59 (58%) and\nonly two participants (4%) were below the age of 30 years\nwhile only one participant was above 70. Out of the 51 partic-\nipants, 49 live in South Tyrol (Figure 1), from the remaining\ntwo one grew up there and is currently living abroad while\nthe other one trains herb experts in South Tyrol. Most of the\nparticipants have a background as herb experts or in the sector\nof agriculture and forestry (Supplementary Appendix III).\nOther areas of expertise were the sector of commercial services,\nhotel and gastronomy, health, social services, and education.\nMany participants work in multiple professions simultaneously,\nreﬂecting the interwoven aspects of medicinal plant use across\nvarious ﬁelds. This diverse range of professions is crucial for\nunderstanding the multidimensional perspectives on the sus-\ntainable use and conservation of medicinal plants in South\nTyrol.\nPersonal Bond with Medicinal Plants\nIn total, 91% of the interviewees expressed a personal bond\nwith the medicinal plants found in their surroundings, while\nonly 9% did not feel a bond (Figure 2A; Supplementary\nAppendix III). For some, this relationship dates back to their\nearly years, while others developed an interest in medicinal\nplants as they grew older. Many continue to maintain this con-\nnection either by cultivating them in their own gardens or by\ngathering them from natural habitats. The utilization of medic-\ninal plants extends beyond personal well-being, as some inter-\nviewees employ them to create herbal products for their own\nuse or for commercial purposes. The four main themes deter-\nmining the personal relation to medicinal plants are local avail-\nability, education and training, interest in “the healing power of\nnature” and medical self-sufﬁciency (Figure 2A). Each of these\nfactors plays a signiﬁcant role in shaping both, personal use and\nbroader sustainability practices.\nA total of 80% of the interviewees emphasize the importance\nof having access to local medicinal plants. They believe that\nthese plants are uniquely suited to the local environment and\ncan have a powerful impact on the health and ",
+    "methods_preview": "\nMethods\nfor\nNatural\nResource\nManagement.”\nJournal\nof\nEnvironmental Management 90 (5): 1933–1949. https://doi.org/\n10.1016/j.jenvman.2009.01.001.\nScherrer,M.M.,S.Zerbe,J.Petelka,andI.Säumel.2023.“Understanding\nold Herbal Secrets: The Renaissance of Traditional Medicinal Plants\nBeyond the Twenty Classic species?” Frontiers in Pharmacology\n14: 1141044. https://doi.org/10.3389/fphar.2023.1141044.\nSchunko, C., S. Grasser, and C. R. Vogl. 2015. “Explaining the\nResurgent Popularity of the Wild: Motivations for Wild Plant\nGathering in the Biosphere Reserve Grosses Walsertal, Austria.”\nJournal of Ethnobiology and Ethnomedicine 11: 55–15. https://\ndoi.org/10.1186/s13002-015-0032-4.\nSchunko, C., S. Lechthaler, and C. R. Vogl. 2019. “Conceptualising\nthe Factors That Inﬂuence the Commercialisation of non-Timber\nForest Products: The Case of Wild Plant Gathering by Organic\nHerb Farmers in South Tyrol (Italy).” Sustainability 11 (7): 2028.\nhttps://doi.org/10.3390/su11072028.\nTattoni, C., E. Ianni, D. Geneletti, P. Zatelli, and M. Ciolli. 2017.\n“Landscape Changes, Traditional Ecological Knowledge and Future\nScenarios in the Alps: A Holistic Ecological Approach.” Science of\nthe\nTotal\nEnvironment\n579:\n27–36.\nhttps://doi.org/10.1016/j.\nscitotenv.2016.11.075.\nVandebroek, I., and M. J. Balick. 2012. “Globalization and Loss of\nPlant Knowledge: Challenging the Paradigm.” PLoS ONE 2012\n(7): e37643. https://doi.org/10.1371/journal.pone.0037643.\nVári, Á, I. Arany, Á Kalóczkai, K. Kelemen, J. Papp, and"
+  },
+  {
+    "study_id": 45,
+    "auth": "Ghanimi",
+    "year": 2022,
+    "file": "ajol-file-journals_388_articles_271417_6656ff5bc0b68-Leul.pdf",
+    "n_chars": 78033,
+    "has_results_section": true,
+    "results_chars": 33607,
+    "table_refs": 30,
+    "n_numeric_results": 2,
+    "n_numeric_total": 2,
+    "n_sample_sizes": 1,
+    "n_comparisons": 0,
+    "stats_summary": {
+      "p_value": 1,
+      "n_eq": 1
+    },
+    "numeric_in_results": [
+      {
+        "type": "p_value",
+        "match": "P=0.000",
+        "context": "ive correlation between the  garden size and plant species diversity (r =0.809, P=0.000) (Fig 2).    Table 4. Position of HGs in the surveyed compounds.   Kebele  Samp",
+        "position": 2059
+      },
+      {
+        "type": "n_eq",
+        "match": "n = 130",
+        "context": "0  129  5    Table 10. Valuation of ecosystem services provided by HG owners (n = 130 informants)  (Criteria adapted from Calvet-Mir et al. (2012).    Ecosystem Serv",
+        "position": 8225
+      }
+    ],
+    "sample_sizes": [
+      {
+        "n": 130,
+        "context": "tion of ecosystem services provided by HG owners (n = 130 informants)  (Criteria adapted from Calvet-Mir et"
+      }
+    ],
+    "comparisons": [],
+    "results_preview": "\n \n3. RESULTS \n3.1. Socio-demographic Characteristics of the Respondents \nVarious demographic characteristics can be found in table 3. Most respondents were men. \n \nTable 3. Demographic characteristics of the respondents. \n     Items \nAlternatives \nNo of Respondents \nPercentage \n Sex \nMale \n115 \n88% \nFemale \n15 \n12% \nTotal \n130 \n100% \n Age in year  \n25-35 \n20 \n15.4% \n36-45 \n55 \n42.3% \n46-55 \n30 \n23% \n56 and above  \n25 \n19..3% \nTotal \n130 \n100% \nEducational         \nbackground \nIlliterate  \n32 \n24.6% \nElementary (1-4) \n45 \n34.6% \nJunior (5-8) \n28 \n21.5% \nHigh School (9-12)    \n25 \n19.3% \n Total \n130 \n100% \nHousehold size  \n \n \n1-5 \n40 \n30.8% \n6-7 \n62 \n47.7% \n8 and above \n28 \n21.5% \n Total \n130 \n100% \nFarming \nexperience  \n5-10   years \n10 \n7.7% \n11-15 years \n18 \n13.8% \n16-20 years \n25 \n19.2% \n21-25 years                    35 \n27% \n  > 26 years \n42 \n32.3% \nTotal \n130 \n100% \n \n3.2. Design and Setting of Home Gardens  \nIn the present study, all the surveyed houses had HGs which vary in position, the front yard \ncovered (8.5%) containing most attractive plant species, the side yards covered (9.6%) with \nmedicinal, spice and multipurpose trees. The back yard accounts (63.9%) and contains food \nplants and the mixed yard accounts (17.7%) with fence plants and shade trees to use as \nquiescent place (Table 4). \n3.3. Relationship between HG Size and Species Diversity \n   \nThree types of HGs were identified in the study kebeles based on their size. Their size ranges \nbetween 0.04 and 0.25 ha with an average of 0.12 ha. Seventy nine percent of the HHs were \nsmall (0.04 - 0.08 ha) to medium (0.09 - 0.15 ha) sized (Table 5). Number of species in HGs of \n\nKasim Edo, Leul Kidane and Tadesse Beyene (MEJS)                         Volume 16(1):95-126, 2024 \n \n© CNCS, Mekelle University                                     104                                                    ISSN: 2220-184X \n \ndifferent size is shown in table 6. There is a strong significant positive correlation between the \ngarden size and plant species diversity (r =0.809, P=0.000) (Fig 2). \n \nTable 4. Position of HGs in the surveyed compounds.  \nKebele \nSampled houses \nwith garden \nFront \nyard \nSide \nyard \nBack \nyard \nMixed \nyard \nKogo ashebeka \n40 \n- \n5 \n27 \n8 \nMankula Gobale \n32 \n4 \n3 \n21 \n4 \nAshebeka walkite \n28 \n5 \n- \n20 \n3 \nBurkite alkesa \n30 \n2 \n5 \n15 \n8 \nTotal  \n130 \n11 \n13 \n83 \n23 \nPercent (%) \n100 \n8.5 \n10 \n63.9 \n17.7 \n   \nTable 5. The size categories of HGs in the study area. \n \n \n \n \n \nTable 6.",
+    "methods_preview": "[NOT FOUND]"
+  },
+  {
+    "study_id": 38,
+    "auth": "Loos",
+    "year": 2024,
+    "file": "1-s2.0-S1462901124001953-main.pdf",
+    "n_chars": 63201,
+    "has_results_section": true,
+    "results_chars": 16518,
+    "table_refs": 8,
+    "n_numeric_results": 0,
+    "n_numeric_total": 1,
+    "n_sample_sizes": 1,
+    "n_comparisons": 0,
+    "stats_summary": {},
+    "numeric_in_results": [],
+    "sample_sizes": [
+      {
+        "n": 136,
+        "context": "sisting of open-ended and closed-ended questions (n = 136). Participants were selected and  identified thro"
+      }
+    ],
+    "comparisons": [],
+    "results_preview": "\n5. Results and discussion\n5.1. Transmission of indigenous knowledge systems in the vhavenda \ncommunity\nParticipants were questioned about the various methods of trans­\nmitting IKS in the study area. It was found that folklore (49 %) was the \nmost used method of IKS transmission in the area (Fig. 3). Folklore in \nthis context refers to traditional tales, legends, proverbs, poems, myths, \ntaboos, and jokes that are passed down orally. Informal education \nemerged as the second most frequent form of IKS transmission, with \nparticipants indicating that IKS is transmitted through observation, \nparticipation, and oral literature. Additionally, traditional songs (7 %) \nwere identified as the third most common form of IKS transmission. \nThese songs are essential to the culture and religious practices, depicting \nthe ancestral history and philosophical issues. Lastly, less frequent forms \nof transmitting IKS included Television (5 %), Radio (4 %), Spirit me­\ndiums (2 %), formal education (1 %), and the internet (1 %).\nThe research study revealed that the Vhavenda Indigenous Knowl­\nedge System (IKS) is predominantly passed down through oral traditions \nsuch as tales, legends, myths, proverbs, poems, and jokes, which are \nintegral to the Vhavenda cultural identity as per Fig. 3. Participants \nemphasised that their customs and traditions are transmitted through \nproverbs, songs, rituals, and practices taught by elders. For instance, one \nof the participants stated: “As children, we would gather around the fire at \nnight to listen to the captivating tale of King Singo and his enchanted drum, as \nnarrated by our elder. According to Venda folklore, the sound of the drum \nwould instil fear in the enemy’s hearts, causing them to flee. Some believe \nKing Singo vanished from his kraal one night, taking the unique drum with \nhim, and was never seen again”. The narratives of these stories, myths, \nand legends are conveyed through oral traditions carried across gener­\nations. This transmission mode poses the risk of potential inaccuracies \nand difficulties in ensuring the verifiability and authenticity of the \noriginal versions. Therefore, the community around the study area have \nestablished a showcase museum at the Awelani Lodge to educate others \nabout their traditional way of life in the Masisi area and to preserve their \nVhavenda IKS. This demonstrates the Vhavenda’s commitment to pre­\nserving and perpetuating their knowledge system and highlights their \nsignificance.\nIKS ",
+    "methods_preview": "[NOT FOUND]"
+  },
+  {
+    "study_id": 33,
+    "auth": "Doyle",
+    "year": 2018,
+    "file": "18-doyle-615-628.pdf",
+    "n_chars": 66902,
+    "has_results_section": false,
+    "results_chars": 0,
+    "table_refs": 0,
+    "n_numeric_results": 0,
+    "n_numeric_total": 0,
+    "n_sample_sizes": 0,
+    "n_comparisons": 0,
+    "stats_summary": {},
+    "numeric_in_results": [],
+    "sample_sizes": [],
+    "comparisons": [],
+    "results_preview": "[NOT FOUND]",
+    "methods_preview": "[NOT FOUND]"
+  },
+  {
+    "study_id": 13,
+    "auth": "Edo",
+    "year": 2018,
+    "file": "Beyond-biodiversity-conservation-Land-sharing-constitutes-sustainable-agriculture-in-European-cultural-landscapes_2018_MDPI.pdf",
+    "n_chars": 49803,
+    "has_results_section": false,
+    "results_chars": 0,
+    "table_refs": 0,
+    "n_numeric_results": 0,
+    "n_numeric_total": 0,
+    "n_sample_sizes": 0,
+    "n_comparisons": 0,
+    "stats_summary": {},
+    "numeric_in_results": [],
+    "sample_sizes": [],
+    "comparisons": [],
+    "results_preview": "[NOT FOUND]",
+    "methods_preview": "[NOT FOUND]"
+  },
+  {
+    "study_id": 15,
+    "auth": "Aldasoro",
+    "year": 2023,
+    "file": "Biocultural-conservation-systems-in-the-Mediterranean-region-the-role-of-values-rules-and-knowledge_2023_Springer.pdf",
+    "n_chars": 78695,
+    "has_results_section": true,
+    "results_chars": 24579,
+    "table_refs": 8,
+    "n_numeric_results": 0,
+    "n_numeric_total": 0,
+    "n_sample_sizes": 0,
+    "n_comparisons": 0,
+    "stats_summary": {},
+    "numeric_in_results": [],
+    "sample_sizes": [],
+    "comparisons": [],
+    "results_preview": "\nResults\nSystem characteristics\nAgdal, Morocco\nAgdal in rural Morocco is a system in which access to cer-\ntain agrosilvopastoral resources is seasonally prohibited to \nallow for recovery during the most sensitive plant-growth \nperiod. It is characterized by collective land management \nthrough customary institutions, e.g. household assemblies \n(jmaa), communally selected guardians (aêssass), and laws \n(laôrf) that govern the periodic suspension of land users’ \nrights. Agdal balances resource conservation with local \nusers’ interests and sustains social cohesion, long-standing \ncultural practices, and religious rites. Three types of agdal \nsystems exist: (a) highland pasture agdal, common through-\nout the High Atlas Mountains and typically comprising high-\nland grass-and shrublands; (b) montane forest agdal, found \nat elevations of 1800–3800 m and typically used as collec-\ntively managed “living fodder-reserves”; (c) agdal of the \narganeraie, prevailing throughout Southwestern Morocco’s \nargan (Argania spinosa) landscapes and defining individual \nhouseholds’ right to harvest nuts and feed herds. Agdal \nhas a 4000-year pastoral tradition and is based on detailed \nlocal ecological knowledge about the growth cycles of for-\nage plants. Local people and their transhumant livelihoods, \nTable 3   Overview of rules expressed in the four biocultural systems\nRules\nAgdal\nCommunal forests\nSacred natural sites\nHima\nLegislation\nLegal pluralism, misfit between cus-\ntomary and statutory governance\nMunicipal ordinances, management \nboards\nApplication of state forest administra-\ntion\nIslamic law, no formal protection\nMarket arrangements\nAttraction of agribusiness investments\nAttraction of timber companies and \nlately renewable energy investments\nDevelopment of new economic uses \n(timber/wood) in rare cases\nDevelopment of new economic uses \n(e.g., ecotourism)\nConservation agreements\nNGO efforts aimed at indigenous and \ncommunity conserved areas (ICCAs) \nrecognition\nArrangements between regional \ngovernments and land stewardship \ninitiatives\n-\nCollaboration by local communities and \nconservation NGOs\nInformal rules\nCustomary rules, regular re-negotiation \nand adaptability of practices, land \naccess through social belonging\nDistribution of shares and quota alloca-\ntion, fixing of times and areas of \nexploitation\nLocal and religious rules, taboos, \nbeliefs\nCost–benefit adjustment, flexible rules, \nconsensus base, permanent monitoring, \nsanctioning mechanisms\n\n829\nSustainability S",
+    "methods_preview": "\nMethod\nFor this synthesis, we selected and compared four biocul-\ntural conservation systems (Table 1) that are found in the \nfour (Middle Eastern, North African, South-Western Euro-\npean, South-Eastern European) quadrants of the Mediter-\nranean region (Fig. 1). The four cases (Fig. 2), covering \nboth Mediterranean lowland and mountain ecosystems, \nwere identified through work within the cross-Mediterra-\nnean research project LandscapeChains and the 2017–2020 \nAction Plan on “Promoting sustainable land-use practices” \n(M6) of the MAVA Foundation. Our selection criteria for \nthese cases were the following:\n(a)\t The approaches represent ancient land management \nsystems, developed over centuries, and are thus time-\ntested.\n(b)\t They are based on collective action among local com-\nmunities.\n(c)\t They are regionally distinct (though occurring in vari-\nous expressions in a particular region of the Mediter-\nranean).\n(d)\t They integrate conservation and production aspects \n(but protect some natural resources from harvesting).\n(e)\t They left strong cultural imprints on ecosystems and \nlandscapes, often to the benefit of biodiversity.\nFor each of the four systems, we performed an integrated \nliterature review (Rawluk et al. 2019). We searched for sci-\nentific literature in the “Web of Science—Core Collection” \nand “Google Scholar” databases, using “agdal”, “communal \nforests” (in combination with “Spain”), “hima” (or “hema”), \nand “sacred natural sites” (in combination with “Greece”) a"
+  },
+  {
+    "study_id": 1,
+    "auth": "Romero-Silva",
+    "year": 2026,
+    "file": "Colourful-agrobiodiversity-morphology-and-phenology-of-bean-landraces-to-face-commodification-of-the-commons-in-the-southern-Andes_2026_Springer-Science-and-Business-Media-Deutschland-GmbH.pdf",
+    "n_chars": 71078,
+    "has_results_section": true,
+    "results_chars": 16323,
+    "table_refs": 3,
+    "n_numeric_results": 0,
+    "n_numeric_total": 0,
+    "n_sample_sizes": 0,
+    "n_comparisons": 0,
+    "stats_summary": {},
+    "numeric_in_results": [],
+    "sample_sizes": [],
+    "comparisons": [],
+    "results_preview": "\nResults\nAgrobotanical traits\nWe evaluated the traits of four morphological com­\nponents: leaf, flower, pod, and seed for 30 bean landra­\nces. There is a high degree of morphological variability \nin these traits, making each landrace unique, as can be \nobserved in the plates for 15 of these landraces (Fig. 3). \nOn the other hand, there are also similarities, which leads \nus to create subgroups among these landraces. The first \ntrait we evaluated is the leaf blade. While all beans have \ntrifoliate leaves, the differences lie in their size, blade \nshape (oval, lanceolate, cordate), apex (sharp or blunt), \nbase (rounded, cordate, obtuse), texture (smooth, rough), \npubescence (low, medium, high), venation (strongly, \nmoderately, or lightly marked), volume (flat, cupped), \nand leaflet arrangement (perpendicular or angled). \nAll bean flowers share the same floral formula of two \nfused upper petals, two wings, one keel petal, and nine \nfused stamens with one free. Variability is observed in the \ncolor of the petals, which we categorized as: red, white, \nor purple, in the grouping of the inflorescence (simple or \ncompound), and its position (axillary or apical).\nThe pod shows variation in the profile shape, for which \nwe defined three categories: curved, moderately curved, \nand straight, as well as variation in the apex shape, for \nwhich we also defined three categories: curved, semi \ncurved, and straight. Its main color also varies (green, \nyellowish-green, yellow), as well as the pattern (solid or \nmottled), color of the mottling if present (red or purple), \nseed arrangement in the pod (loose, embedded), and \ntotal length from base to tip. These traits are not fixed, \nas the pod changes throughout the plant’s phenological \ndevelopment (Fig. 3).\nThe seed holds much of the variability, and it is also \nwhere many of the names traditionally used to identify \nthese landraces originate. We defined three main shapes: \nround, elongated, and kidney-shaped, each with three \nsubcategories used for the botanical description of the \nseed. Also noteworthy are the color differences, which we \ncategorized as: yellow, beige, white, brown, purple, black, \nand other (including blue and burgundy), along with its \npattern (solid, hilum spot, or mottled) and the distribu­\ntion of the pattern based on the seed structures (detailed \nin Appendix 1), whether centered around the hilum or \nevenly distributed across the seed surface. Additionally, \nwe categorized the seeds by volume into la",
+    "methods_preview": "\nMethods\nTerritorial cadastre and creation of Porotarium Austral \nSeed Refuge\nIn 2022, an initial cadastre was conducted through meet­\nings with seed curators, gardeners, and vegetable growers \nfrom the municipalities of Pucón, Curarrehue, and Padre \nLas Casas, in the La Araucanía Region of Chile. Through \nsemi-structured interviews, participants identified, from \na selection of 66 landraces, those they knew and culti­\nvated, noting their names and other information related \nto their cultivation and consumption. From these meet­\nings, we established the Porotarium Austral Seed Refuge, \na seed bank and repository of landrace knowledge, with \nthe aim of conserving and promoting these landraces. \nThe seed refuge is managed communally by the farmers \nand is updated with each agricultural season, in addition \nto new accessions that emerge from participation in seed \nexchanges (Trafkintu; Salazar et al., 2025). \nIn vivo propagation of bean landrace seeds\nWe propagated 30 bean landraces in vivo within family \ngardens over two study seasons, monitoring their devel­\nopment from sowing, through full plant growth, to seed \nharvest, documenting their phenology and agrobotanical \ntraits of interest. All seeds were sourced from the Poro­\ntarium Austral Seed Refuge and were selected based on \navailability and cultural importance. Propagation took \nplace between October and April of 2022–2023 (season \n1) and 2023–2024 (season 2).\nDuring the first season, sowing was conducted in nine \nhomegar"
+  },
+  {
+    "study_id": 37,
+    "auth": "Latorre",
+    "year": 2018,
+    "file": "Comparison-of-medicinal-plant-knowledge-between-rural-and-urban-people-living-in-the-Biosphere-Reserve-Bioma-PampaQuebradas-del-Norte-Uruguay-An-opportunity-for-biocultural-conservation_2018_Universidade-Federal-Ru.pdf",
+    "n_chars": 62448,
+    "has_results_section": true,
+    "results_chars": 14480,
+    "table_refs": 7,
+    "n_numeric_results": 0,
+    "n_numeric_total": 0,
+    "n_sample_sizes": 0,
+    "n_comparisons": 0,
+    "stats_summary": {},
+    "numeric_in_results": [],
+    "sample_sizes": [],
+    "comparisons": [],
+    "results_preview": "\nRESULTS\nGeneral\ncharacterization\nof\nthe\ninterlocutors interviewed\nSellers of medicinal plants correspond to\na group of men and women who have a wide\nknowledge\non\nmedicinal\nplants\nand\nassociated treatments. They are low income\npeople (MTSS 2017), born and raised in\nrural\nareas. Although\nwhen\nyoung\nthey\nmoved to the city to develop commercial\nactivity, they learnt about medicinal plants\nsince childhood as they collaborated with\ntheir\nfamilies\nidentifying\nand\ncollecting\ntherapeutic\nresources.\nNowadays\nthey\nperform the collection and trade of medicinal\nplants\nlike\nan\nexclusive\nactivity\nand\nof\nsubsistence, they offer their products in the\nstreets and main avenues of the city of\nRivera, some of them moving with their\nbaskets and others having fixed places of\nsale.\nWomen, in general, are dedicated to the\nsale as an economic complement to improve\ntheir income. They cover various items, such\nas:\nselling\nhandicrafts\nand\ncosmetics,\nwashing clothes, domestic work and the care\nof the elderly. They own small homegardens\nwhere they grow and harvest the plants that\nthey\nlater\ndry,\nfraction\nand\nsell.\nCommercialization\nis\ncarried\nout\nin\nthe\nhomes, consisting of mainly the neighbors\nas the main buyers, also they offer their\nproducts at neighborhood fairs (ex street\nmarkets of \"Cuaró\" in \"Rivera Chico\" the one\nof\ngreater\ndimension\nand\nassistance\nof\nneighbors). According to the analysis of\nspeech, we infer that when they do not have\na\nmedicinal\nresource\ndemanded\nin\nthe\nmarket, they turn to the male sellers of\nmedicinal\nplants\nand\nmake\nproduct\nexchanges.\nFrom the discourse of the interlocutors it\nhas been inferred that they carry out plants\nand\nknowledge\nexchanges\nwith\nother\nmembers of the community. Regarding to\nthis, interlocutors are holders of medicinal\nbotanical knowledge, be or not engaged in\nthe sale of medicinal plants. Those who live\nin the urban and/or periurban environment,\nmostly have an education level ranging from\ncomplete school to basic high school. They\nare adult men and women who have been\nraised in rural areas and young people that\nhave\nmoved\nto\ncities\n(e.g.\nRivera\nand\nTranqueras). They\nhave\nvast\nknowledge\nabout medicinal plants and associated uses.\nThey usually mention that this knowledge\n\nCastiñeira Latorre et al. 2018. Comparison of medicinal plant knowledge between rural and urban people living in the Biosphere\nReserve “Bioma Pampa­Quebradas del Norte”, Uruguay: an opportunity for biocultural conservation\nEthnobio Conserv 7:4\n7\nwas acquired following the",
+    "methods_preview": "\nmethod\nallowed\nthe\ngeneration\nof\na\ngrowing\nsample\n(Albuquerque\net\nal.\n2014;\nCunningham\n2001; Newman 2010; Noy 2008).\nWe\ndeveloped\nfive\nfield\ntrips\nwith\nmedicinal plants sellers to natural harvesting\nsites, \"Valle del Lunarejo\" and \"Great Britain\nPark\"\n(PGB),\nusing\nthe\nparticipant\nobservation technique/strategy (Albuquerque\net al. 2014), and we performed participant\nobservation\nat\ncourtyards\nand\ngardens\n(sensu Albuquerque et al. 2014). In this way,\nit was possible to record the vernacular\nnames with the botanical taxonomy of the\nspecies. All the interviews were recorded\ngenerating audio files along with annotations\nin\nfield\nnotebooks. The\ninterviews\nwere\ndecoded\nand\na\ncareful\ninterpretation\nof\ninterlocutors’ perception about the diseases,\ntreatments\nand\nplants\nused\n(emic\ncategories) was carried out. This led to the\ncreation\nof\na\ncategorization\n(etic\ncategorization) in order to carry out the\nanalyzes (Albuquerque et al. 2014). It should\nbe noted that the methodological approach\nis in accordance with the ethic principles of\nthe International Society of Ethnobiology\n(ISE 2014). In this work, we have discussed\nwith each of the interlocutors the \"inalienable\ncharacter\" of the information offered by the\nlocal\npopulation,\nincluding\nthe\nuse\nof\nrecordings\nand\nimages\nfor\nexclusive\npurposes of this work.\nEthnobotanical reference materials were\nobtained by asking the interlocutors for a\nsample of each specimen. When medicinal\nplants were stored, they were determined\nand subsequently coll"
+  },
+  {
+    "study_id": 11,
+    "auth": "Tran",
+    "year": 2025,
+    "file": "Erosion-of-traditional-ecological-knowledge-under-conditions-of-hydrosocial-rupture-Insights-from-the-Mekong-floodplains-communities_2025_Springer-Science-and-Business-Media-BV.pdf",
+    "n_chars": 76576,
+    "has_results_section": true,
+    "results_chars": 21856,
+    "table_refs": 4,
+    "n_numeric_results": 0,
+    "n_numeric_total": 0,
+    "n_sample_sizes": 0,
+    "n_comparisons": 0,
+    "stats_summary": {},
+    "numeric_in_results": [],
+    "sample_sizes": [],
+    "comparisons": [],
+    "results_preview": "\nRESULTS\nHydrosocial rupture in the Mekong ﬂoodplains\nHydrosocial rupture in the Mekong ﬂoodplains manifests\nthrough the interactive processes between seasonal ﬂood\nsystems and local communities who directly or indirectly\nengage with ﬂood environments. It demonstrates a radical\nshift in adaptation away from ‘free adaptation’, in which\nrural communities live in ‘harmony’ with ﬂoods, to ‘forced\nadaptation’, where they deploy alternative strategies to deal\nwith changing conditions (Tran 2020b). In this regard, the\npaper highlights a signiﬁcant decline in natural resources,\nincluding ﬂoodwaters, which serves as one of the key\nindicators of hydrosocial rupture.\nHydrosocial rupture in the Mekong ﬂoodplains also\nmanifests at multiple scales. At the regional scale, it is\nconcerned with the compounding effects of climatic events,\nsuch as droughts, and upstream hydropower operations\nwhich retain a signiﬁcant amount of water in reservoirs\n(Hecht et al. 2019). This will be exacerbated by the planned\n180-km-long Funan Techo Canal in Cambodia, which is\nlikely to create negative ecological effects for the Viet-\nnamese Mekong ﬂoodplains (Yang et al. 2025). These\nfactors contribute to diminishing water ﬂows into the VMD\n(Fig. 2), affecting the seasonal rhythms of the local water\nsystems and, therefore, agrarian communities’ livelihoods.\nReﬂecting on this hydrosocial rupture, an expert noted:\nWhile erratic rainfalls are commonly observed in the\nlower Lao areas, water stored in upstream hydropower\nreservoirs offers additional stress. In the Mekong\nﬂoodplains [the Long Xuyen Quadrangle], water is not\nretained in ﬁelds but is discharged into rivers and the\nsea. This environmental chaos is driven by both natural\nand human factors (INT, September 2024).\nHydrosocial rupture is also attributed to the decade-long\nagriculture-based development policies implemented in the\ndelta. Agricultural commodiﬁcation and commercialisation\nin effect treat the delta as a key resource frontier for rice\nproduction\naimed\nat\nensuring\nnational\nsecurity\nand\nenhancing rural household income (Chu et al. 2014). In An\nGiang Province for example, this policy prioritises the\nadoption of hard infrastructure for ﬂood management,\nwhich aims at (1) controlling ﬂoodwater infrastructure (or\nﬂood\ncontrol\nsystems),\nsuch\nas\nNorth\nVam\nNao\nscheme (Tran et al. 2020), and (2) expulsing ﬂoodwater out\nof the delta (Tran and Cook 2024). These technical systems\nact as the boundary objects that separate humans from\nﬂoods, per",
+    "methods_preview": "[NOT FOUND]"
+  },
+  {
+    "study_id": 21,
+    "auth": "Saiba",
+    "year": 2023,
+    "file": "Ethnobotany-and-conservation-applications-in-the-Noken-making-by-the-Sougb-Tribe-of-West-Papua-Indonesia_2023_Society-for-Indonesian-Biodiversity.pdf",
+    "n_chars": 32290,
+    "has_results_section": true,
+    "results_chars": 20000,
+    "table_refs": 0,
+    "n_numeric_results": 0,
+    "n_numeric_total": 0,
+    "n_sample_sizes": 0,
+    "n_comparisons": 0,
+    "stats_summary": {},
+    "numeric_in_results": [],
+    "sample_sizes": [],
+    "comparisons": [],
+    "results_preview": "\nRESULTS AND DISCUSSION \nEthnography of the Sougb Tribe \nEthnographically, the Arfak people were originally \nclassified as inland communities from the Arfak mountain \nregion. Then, some migrated from the mountains to the \nlowlands and coast due to several factors, particularly \nGovernment, church, and private institutions' investment in \nthe area. In the 1930s, outside Java, the Dutch government \nwas looking for suitable areas for new settlements for \nagricultural development, including Kalimantan, Sulawesi \nand West Papua. In West Papua, several areas are found \nthat are quite fertile, especially in the Ransiki plain (south \nof Manokwari) and are being developed for cocoa farming \ninvolving indigenous people. In the post-1950 period, small \nplantations were found that were established by colonialists \nand cocoa plantation companies before the second world \n(De Wilde de Ligny et al. 1963; Ruinard 1964). Meanwhile \nfor the church, a Evangelism school was founded in \nRansiki in 1957 for local residents (Rumbekwan & \nRamandei 2023). The Sougb tribe's current location in the \nSouth Manokwari District was due to the establishment of \na private company in the cocoa sector in the early 1980s, \nPT Cokran Ransiki, as the company provided jobs for the \nlocal communities. The Sougb tribal livelihood depends \nprimarily on natural resources such as hunting, gathering, \nfishing, and farming. The main agriculture comes from \nshifting cultivation, while home gardens are also cultivated \nto meet some of their needs (Ungirwalu 2019). Since their \nmigration, the Sougb tribal community has experienced \nenvironmental adaptations. Previously the Arfak tribe had \nutilized the natural resources around them to make \ntraditional tools such as noken which were generally made \nof bark (Sonbait et al. 2021). This traditional knowledge \nsystem has been maintained for generations as part of the \ncustomary community knowledge in Papua, and it \ngenerally survives in a specific environment. Studies have \nshown that Arfak residents and several other tribes in \nPapua have used various plant species as noken-making \nmaterials (Kanem and Norris 2018; Wanma et al. 2013; \nZebua et al. 2020). \nHabitat of pineapple plants \nIn their new location, the Sougb tribe weave noken \nmainly from pineapple leaves in the genus Ananas \n(Bromeliaceae), originally native to tropical South \nAmerica. Based on interviews, surveys, and ethnographic \nfieldwork, three pineapple species were identified in the \narea; th",
+    "methods_preview": "[NOT FOUND]"
+  },
+  {
+    "study_id": 17,
+    "auth": "Andreotti",
+    "year": 2023,
+    "file": "Exploring-farmers-perspectives-on-agrobiodiversity-management-future-options-for-quinoa-smallholder-organizations-in-the-Peruvian-high-Andes_2023_SpringerVerlag-Italia-srl.pdf",
+    "n_chars": 70176,
+    "has_results_section": false,
+    "results_chars": 0,
+    "table_refs": 6,
+    "n_numeric_results": 0,
+    "n_numeric_total": 1,
+    "n_sample_sizes": 0,
+    "n_comparisons": 2,
+    "stats_summary": {},
+    "numeric_in_results": [],
+    "sample_sizes": [],
+    "comparisons": [
+      {
+        "group": "rural",
+        "value": "5.2",
+        "context": "r sustainable development  in rural indigenous and local communities. S.A.P.I. EN. S., (5.2). Deleixhe M (2018) Conclusion: is the governance of the c"
+      },
+      {
+        "group": "indigenous",
+        "value": "5.2",
+        "context": "ainable development  in rural indigenous and local communities. S.A.P.I. EN. S., (5.2). Deleixhe M (2018) Conclusion: is the governance of the co"
+      }
+    ],
+    "results_preview": "[NOT FOUND]",
+    "methods_preview": "\nmethodology\nAs indicated in previous studies (Hamadou et al. 2016; \nPereira et al. 2016; Alexander et al. 2018), the Q methodol-\nogy can be a powerful tool for interpreting the perspectives \nof local communities that are facing the dynamics of com-\nplex socioecological systems.\nThe total number of participants in the current study was \n36. Our sample provided a good reflection of the diversity \nof farmers’ organizations in the Puno region, as it included \na farmers’ association, a farmers’ community, and a farmers’ \ncooperative. Several previous studies have generated relevant \ntypologies with a similar number of participants. Examples \nFig. 7   Spider diagram of item rankings for each opinion type. The black line indicates Opinion Type 1, the green line indicates Opinion Type 2, \nand the orange line indicates Opinion Type 3. Each ring of the diagram represents the importance value (from −3 to +3) assigned to each item.\n\nExploring farmers’ perspectives on agrobiodiversity management: future options for quinoa…\n1 3\nPage 11 of 15 \n42\ninclude Hamadou et al. (2016) with 20 participants, Pereira \net al. (2016) with 26 participants, Langston et al. (2019) \nwith 34 participants, and Alexander et al. (2018) with 35 \nparticipants. With a total of 36 participants, our sample was \nthus within the acceptable parameters for QM.\nIn our study, we applied QM with farmers individually, \nin order to guarantee their active participation. We combine \nthis with the 4SqA workshops to explore the "
+  },
+  {
+    "study_id": 8,
+    "auth": "Rollo",
+    "year": 2025,
+    "file": "Guardians-of-heritage-womens-position-in-traditional-seed-systems-and-agroecology-in-Zimbabwe_2025_BioMed-Central-Ltd.pdf",
+    "n_chars": 81662,
+    "has_results_section": true,
+    "results_chars": 41633,
+    "table_refs": 10,
+    "n_numeric_results": 0,
+    "n_numeric_total": 0,
+    "n_sample_sizes": 0,
+    "n_comparisons": 0,
+    "stats_summary": {},
+    "numeric_in_results": [],
+    "sample_sizes": [],
+    "comparisons": [],
+    "results_preview": "\nResults\nAcross all four study communities, participants described \na close relationship between seed-saving practices and \nhousehold resilience, cultural continuity, and autonomy \nover production. Women in particular framed seed pres-\nervation as a way to secure food without dependency on \npurchased seed, adapt to changing rainfall patterns, and \nmaintain control over what is planted and eaten. These \nroles were expressed through a variety of agroecological \npractices, including intercropping, organic composting, \nand seed exchange, which participants linked to both cul-\ntural heritage and practical adaptation strategies.\nCultural significance of seeds\nThe study revealed that traditional seeds hold profound \ncultural significance in all four communities (Bubi, \nMatobo, Nkayi, and Plumtree), serving as central pillars \nof both agricultural production and community identity. \nIn interviews and focus groups, elderly women regarded \nseeds as carriers of deep spiritual meaning and cultural \nheritage. A 65-year-old woman from Matobo who serves \nas both a seed keeper and community elder in her village, \ncaptured this sentiment:\nSeeds are the pillar of cultivated plants; they repre-\nsent life itself. Without seeds, there is no food, and \nwithout food, there is no life. They are divine crea-\ntions, the beginning of life and our future. Seeds \nsymbolize independence, strength, and power for us \nfarmers, ensuring the continuity of life.\nParticipant observations during seed fairs and house-\nhold visits revealed how seeds are woven into complex \nrituals and social protocols with strict gender dynam-\nics. In Nkayi, only pre-menstrual girls were tradition-\nally allowed to handle stored seeds, tied to notions of \npurity and respect. Gender divisions extended to cer-\nemonial practices, where men often led ritual bless-\nings of seeds (ukubika inhlanyelo), a role associated \nwith invoking ancestral protection and community \nprosperity, while women prepared seed mixtures and \nmaintained preservation knowledge, tasks seen as \nsafeguarding the physical quality and future viability of \nTable 1  Demographic and organisational profile of study participants\nData collection method\nNumber of participants\nAge ranges\nFemales\nMales\nAffiliation\nSemi-structured Interviews\n34\n25–78\n23\n11\n20 ZIMSOFF affiliated\n14 Independent\nFocus Group Discussions (FGD)\n7 groups 43 participants\n25–78\n31\n12\n25 ZIMSOFF affiliated\n18 Independent\n\nPage 6 of 15\nSibanda ﻿Agriculture & Food Security           (2",
+    "methods_preview": "\nMethodology\nResearch design and approach\nIn this qualitative study, I explored women’s seed-\nsaving practices in Matabeleland North and South, \nZimbabwe. Zimbabwe’s agricultural sector is largely \nsmallholder-based and rain-fed, making it highly vulner-\nable to climatic variability and market shocks [35]. While \nstandardized global metrics such as the Food Insecurity \nExperience Scale (FIES) [21] are valuable for measur-\ning household food access, they do not capture the cul-\ntural, spiritual, and relational dimensions of seed work \nthat are central to this study. I therefore chose a quali-\ntative approach to illuminate these embedded practices \nand meanings, which are often invisible to quantitative \nmeasurement tools. Fieldwork took place intermittently \nbetween July 2022 and January 2025 in Bubi, Matobo, \nNkayi and Plumtree districts. The staggered timing was \nintentional to capture the full agricultural cycle and \nobserve seed-related practices across different seasonal \nstages, including seed preparation, planting, harvesting, \npreservation, storage, and exchange. Conducting field \nvisits at these intervals allowed for richer, longitudinal \ninsights into how women’s seed practices adapt to shift-\ning climatic conditions, resource availability, and social \ndynamics throughout the year.\nThese areas were selected for three main reasons. First, \nthey represent contrasting agroecological zones within \nZimbabwe’s semi-arid southwest, allowing examination \nof how local climate"
+  },
+  {
+    "study_id": 22,
+    "auth": "Sarmiento",
+    "year": 2025,
+    "file": "Interconnected-Nature-and-People-Biosphere-Reserves-and-the-Power-of-Memory-and-Oral-Histories-as-Biocultural-Heritage-for-a-Sustainable-Future_2025_Multidisciplinary-Digital-Publishing-Institute-MDPI.pdf",
+    "n_chars": 118943,
+    "has_results_section": false,
+    "results_chars": 0,
+    "table_refs": 2,
+    "n_numeric_results": 0,
+    "n_numeric_total": 0,
+    "n_sample_sizes": 0,
+    "n_comparisons": 0,
+    "stats_summary": {},
+    "numeric_in_results": [],
+    "sample_sizes": [],
+    "comparisons": [],
+    "results_preview": "[NOT FOUND]",
+    "methods_preview": "[NOT FOUND]"
+  },
+  {
+    "study_id": 4,
+    "auth": "Gerner",
+    "year": 2023,
+    "file": "Mountain-Graticules-Bridging-Latitude-Longitude-Altitude-and-Historicity-to-Biocultural-Heritage_2023_Multidisciplinary-Digital-Publishing-Institute-MDPI.pdf",
+    "n_chars": 67393,
+    "has_results_section": true,
+    "results_chars": 22826,
+    "table_refs": 9,
+    "n_numeric_results": 0,
+    "n_numeric_total": 0,
+    "n_sample_sizes": 0,
+    "n_comparisons": 0,
+    "stats_summary": {},
+    "numeric_in_results": [],
+    "sample_sizes": [],
+    "comparisons": [],
+    "results_preview": "\n4. Results\n4.1. Montology Palimpsest Framework\nBiocultural diversity requires the mutual understanding of both tangible and intan-\ngible material heritage, gathered from transdisciplinary integration of mountainscape’s\nknowledges and conservation practices of IPLCs that live in or around protected areas\nin mountainous terrain [12]. It requires also the innovation push of revisiting estab-\nlished tenets with new lenses of decolonial scholarship and providing a situated and\nlocalized problematization of nature-culture hybrids found in mountain ecoregions and\ntheir MtPAs [41].\nIdeas that formed part of the initial corpus of the discipline (i.e., ecology, geography,\nconservation) with narrative of pragmatism and determinism have been debunked with\nthe shift of priorities and new trope of romantic possibilism [42]. To grasp with the change\nfollowing the Sauerian commandment, the difﬁcult deﬁnition of each term is made obvious\nwhen deﬁning its opposite. An example is given in Table 2 using the inverse deﬁnition\napproach (IDA). There is a plethora of terms identifying the graticules applicable to each\nsituational and speciﬁc conditions of the socioecological landscape.\nTable 2. Example of the inverse deﬁnition method when applied to otherwise very common terms of\ndifﬁcult construct and meaning, that becomes very clear when explained in its absence or opposite,\ncontrary meaning. The IDA requires a series of examples or iterations to obtain the meaning of the\nfactor in need of deﬁnition due to its reciprocal contradictory ideas.\nTerm\nConstruct\nInversed Deﬁnition\nSource\nSustainability\nSustainable\ndevelopment\nEasily explained when unsustainable practices affect the mountain\nsocioecological system = damaged or unsustainable.\nHamilton & Hurni\n2003 [43]\nHealth\nEnvironmental\nhealth\nEasily explained when sickness and disease is apparent in the\nmountain environment = unhealthy.\nDovjak & Kukec.\n2019 [44]\nKami\nSpiritual\nessence\nEasily explained when no religious or spiritual reaction is observed\nin the presence of mountain features = unanimated, atheist.\nBreen & Teeuwen\n2001 [45]\nHarmony\nNatural\nharmony\nEasily explained when disruption in the balance break the\nequilibrium in the mountain ecosystem = disequilibrium, chaos.\nBotkin 1990 [46]\nPeace\nPax\nAmericana\nEasily explained when violent acts and criminality pervade\nneighborhoods in the United States = revolts, insurgence and crime.\nKirkpatrick 2007 [47]\nOmotenashi\nJapanese\nhospitality\nEasily explained by rude stares and la",
+    "methods_preview": "[NOT FOUND]"
+  },
+  {
+    "study_id": 18,
+    "auth": "Franco-Moraes",
+    "year": 2023,
+    "file": "Stingless-bee-keeping-Biocultural-conservation-and-agroecological-education_2023_Frontiers-Media-SA.pdf",
+    "n_chars": 83639,
+    "has_results_section": true,
+    "results_chars": 20000,
+    "table_refs": 0,
+    "n_numeric_results": 0,
+    "n_numeric_total": 0,
+    "n_sample_sizes": 0,
+    "n_comparisons": 0,
+    "stats_summary": {},
+    "numeric_in_results": [],
+    "sample_sizes": [],
+    "comparisons": [],
+    "results_preview": "\nResults and discussion\nMeliponiculture as biocultural heritage\nAfter analyzing the situations under which meliponiculture\nis practiced and promoted in Mexico, we argue that it constitutes\na contested territory. At risk of oversimplifying, and with the\naim of contributing to reﬂection, we can identify two main\ntrends in meliponiculture. One group of breeders is focused on\ncommercialization and techniﬁcation, with little regard to non-\neconomic consideration. At the other end of the spectrum are\nthe breeders with whom we work. They focus on guaranteeing\naccess to the products of meliponiculture—honey and, more\nrecently, other products of the colonies such as propolis\nthat they recognize as important for health care—for their\nfamilies and communities. Their vision is holistic, embracing\nthe multiple, diverse connections that bee breeding has with\nthe environment. It is also historical, as it honors traditional\nhuman-bee relations, that are the base for the generation\nof new knowledge. This is meliponiculture with cultural\nidentity that embraces all the elements of saberes: knowledge,\npractice, beliefs, emotions, and feelings that stingless bee\nbreeding invokes and evokes in diﬀerent cultural frameworks.\nAs Chan Mutul’s et al. (2019) have emphasized, we should\ntalk about meliponicultures, in plural, to acknowledge the\nimpressive diversity of objectives and motivations surrounding\nbee breeding.\nWe considered it urgent to promote critical dialogue and\nlearning among beekeepers at both ends of this spectrum. The\nbiocultural diversity theoretical framework (Maﬃ, 2001, 2005;\nMathez-Stiefel et al., 2007; Pretty et al., 2009; Maﬃand Woodley,\n2012; Gavin et al., 2015; Rotherham, 2015; Vidal and Brusca,\n2020) could help build bridges for this necessary dialogue. The\nbiocultural focus is a powerful tool for diminishing the society-\nnature dichotomy and confronting the idea of the supremacy of\nhumans over other living beings that threatens the conservation\nof the biological diversity and that compromises its existence\nfor future generations, hence seriously aﬀecting the planet’s\nhealth. This agenda is particularly relevant in Mexico, as it is\nconsidered to be among the countries with the highest levels\nof biocultural diversity (Toledo, 2003; Loh and Harmon, 2005).\nSadly, this biocultural diversity is in peril, as many areas confront\na downward spiral of erosion of species diversity, coupled with\nFrontiers in Sustainable Food Systems\n08\nfrontiersin.org\n\nAldasoro Maya et ",
+    "methods_preview": "\nmethods\nand\napplications.\nEcol.\nAppl.\n10,\n5.\ndoi: 10.1890/1051-0761(2000)010[1270:UTEKIS]2.0.CO;2\nINAFED (2022). Enciclopedia de los Municipios y Delegaciones de México.\nTabasco.\nAvailable\nonline\nat:\nhttp://www.inafed.gob.mx/work/enciclopedia/\nEMM27tabasco/medioﬁsico.html (accessed September 11, 2022).\nINANA (2022). Abejas Para la Vida. Acciones en Torno al Cuidado de las Abejas\nNativas. Available online at: https://www.inana-ac.org/ (accessed July 20, 2022).\nIPBES (2016). Summary for Policymakers of the Assessment Report of the\nIntergovernmental\nScience-Policy\nPlatform\non\nBiodiversity\nand\nEcosystem\nServices on Pollinators, Pollination, and Food Production. Germany: Secretariat\nof\nthe\nIntergovernmental\nScience-Policy\nPlatform\non\nBiodiversity\nand\nEcosystem Services.\nJaﬀé, R., Pope, N., Carvalho, A. T., Maia, U. M., Blochtein, B., Carvalho, C. A.\nL., et al. (2015). Bees for development: Brazilian survey reveals how to optimize\nstingless beekeeping. PLoS ONE 10, e0130111. doi: 10.1371/journal.pone.0121157\nKevan, P., and Silva, P. N. (2020). “Pollination and agriculture,” in Encyclopedia\nof Social Insects, ed C. Starr (Suiza: Springer, Cham), 1–9. doi: 10.1007/978-3-319-\n90306-4_176-1\nKlein, A. M., Vaissière, B. E., Cane, J., Steﬀan-Dewenter, I., Cunningham, S. A.,\nKremen, C., et al. (2007). Importance of pollinators in changing landscapes for\nworld crops. Proc. R. Soc. B Biol. Sci. 274, 303–313. doi: 10.1098/rspb.2006.3721\nKorol, C. (2006). “Pedagogía de la resistencia y de las"
+  },
+  {
+    "study_id": 24,
+    "auth": "Bastos",
+    "year": 2024,
+    "file": "Strategies-for-managing-agrobiodiversity-by-peasant-farmers-in-the-CerradoCaatinga-ecotone-Southwest-Piau-Brazil_2024_Universidade-de-Brasilia.pdf",
+    "n_chars": 60916,
+    "has_results_section": true,
+    "results_chars": 20000,
+    "table_refs": 6,
+    "n_numeric_results": 0,
+    "n_numeric_total": 1,
+    "n_sample_sizes": 1,
+    "n_comparisons": 0,
+    "stats_summary": {},
+    "numeric_in_results": [],
+    "sample_sizes": [
+      {
+        "n": 18,
+        "context": "adult population) and 8 in the Mocambo community (n = 18 interviews). The  interviews included 10 men and"
+      }
+    ],
+    "comparisons": [],
+    "results_preview": "\n3 RESULTS AND DISCUSSION \n3.1 PHYTO-PHYSIOGNOMIC DIVERSITY OF PEASANT AGROECOSYSTEMS \nAgroecology operates on the principle that peasant agroecosystems are modifications of natural \necosystems through human activity (Gliessman, 2002; Hart, 1985; Petersen et al., 2017). These systems \nare considered open and structurally subordinate to larger-scale systems, engaging in exchanges of \nmatter, energy, and information with external subsystems. Each subsystem’s role is interaction and \nsupport, contributing to the self-organising dynamics of the entire system (Hart, 1985). \nUnderstanding peasant agroecosystems is inseparable from understanding the way of life of the people \ninvolved (Silva, 2021). Family farmers and peasants create and recreate their own knowledge, lifestyles, \nand agricultural systems, rooted in ancestral knowledge, while constantly reformulating these practices \nas necessary within the constraints of space, time, and daily realities (Conte; Souza, 2013). In this sense, \nthey are highly skilled at producing “abundant and diverse food in harmony with nature, respecting its \ncycles, recovering and maintaining what is essential [...]: water, fertile soils, biodiversity, cultural wealth, \nand the wisdom of peoples and communities” (Monteiro, 2012, p. 68), which sustain these spaces. \nWe observed that the peasants in the studied communities manage a diverse range of agroecosystems, \nwhich include different phyto-physiognomic types in both family and communal production areas (Figure 2).\nFigure 2 – Overview of the phyto-physiognomic diversity of agroecosystems in the studied communities;  \n(NSGA = Social Management Core of Agroecosystems)\nSource: Authors (2024).\n\nSousa et.al.\n153\nSustainability in Debate - Brasília, v. 15, n.3, p. 147-164, dez/2024\nISSN-e 2179-9067\nThe productive areas include wide phyto-physiognomic diversity, with family production spaces such \nas lowlands and wetlands. It was observed that the ecological diversity of these agroecosystems leads \nto common usage and management forms among peasants in both of the studied communities. These \nspaces host annual agricultural species, fruit trees, medicinal plants, and ornamental species (Table 1), \nalong with animal husbandry (chickens, goats, etc.). \nFrom the perspective of the farmers, certain areas are considered “weaker” lands, making them more \nsuitable for crops such as cassava (Manihot esculenta Crantz). The plateaus and home gardens are also \nreferred to as “higher lands,” wher",
+    "methods_preview": "\n2 METHODOLOGY \n2.1 STUDY AREA \nThe study area is located in the municipalities of Redenção do Gurgueia and Curimatá, in the southwest \nof Piauí (Figure 1). This region is part of the Chapadões da Serra Vermelha, an ecotone area between \nthe Cerrado and Caatinga, characterised by high biological diversity (Castro et al., 2008). Santos Filho \nand Souza (2018) estimated the existence of approximately 280 plant species and 79 animal species in \nthe ecotone. This region is included in the priority areas for Conservation by the Brazilian Ministry of \nthe Environment (MMA, 2018) due to the “irreplaceability” of its flora.\nFigure 1 – Location of the studied communities along sections of PI-257.\nSource: Prepared by Arthur Wendel (2023).\nThe Serra Vermelha region consists of “an important area of environmental interest in the northeastern \nhinterland, possessing one of the greatest biodiversity concentrations in Brazil, with its reddish rock \noutcrops and various other natural environments” (Batista; Albuquerque, 2019, p. 3). This region \nhas been the target of many disputes due to pressure from expanding the agricultural frontier \nfrom Matopiba, and it has now been claimed by the environmental movements as a protected area \ncontiguous to the Serra das Confusões National Park (Valor Econômico, 2023). \nThe local species are generally adapted to the conditions of water scarcity during the dry season and \nhigh temperatures. The “hypoxerophytic Caatinga” is characterised by heterogeneous "
+  },
+  {
+    "study_id": 48,
+    "auth": "Rodriguez F.",
+    "year": 2023,
+    "file": "The-Zo-perspective-on-what-scientists-call-forest-management-and-its-implications-for-floristic-diversity-and-biocultural-conservation_2023_Resilience-Alliance.pdf",
+    "n_chars": 104612,
+    "has_results_section": true,
+    "results_chars": 13531,
+    "table_refs": 14,
+    "n_numeric_results": 0,
+    "n_numeric_total": 0,
+    "n_sample_sizes": 0,
+    "n_comparisons": 1,
+    "stats_summary": {},
+    "numeric_in_results": [],
+    "sample_sizes": [],
+    "comparisons": [
+      {
+        "group": "old",
+        "value": "4.7",
+        "context": "intermediate aged (~70 years old) forest plot was 27.5% and 14.7% higher than in the old- growth forests ≥ 140a and ≥ 140b,"
+      }
+    ],
+    "results_preview": "\nRESULTS\nZoʻé’s forest TEK\nAccording to Zoʻé cosmology, animals and plants have volitions\nand interact through partnership, chieftainship, war, etc., so that\nwhat ecologists call ecological interactions the Zoʻé describe as\nsocial relations. For example, they say that the tapir (Tapirus\nterrestris) jiawu/calls the taman (a small hawk) to take its ticks off,\nas the taman is its ribe/pet; the agouti (Dasyprocta aguti) jaty/\nplants its flour (Brazil nut [Bertholletia excelsa]) and gets doryj/\nunhappy when the paca (Cuniculus paca) steals its food; the Harpy\nEagle (Harpia harpyja) is juke ijet/chieftain at killing, because it\nhunts large animals, such as spider monkeys (Ateles sp.); certain\ntrees (e.g., Cecropia sp.) ory/rejoice with other trees (e.g.,\nSchefflera sp.) and help them to grow, thus promoting a pijã/\npartnership. Places where these and other social relations\n(involving humans and/or non-humans) occur represent tekoha/\nsocial territory, because the development of these relations\npromotes a tekoha, which is a place where beings grow their food,\nhunt, sleep, etc. For example, swiddens are part of the tekoha of\nthe Zoʻé, but also of other non-humans that inhabit them, such\nas crops. Upland forest patches are the tekoha of spider monkeys,\nwho understand large trees (e.g., Angelim [Dinizia excelsa]) as\ntheir kiha/hammock, but are also the tekoha of some Zoʻé groups\nbecause such forests include their hunting trails. Therefore, all\nbeings have their own tekoha that are located in certain places,\nand these places are relational as they express an entanglement\nof tekoha of different beings according to their points of view (cf.\nde Castro 1998, de Oliveira 2016).  \nIn this context, the Zoʻé describe forest succession as\ntransformations of entanglements of human and non-human\ntekoha. Such transformations occur as social relations arise and\ndisappear, and the tekoha of certain beings are transformed into\nothers, so that the Zoʻé understand different forest successional\nstages as different tekoha entanglements. For example, they say\nthat in their mature swiddens, reduced cassava manioc (Manihot\nesculenta) production results from the volition of the very crop\nwho gets doryj/unhappy as its roots are perforated by flechal\n(Gynerium sagittatum), who want to establish their tekoha there.\nOver time, some trees (e.g., babake/Embaúba [Cecropia sp.]) and\npalms (e.g., takumã/Tukumã [Astrocaryum aculeatum]) expel the\nflechal, and other trees (e.g., tapery/Tapereba (Spondi",
+    "methods_preview": "\nMETHODS\nStudy area and population\nFieldwork was conducted on the Zoʻé Indigenous land (Fig. 1a).\nLocal landscapes are composed of large, open terra-firme forest\nareas, várzea forest areas, and small-medium patches of savannah\n(Pires and Prance 1985). Soils are similar among forested areas:\nthey are acidic, nutrient-poor, have a low cation-exchange\ncapacity, and are predominantly red-yellow Podzols and Oxisols\n(Venturieri et al. 2000). The climate is seasonal, humid tropical\nwith a rainy season between December to June and a dry season\nbetween July to November. Mean annual rainfall and temperature\nare 2192 mm and 27.5 °C, respectively (INMET 2020).  \nThe Zoʻé are a people of recent contact that live on their\nIndigenous land, which was ratified in 2009, and is located in\ninterfluvial forests between the Cuminapanema and Erepecuru\nRivers, in northern Pará State, Brazil. They were officially\ncontacted in 1982 by missionaries of the New Tribes Mission,\n\nEcology and Society 28(1): 37\nhttps://www.ecologyandsociety.org/vol28/iss1/art37/\n Fig. 1. Location of the Zo’é Indigenous Land, Pará, Brazil, and floristic plots. a) Location of the Zo’é Indigenous Land in the\nBrazilian Amazon; b) Route of the expedition we carried out in the Zo’é Indigenous Land; c) Location of the floristic plots with\nnames and ages in legend.\n \nwho started living near Zoʻé villages to evangelize them. In 1991,\nafter a fifth of the Zoʻé population had died of diseases\ntransmitted by non-Indigenous People, the N"
+  },
+  {
+    "study_id": 43,
+    "auth": "Aswani",
+    "year": 2020,
+    "file": "Towards-biocultural-conservation-Local-and-indigenous-knowledge-cultural-values-and-governance-of-the-White-Sturgeon-Canada_2020_MDPI.pdf",
+    "n_chars": 65409,
+    "has_results_section": true,
+    "results_chars": 20000,
+    "table_refs": 0,
+    "n_numeric_results": 0,
+    "n_numeric_total": 0,
+    "n_sample_sizes": 0,
+    "n_comparisons": 0,
+    "stats_summary": {},
+    "numeric_in_results": [],
+    "sample_sizes": [],
+    "comparisons": [],
+    "results_preview": "\n3. Results\n3.1. The Value of the White Sturgeon to Stó:l¯o Peoples\nThe Stó:l¯o believe traditions and stories are a necessary part of living as Stó:l¯o and maintaining\nhealth [47]. There are many Stó:l¯o stories that transmit knowledge and teach values associated with\nwhite sturgeon. Some of the unique attributes and adaptations of white sturgeon are often shared in\n“sweyal” (true news and personal stories) that convey Traditional Ecological Knowledge (TEK) about\nthe Fraser River ﬁshery, and Stó:l¯o Shoxwyam—the creation stories that convey cultural understanding\nand signiﬁcance of shweli—the energy, or “life force” that connects Stó:l¯o to their land, relations and\neverything within their traditional territory, and Stó:l¯o’s responsibility to look after everything that\nbelongs to them and “take care of all of their relations” [55].\nWhite sturgeon is considered an origin species to several Stó:l¯o communities [49,55,56] and\nits signiﬁcance is recorded and celebrated through cultural ceremony (dance, song) and art\n(paintings, carving). According to a respected Stó:l¯o elder and cultural advisor with the SRRMC,\ndespite signiﬁcant socio-cultural change in the region, these communities have kept the sturgeon song\nand the sturgeon dance alive (S. McHalsie—21 May 2016).\nThe white sturgeon is also associated with food security and plays a key role in maintaining and\nconnecting the people to natural systems. It has been said that during times of scarcity or hardship,\nthe sturgeon would oﬀer itself and feed the people. Some of these beliefs of the sturgeon as are\nembedded in Stó:l¯o transformation narratives—the origin stories that describe how individuals became\nsturgeon to ultimately help and serve the Stó:l¯o people (S. McHalsie—21 May 2016). In other words,\nthe relationship between the sturgeon and the Stó:l¯o people is not just physical but is metaphysical and\nspiritual as described by SRRMC Fisheries Manager Ernie Victor.\nThere are people who are sturgeon people and they have another level of teachings that come\nfrom sturgeon. They carry an understanding of those species, far more than most families\n. . . . every single year we go to the river and we feed the river and explain what we’re doing,\nand how we’re going to do it . . . we oﬀer food and say we are asking for safety, we′re asking\nyou to know that we′re coming here, our loved ones are going to come here with you, we talk\nto that river before we get busy on the river. (E. Victor—13 July 2016)\nStó:l¯o s",
+    "methods_preview": "[NOT FOUND]"
+  },
+  {
+    "study_id": 44,
+    "auth": "Bussmann",
+    "year": 2018,
+    "file": "s12231-018-9401-y.pdf",
+    "n_chars": 45546,
+    "has_results_section": true,
+    "results_chars": 2757,
+    "table_refs": 4,
+    "n_numeric_results": 0,
+    "n_numeric_total": 0,
+    "n_sample_sizes": 0,
+    "n_comparisons": 0,
+    "stats_summary": {},
+    "numeric_in_results": [],
+    "sample_sizes": [],
+    "comparisons": [],
+    "results_preview": "\nResults\nIn the present study (BNATGEO^), we found\noverall 331 useful plant species, with 324 Chácobo\nnames, in nine use categories with 45 subcategories,\nand detailed information on 15 plant parts used\n(Paniagua-Zambrana et al. 2017). Because our study\ninvolved a very large number of participants and\nfocused on the whole flora, this surpassed the data\nfound by all six previous studies (Nordenskiöld 1922;\nHaenke 1958; Prost 1970; Kelm 1972; Boom\n1987; Bergeron 1998) on all counts (Table 1).\nNATGEO included almost all species men-\ntioned as useful in previous studies (Fig. 2).\nWhile all species mentioned in the older studies\nwere also found in our present research (see\nPaniagua-Zambrana et al. 2017 for a complete spe-\ncies list), the two large botanical studies (Boom\n1987 and Bergeron 1998) did contain a variety of\nunique species, although only Bergeron (1998) did\nyield some unique indicator species, based on\nweighing species by numbers of mentions (Table 2).\nThis can be explained by the fact that both botanical\nstudies used the same 1-ha plot and employed a\ncomplete set of vouchers of this plot as prompts in\nsemi-structured interviews, however based only on a\nTABLE 1. SUMMARY STATISTICS ACROSS EACH OF THE EIGHT STUDIES.\nStudy\nSpecies\nChácobo names\nUse categories\nUse subcategories\nParts used\nNordenskiöld 1922\n20\n2\n6\n11\n6\nHaenke 1958\n9\n1\n3\n5\n4\nProst 1970\n39\n9\n6\n13\n8\nKelm 1972\n51\n47\n8\n16\n9\nBoom 1987\n399\n317\n8\n37\n11\nBergeron 1998\n329\n288\n8\n29\n9\nNATGEO\n331\n324\n9\n45\n15\n86\nECONOMIC BOTANY\n[VOL 72\n\nhandful of participants in each study. Most genera\n(108) were however shared by the three big general\nstudies (Boom 1987; Bergeron 1998; NATGEO).\nThe two oldest studies (Nordenskiöld 1922;\nHaenke 1958) both focused their interviews espe-\ncially on cultivated species (Fig. 3). Subsequently,\nmost of the previous studies tended to report more\nfruit uses, while the present study elucidated on\naverage more uses of plant trunks, especially for\nmedicinal purposes (Fig. 4). Overall, every single\nuse that had been mentioned in previous studies,\nincluding uses that had been regarded as\ndiscontinued by the botanical studies (Boom\n1987; Bergeron 1998) (e.g., bark-cloth, a wide va-\nriety of hunting arrows, household utensils), was\nencountered in the present study, save one very\nspecialized mention—a club, used for traditional\ndances and registered by Nordenskiöld (1922), did\nnot appear in any of the later studies.\nIn compliance with the Nagoya Protocol, the\noriginal field notebooks,",
+    "methods_preview": "[NOT FOUND]"
+  }
+]

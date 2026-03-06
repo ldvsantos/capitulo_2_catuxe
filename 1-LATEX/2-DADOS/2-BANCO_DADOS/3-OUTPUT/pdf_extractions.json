@@ -1,0 +1,860 @@
+[
+  {
+    "file": "ajol-file-journals_388_articles_271417_6656ff5bc0b68-Leul.pdf",
+    "n_chars": 71609,
+    "n_tables_extracted": 19,
+    "quant_keyword_count": 108,
+    "table_ref_count": 30,
+    "numeric_pattern_count": 2,
+    "results_quant_keywords": 50,
+    "results_numeric_count": 1,
+    "score": 400,
+    "is_quantitative": true,
+    "results_preview": "\n3. RESULTS\n3.1. Socio-demographic Characteristics of the Respondents\nVarious demographic characteristics can be found in table 3. Most respondents were men.\nTable 3. Demographic characteristics of the respondents.\nItems Alternatives No of Respondents Percentage\nSex Male 115 88%\nFemale 15 12%\nTotal 130 100%\nAge in year 25-35 20 15.4%\n36-45 55 42.3%\n46-55 30 23%\n56 and above 25 19..3%\nTotal 130 100%\nEducational Illiterate 32 24.6%\nbackground Elementary (1-4) 45 34.6%\nJunior (5-8) 28 21.5%\nHigh School (9-12) 25 19.3%\nTotal 130 100%\nHousehold size 1-5 40 30.8%\n6-7 62 47.7%\n8 and above 28 21.5%\nTotal 130 100%\nFarming 5-10 years 10 7.7%\nexperience 11-15 years 18 13.8%\n16-20 years 25 19.2%\n21-25 years 35 27%\n> 26 years 42 32.3%\nTotal 130 100%\n3.2. Design and Setting of Home Gardens\nIn the presen",
+    "numeric_excerpts": [
+      "tion of ecosystem services provided by HG owners (n = 130 informants)\n(Criteria adapted from Calvet-Mir et"
+    ],
+    "tables_preview": [
+      {
+        "page": 4,
+        "rows": 5,
+        "data": [
+          [
+            "Kebeles Geographical location Altitude\nLatitude Longitude"
+          ],
+          [
+            "Ashebaka walkite 7°63'07.96\"N 39°29'27.87\"E 2680 m"
+          ],
+          [
+            "Burkitu alkesa 7°81'99.89\"N 39°31'85.36\"E 2896 m"
+          ],
+          [
+            "Mankula gobele 7°74'18.34\"N 39°34'94.45\"E 3138 m"
+          ],
+          [
+            "Kogo ashebeka 7°71'10.07\"N 39°25'09.54\"E 3164 m"
+          ]
+        ]
+      },
+      {
+        "page": 6,
+        "rows": 6,
+        "data": [
+          [
+            "Selected Kebeles Total HHs (N) Selected HHs (n)"
+          ],
+          [
+            "Kogo Ashebeka 625 40"
+          ],
+          [
+            "Mankula Gobale 540 32"
+          ],
+          [
+            "Ashebeka walkite 465 2 8"
+          ],
+          [
+            "Burkitu alkesa 502 30"
+          ],
+          [
+            "Total 2,132 130"
+          ]
+        ]
+      },
+      {
+        "page": 9,
+        "rows": 24,
+        "data": [
+          [
+            "Items Alternatives No of Respondents Percentage",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "Sex",
+            "",
+            "Male",
+            "",
+            "",
+            "115",
+            "",
+            "",
+            "88%",
+            ""
+          ],
+          [
+            null,
+            "",
+            "Female",
+            "",
+            "",
+            "15",
+            "",
+            "",
+            "12%",
+            ""
+          ],
+          [
+            null,
+            "",
+            "Total",
+            "",
+            "",
+            "130",
+            "",
+            "",
+            "100%",
+            ""
+          ],
+          [
+            "Age in year",
+            "",
+            "25-35",
+            "",
+            "",
+            "20",
+            "",
+            "",
+            "15.4%",
+            ""
+          ],
+          [
+            null,
+            "",
+            "36-45",
+            "",
+            "",
+            "55",
+            "",
+            "",
+            "42.3%",
+            ""
+          ],
+          [
+            null,
+            "",
+            "46-55",
+            "",
+            "",
+            "30",
+            "",
+            "",
+            "23%",
+            ""
+          ],
+          [
+            null,
+            "",
+            "56 and above",
+            "",
+            "",
+            "25",
+            "",
+            "",
+            "19..3%",
+            ""
+          ],
+          [
+            null,
+            "",
+            "Total",
+            "",
+            "",
+            "130",
+            "",
+            "",
+            "100%",
+            ""
+          ],
+          [
+            "Educational\nbackground",
+            "",
+            "Illiterate",
+            "",
+            "",
+            "32",
+            "",
+            "",
+            "24.6%",
+            ""
+          ],
+          [
+            null,
+            "",
+            "Elementary (1-4)",
+            "",
+            "",
+            "45",
+            "",
+            "",
+            "34.6%",
+            ""
+          ],
+          [
+            null,
+            "",
+            "Junior (5-8)",
+            "",
+            "",
+            "28",
+            "",
+            "",
+            "21.5%",
+            ""
+          ],
+          [
+            null,
+            "",
+            "High School (9-12)",
+            "",
+            "",
+            "25",
+            "",
+            "",
+            "19.3%",
+            ""
+          ],
+          [
+            null,
+            "",
+            "Total",
+            "",
+            "",
+            "130",
+            "",
+            "",
+            "100%",
+            ""
+          ],
+          [
+            "Household size",
+            "",
+            "1-5",
+            "",
+            "",
+            "40",
+            "",
+            "",
+            "30.8%",
+            ""
+          ]
+        ]
+      },
+      {
+        "page": 9,
+        "rows": 2,
+        "data": [
+          [
+            "Educational"
+          ],
+          [
+            "background"
+          ]
+        ]
+      },
+      {
+        "page": 9,
+        "rows": 3,
+        "data": [
+          [
+            "Household size"
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "file": "s10722-017-0544-y.pdf",
+    "n_chars": 75473,
+    "n_tables_extracted": 4,
+    "quant_keyword_count": 61,
+    "table_ref_count": 20,
+    "numeric_pattern_count": 15,
+    "results_quant_keywords": 0,
+    "results_numeric_count": 0,
+    "score": 171,
+    "is_quantitative": true,
+    "results_preview": "[seção não localizada]",
+    "numeric_excerpts": [],
+    "tables_preview": [
+      {
+        "page": 11,
+        "rows": 2,
+        "data": [
+          [
+            "c.periods: p=0.421\nn=3\nahipa: p=0.038\nn=3\nn=2\nn=4\nn=1 **\nn=4\nn=2\nn=7\nn=13 ***"
+          ],
+          [
+            "ahipa: p=0.008\nn=2\nn=2\nn=1\nn=17 ***\nn=3 *\nn=4 ***"
+          ]
+        ]
+      },
+      {
+        "page": 11,
+        "rows": 2,
+        "data": [
+          [
+            "c.periods: p=0.40\nahipa: p=0.50\n*"
+          ],
+          [
+            "ahipa: p<0.001\n***"
+          ]
+        ]
+      },
+      {
+        "page": 11,
+        "rows": 2,
+        "data": [
+          [
+            "c.periods: p=0.181\nahipa: p=0.228\n***"
+          ],
+          [
+            "ahipa: p<0.001\n***\n**"
+          ]
+        ]
+      },
+      {
+        "page": 11,
+        "rows": 2,
+        "data": [
+          [
+            "c.periods: p=0.649\nahipa: p=0.675\n1994-1996\n2012"
+          ],
+          [
+            "ahipa: p=0.02\n2012\n***"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "file": "Guardians-of-heritage-womens-position-in-traditional-seed-systems-and-agroecology-in-Zimbabwe_2025_BioMed-Central-Ltd.pdf",
+    "n_chars": 80385,
+    "n_tables_extracted": 0,
+    "quant_keyword_count": 48,
+    "table_ref_count": 10,
+    "numeric_pattern_count": 0,
+    "results_quant_keywords": 34,
+    "results_numeric_count": 0,
+    "score": 146,
+    "is_quantitative": true,
+    "results_preview": "\nResults\nKalanga), that I recorded, translated, and transcribed. I\nscheduled field visits to coincide with key stages of the Across all four study communities, participants described\nagricultural calendar. The July–August 2022 visits took a close relationship between seed-saving practices and\nplace during the post-harvest storage season, allowing household resilience, cultural continuity, and autonomy\nobservation of preservation and storage techniques for over production. Women in particular framed seed pres-\ncrops such as millet, sorghum, rapoko, and groundnuts; ervation as a way to secure food without dependency on\nthe November–December 2022 visits coincided with purchased seed, adapt to changing rainfall patterns, and\nland preparation and planting, providing insights into maintain contr",
+    "numeric_excerpts": [],
+    "tables_preview": []
+  },
+  {
+    "file": "A-Quantitative-Study-on-the-Ethnobotanical-Knowledge-about-Wild-Edible-Plants-among-the-Population-of-Messiwa_2022_NLM-Medline.pdf",
+    "n_chars": 28603,
+    "n_tables_extracted": 0,
+    "quant_keyword_count": 61,
+    "table_ref_count": 9,
+    "numeric_pattern_count": 20,
+    "results_quant_keywords": 0,
+    "results_numeric_count": 0,
+    "score": 128,
+    "is_quantitative": true,
+    "results_preview": "[seção não localizada]",
+    "numeric_excerpts": [],
+    "tables_preview": []
+  },
+  {
+    "file": "1-s2.0-S1470160X20308037-main.pdf",
+    "n_chars": 61230,
+    "n_tables_extracted": 0,
+    "quant_keyword_count": 66,
+    "table_ref_count": 3,
+    "numeric_pattern_count": 0,
+    "results_quant_keywords": 0,
+    "results_numeric_count": 0,
+    "score": 75,
+    "is_quantitative": true,
+    "results_preview": "[seção não localizada]",
+    "numeric_excerpts": [],
+    "tables_preview": []
+  },
+  {
+    "file": "s13412-024-00888-3.pdf",
+    "n_chars": 79033,
+    "n_tables_extracted": 5,
+    "quant_keyword_count": 23,
+    "table_ref_count": 0,
+    "numeric_pattern_count": 11,
+    "results_quant_keywords": 0,
+    "results_numeric_count": 0,
+    "score": 70,
+    "is_quantitative": true,
+    "results_preview": "[seção não localizada]",
+    "numeric_excerpts": [],
+    "tables_preview": [
+      {
+        "page": 3,
+        "rows": 3,
+        "data": [
+          [
+            "",
+            "Identification",
+            null,
+            ""
+          ],
+          [
+            null,
+            "Removal after screening: Not\naccessible (n = 14), non- English\nlanguages(n = 6)\nIncluded\nTotal articles considered (n = 77)",
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            "Removal after screening: Not\naccessible (n = 14), non- English\nlanguages(n = 6)",
+            null
+          ]
+        ]
+      },
+      {
+        "page": 3,
+        "rows": 2,
+        "data": [
+          [
+            "Secondary screening through\nbrowsing full texts (n = 97)"
+          ],
+          [
+            ""
+          ]
+        ]
+      },
+      {
+        "page": 4,
+        "rows": 1,
+        "data": [
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      {
+        "page": 4,
+        "rows": 7,
+        "data": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            ""
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            ""
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            "",
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            "",
+            "",
+            ""
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      {
+        "page": 5,
+        "rows": 6,
+        "data": [
+          [
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            null
+          ],
+          [
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            null,
+            null,
+            null
+          ],
+          [
+            "",
+            "",
+            null,
+            null
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "file": "1-s2.0-S1462901124001953-main.pdf",
+    "n_chars": 61805,
+    "n_tables_extracted": 0,
+    "quant_keyword_count": 28,
+    "table_ref_count": 8,
+    "numeric_pattern_count": 1,
+    "results_quant_keywords": 0,
+    "results_numeric_count": 0,
+    "score": 54,
+    "is_quantitative": true,
+    "results_preview": "[seção não localizada]",
+    "numeric_excerpts": [],
+    "tables_preview": []
+  },
+  {
+    "file": "s12231-018-9401-y.pdf",
+    "n_chars": 42784,
+    "n_tables_extracted": 2,
+    "quant_keyword_count": 35,
+    "table_ref_count": 1,
+    "numeric_pattern_count": 0,
+    "results_quant_keywords": 0,
+    "results_numeric_count": 0,
+    "score": 48,
+    "is_quantitative": true,
+    "results_preview": "[seção não localizada]",
+    "numeric_excerpts": [],
+    "tables_preview": [
+      {
+        "page": 9,
+        "rows": 7,
+        "data": [
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      {
+        "page": 9,
+        "rows": 3,
+        "data": [
+          [
+            ""
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "file": "Ethnobotany-of-the-Aegadian-Islands-safeguarding-biocultural-refugia-in-the-Mediterranean_2021_BioMed-Central-Ltd.pdf",
+    "n_chars": 75608,
+    "n_tables_extracted": 0,
+    "quant_keyword_count": 33,
+    "table_ref_count": 4,
+    "numeric_pattern_count": 0,
+    "results_quant_keywords": 0,
+    "results_numeric_count": 0,
+    "score": 45,
+    "is_quantitative": true,
+    "results_preview": "[seção não localizada]",
+    "numeric_excerpts": [],
+    "tables_preview": []
+  },
+  {
+    "file": "Biocultural-conservation-systems-in-the-Mediterranean-region-the-role-of-values-rules-and-knowledge_2023_Springer.pdf",
+    "n_chars": 77627,
+    "n_tables_extracted": 0,
+    "quant_keyword_count": 5,
+    "table_ref_count": 5,
+    "numeric_pattern_count": 0,
+    "results_quant_keywords": 1,
+    "results_numeric_count": 0,
+    "score": 22,
+    "is_quantitative": false,
+    "results_preview": "\nResults\nSystem characteristics\nAgdal, Morocco\nAgdal in rural Morocco is a system in which access to cer-\ntain agrosilvopastoral resources is seasonally prohibited to\nallow for recovery during the most sensitive plant-growth\nperiod. It is characterized by collective land management\nthrough customary institutions, e.g. household assemblies\n(jmaa), communally selected guardians (aêssass), and laws\n(laôrf) that govern the periodic suspension of land users’\nrights. Agdal balances resource conservation with local\nusers’ interests and sustains social cohesion, long-standing\ncultural practices, and religious rites. Three types of agdal\nsystems exist: (a) highland pasture agdal, common through-\nout the High Atlas Mountains and typically comprising high-\nland grass-and shrublands; (b) montane fores",
+    "numeric_excerpts": [],
+    "tables_preview": []
+  },
+  {
+    "file": "Towards-biocultural-conservation-Local-and-indigenous-knowledge-cultural-values-and-governance-of-the-White-Sturgeon-Canada_2020_MDPI.pdf",
+    "n_chars": 61028,
+    "n_tables_extracted": 1,
+    "quant_keyword_count": 10,
+    "table_ref_count": 0,
+    "numeric_pattern_count": 0,
+    "results_quant_keywords": 1,
+    "results_numeric_count": 0,
+    "score": 17,
+    "is_quantitative": false,
+    "results_preview": "\n3. Results\n3.1. TheValueoftheWhiteSturgeontoStó:lo¯Peoples\nTheStó:lo¯ believetraditionsandstoriesareanecessarypartoflivingasStó:lo¯ andmaintaining\nhealth[47]. TherearemanyStó:lo¯ storiesthattransmitknowledgeandteachvaluesassociatedwith\nwhitesturgeon. Someoftheuniqueattributesandadaptationsofwhitesturgeonareoftensharedin\n“sweyal”(truenewsandpersonalstories)thatconveyTraditionalEcologicalKnowledge(TEK)about\ntheFraserRiverfishery,andStó:lo¯ Shoxwyam—thecreationstoriesthatconveyculturalunderstanding\nandsignificanceofshweli—theenergy,or“lifeforce”thatconnectsStó:lo¯ totheirland,relationsand\neverythingwithintheirtraditionalterritory,andStó:lo¯’sresponsibilitytolookaftereverythingthat\nbelongstothemand“takecareofalloftheirrelations”[55].\nWhite sturgeon is considered an origin species to several S",
+    "numeric_excerpts": [],
+    "tables_preview": [
+      {
+        "page": 4,
+        "rows": 4,
+        "data": [
+          [
+            null,
+            "Telheec twedhiTtrei bstaulrCgoeounn ciisl st,hteh elaSrgtóe:slto¯ aNnadt iloonngaensdt-ltihveinSgt óf:rleo¯shTrwibaatelrC foisuhn scpile,cdieelsi vine rNkoeryths eArvmiceersictao,"
+          ],
+          [
+            "mwiatnhy soStmó:el o¯incdoimvimduuanlist ireesp,oanrtdedse avte orvalerS tsóix:l o¯mceotmerms iunn lietniegsthar aenads s1o0c0i ayteeadrsw oitfh agTrei.b Tahlee nstpieticeises(T inîthTarbibites,",
+            null
+          ],
+          [
+            "PvailrailotuTsr ibriev,earnsd iTns ’welexswteeryne qBwritTirsihb eC)othluatmabsisais tawndit hbrioeslooguirsctes mhaanvea gcermeaetnetda ncdataecgcoersise,s bouft tshiexr esuabre-",
+            null
+          ],
+          [
+            "aplospoualantuiomnbse rbaosfeidn doenp ehnadbeintatlty agfofivneitryn.e",
+            null
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "file": "Stingless-bee-keeping-Biocultural-conservation-and-agroecological-education_2023_Frontiers-Media-SA.pdf",
+    "n_chars": 78861,
+    "n_tables_extracted": 0,
+    "quant_keyword_count": 15,
+    "table_ref_count": 0,
+    "numeric_pattern_count": 0,
+    "results_quant_keywords": 0,
+    "results_numeric_count": 0,
+    "score": 15,
+    "is_quantitative": false,
+    "results_preview": "[seção não localizada]",
+    "numeric_excerpts": [],
+    "tables_preview": []
+  },
+  {
+    "file": "18-doyle-615-628.pdf",
+    "n_chars": 65830,
+    "n_tables_extracted": 0,
+    "quant_keyword_count": 13,
+    "table_ref_count": 0,
+    "numeric_pattern_count": 0,
+    "results_quant_keywords": 0,
+    "results_numeric_count": 0,
+    "score": 13,
+    "is_quantitative": false,
+    "results_preview": "[seção não localizada]",
+    "numeric_excerpts": [],
+    "tables_preview": []
+  },
+  {
+    "file": "Beyond-biodiversity-conservation-Land-sharing-constitutes-sustainable-agriculture-in-European-cultural-landscapes_2018_MDPI.pdf",
+    "n_chars": 44796,
+    "n_tables_extracted": 0,
+    "quant_keyword_count": 1,
+    "table_ref_count": 0,
+    "numeric_pattern_count": 0,
+    "results_quant_keywords": 0,
+    "results_numeric_count": 0,
+    "score": 1,
+    "is_quantitative": false,
+    "results_preview": "[seção não localizada]",
+    "numeric_excerpts": [],
+    "tables_preview": []
+  },
+  {
+    "file": "A-Biodiversity-Hotspot-Losing-Its-Biocultural-Heritage-The-Challenge-to-Biocultural-Conservation-of-Brazilwood-Paubrasilia-echinata_2022_Frontiers-Media-SA.pdf",
+    "error": "[Errno 2] No such file or directory: 'c:\\\\Users\\\\vidal\\\\OneDrive\\\\Documentos\\\\13 - CLONEGIT\\\\artigo_2_catuxe\\\\1-LATEX\\\\2-DADOS\\\\2-BANCO_DADOS\\\\1-ARTIGOS_SELECIONADOS\\\\A-Biodiversity-Hotspot-Losing-Its-Biocultural-Heritage-The-Challenge-to-Biocultural-Conservation-of-Brazilwood-Paubrasilia-echinata_2022_Frontiers-Media-SA.pdf'",
+    "is_quantitative": false,
+    "score": 0
+  },
+  {
+    "file": "Colourful-agrobiodiversity-morphology-and-phenology-of-bean-landraces-to-face-commodification-of-the-commons-in-the-southern-Andes_2026_Springer-Science-and-Business-Media-Deutschland-GmbH.pdf",
+    "error": "[Errno 2] No such file or directory: 'c:\\\\Users\\\\vidal\\\\OneDrive\\\\Documentos\\\\13 - CLONEGIT\\\\artigo_2_catuxe\\\\1-LATEX\\\\2-DADOS\\\\2-BANCO_DADOS\\\\1-ARTIGOS_SELECIONADOS\\\\Colourful-agrobiodiversity-morphology-and-phenology-of-bean-landraces-to-face-commodification-of-the-commons-in-the-southern-Andes_2026_Springer-Science-and-Business-Media-Deutschland-GmbH.pdf'",
+    "is_quantitative": false,
+    "score": 0
+  },
+  {
+    "file": "Comparison-of-medicinal-plant-knowledge-between-rural-and-urban-people-living-in-the-Biosphere-Reserve-Bioma-PampaQuebradas-del-Norte-Uruguay-An-opportunity-for-biocultural-conservation_2018_Universidade-Federal-Ru.pdf",
+    "error": "[Errno 2] No such file or directory: 'c:\\\\Users\\\\vidal\\\\OneDrive\\\\Documentos\\\\13 - CLONEGIT\\\\artigo_2_catuxe\\\\1-LATEX\\\\2-DADOS\\\\2-BANCO_DADOS\\\\1-ARTIGOS_SELECIONADOS\\\\Comparison-of-medicinal-plant-knowledge-between-rural-and-urban-people-living-in-the-Biosphere-Reserve-Bioma-PampaQuebradas-del-Norte-Uruguay-An-opportunity-for-biocultural-conservation_2018_Universidade-Federal-Ru.pdf'",
+    "is_quantitative": false,
+    "score": 0
+  },
+  {
+    "file": "Erosion-of-traditional-ecological-knowledge-under-conditions-of-hydrosocial-rupture-Insights-from-the-Mekong-floodplains-communities_2025_Springer-Science-and-Business-Media-BV.pdf",
+    "error": "[Errno 2] No such file or directory: 'c:\\\\Users\\\\vidal\\\\OneDrive\\\\Documentos\\\\13 - CLONEGIT\\\\artigo_2_catuxe\\\\1-LATEX\\\\2-DADOS\\\\2-BANCO_DADOS\\\\1-ARTIGOS_SELECIONADOS\\\\Erosion-of-traditional-ecological-knowledge-under-conditions-of-hydrosocial-rupture-Insights-from-the-Mekong-floodplains-communities_2025_Springer-Science-and-Business-Media-BV.pdf'",
+    "is_quantitative": false,
+    "score": 0
+  },
+  {
+    "file": "Ethnobotany-and-conservation-applications-in-the-Noken-making-by-the-Sougb-Tribe-of-West-Papua-Indonesia_2023_Society-for-Indonesian-Biodiversity.pdf",
+    "error": "[Errno 2] No such file or directory: 'c:\\\\Users\\\\vidal\\\\OneDrive\\\\Documentos\\\\13 - CLONEGIT\\\\artigo_2_catuxe\\\\1-LATEX\\\\2-DADOS\\\\2-BANCO_DADOS\\\\1-ARTIGOS_SELECIONADOS\\\\Ethnobotany-and-conservation-applications-in-the-Noken-making-by-the-Sougb-Tribe-of-West-Papua-Indonesia_2023_Society-for-Indonesian-Biodiversity.pdf'",
+    "is_quantitative": false,
+    "score": 0
+  },
+  {
+    "file": "Exploring-farmers-perspectives-on-agrobiodiversity-management-future-options-for-quinoa-smallholder-organizations-in-the-Peruvian-high-Andes_2023_SpringerVerlag-Italia-srl.pdf",
+    "error": "[Errno 2] No such file or directory: 'c:\\\\Users\\\\vidal\\\\OneDrive\\\\Documentos\\\\13 - CLONEGIT\\\\artigo_2_catuxe\\\\1-LATEX\\\\2-DADOS\\\\2-BANCO_DADOS\\\\1-ARTIGOS_SELECIONADOS\\\\Exploring-farmers-perspectives-on-agrobiodiversity-management-future-options-for-quinoa-smallholder-organizations-in-the-Peruvian-high-Andes_2023_SpringerVerlag-Italia-srl.pdf'",
+    "is_quantitative": false,
+    "score": 0
+  },
+  {
+    "file": "Interconnected-Nature-and-People-Biosphere-Reserves-and-the-Power-of-Memory-and-Oral-Histories-as-Biocultural-Heritage-for-a-Sustainable-Future_2025_Multidisciplinary-Digital-Publishing-Institute-MDPI.pdf",
+    "error": "[Errno 2] No such file or directory: 'c:\\\\Users\\\\vidal\\\\OneDrive\\\\Documentos\\\\13 - CLONEGIT\\\\artigo_2_catuxe\\\\1-LATEX\\\\2-DADOS\\\\2-BANCO_DADOS\\\\1-ARTIGOS_SELECIONADOS\\\\Interconnected-Nature-and-People-Biosphere-Reserves-and-the-Power-of-Memory-and-Oral-Histories-as-Biocultural-Heritage-for-a-Sustainable-Future_2025_Multidisciplinary-Digital-Publishing-Institute-MDPI.pdf'",
+    "is_quantitative": false,
+    "score": 0
+  },
+  {
+    "file": "Mountain-Graticules-Bridging-Latitude-Longitude-Altitude-and-Historicity-to-Biocultural-Heritage_2023_Multidisciplinary-Digital-Publishing-Institute-MDPI.pdf",
+    "error": "[Errno 2] No such file or directory: 'c:\\\\Users\\\\vidal\\\\OneDrive\\\\Documentos\\\\13 - CLONEGIT\\\\artigo_2_catuxe\\\\1-LATEX\\\\2-DADOS\\\\2-BANCO_DADOS\\\\1-ARTIGOS_SELECIONADOS\\\\Mountain-Graticules-Bridging-Latitude-Longitude-Altitude-and-Historicity-to-Biocultural-Heritage_2023_Multidisciplinary-Digital-Publishing-Institute-MDPI.pdf'",
+    "is_quantitative": false,
+    "score": 0
+  },
+  {
+    "file": "Socialecological-interactions-in-a-disaster-context-Puerto-Rican-farmer-households-food-security-after-Hurricane-Maria_2022_IOP-Publishing-Ltd.pdf",
+    "error": "[Errno 2] No such file or directory: 'c:\\\\Users\\\\vidal\\\\OneDrive\\\\Documentos\\\\13 - CLONEGIT\\\\artigo_2_catuxe\\\\1-LATEX\\\\2-DADOS\\\\2-BANCO_DADOS\\\\1-ARTIGOS_SELECIONADOS\\\\Socialecological-interactions-in-a-disaster-context-Puerto-Rican-farmer-households-food-security-after-Hurricane-Maria_2022_IOP-Publishing-Ltd.pdf'",
+    "is_quantitative": false,
+    "score": 0
+  },
+  {
+    "file": "Strategies-for-managing-agrobiodiversity-by-peasant-farmers-in-the-CerradoCaatinga-ecotone-Southwest-Piau-Brazil_2024_Universidade-de-Brasilia.pdf",
+    "error": "[Errno 2] No such file or directory: 'c:\\\\Users\\\\vidal\\\\OneDrive\\\\Documentos\\\\13 - CLONEGIT\\\\artigo_2_catuxe\\\\1-LATEX\\\\2-DADOS\\\\2-BANCO_DADOS\\\\1-ARTIGOS_SELECIONADOS\\\\Strategies-for-managing-agrobiodiversity-by-peasant-farmers-in-the-CerradoCaatinga-ecotone-Southwest-Piau-Brazil_2024_Universidade-de-Brasilia.pdf'",
+    "is_quantitative": false,
+    "score": 0
+  },
+  {
+    "file": "The-Zo-perspective-on-what-scientists-call-forest-management-and-its-implications-for-floristic-diversity-and-biocultural-conservation_2023_Resilience-Alliance.pdf",
+    "error": "[Errno 2] No such file or directory: 'c:\\\\Users\\\\vidal\\\\OneDrive\\\\Documentos\\\\13 - CLONEGIT\\\\artigo_2_catuxe\\\\1-LATEX\\\\2-DADOS\\\\2-BANCO_DADOS\\\\1-ARTIGOS_SELECIONADOS\\\\The-Zo-perspective-on-what-scientists-call-forest-management-and-its-implications-for-floristic-diversity-and-biocultural-conservation_2023_Resilience-Alliance.pdf'",
+    "is_quantitative": false,
+    "score": 0
+  },
+  {
+    "file": "Unearthing-Unevenness-of-Potato-Seed-Networks-in-the-High-Andes-A-Comparison-of-Distinct-Cultivar-Groups-and-Farmer-Types-Following-Seasons-With-and-Without-Acute-Stress_2018_Frontiers-Media-SA-infofrontiersinorg.pdf",
+    "error": "[Errno 2] No such file or directory: 'c:\\\\Users\\\\vidal\\\\OneDrive\\\\Documentos\\\\13 - CLONEGIT\\\\artigo_2_catuxe\\\\1-LATEX\\\\2-DADOS\\\\2-BANCO_DADOS\\\\1-ARTIGOS_SELECIONADOS\\\\Unearthing-Unevenness-of-Potato-Seed-Networks-in-the-High-Andes-A-Comparison-of-Distinct-Cultivar-Groups-and-Farmer-Types-Following-Seasons-With-and-Without-Acute-Stress_2018_Frontiers-Media-SA-infofrontiersinorg.pdf'",
+    "is_quantitative": false,
+    "score": 0
+  },
+  {
+    "file": "Voices-Around-the-South-Tyrolean-Herbal-PharmacyExploring-the-Stakeholder-Landscape-and-Perspectives-on-Medicinal-Plants-as-Culturally-Salient-Species_2025_SAGE-Publications-Ltd.pdf",
+    "error": "[Errno 2] No such file or directory: 'c:\\\\Users\\\\vidal\\\\OneDrive\\\\Documentos\\\\13 - CLONEGIT\\\\artigo_2_catuxe\\\\1-LATEX\\\\2-DADOS\\\\2-BANCO_DADOS\\\\1-ARTIGOS_SELECIONADOS\\\\Voices-Around-the-South-Tyrolean-Herbal-PharmacyExploring-the-Stakeholder-Landscape-and-Perspectives-on-Medicinal-Plants-as-Culturally-Salient-Species_2025_SAGE-Publications-Ltd.pdf'",
+    "is_quantitative": false,
+    "score": 0
+  }
+]

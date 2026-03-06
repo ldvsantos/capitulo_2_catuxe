@@ -1,0 +1,241 @@
+{
+  "matched": [
+    {
+      "file": "1-s2.0-S1462901124001953-main.pdf",
+      "matched_id": null,
+      "matched_doi": null,
+      "sample_dois": [
+        "10.1016/j.envsci.2024.103861"
+      ]
+    },
+    {
+      "file": "1-s2.0-S1470160X20308037-main.pdf",
+      "matched_id": null,
+      "matched_doi": null,
+      "sample_dois": [
+        "10.1016/j.ecolind.2020.106865"
+      ]
+    },
+    {
+      "file": "18-doyle-615-628.pdf",
+      "matched_id": 36,
+      "matched_doi": "10.20506/rst.38.2.3008",
+      "sample_dois": [
+        "10.20506/rst.38.2.3008"
+      ]
+    },
+    {
+      "file": "A-Biodiversity-Hotspot-Losing-Its-Biocultural-Heritage-The-Challenge-to-Biocultural-Conservation-of-Brazilwood-Paubrasilia-echinata_2022_Frontiers-Media-SA.pdf",
+      "matched_id": 3,
+      "matched_doi": "10.3389/ffgc.2022.696757",
+      "sample_dois": [
+        "10.3389/ffgc.2022.696757"
+      ]
+    },
+    {
+      "file": "A-Quantitative-Study-on-the-Ethnobotanical-Knowledge-about-Wild-Edible-Plants-among-the-Population-of-Messiwa_2022_NLM-Medline.pdf",
+      "matched_id": null,
+      "matched_doi": null,
+      "sample_dois": [
+        "10.4314/ejhs.v32i6.22"
+      ]
+    },
+    {
+      "file": "Beyond-biodiversity-conservation-Land-sharing-constitutes-sustainable-agriculture-in-European-cultural-landscapes_2018_MDPI.pdf",
+      "matched_id": 39,
+      "matched_doi": "10.3390/su10051395",
+      "sample_dois": [
+        "10.3390/su10051395"
+      ]
+    },
+    {
+      "file": "Biocultural-conservation-systems-in-the-Mediterranean-region-the-role-of-values-rules-and-knowledge_2023_Springer.pdf",
+      "matched_id": 13,
+      "matched_doi": "10.1007/s11625-022-01155-6",
+      "sample_dois": [
+        "10.1007/s11625-022-01155-6"
+      ]
+    },
+    {
+      "file": "Colourful-agrobiodiversity-morphology-and-phenology-of-bean-landraces-to-face-commodification-of-the-commons-in-the-southern-Andes_2026_Springer-Science-and-Business-Media-Deutschland-GmbH.pdf",
+      "matched_id": 4,
+      "matched_doi": "10.1186/s40529-025-00488-6",
+      "sample_dois": [
+        "10.1186/s40529-025-00488-6"
+      ]
+    },
+    {
+      "file": "Comparison-of-medicinal-plant-knowledge-between-rural-and-urban-people-living-in-the-Biosphere-Reserve-Bioma-PampaQuebradas-del-Norte-Uruguay-An-opportunity-for-biocultural-conservation_2018_Universidade-Federal-Ru.pdf",
+      "matched_id": 9,
+      "matched_doi": "10.15451/ec2018-03-07.04-1-34",
+      "sample_dois": [
+        "10.15451/ec2018-03-07.04-1-34"
+      ]
+    },
+    {
+      "file": "Erosion-of-traditional-ecological-knowledge-under-conditions-of-hydrosocial-rupture-Insights-from-the-Mekong-floodplains-communities_2025_Springer-Science-and-Business-Media-BV.pdf",
+      "matched_id": 15,
+      "matched_doi": "10.1007/s13280-025-02172-2",
+      "sample_dois": [
+        "10.1007/s13280-025-02172-2"
+      ]
+    },
+    {
+      "file": "Ethnobotany-and-conservation-applications-in-the-Noken-making-by-the-Sougb-Tribe-of-West-Papua-Indonesia_2023_Society-for-Indonesian-Biodiversity.pdf",
+      "matched_id": 16,
+      "matched_doi": "10.13057/biodiv/d240861",
+      "sample_dois": [
+        "10.13057/biodiv/d240861"
+      ]
+    },
+    {
+      "file": "Ethnobotany-of-the-Aegadian-Islands-safeguarding-biocultural-refugia-in-the-Mediterranean_2021_BioMed-Central-Ltd.pdf",
+      "matched_id": 27,
+      "matched_doi": "10.1186/s13002-021-00470-z",
+      "sample_dois": [
+        "10.1186/s13002-021-00470-z"
+      ]
+    },
+    {
+      "file": "Exploring-farmers-perspectives-on-agrobiodiversity-management-future-options-for-quinoa-smallholder-organizations-in-the-Peruvian-high-Andes_2023_SpringerVerlag-Italia-srl.pdf",
+      "matched_id": 11,
+      "matched_doi": "10.1007/s13593-023-00891-y",
+      "sample_dois": [
+        "10.1007/s13593-023-00891-y"
+      ]
+    },
+    {
+      "file": "Guardians-of-heritage-womens-position-in-traditional-seed-systems-and-agroecology-in-Zimbabwe_2025_BioMed-Central-Ltd.pdf",
+      "matched_id": 20,
+      "matched_doi": "10.1186/s40066-025-00573-w",
+      "sample_dois": [
+        "10.1186/s40066-025-00573-w"
+      ]
+    },
+    {
+      "file": "Interconnected-Nature-and-People-Biosphere-Reserves-and-the-Power-of-Memory-and-Oral-Histories-as-Biocultural-Heritage-for-a-Sustainable-Future_2025_Multidisciplinary-Digital-Publishing-Institute-MDPI.pdf",
+      "matched_id": 19,
+      "matched_doi": "10.3390/su17094030",
+      "sample_dois": [
+        "10.3390/su17094030"
+      ]
+    },
+    {
+      "file": "Mountain-Graticules-Bridging-Latitude-Longitude-Altitude-and-Historicity-to-Biocultural-Heritage_2023_Multidisciplinary-Digital-Publishing-Institute-MDPI.pdf",
+      "matched_id": 6,
+      "matched_doi": "10.3390/geographies3010002",
+      "sample_dois": [
+        "10.3390/geographies3010002"
+      ]
+    },
+    {
+      "file": "Socialecological-interactions-in-a-disaster-context-Puerto-Rican-farmer-households-food-security-after-Hurricane-Maria_2022_IOP-Publishing-Ltd.pdf",
+      "matched_id": null,
+      "matched_doi": null,
+      "sample_dois": [
+        "10.1088/1748-9326/ac6004"
+      ]
+    },
+    {
+      "file": "Stingless-bee-keeping-Biocultural-conservation-and-agroecological-education_2023_Frontiers-Media-SA.pdf",
+      "matched_id": 7,
+      "matched_doi": "10.3389/fsufs.2022.1081400",
+      "sample_dois": [
+        "10.3389/fsufs.2022.1081400"
+      ]
+    },
+    {
+      "file": "Strategies-for-managing-agrobiodiversity-by-peasant-farmers-in-the-CerradoCaatinga-ecotone-Southwest-Piau-Brazil_2024_Universidade-de-Brasilia.pdf",
+      "matched_id": 5,
+      "matched_doi": "10.18472/sustdeb.v15n3.2024.55679",
+      "sample_dois": [
+        "10.18472/sustdeb.v15n3.2024.55679"
+      ]
+    },
+    {
+      "file": "The-Zo-perspective-on-what-scientists-call-forest-management-and-its-implications-for-floristic-diversity-and-biocultural-conservation_2023_Resilience-Alliance.pdf",
+      "matched_id": null,
+      "matched_doi": null,
+      "sample_dois": []
+    },
+    {
+      "file": "Towards-biocultural-conservation-Local-and-indigenous-knowledge-cultural-values-and-governance-of-the-White-Sturgeon-Canada_2020_MDPI.pdf",
+      "matched_id": 14,
+      "matched_doi": "10.3390/su12187320",
+      "sample_dois": [
+        "10.3390/su12187320"
+      ]
+    },
+    {
+      "file": "Unearthing-Unevenness-of-Potato-Seed-Networks-in-the-High-Andes-A-Comparison-of-Distinct-Cultivar-Groups-and-Farmer-Types-Following-Seasons-With-and-Without-Acute-Stress_2018_Frontiers-Media-SA-infofrontiersinorg.pdf",
+      "matched_id": 37,
+      "matched_doi": "10.3389/fsufs.2018.00043",
+      "sample_dois": [
+        "10.3389/fsufs.2018.00043"
+      ]
+    },
+    {
+      "file": "Voices-Around-the-South-Tyrolean-Herbal-PharmacyExploring-the-Stakeholder-Landscape-and-Perspectives-on-Medicinal-Plants-as-Culturally-Salient-Species_2025_SAGE-Publications-Ltd.pdf",
+      "matched_id": 30,
+      "matched_doi": "10.1177/02780771251349282",
+      "sample_dois": [
+        "10.1177/02780771251349282"
+      ]
+    },
+    {
+      "file": "ajol-file-journals_388_articles_271417_6656ff5bc0b68-Leul.pdf",
+      "matched_id": 32,
+      "matched_doi": "10.4314/mejs.v16i1.6",
+      "sample_dois": [
+        "10.4314/mejs.v16i1.6"
+      ]
+    },
+    {
+      "file": "s10722-017-0544-y.pdf",
+      "matched_id": null,
+      "matched_doi": null,
+      "sample_dois": [
+        "10.1007/s10722-017-0544-y"
+      ]
+    },
+    {
+      "file": "s12231-018-9401-y.pdf",
+      "matched_id": null,
+      "matched_doi": null,
+      "sample_dois": []
+    },
+    {
+      "file": "s13412-024-00888-3.pdf",
+      "matched_id": null,
+      "matched_doi": null,
+      "sample_dois": [
+        "10.1007/s13412-024-00888-3"
+      ]
+    }
+  ],
+  "unmatched_ids": [
+    1,
+    2,
+    8,
+    10,
+    12,
+    17,
+    18,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    28,
+    29,
+    31,
+    33,
+    34,
+    35,
+    38,
+    40,
+    41,
+    42
+  ]
+}

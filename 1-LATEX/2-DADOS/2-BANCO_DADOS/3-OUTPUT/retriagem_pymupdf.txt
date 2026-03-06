@@ -1,0 +1,127 @@
+================================================================================
+RE-TRIAGEM DE PDFs COM PyMuPDF (corrige 13 PDFs com 0 chars)
+Total: 27 | Quantitativos: 22 | Qualitativos: 5
+================================================================================
+
+QUANTITATIVOS (score >= 30)
+
+  Study_ID=47  score=489  kw=142  tbl=10  num=30
+  Socialecological-interactions-in-a-disaster-context-Puerto-Rican-farmer-hou
+  Exemplos numericos na secao Results:
+    | equency (%) Mean ± SD n = Survey variables Age Continuous — 54.0 ± 13.5 391 Bona fide Yes No 210 (52.8%) 188 (47.2%) — 3
+    | 10.5%) 66 (16.5%) 162 (40.4%) — 401 Farm production Count — 3.1 ± 2.5 402 Farm size (cuerdas) Continuous — 58.1 ± 99.0 3
+    | tion Count — 3.1 ± 2.5 402 Farm size (cuerdas) Continuous — 58.1 ± 99.0 383 Food assistance Yes No 65 (18.0%) 294 (82.0%
+    | metropolitan 229 (57.5%) 169 (42.5%) — 398 Network Count — 2.3 ± 2.1 398 Biophysical variables Distance to eye (km) Cont
+    | 398 Biophysical variables Distance to eye (km) Continuous — 21.7 ± 14.0 379 Landslides (km2) Continuous — 9.8 ± 13.4 338
+    | Continuous — 21.7 ± 14.0 379 Landslides (km2) Continuous — 9.8 ± 13.4 338 comparable to Puerto Rico’s agricultural censu
+    | e Maria’s landfall. Overall, farmers reported an average of 2.0 ± 2.1 months of negatively impacted house- hold food sec
+    | .1 months of negatively impacted house- hold food security (n = 401). Most farmer house- holds (69%) reported at least o
+
+  Study_ID=35  score=384  kw=110  tbl=17  num=19
+  Unearthing-Unevenness-of-Potato-Seed-Networks-in-the-High-Andes-A-Compariso
+  Exemplos numericos na secao Results:
+    | h payments. Following seasons with stress, seed provisions (n = 187 transactions) and acquisitions (n = 568 transactions
+    | s, seed provisions (n = 187 transactions) and acquisitions (n = 568 transactions) respectively occurred through sales (6
+    | %/2%). Following seasons without stress, seed was provided (n = 582 transactions) and acquired (n = 357 transactions) re
+    | ess, seed was provided (n = 582 transactions) and acquired (n = 357 transactions) respectively through sales (65%/92%), 
+    | ﬂoury landraces (mixed cultivars) Bitter landraces Total % (n = 568)a Total % (n = 187)b Source Sink Source Sink Source 
+    | xed cultivars) Bitter landraces Total % (n = 568)a Total % (n = 187)b Source Sink Source Sink Source Sink Source Sink So
+    | ﬂoury landraces (mixed cultivars) Bitter landraces Total % (n = 357)a Total % (n = 582)b Source Sink Source Sink Source 
+    | xed cultivars) Bitter landraces Total % (n = 357)a Total % (n = 582)b Source Sink Source Sink Source Sink Source Sink So
+
+  Study_ID=10  score=337  kw=76  tbl=24  num=15
+  s10722-017-0544-y.pdf
+  Exemplos numericos na secao Results:
+    | p<0.001 lpz ayp por *** *  ** *** *** *** *** *** *** * ** n=3 n=3 n=2 n=4 n=1 n=4 n=2 n=7 n=13 n=2 n=2 n=1 n=17 n=3 n=4
+    | .001 lpz ayp por *** *  ** *** *** *** *** *** *** * ** n=3 n=3 n=2 n=4 n=1 n=4 n=2 n=7 n=13 n=2 n=2 n=1 n=17 n=3 n=4 (A
+    | lpz ayp por *** *  ** *** *** *** *** *** *** * ** n=3 n=3 n=2 n=4 n=1 n=4 n=2 n=7 n=13 n=2 n=2 n=1 n=17 n=3 n=4 (A) (B)
+    | ayp por *** *  ** *** *** *** *** *** *** * ** n=3 n=3 n=2 n=4 n=1 n=4 n=2 n=7 n=13 n=2 n=2 n=1 n=17 n=3 n=4 (A) (B) (C)
+    | por *** *  ** *** *** *** *** *** *** * ** n=3 n=3 n=2 n=4 n=1 n=4 n=2 n=7 n=13 n=2 n=2 n=1 n=17 n=3 n=4 (A) (B) (C) (D)
+    | *** *  ** *** *** *** *** *** *** * ** n=3 n=3 n=2 n=4 n=1 n=4 n=2 n=7 n=13 n=2 n=2 n=1 n=17 n=3 n=4 (A) (B) (C) (D) Fig
+    | *  ** *** *** *** *** *** *** * ** n=3 n=3 n=2 n=4 n=1 n=4 n=2 n=7 n=13 n=2 n=2 n=1 n=17 n=3 n=4 (A) (B) (C) (D) Fig. 5 
+    | ** *** *** *** *** *** *** * ** n=3 n=3 n=2 n=4 n=1 n=4 n=2 n=7 n=13 n=2 n=2 n=1 n=17 n=3 n=4 (A) (B) (C) (D) Fig. 5 A–D
+
+  Study_ID=45  score=308  kw=109  tbl=30  num=2
+  ajol-file-journals_388_articles_271417_6656ff5bc0b68-Leul.pdf
+  Exemplos numericos na secao Results:
+    | 10. Valuation of ecosystem services provided by HG owners (n = 130 informants)  (Criteria adapted from Calvet-Mir et al.
+
+  Study_ID=29  score=295  kw=135  tbl=6  num=0
+  1-s2.0-S1470160X20308037-main.pdf
+
+  Study_ID=9  score=236  kw=61  tbl=9  num=20
+  A-Quantitative-Study-on-the-Ethnobotanical-Knowledge-about-Wild-Edible-Plan
+  Exemplos numericos na secao Results:
+    | was  significant at the 0.05 level. The mean for  women was 38.96 ±10.67, while men showed a  mean of 34.85 ±11.65. For 
+    | an for  women was 38.96 ±10.67, while men showed a  mean of 34.85 ±11.65. For the age category, the  difference of means
+    | hly significant in  favor of those aged 45 years and over  (41.38±10.73). In addition, those working in non- agricultura
+    | test  Homogeneous  groups  Sex   Men  Women    100  100    34,85 ±11,65  38,96 ±10,67    t= -2.6 *    Age  Less than 45 
+    | eous  groups  Sex   Men  Women    100  100    34,85 ±11,65  38,96 ±10,67    t= -2.6 *    Age  Less than 45 years  45 yea
+    | Age  Less than 45 years  45 years and over    100  100    32,43±10,14  41,38±10,73    t= -6.062 ***    Occupation  Agric
+    | han 45 years  45 years and over    100  100    32,43±10,14  41,38±10,73    t= -6.062 ***    Occupation  Agricultural  No
+    | Agricultural  Non-agricultural  Housewife    58  52  90    37,64±11,44  32,98±11,62  38,70±10,66      F= 4.517 *      (1
+
+  Study_ID=22  score=194  kw=188  tbl=2  num=0
+  Interconnected-Nature-and-People-Biosphere-Reserves-and-the-Power-of-Memory
+
+  Study_ID=20  score=186  kw=72  tbl=2  num=2
+  Voices-Around-the-South-Tyrolean-Herbal-PharmacyExploring-the-Stakeholder-L
+  Exemplos numericos na secao Results:
+    | (C) Main Ways of Acquisition of Medicinal Plants. For A–C: N = 52, Multiple Answers Possible. See Details for A–C in Sup
+    | st map Based on Mean Values of Ratings of the Participants (N = 52) on a Scale From One to Five Regarding their Power an
+
+  Study_ID=14  score=153  kw=57  tbl=10  num=0
+  A-Biodiversity-Hotspot-Losing-Its-Biocultural-Heritage-The-Challenge-to-Bio
+
+  Study_ID=8  score=149  kw=49  tbl=10  num=0
+  Guardians-of-heritage-womens-position-in-traditional-seed-systems-and-agroe
+
+  Study_ID=48  score=142  kw=70  tbl=14  num=1
+  The-Zo-perspective-on-what-scientists-call-forest-management-and-its-implic
+
+  Study_ID=28  score=141  kw=54  tbl=13  num=0
+  Ethnobotany-of-the-Aegadian-Islands-safeguarding-biocultural-refugia-in-the
+
+  Study_ID=44  score=89  kw=53  tbl=4  num=0
+  s12231-018-9401-y.pdf
+
+  Study_ID=46  score=74  kw=24  tbl=0  num=11
+  s13412-024-00888-3.pdf
+  Exemplos numericos na secao Results:
+    | ost contributions from East Africa,  which contributed 38% (n = 29), South Africa, which con- tributed 29% (n = 22), and
+    | ibuted 38% (n = 29), South Africa, which con- tributed 29% (n = 22), and Central Africa, which contrib- uted 18% (n = 14
+    | 29% (n = 22), and Central Africa, which contrib- uted 18% (n = 14). The region with the lowest origination  Fig. 2   Tem
+    | 24) 14:400–414 rate was West Africa, contributed about 16% (n = 11) of  publications (Fig. 3). Value and context for the
+
+  Study_ID=37  score=69  kw=38  tbl=7  num=2
+  Comparison-of-medicinal-plant-knowledge-between-rural-and-urban-people-livi
+
+  Study_ID=38  score=63  kw=29  tbl=8  num=1
+  1-s2.0-S1462901124001953-main.pdf
+
+  Study_ID=11  score=58  kw=36  tbl=4  num=0
+  Erosion-of-traditional-ecological-knowledge-under-conditions-of-hydrosocial
+
+  Study_ID=24  score=46  kw=24  tbl=6  num=1
+  Strategies-for-managing-agrobiodiversity-by-peasant-farmers-in-the-CerradoC
+
+  Study_ID=4  score=39  kw=6  tbl=9  num=0
+  Mountain-Graticules-Bridging-Latitude-Longitude-Altitude-and-Historicity-to
+
+  Study_ID=21  score=36  kw=30  tbl=0  num=0
+  Ethnobotany-and-conservation-applications-in-the-Noken-making-by-the-Sougb-
+
+  Study_ID=15  score=34  kw=6  tbl=8  num=0
+  Biocultural-conservation-systems-in-the-Mediterranean-region-the-role-of-va
+
+  Study_ID=17  score=30  kw=12  tbl=6  num=0
+  Exploring-farmers-perspectives-on-agrobiodiversity-management-future-option
+
+
+QUALITATIVOS (score < 30)
+
+   ID=43  score= 29  Towards-biocultural-conservation-Local-and-indigenous-knowledge-c
+    ID=1  score= 28  Colourful-agrobiodiversity-morphology-and-phenology-of-bean-landr
+   ID=18  score= 27  Stingless-bee-keeping-Biocultural-conservation-and-agroecological
+   ID=33  score= 13  18-doyle-615-628.pdf
+   ID=13  score=  7  Beyond-biodiversity-conservation-Land-sharing-constitutes-sustain

@@ -1,0 +1,58 @@
+================================================================================
+TRIAGEM AUTOMÁTICA DE PDFs — CANDIDATOS QUANTITATIVOS
+Total: 27 PDFs | Quantitativos: 9 | Qualitativos: 18
+================================================================================
+
+──── QUANTITATIVOS (score >= 30) ────
+
+📊 ajol-file-journals_388_articles_271417_6656ff5bc0b68-Leul.pdf
+   Score: 400 | Tables: 19 | Quant KW: 108 | Numeric: 2
+   Exemplos numéricos:
+     • tion of ecosystem services provided by HG owners (n = 130 informants)
+(Criteria adapted from Calvet-Mir et
+
+📊 s10722-017-0544-y.pdf
+   Score: 171 | Tables: 4 | Quant KW: 61 | Numeric: 15
+
+📊 Guardians-of-heritage-womens-position-in-traditional-seed-systems-and-
+   Score: 146 | Tables: 0 | Quant KW: 48 | Numeric: 0
+
+📊 A-Quantitative-Study-on-the-Ethnobotanical-Knowledge-about-Wild-Edible
+   Score: 128 | Tables: 0 | Quant KW: 61 | Numeric: 20
+
+📊 1-s2.0-S1470160X20308037-main.pdf
+   Score: 75 | Tables: 0 | Quant KW: 66 | Numeric: 0
+
+📊 s13412-024-00888-3.pdf
+   Score: 70 | Tables: 5 | Quant KW: 23 | Numeric: 11
+
+📊 1-s2.0-S1462901124001953-main.pdf
+   Score: 54 | Tables: 0 | Quant KW: 28 | Numeric: 1
+
+📊 s12231-018-9401-y.pdf
+   Score: 48 | Tables: 2 | Quant KW: 35 | Numeric: 0
+
+📊 Ethnobotany-of-the-Aegadian-Islands-safeguarding-biocultural-refugia-i
+   Score: 45 | Tables: 0 | Quant KW: 33 | Numeric: 0
+
+
+──── QUALITATIVOS (score < 30) ────
+
+   Biocultural-conservation-systems-in-the-Mediterranean-region-the-role-  (score=22)
+   Towards-biocultural-conservation-Local-and-indigenous-knowledge-cultur  (score=17)
+   Stingless-bee-keeping-Biocultural-conservation-and-agroecological-educ  (score=15)
+   18-doyle-615-628.pdf  (score=13)
+   Beyond-biodiversity-conservation-Land-sharing-constitutes-sustainable-  (score=1)
+   A-Biodiversity-Hotspot-Losing-Its-Biocultural-Heritage-The-Challenge-t  (score=0)
+   Colourful-agrobiodiversity-morphology-and-phenology-of-bean-landraces-  (score=0)
+   Comparison-of-medicinal-plant-knowledge-between-rural-and-urban-people  (score=0)
+   Erosion-of-traditional-ecological-knowledge-under-conditions-of-hydros  (score=0)
+   Ethnobotany-and-conservation-applications-in-the-Noken-making-by-the-S  (score=0)
+   Exploring-farmers-perspectives-on-agrobiodiversity-management-future-o  (score=0)
+   Interconnected-Nature-and-People-Biosphere-Reserves-and-the-Power-of-M  (score=0)
+   Mountain-Graticules-Bridging-Latitude-Longitude-Altitude-and-Historici  (score=0)
+   Socialecological-interactions-in-a-disaster-context-Puerto-Rican-farme  (score=0)
+   Strategies-for-managing-agrobiodiversity-by-peasant-farmers-in-the-Cer  (score=0)
+   The-Zo-perspective-on-what-scientists-call-forest-management-and-its-i  (score=0)
+   Unearthing-Unevenness-of-Potato-Seed-Networks-in-the-High-Andes-A-Comp  (score=0)
+   Voices-Around-the-South-Tyrolean-Herbal-PharmacyExploring-the-Stakehol  (score=0)

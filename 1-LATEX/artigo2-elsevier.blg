@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99e
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: artigo2-elsevier.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: plainnat.bst
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Database file #1: references.bib
+Warning--empty journal in Wynberg2015
+You've used 70 entries,
+            2773 wiz_defined-function locations,
+            1118 strings with 20961 characters,
+and the built_in function-call counts, 33747 in all, are:
+= -- 2982
+> -- 2213
+< -- 44
++ -- 757
+- -- 687
+* -- 2870
+:= -- 5435
+add.period$ -- 275
+call.type$ -- 70
+change.case$ -- 429
+chr.to.int$ -- 70
+cite$ -- 141
+duplicate$ -- 1407
+empty$ -- 2521
+format.name$ -- 783
+if$ -- 6905
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 80
+newline$ -- 423
+num.names$ -- 280
+pop$ -- 768
+preamble$ -- 1
+purify$ -- 369
+quote$ -- 0
+skip$ -- 1108
+stack$ -- 0
+substring$ -- 1015
+swap$ -- 79
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 710
+warning$ -- 1
+while$ -- 276
+width$ -- 0
+write$ -- 1044
+(There was 1 warning)

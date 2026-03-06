@@ -1,0 +1,714 @@
+EXTRAÇÃO DETALHADA DE DADOS QUANTITATIVOS
+======================================================================
+
+
+======================================================================
+Study ID=13 | Edo, K; Kidane, L; Beyene, T (2024)
+DOI: 10.4314/mejs.v16i1.6
+Title: Socio-ecological Benefit of Homegarden Agroforestry
+Tables: 18 | Numeric findings: 22
+======================================================================
+
+--- TABELAS EXTRAÍDAS ---
+
+  Tabela p.4 (5×1):
+    Header: ['Kebeles Geographical location Altitude\nLatitude Longitude']
+    ['Ashebaka walkite 7°63\'07.96"N 39°29\'27.87"E 2680 m']
+    ['Burkitu alkesa 7°81\'99.89"N 39°31\'85.36"E 2896 m']
+    ['Mankula gobele 7°74\'18.34"N 39°34\'94.45"E 3138 m']
+    ['Kogo ashebeka 7°71\'10.07"N 39°25\'09.54"E 3164 m']
+
+  Tabela p.6 (6×1):
+    Header: ['Selected Kebeles Total HHs (N) Selected HHs (n)']
+    ['Kogo Ashebeka 625 40']
+    ['Mankula Gobale 540 32']
+    ['Ashebeka walkite 465 2 8']
+    ['Burkitu alkesa 502 30']
+    ['Total 2,132 130']
+
+  Tabela p.9 (24×10):
+    Header: ['Items Alternatives No of Respondents Percentage', None, None, None, None, None, None, None, None, None]
+    ['Sex', '', 'Male', '', '', '115', '', '', '88%', '']
+    [None, '', 'Female', '', '', '15', '', '', '12%', '']
+    [None, '', 'Total', '', '', '130', '', '', '100%', '']
+    ['Age in year', '', '25-35', '', '', '20', '', '', '15.4%', '']
+    [None, '', '36-45', '', '', '55', '', '', '42.3%', '']
+    [None, '', '46-55', '', '', '30', '', '', '23%', '']
+    [None, '', '56 and above', '', '', '25', '', '', '19..3%', '']
+    [None, '', 'Total', '', '', '130', '', '', '100%', '']
+    ['Educational\nbackground', '', 'Illiterate', '', '', '32', '', '', '24.6%', '']
+    [None, '', 'Elementary (1-4)', '', '', '45', '', '', '34.6%', '']
+
+  Tabela p.9 (2×1):
+    Header: ['Educational']
+    ['background']
+
+  Tabela p.9 (3×1):
+    Header: ['Household size']
+    ['']
+    ['']
+
+  Tabela p.9 (2×1):
+    Header: ['Farming']
+    ['experience']
+
+  Tabela p.10 (7×1):
+    Header: ['Kebele Sampled houses Front Side Back Mixed\nwith garden yard yard yard yard']
+    ['Kogo ashebeka 40 - 5 27 8']
+    ['Mankula Gobale 32 4 3 21 4']
+    ['Ashebeka walkite 28 5 - 20 3']
+    ['Burkite alkesa 30 2 5 15 8']
+    ['Total 130 11 13 83 23']
+    ['Percent (%) 100 8.5 10 63.9 17.7']
+
+  Tabela p.10 (5×1):
+    Header: ['Homegarden Type Size range No of HGs Percent']
+    ['Large 0.160 – 0.250 ha 27 20.8']
+    ['Medium 0.090 – 0.150 ha 45 34.6']
+    ['Small 0.040 – 0.080 ha 58 44.6']
+    ['Total 130 100']
+
+  Tabela p.10 (5×1):
+    Header: ['Homegarden type No of Species No of Family Percentage']
+    ['Small 31 16 40.3']
+    ['Medium 51 25 66.2']
+    ['Large 63 31 80.5']
+    ['Overall 72 38']
+
+  Tabela p.11 (5×1):
+    Header: ['Kebele Species Shannon’s Evenness\nrichness index (H’) (H’/H’max)']
+    ['Kogo ashebeka 56 3.33 0.82']
+    ['Mankula Gobale 49 3.11 0.80']
+    ['Ashebeka walkite 47 2.91 0.76']
+    ['Burkitu alkesa 40 2.53 0.73']
+
+  Tabela p.12 (5×1):
+    Header: ['Sites Kogo ashebeka Mankula Gobale Ashebeka walkite Burkitu alkesa']
+    ['Kogo ashebeka 1']
+    ['Mankula Gobale 0.64 1']
+    ['Ashebeka walkite 0.44 0.64 1']
+    ['Burkitu alkesa 0.57 0.66 0.44 1']
+
+  Tabela p.13 (6×1):
+    Header: ['Scientific name Functional categories Total Rank\nEdible Constru- Shade Fence Firewood Ornamental Medicine\nction']
+    ['Juniperus procera 0 40 30 40 39 24 38 211 1']
+    ['Eucalyptus globulus 0 39 32 39 39 28 0 177 2']
+    ['Olea europaea 0 38 28 35 28 40 0 169 3']
+    ['Cupressus lusitanica 0 31 25 30 18 28 0 132 4']
+    ['Cytisus scoparius 40 10 12 29 8 30 0 129 5']
+
+  Tabela p.13 (9×1):
+    Header: ['Ecosystem Services Av. valuation (from 0 to 5)']
+    ['Regulating services']
+    ['Pollination 1.85\nMaintenance of soils fertility 4.47\nLocal climate regulation 2.62\nEnhanced water quality 2.26\nPurification of air 2.10\nTotal average score of regulating services (range 0 to 25) 11.04']
+    ['Habitat provision']
+    ['Living space for wild plants and animals 4.64\nMaintenance of landraces 3.65\nTotal average score of habitat services (range 0 to 10) 8.29']
+    ['Production services']
+    ['Provision of quality food 4.91\nProvision of fodder and green manure 4.30\nCrop improvement and material for medicinal purposes. 3.92\nProvision of medicinal plants 4.26\nProvision of resources for worship and decoration 2.97\nTotal average score of production services (range 0 to 25) 20.36']
+    ['Cultural services']
+    ['Enjoyment of home garden aesthetic features 3.97\nHobby 3.52\nUse in folklore, art, and design 2.70\nConnection with spiritual feelings 2.25\nPlace to carry out environmental education and scientific research 4.50\nHeritage value of home gardens & associated traditional ecological knowledge 3.51\nPlace for creating and enhancing social networks 4.64\nTotal average score of cultural services (range 0 to 35) 24.39\nTotal average score of all services (range 0 to 95) 64.08']
+
+  Tabela p.14 (6×1):
+    Header: ['Plant Species Key informants (1 – 16) l k\na n\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 ot a\nT R']
+    ['Brassica integrifolia 4 5 5 5 4 5 4 5 5 5 5 5 4 5 4 5 75 1']
+    ['Solanum tuberosum 5 4 4 4 5 5 4 5 5 4 4 4 5 5 5 5 73 2']
+    ['Capsicum annum 4 5 5 5 2 5 4 5 3 5 4 5 2 5 4 5 68 3']
+    ['Beta vulgaris 3 3 5 4 4 5 4 4 4 3 5 4 5 5 4 4 66 4']
+    ['Allium sativum 4 5 3 2 2 4 3 5 4 5 3 2 2 4 3 5 56 5']
+
+  Tabela p.15 (16×1):
+    Header: ['Medicinal plant Disease to be treated Part of Way of preparation Application\nplant used']
+    ['Allium sativum Malaria protection, Bulb The bulb is eaten Eating with injera\nHeadache, abdominal alone/ with injera\ncrump and flu']
+    ['Artemisia For treating measles Leaf Squeezing Rubbing on body\nabsinthium']
+    ['Beta vulgaris Constipation Root Cooking Eating with injera']
+    ['Clematis hirsuta To kill ticks from Whole part Squeezing & mixing Washing the body\nanimals with water']
+    ['Coffea arabica For headache, amoebic Seed Cooking, grinding, and Drinking\ndysentery and giardiasis mixing with two spoons\nof honey']
+    ['Cucurbita pepo Tapeworm treatment Seed Grinding, mixing with Eating\nfood']
+    ['Echinops kebericho Evil eye Rhizome Smoking Smelling']
+    ['Eucalyptus globulus Typhoid Leaf Boiling the leaf Smelling']
+    ['Foeniculum vulgare Urine problem Leaf Squeezing, mixing with Drinking\nwater']
+    ['Hagenia abyssinica For tape worm Flower Grinding & mixing with Drinking']
+
+  Tabela p.16 (10×1):
+    Header: ['Scientific Name Family Habit Parts Used']
+    ['Acacia senegal Fabaceae Tree Lf, St, Fl']
+    ['Acacia seyal Fabaceae Tree Lf, St, Fl']
+    ['Celtis africana Ulmaceae Tree St, Lf']
+    ['Chamaecytisus Fabaceae Tree Lf\nprolifer']
+    ['Beta vulgaris Solanaceae Herb Lf, Rt']
+    ['Medicago sativa Fabaceae Herb Lf, Fl']
+    ['Pennisetum Poaceae Herb Lf']
+    ['vSieoslbaacneiuam a culeata Fabaceae Tree Lf, St, Fl']
+    ['Sesbania sesban Fabaceae Tree St, Lf']
+
+  Tabela p.31 (43×5):
+    Header: ['No', 'Scientific Name', 'Local Name', 'Family Name', 'Habit']
+    ['1', 'Acacia senegal (L) Willd.', 'Sapessa (Or)', 'Fabaceae', 'Tree']
+    ['2', 'Acacia seyal Del.', 'Wasiya (Or)', 'Fabaceae', 'Tree']
+    ['3', 'Ajuga integrifolia Buch-Ham. ex D.Don.', 'Harmaagusaa (Or)', 'Lamiaceae', 'Herb']
+    ['4', 'Allium cepa L.', 'Shunkurtii diimaa (Or)', 'Alliaceae', 'Herb']
+    ['5', 'Allium porrum L.', 'Shunkurtaa baaroo', 'Alliaceae', 'Herb']
+    ['6', 'Allium sativum L.', 'Qulluubbii adii (Or)', 'Alliaceae', 'Herb']
+    ['7', 'Allophylus abyssinicus (Hochst.) Radlk', 'Embuse (A)', 'Sapindaceae', 'Tree']
+    ['8', 'Artemisia absinthium L.', 'Arritaa (Or)', 'Asteraceae', 'Herb']
+    ['9', 'Arundo donax L.', 'Shenbeko (A)', 'Poaceae', 'Herb']
+    ['10', 'Beta vulgaris L.', 'Hundee diimaa (Or)', 'Chenopodiacea', 'Herb']
+
+  Tabela p.32 (30×5):
+    Header: ['43', 'Malus sylvestris Miller', 'Apple (A)', 'Rosaceae', 'Tree']
+    ['44', 'Mangifera indica L', 'Mango (E, A, Or)', 'Anacardiaceae', 'Tree']
+    ['45', 'Maytenus arbutifolia (A.Rich.) Wilczek', 'Kombolcha (Or)', 'Celasteraceae', 'Tree']
+    ['46', 'Medicago sativa L.', 'Alfalfa (E, Am, Or)', 'Fabaceae', 'Herb']
+    ['47', 'Millettia ferruginea (Hochst.) Bak.', 'Birbirraa (Or)', 'Fabaceae', 'Tree']
+    ['48', 'Ocimum basilicum L.', 'Besobila (A)', 'Lamiaceae', 'Herb']
+    ['49', 'Ocimum lamiifolium Hotest', 'Damakese (A, Or)', 'Laminaceae', 'Shrub']
+    ['50', 'Olea europaea ssp cuspidata (Wall. ex\nG. Don) Cif.', 'Ejersa (Or)', 'Oleaceae', 'Tree']
+    ['51', 'Osyris quadripartita Decne.', 'Keret (A)', 'Santalaceae', 'Shrub']
+    ['52', 'Pennisetum violaceum (Lam.) L. Rich', 'Marga araba (Or)', 'Poaceae', 'Herb']
+    ['53', 'Persea americana Mill.', 'Abocado (A, Or)', 'Lauraceae', 'Tree']
+
+--- DADOS NUMÉRICOS (seção Results) ---
+
+  [percent] 15.4%
+    ...s Percentage Sex Male 115 88% Female 15 12% Total 130 100% Age in year 25-35 20 15.4% 36-45 55 42.3% 46-55 30 23% 56 and above 25 19..3% Total 130 100% Educational I...
+
+  [percent] 42.3%
+    ...x Male 115 88% Female 15 12% Total 130 100% Age in year 25-35 20 15.4% 36-45 55 42.3% 46-55 30 23% 56 and above 25 19..3% Total 130 100% Educational Illiterate 32 24...
+
+  [percent] 24.6%
+    ...3% 46-55 30 23% 56 and above 25 19..3% Total 130 100% Educational Illiterate 32 24.6% background Elementary (1-4) 45 34.6% Junior (5-8) 28 21.5% High School (9-12) 2...
+
+  [percent] 34.6%
+    ...% Total 130 100% Educational Illiterate 32 24.6% background Elementary (1-4) 45 34.6% Junior (5-8) 28 21.5% High School (9-12) 25 19.3% Total 130 100% Household size...
+
+  [percent] 21.5%
+    ...tional Illiterate 32 24.6% background Elementary (1-4) 45 34.6% Junior (5-8) 28 21.5% High School (9-12) 25 19.3% Total 130 100% Household size 1-5 40 30.8% 6-7 62 4...
+
+  [percent] 19.3%
+    ...ackground Elementary (1-4) 45 34.6% Junior (5-8) 28 21.5% High School (9-12) 25 19.3% Total 130 100% Household size 1-5 40 30.8% 6-7 62 47.7% 8 and above 28 21.5% To...
+
+  [percent] 30.8%
+    ...(5-8) 28 21.5% High School (9-12) 25 19.3% Total 130 100% Household size 1-5 40 30.8% 6-7 62 47.7% 8 and above 28 21.5% Total 130 100% Farming 5-10 years 10 7.7% exp...
+
+  [percent] 47.7%
+    ...% High School (9-12) 25 19.3% Total 130 100% Household size 1-5 40 30.8% 6-7 62 47.7% 8 and above 28 21.5% Total 130 100% Farming 5-10 years 10 7.7% experience 11-15...
+
+  [percent] 21.5%
+    ...25 19.3% Total 130 100% Household size 1-5 40 30.8% 6-7 62 47.7% 8 and above 28 21.5% Total 130 100% Farming 5-10 years 10 7.7% experience 11-15 years 18 13.8% 16-20...
+
+  [percent] 7.7%
+    ...40 30.8% 6-7 62 47.7% 8 and above 28 21.5% Total 130 100% Farming 5-10 years 10 7.7% experience 11-15 years 18 13.8% 16-20 years 25 19.2% 21-25 years 35 27% > 26 ye...
+
+  [percent] 13.8%
+    ...ve 28 21.5% Total 130 100% Farming 5-10 years 10 7.7% experience 11-15 years 18 13.8% 16-20 years 25 19.2% 21-25 years 35 27% > 26 years 42 32.3% Total 130 100% 3.2....
+
+  [percent] 19.2%
+    ...100% Farming 5-10 years 10 7.7% experience 11-15 years 18 13.8% 16-20 years 25 19.2% 21-25 years 35 27% > 26 years 42 32.3% Total 130 100% 3.2. Design and Setting o...
+
+  [percent] 32.3%
+    ...ence 11-15 years 18 13.8% 16-20 years 25 19.2% 21-25 years 35 27% > 26 years 42 32.3% Total 130 100% 3.2. Design and Setting of Home Gardens In the present study, al...
+
+  [percent] 8.5%
+    ...all the surveyed houses had HGs which vary in position, the front yard covered (8.5%) containing most attractive plant species, the side yards covered (9.6%) with m...
+
+  [percent] 9.6%
+    ...overed (8.5%) containing most attractive plant species, the side yards covered (9.6%) with medicinal, spice and multipurpose trees. The back yard accounts (63.9%) a...
+
+  [percent] 63.9%
+    ...ed (9.6%) with medicinal, spice and multipurpose trees. The back yard accounts (63.9%) and contains food plants and the mixed yard accounts (17.7%) with fence plants...
+
+  [percent] 17.7%
+    ...ack yard accounts (63.9%) and contains food plants and the mixed yard accounts (17.7%) with fence plants and shade trees to use as quiescent place (Table 4). 3.3. Re...
+
+  [p_value] P=0.000
+    ...tive correlation between the garden size and plant species diversity (r =0.809, P=0.000) (Fig 2). Table 4. Position of HGs in the surveyed compounds. Kebele Sampled ho...
+
+  [percent] 69.3%
+    ...eir HGs plants and their production were not constant. Many of the respondents (69.3%) showed that they used rainwater for their HG. The others, 14.6% responded they...
+
+  [percent] 14.6%
+    ...e respondents (69.3%) showed that they used rainwater for their HG. The others, 14.6% responded they used river water, and 16.17% indicated they used both rainfall a...
+
+  [percent] 16.17%
+    ...rainwater for their HG. The others, 14.6% responded they used river water, and 16.17% indicated they used both rainfall and river water for their homegardening. To a...
+
+  [n_eq] n = 130
+    ...9 8 30 0 129 5 Table 10. Valuation of ecosystem services provided by HG owners (n = 130 informants) (Criteria adapted from Calvet-Mir et al. (2012). Ecosystem Services...
+
+--- TAMANHOS AMOSTRAIS ---
+
+  n=130: 10. Valuation of ecosystem services provided by HG owners (n = 130 informants) (Criteria adapted from Calvet-Mir et al. (2012)
+
+--- COMPARAÇÕES ENTRE GRUPOS ---
+
+  6% background Elementary (1-4) 45 34.6% Junior (5-8) 28 21.5% High School (9-12) 25 19.3% Total 130 100% Household size 1-5 40 30.8% 6-7 62 4
+  ol (9-12) 25 19.3% Total 130 100% Household size 1-5 40 30.8% 6-7 62 47.7% 8 and above 28 21.5% Total 130 100% Farming 5-10 years 10 7.7% exp
+  atives No of Respondents Percentage Sex Male 115 88% Female 15 12% Total 130 100% Age in year 25-35 20 15.4% 36-45 55 42.3% 46-55 30
+  Respondents Percentage Sex Male 115 88% Female 15 12% Total 130 100% Age in year 25-35 20 15.4% 36-45 55 42.3% 46-55 30 23% 56 and ab
+  socio-ecological values, including the traditional local knowledge towards management system of HG plants and the challenges related to HG pr
+  actions ought to be taken to safeguard traditional knowledge and plant diversity of the district? 2. MATERIALS AND METHODS 2.1. Descrip
+  3.4. Homegarden Management Practice and Traditional Knowledge among the Residents HG plants were handled by HH members. Plants were esta
+  tage value of home gardens & associated traditional ecological knowledge 3.51 Place for creating and enhancing social networks 4.64 Total average s
+  ve 25 19..3% Total 130 100% Educational Illiterate 32 24.6% background Elementary (1-4) 45 34.6% Junior (5-8) 28 21.5% High School (9-12) 2
+
+--- PREVIEW DA SEÇÃO RESULTS ---
+
+
+3. RESULTS
+3.1. Socio-demographic Characteristics of the Respondents
+Various demographic characteristics can be found in table 3. Most respondents were men.
+Table 3. Demographic characteristics of the respondents.
+Items Alternatives No of Respondents Percentage
+Sex Male 115 88%
+Female 15 12%
+Total 130 100%
+Age in year 25-35 20 15.4%
+36-45 55 42.3%
+46-55 30 23%
+56 and above 25 19..3%
+Total 130 100%
+Educational Illiterate 32 24.6%
+background Elementary (1-4) 45 34.6%
+Junior (5-8) 28 21.5%
+High School (9-12) 25 19.3%
+Total 130 100%
+Household size 1-5 40 30.8%
+6-7 62 47.7%
+8 and above 28 21.5%
+Total 130 100%
+Farming 5-10 years 10 7.7%
+experience 11-15 years 18 13.8%
+16-20 years 25 19.2%
+21-25 years 35 27%
+> 26 years 42 32.3%
+Total 130 100%
+3.2. Design and Setting of Home Gardens
+In the present study, all the surveyed houses had HGs which vary in position, the front yard
+covered (8.5%) containing most attractive plant species, the side yards covered (9.6%) with
+medicinal, spice and multipurpose trees. The back yard accounts (63.9%) and contains food
+plants and the mixed yard accounts (17.7%) with fence plants and shade trees to use as
+quiescent place (Table 4).
+3.3. Relationship between HG Size and Species Diversity
+Three types of HGs were identified in the study kebeles based on their size. Their size ranges
+between 0.04 and 0.25 ha with an average of 0.12 ha. Seventy nine percent of the HHs were
+small (0.04 - 0.08 ha) to medium (0.09 - 0.15 ha) sized (Table 5). Number of specie
+
+
+======================================================================
+Study ID=48 | Rodríguez F. (2018)
+DOI: 10.1007/s10722-017-0544-y
+Title: Ahipa on-farm conservation temporal comparison
+Tables: 4 | Numeric findings: 37
+======================================================================
+
+--- TABELAS EXTRAÍDAS ---
+
+  Tabela p.11 (2×1):
+    Header: ['c.periods: p=0.421\nn=3\nahipa: p=0.038\nn=3\nn=2\nn=4\nn=1 **\nn=4\nn=2\nn=7\nn=13 ***']
+    ['ahipa: p=0.008\nn=2\nn=2\nn=1\nn=17 ***\nn=3 *\nn=4 ***']
+
+  Tabela p.11 (2×1):
+    Header: ['c.periods: p=0.40\nahipa: p=0.50\n*']
+    ['ahipa: p<0.001\n***']
+
+  Tabela p.11 (2×1):
+    Header: ['c.periods: p=0.181\nahipa: p=0.228\n***']
+    ['ahipa: p<0.001\n***\n**']
+
+  Tabela p.11 (2×1):
+    Header: ['c.periods: p=0.649\nahipa: p=0.675\n1994-1996\n2012']
+    ['ahipa: p=0.02\n2012\n***']
+
+--- DADOS NUMÉRICOS (seção Results) ---
+
+  [p_value] p = 0.421
+    ...enness or equitability (E) were calculated by Brillouin diversityindex periods (p = 0.421). Growth cycle period differed Additionally,in2012agrowthcycleof288 dayswas sig...
+
+  [p_value] p = 0.40
+    ...eterwasnotsignificantly (Fig. 5A).IntheLlojacommunityoftheLaPazRiver different (p = 0.40) for the 1994/96 and 2012 and basin,landraces[b1a]and[w1a]hadagrowthperiod land...
+
+  [p_value] p = 0.50
+    ...he 1994/96 and 2012 and basin,landraces[b1a]and[w1a]hadagrowthperiod landraces (p = 0.50). However, density differed of 211 days in 1994/96 and 166 days in 2012. In the...
+
+  [p_value] p = 0.008
+    ...collected landraces in 2012 communities of Angostura and Ornuni of the La Paz (p = 0.008). For the landraces [b1a/w1a], [b2] and River basin, two landraces were cultiva...
+
+  [p_value] p = 0.228
+    ...(2018)65:449–469 123 bFig.4 A–E Seed, roots of ahipa landraces and traditional (p = 0.228). Nevertheless, there were significant croppingsystemsinRiverBasincommunitiesof...
+
+  [p_value] p = 0.181
+    ...ot significantly different yield the same period (20.2 t ha-1). No information (p = 0.181) between the two cropping periods wascollectedforthelandraces[b3]in1994/96orfor...
+
+  [p_value] p=0.181
+    .... smetsys gnipporc lanoitidarT 0 100 200 300 400 Cycle length (days) c.periods: p=0.181 ahipa: p=0.228 ahipa: p<0.001 secardnaL xa3 b1a/w1a b2 rb b3 w1 b1 sb xb3 xb2 x...
+
+  [p_value] p=0.228
+    ...orc lanoitidarT 0 100 200 300 400 Cycle length (days) c.periods: p=0.181 ahipa: p=0.228 ahipa: p<0.001 secardnaL xa3 b1a/w1a b2 rb b3 w1 b1 sb xb3 xb2 xb1 seitinummoc...
+
+  [p_value] p<0.001
+    ...0 100 200 300 400 Cycle length (days) c.periods: p=0.181 ahipa: p=0.228 ahipa: p<0.001 secardnaL xa3 b1a/w1a b2 rb b3 w1 b1 sb xb3 xb2 xb1 seitinummoc nisab reviR c.p...
+
+  [p_value] p=0.40
+    ...aL xa3 b1a/w1a b2 rb b3 w1 b1 sb xb3 xb2 xb1 seitinummoc nisab reviR c.periods: p=0.40 ahipa: p=0.50 lpz por ayp pil 0 10 20 30 40 Plant density (m2) xa3 b1a/w1a b2 r...
+
+  [p_value] p=0.50
+    ...b2 rb b3 w1 b1 sb xb3 xb2 xb1 seitinummoc nisab reviR c.periods: p=0.40 ahipa: p=0.50 lpz por ayp pil 0 10 20 30 40 Plant density (m2) xa3 b1a/w1a b2 rb b3 0 20 40 6...
+
+  [n_eq] n=3
+    ...5:449–469 459 Fig.5 A–DIn-situ (A) (B) comparisonsofahipa landracesintwoperiods n=3 c.periods: p=0.421 1994/96(barsinblack ahipa: p=0.038 colour)and2012(barsin n=3...
+
+  [p_value] p=0.421
+    ...ig.5 A–DIn-situ (A) (B) comparisonsofahipa landracesintwoperiods n=3 c.periods: p=0.421 1994/96(barsinblack ahipa: p=0.038 colour)and2012(barsin n=3 n=2 graycolour):Ac...
+
+  [p_value] p=0.038
+    ...ofahipa landracesintwoperiods n=3 c.periods: p=0.421 1994/96(barsinblack ahipa: p=0.038 colour)and2012(barsin n=3 n=2 graycolour):Acycle n=4 length,Bplantdensity, n=1...
+
+  [n_eq] n=3
+    ...n=3 c.periods: p=0.421 1994/96(barsinblack ahipa: p=0.038 colour)and2012(barsin n=3 n=2 graycolour):Acycle n=4 length,Bplantdensity, n=1 ** CrootyieldandDplanted n...
+
+  [n_eq] n=2
+    ...c.periods: p=0.421 1994/96(barsinblack ahipa: p=0.038 colour)and2012(barsin n=3 n=2 graycolour):Acycle n=4 length,Bplantdensity, n=1 ** CrootyieldandDplanted n=4 n...
+
+  [n_eq] n=4
+    .../96(barsinblack ahipa: p=0.038 colour)and2012(barsin n=3 n=2 graycolour):Acycle n=4 length,Bplantdensity, n=1 ** CrootyieldandDplanted n=4 n=2 area.Ahipalandracesw...
+
+  [n_eq] n=1
+    ....038 colour)and2012(barsin n=3 n=2 graycolour):Acycle n=4 length,Bplantdensity, n=1 ** CrootyieldandDplanted n=4 n=2 area.Ahipalandraceswere n=7 definedbytheirtest...
+
+  [n_eq] n=4
+    ...3 n=2 graycolour):Acycle n=4 length,Bplantdensity, n=1 ** CrootyieldandDplanted n=4 n=2 area.Ahipalandraceswere n=7 definedbytheirtestacolour. n=13 *** * Subfigure...
+
+  [n_eq] n=2
+    ...2 graycolour):Acycle n=4 length,Bplantdensity, n=1 ** CrootyieldandDplanted n=4 n=2 area.Ahipalandraceswere n=7 definedbytheirtestacolour. n=13 *** * Subfiguresinl...
+
+  [n_eq] n=7
+    ...gth,Bplantdensity, n=1 ** CrootyieldandDplanted n=4 n=2 area.Ahipalandraceswere n=7 definedbytheirtestacolour. n=13 *** * Subfiguresinlowerhalfof eachofthefourgrap...
+
+  [n_eq] n=13
+    ...yieldandDplanted n=4 n=2 area.Ahipalandraceswere n=7 definedbytheirtestacolour. n=13 *** * Subfiguresinlowerhalfof eachofthefourgraphs ahipa: p=0.008 ahipa: p<0.001...
+
+  [p_value] p=0.008
+    ...theirtestacolour. n=13 *** * Subfiguresinlowerhalfof eachofthefourgraphs ahipa: p=0.008 ahipa: p<0.001 n=2 correspondtonewahipa lpz landracesidentifiedin2012 n=2 (bars...
+
+  [p_value] p<0.001
+    ...r. n=13 *** * Subfiguresinlowerhalfof eachofthefourgraphs ahipa: p=0.008 ahipa: p<0.001 n=2 correspondtonewahipa lpz landracesidentifiedin2012 n=2 (barsingreencolour)....
+
+  [n_eq] n=2
+    ...*** * Subfiguresinlowerhalfof eachofthefourgraphs ahipa: p=0.008 ahipa: p<0.001 n=2 correspondtonewahipa lpz landracesidentifiedin2012 n=2 (barsingreencolour). n=1...
+
+--- TAMANHOS AMOSTRAIS ---
+
+  n=3: A–DIn-situ (A) (B) comparisonsofahipa landracesintwoperiods n=3 c.periods: p=0.421 1994/96(barsinblack ahipa: p=0.038 colou
+  n=3: 21 1994/96(barsinblack ahipa: p=0.038 colour)and2012(barsin n=3 n=2 graycolour):Acycle n=4 length,Bplantdensity, n=1 ** Cro
+  n=2: 994/96(barsinblack ahipa: p=0.038 colour)and2012(barsin n=3 n=2 graycolour):Acycle n=4 length,Bplantdensity, n=1 ** Crootyi
+  n=4: a: p=0.038 colour)and2012(barsin n=3 n=2 graycolour):Acycle n=4 length,Bplantdensity, n=1 ** CrootyieldandDplanted n=4 n=2
+  n=1: barsin n=3 n=2 graycolour):Acycle n=4 length,Bplantdensity, n=1 ** CrootyieldandDplanted n=4 n=2 area.Ahipalandraceswere n=
+  n=4: ycle n=4 length,Bplantdensity, n=1 ** CrootyieldandDplanted n=4 n=2 area.Ahipalandraceswere n=7 definedbytheirtestacolour.
+  n=2: n=4 length,Bplantdensity, n=1 ** CrootyieldandDplanted n=4 n=2 area.Ahipalandraceswere n=7 definedbytheirtestacolour. n=13
+  n=7: =1 ** CrootyieldandDplanted n=4 n=2 area.Ahipalandraceswere n=7 definedbytheirtestacolour. n=13 *** * Subfiguresinlowerhalf
+  n=13: n=2 area.Ahipalandraceswere n=7 definedbytheirtestacolour. n=13 *** * Subfiguresinlowerhalfof eachofthefourgraphs ahipa: p=
+  n=2: werhalfof eachofthefourgraphs ahipa: p=0.008 ahipa: p<0.001 n=2 correspondtonewahipa lpz landracesidentifiedin2012 n=2 (bar
+
+--- COMPARAÇÕES ENTRE GRUPOS ---
+
+  of the Angostura, Ornuni and tasks were men past middle-aged. Only 21% of the Llojacommunities,i.e.communitiesthathavecontin- interviewees were young
+  ing ally,rootsare commercialized forthe urban Catholic together with the associated ethno-ecological knowl- celebrationofCorpusCristiasthisconstitutesagood edge. Socio-economic factors
+  ease in The number of ahipa farmers per rural community 2012(Table 1).Overalltheajiperosaccountfor16% comprised between 1.0–16.0% of the total local ofthetotalhouseholdsofthePilayaa
+  s). initiatives in combination with the traditional knowl- Anexceptionisthateighteenahipaseedaccessionsare edge of crop diversity are ne
+  us Lo´pez-Noriega2014a;Jarvisetal.2011).Traditional remainsunknown.In-situseedconservationispoorly farmingsystems,ase.g.chiru,anantaandk’ata,were
+  ctors of genetic erosion is the loss of traditional w1a] and [b2] was 67% in the Lloja and Anquioma knowledge and experience among local farmers. Alto co
+  esults were found by Høgh-Jensen et al. Traditional knowledgeis ofconsiderable value when (2008). Agricultural intensification has accor
+
+--- PREVIEW DA SEÇÃO RESULTS ---
+
+
+Results therapedata(L.)Schrad.)alongtheborders.Llojaisa
+community where the cultivation of cherimoya
+Changesofagro-biodiversityandthestatus (AnonacherimolaMill.)hasbeenpopularforalong-
+ofahipaintraditionalfarmingsystems time. Here the fragmented plots, known as ‘Chiru&
+(10 ± 3 m2), are used for growing ahipa, tomato
+Wepresentandcompareresultsfromthetwoperiods, (Lycopersicum esculentum Mill.), bell pepper (Cap-
+anddiscusstheeffectofchangesinagro-biodiversity sicumannuumL.),greenbeans,arracacha(Arracacia
+on ahipa on-farm conservation in eleven rural com- xanthorrhiza Bancr.), manioc (Manihot esculenta
+munities located in the IAVs. The Brillouin diversity Crantz) and groundnut (Arachis hypogaea L.) as
+index(HB)andthecropdiversityindexorrichnessof intercroppingandusedinthecroprotation.
+crop species (S) were calculated for the communities The HB and S values in the communities of the
+located in each river basin. When (HB) values are Porvenir and Luribay River basins were lower.
+higher than 1.0, they reflect more diversity among AnquiomaBajohad1.76ofHBin1994thatdecreased
+cultivated crop species, while (S) denotes higher to 1.69 in 2012 and S decreased to only nine crop
+overall crop diversity managed by farmers. HB and species in 2012 (Fig. 2B). We did not estimate MAD
+S are arranged from large to small values for and land use for 1994 due to lack of information.
+comparing two periods (Fig. 2A–D). For the 2012 However,in2012mixedgroupsofcolouredseedwere
+periodHBrankedfrom0.68to1.63
+
+
+======================================================================
+Study ID=9 | Sibanda M. (2025)
+DOI: 10.1186/s40066-025-00573-w
+Title: Guardians of heritage: women's position in traditional seed systems
+Tables: 0 | Numeric findings: 0
+======================================================================
+
+--- COMPARAÇÕES ENTRE GRUPOS ---
+
+  ology, Food security, Food sovereignty, Gender and agriculture, Indigenous knowledge, Traditional seed systems, Women farmers Background In sub-Saharan Africa
+  groecological seed practices. By ground women’s ecological knowledge, biodiversity stew- examining the agency, practices, and challenges faced
+  s the dual Theoretical framework burden women face in maintaining traditional knowledge My research is grounded in Feminist Political Ecology while adapting to hy
+  te traditional seed systems within many women continue to express their seed knowledge agroecological contexts. FPE offers critical tools to inter- through ritua
+  to keep them safe from weevils. This is women’s knowl- an interview in Plumtree, a 28-year-old male agrono- edge. It is what we pass
+  tion responsibilities still rested with women. sustainable, self-sufficient means of food production. In FDGs, some women expressed concern that men’s Policy an
+  gnition Gendered labor, low recognition Women’s groups, knowledge sharing Higher visibility locally, but limited authority Climate stress In
+  - frameworks that center Indigenous and women’s knowl- tices or rejecting modern inputs, farmers, women and edge systems. increasing
+  they grow, ecology values biodiversity, traditional knowledge, and preserve, and eat in ways that are in harmony with their local food s
+  with their local food systems [9, 10]. Traditional knowledge is not cultural, spiritual, and ecological values [19, 20]. While only a r
+
+--- PREVIEW DA SEÇÃO RESULTS ---
+
+
+Results The findings reveal four major themes: the cultural significance of seeds; women farmers’ specific roles
+in seed systems; challenges in traditional seed preservation; and implications for food sovereignty and nutrition
+security. Women safeguarded drought-tolerant crops such as millet, sorghum, and rapoko, which ensured household
+food availability during climate shocks and ‘hunger periods.’ Their seed work sustained dietary diversity and nutri-
+tion security through protein-rich legumes, nutrient-dense small grains, and multipurpose crops like pumpkins.
+By blending traditional seeds with selected hybrids, farmers reduced dependency on purchased seed, improved
+climate resilience, and maintained culturally significant varieties. Seed sovereignty, expressed through these practices,
+was directly linked to greater household autonomy over planting decisions, reduced vulnerability to market fluctua-
+tions, and strengthened local food systems.
+Conclusions Recognising and empowering women in agroecology is crucial for promoting equitable and sustain-
+able food systems. The study shows that women’s seed stewardship contributes directly to household food security,
+nutrition, and sovereignty, while sustaining cultural identity, intergenerational knowledge, and biodiversity. Support-
+ing women’s roles in traditional seed systems is essential for addressing contemporary and future challenges in sus-
+tainable agriculture.
+Keywords Agroecology, Food security, Food sovereignty, Gender
+
+
+======================================================================
+Study ID=45 | Ghanimi H.M.A. (2022)
+DOI: 10.4314/ejhs.v32i6.22
+Title: Ethnobotanical Knowledge about Wild Edible Plants Messiwa
+Tables: 0 | Numeric findings: 0
+======================================================================
+
+--- COMPARAÇÕES ENTRE GRUPOS ---
+
+  the General consumption frequency (CF): men work in agriculture (52%), while the General consumption frequency represents the majority of the women
+  requency represents the majority of the women are housewives (89%). frequency of people who have previously Families consisting of parents and ch
+  y 21%. Regarding monthly income, 65% of men and 75% of Recent Consumption Frequency (RCF): The women have incomes below 3000 MDh re
+  ave a university level was very low for women (1%) and also for men (7%). Table 1: Socio-demographic and economic structure of the study population. Va
+  the study population. Variables Man (%) Women (%) Age Less than 45 years old 50 50 45 years and older 50 50 Occupation Agricultu
+  onsumed these two species at least once before significant at the 0.05 level. The mean for was 1%, while none of our informants have women was 38.96 ±10.67, while men
+  ution, and reproduction in evaluated. A comparison of means was also used to compare any medium, provided the original author and source a
+  a arvensis, were respectively the least Comparison of means (table 4): The difference recognized (FR= 0.16) and the least used (FU = in me
+  show significant differences. Table 4: Comparison of averages by socio-demographic and economic status. Variables Number Average recognized
+  MDh 15 36,13±12,61 T = student test of comparison of 2 means; F = Fisher test of analysis of variance * = test significant at the 5% level,
+
+--- PREVIEW DA SEÇÃO RESULTS ---
+
+[NOT FOUND]
+
+
+======================================================================
+Study ID=46 | Malapane O.L. (2024)
+DOI: 10.1007/s13412-024-00888-3
+Title: Farm Trees as Cultural Keystone Species
+Tables: 4 | Numeric findings: 0
+======================================================================
+
+--- TABELAS EXTRAÍDAS ---
+
+  Tabela p.3 (3×4):
+    Header: ['', 'Identification', None, '']
+    [None, 'Removal after screening: Not\naccessible (n = 14), non- English\nlanguages(n = 6)\nIncluded\nTotal articles considered (n = 77)', None, None]
+    [None, None, 'Removal after screening: Not\naccessible (n = 14), non- English\nlanguages(n = 6)', None]
+
+  Tabela p.3 (2×1):
+    Header: ['Secondary screening through\nbrowsing full texts (n = 97)']
+    ['']
+
+  Tabela p.4 (7×7):
+    Header: [None, None, None, None, None, None, '']
+    [None, None, None, None, None, None, '']
+    [None, None, None, None, '', None, None]
+    [None, None, None, None, '', '', '']
+    [None, None, None, None, '', '', '']
+    ['', '', '', '', '', '', '']
+    ['', '', '', '', '', '', '']
+
+  Tabela p.5 (6×4):
+    Header: ['', '', '', '']
+    ['', '', '', '']
+    ['', '', '', None]
+    ['', '', '', '']
+    ['', None, None, None]
+    ['', '', None, None]
+
+--- TAMANHOS AMOSTRAIS ---
+
+  n=97: identified from Web Records from Google Scholar of Science (n = 97) search (n=24) Screening Primary selection through screenin
+  n=24: Web Records from Google Scholar of Science (n = 97) search (n=24) Screening Primary selection through screening Removal afte
+  n=24: ough screening Removal after screening: Duplicated studies (n = 24) Eligibility Secondary screening through browsing full text
+  n=97: ligibility Secondary screening through browsing full texts (n = 97) Removal after screening: Not accessible (n = 14), non- Eng
+  n=14: ull texts (n = 97) Removal after screening: Not accessible (n = 14), non- English languages(n = 6) Included Total articles con
+  n=6: screening: Not accessible (n = 14), non- English languages(n = 6) Included Total articles considered (n = 77) Fig. 1 PRISMA
+  n=77: nglish languages(n = 6) Included Total articles considered (n = 77) Fig. 1 PRISMA flow diagram showing review process; adopted
+  n=29: y farming communities in Sub-Saharan which contributed 38% (n = 29), South Africa, which con- Africa (SSA). These strategies i
+  n=22: These strategies included livelihood diversi- tributed 29% (n = 22), and Central Africa, which contrib- fication, soil and wat
+  n=14: oil and water conservation, agroforestry, as well uted 18% (n = 14). The region with the lowest origination as weather and cli
+
+--- COMPARAÇÕES ENTRE GRUPOS ---
+
+  nstitutions, with the sup- the value of traditional agroecological knowledge and the port of agricultural extension agents. Many African coun- competen
+  isting science-based and integration of modern science-based knowledge and forecasting system, highlighting its limitations in terms of indigenou
+  oth indigenous knowledge and experts in modern knowledge. knowledge systems for achieving effective and sustainable Without this pr
+  -7 617. Berkes F (2012) Sacred ecology: traditional ecological knowledge 100037 7 and resource management. Taylor and Francis, London Abate RS, Kro
+  thiopia. Cli- IFAD IF for AD (2016) The traditional knowledge advantage. Family mate 7(5). https://d oi.o rg/1 0.3 390/c li705 0070 Farm
+  ptations to (2022) Dynamics of pastoral traditional ecological knowledge: a climate change before and after a radio program intervention; global st
+
+--- PREVIEW DA SEÇÃO RESULTS ---
+
+[NOT FOUND]
+
+
+======================================================================
+Study ID=10 | Suwardi A.B. (2025)
+DOI: 10.1016/j.ecofro.2025.10.014
+Title: Ecological functions, ecosystem services, and biocultural significance
+Tables: 0 | Numeric findings: 0
+======================================================================
+
+--- TAMANHOS AMOSTRAIS ---
+
+  n=136: naires consisting of open-ended and closed-ended questions (n =136). Participants were selected and identified through purpose
+
+--- COMPARAÇÕES ENTRE GRUPOS ---
+
+  le 2 Socio-demographic characteristics. Gender % Age % Educational Level % Employment Status % Income Level % Male 40 50–54 33 Never attended school 25 Unemployed 67 <R 3000
+  5 Self Employed 9 R15 001 – R 20 000 2 Gender % Age % Educational Level % Employment Status % Income Level % Females 60 50–54 19 Never attended school 36 Unemployed 54 <R 30
+  cularly among females, with over 60% of women and roughly 54% of men reporting unemployment. The number of educated men in the study region w
+  he study region was higher than that of women, with 36% of males having secondary education compared to 22% of females. Interestingly,
+  ://www.cbd.int/article/role-indigenous-women-transmission-traditional-knowledge -IDPWIP2022〉17 October 2022. Mdhluli, T.D., Mokgoatsana, S., Kugara, S.L.,
+  various names that refer to it, such as rural knowledge, folk knowledge, local knowledge, indigenous technical knowledge, indigenous knowl- edge,
+  people through practice) transmit their traditional knowledge and how valuable IK is within the generations living in close contact with
+  ly related to the World view (religion, Traditional knowledge is similar to Western science based on (2010), IK is the entirety survival
+  people defined belief systems). 2000a). Traditional knowledge has become a major emerging research practices rooted in worldwide. topic
+  Morolo, 2004). With that said, the term traditional knowledge has observations of local people. various names that refer to it, such as
+
+--- PREVIEW DA SEÇÃO RESULTS ---
+
+
+5. Results and discussion custodians of the Vhavenda people. We gather to deliberate on issues about
+the community’s well-being. Our guidance is grounded in customary laws and
+5.1. Transmission of indigenous knowledge systems in the vhavenda principles passed down by our forefathers, aiming to provide solutions and
+community lead the community". This highlights that IKS transmission is not solely
+about knowledge but also embodies a traditional way of life which is
+Participants were questioned about the various methods of trans- intangible.
+mitting IKS in the study area. It was found that folklore (49%) was the Another method of transmitting IKS in the region is through tradi-
+most used method of IKS transmission in the area (Fig. 3). Folklore in tional songs, although this mode is not as prevalent as other methods.
+this context refers to traditional tales, legends, proverbs, poems, myths, These traditional songs are part of the region’s folklore and convey
+taboos, and jokes that are passed down orally. Informal education historical events, cultural identity, traditional philosophies, myths,
+emerged as the second most frequent form of IKS transmission, with legends, and taboos. They hold significant importance in the Vhavenda
+participants indicating that IKS is transmitted through observation, culture and history.
+participation, and oral literature. Additionally, traditional songs (7%) Traditional songs are another way to transmit IKS in the region,
+were identified as the thi
+
+
+======================================================================
+Study ID=44 | Bussmann R.W. (2018)
+DOI: 10.1007/s12231-018-9401-y
+Title: Chácobo ethnobotany - complete adult population survey
+Tables: 2 | Numeric findings: 0
+======================================================================
+
+--- TABELAS EXTRAÍDAS ---
+
+  Tabela p.9 (7×6):
+    Header: ['', '', '', '', '', '']
+    ['', '', '', '', '', '']
+    ['', '', '', '', '', '']
+    ['', '', '', '', '', '']
+    ['', '', '', '', '', '']
+    ['', '', '', '', '', '']
+    ['', '', '', '', '', '']
+
+  Tabela p.9 (3×1):
+    Header: ['']
+    ['']
+    ['']
+
+--- COMPARAÇÕES ENTRE GRUPOS ---
+
+  ;e-mail:rbussmann@gmail.com The loss of traditional knowledge, concomitant with changes in livelihoods, languages, and demographics of i
+  studies that attempted to document the traditional ethnobotanical knowledge of the Chácobo of Bolivia, we tried to examine whether knowledge loss was
+  eabletobedoc- use and authorship of any traditional knowledge of umentedbytraininglocalinterviewersandtryingto all participants are main
+  theyhavenocompetinginterest. covery of traditional ecological knowledge as adaptive management. Ecological Applications Consent for Publication. T
+  atural bioactive compounds in Bo- 2010. Traditional ecological knowledge trends liviathrough a multidisciplinaryapproach.Part inthetransitiontoamar
+  , R. Cámara Leret, ___, and M.J. Macía. traditional ecological knowledge: an analysis of 2014b. The influence of socioeconomic factors different do
+  Evidence of traditional transmission of traditional knowledge across knowledge loss among a contemporary indige- north-western South America: A cross-cul
+  and L. H. Cavalcante. 2006. Cul- 2017. Traditional knowledge hiding in plain tural significance of plants in communities sight—21st cen
+  dHealthOrgani- linguistic diversity and traditional knowledge. zation82:243–250. Finalreportonindicatorn2.SaltSpringIsland: Terralingua.
+
+--- PREVIEW DA SEÇÃO RESULTS ---
+
+[NOT FOUND]
+
+
+======================================================================
+Study ID=29 | La Rosa A. (2021)
+DOI: 10.1186/s13002-021-00470-z
+Title: Ethnobotany of the Aegadian Islands
+Tables: 0 | Numeric findings: 0
+======================================================================
+
+--- COMPARAÇÕES ENTRE GRUPOS ---
+
+  sas asource offirewood usedinbaking are young and tender (FL = 40%) or boiling older leaves bread, and it is traded between islands specifically f
+  rmantdata Island Size Maxelevation No.ofmen Averageage± No.ofwomen Averageage± Totalno. (km2) (m.a.s.l.) interviewed standarddeviation interviewed standar
+  also used for medicinal purposes in the treatment of toexamineagroupofpopulationslivinginisolatedloca- gastrointestinal, urological, and respiratory
+  tudy, we aimed to evaluate the state of traditional ecological knowledge (TEK) concerning the useof wild and cultivated plants and fungi for human
+  f this study was to document Fieldstudy traditional ecological knowledge (TEK) concerning wild A total of 48 in-depth interviews (typically lasting
+  eeoverwhichspeciestouse(Table3). tigate traditional ecological knowledge concerning food, health,andeconomicactivitiesontheislands. Fidelitylevel F
+  coctions were used for internal used by traditional healers (known as “mago”, “u spiri- veterinary applications only [45]. In folk medicine, this
+  l agent [65]. On In Sicily, the loss of traditional ecological knowledge the other hand, also the root bark of a related species, (TEK) has been re
+  aceae were Italian coasts, a decline of traditional fishery knowledge quoted as anti-rheumatic [57], while today, only the hasbeendocumented[60]
+
+--- PREVIEW DA SEÇÃO RESULTS ---
+
+
+Results: A total of 122 plant and five fungal taxa representing 54 families were cited for 355 uses. Among
+the most pervasive species in the landscape, Agave americana and A. sisalana had diverse applications in
+the past, which ranged from cordage for agricultural and maritime applications to tools for sewing, eating
+land snails, and constructing furniture. Fields of Ferula communis also dominate the landscape, and the dry
+stems were used extensively in furniture making; this species also serves as an environmental indicator for
+the location of the most preferred edible mushrooms, Pleurotus eryngii var. ferulae. Other important flora
+included topical medicinal applications of Glaucium flavum for hematomas and Artemisia arborescens for
+ritual bathing of newborns.
+*Correspondence:cquave@emory.edu
+†AlfonsoLaRosaandLauraCornaracontributedequallytothiswork.
+6CenterfortheStudyofHumanHealth,EmoryUniversity,1557DickeyDr,
+Anthropology306,Atlanta,GA30322,USA
+7DepartmentofDermatology,EmoryUniversitySchoolofMedicine,615
+MichaelSt.,Whitehead105L,Atlanta,GA30322,USA
+Fulllistofauthorinformationisavailableattheendofthearticle
+©TheAuthor(s).2021OpenAccessThisarticleislicensedunderaCreativeCommonsAttribution4.0InternationalLicense,
+whichpermitsuse,sharing,adaptation,distributionandreproductioninanymediumorformat,aslongasyougive
+appropriatecredittotheoriginalauthor(s)andthesource,providealinktotheCreativeCommonslicence,andindicateif
+changesweremade.Theimagesorotherthirdpartymaterialinthisartic
+
+
+======================================================================
+PDFs SEM TEXTO (EXTRAÇÃO MANUAL NECESSÁRIA)
+======================================================================
+
+  ID=24 Bastos J.G.                    (2022) | A-Biodiversity-Hotspot-Losing-Its-Biocultural-Heritage-
+  ID= 1 Romero-Silva M.J.              (2026) | Colourful-agrobiodiversity-morphology-and-phenology-of-
+  ID=37 Latorre E.C.                   (2018) | Comparison-of-medicinal-plant-knowledge-between-rural-a
+  ID=11 Tran T.A.                      (2025) | Erosion-of-traditional-ecological-knowledge-under-condi
+  ID=21 Saiba Y.                       (2023) | Ethnobotany-and-conservation-applications-in-the-Noken-
+  ID=17 Andreotti F.                   (2023) | Exploring-farmers-perspectives-on-agrobiodiversity-mana
+  ID= 8 Rollo M.F.                     (2025) | Interconnected-Nature-and-People-Biosphere-Reserves-and
+  ID=22 Sarmiento F.O.                 (2023) | Mountain-Graticules-Bridging-Latitude-Longitude-Altitud
+  ID=47 Rodríguez-Cruz L.A.            (2022) | Socialecological-interactions-in-a-disaster-context-Pue
+  ID=14 de Sousa T.B.                  (2024) | Strategies-for-managing-agrobiodiversity-by-peasant-far
+  ID=18 Franco-Moraes J.               (2023) | The-Zo-perspective-on-what-scientists-call-forest-manag
+  ID=35 Arce, A; de Haan, S            (2018) | Unearthing-Unevenness-of-Potato-Seed-Networks-in-the-Hi
+  ID= 4 Gerner, IR                     (2025) | Voices-Around-the-South-Tyrolean-Herbal-PharmacyExplori

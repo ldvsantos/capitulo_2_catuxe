@@ -1,0 +1,546 @@
+%% 
+%% Artigo 2 -- Vulnerabilidade biocultural em Saberes Agrícolas Tradicionais
+%%
+%% Formatado para Biodiversity and Conservation (Springer Nature)
+%% Classe article padrão com formatação conforme instruções para autores
+%%
+
+\documentclass[12pt,a4paper]{article}
+
+%% Pacotes
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{bm}
+\usepackage{lineno}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{subcaption}
+\usepackage{hyperref}
+\usepackage{natbib}          %% Springer usa natbib (authoryear)
+\usepackage{geometry}
+\geometry{margin=2.5cm}
+\usepackage{setspace}
+\doublespacing                  %% Springer exige espaçamento duplo
+
+\begin{document}
+
+\title{Vulnerabilidade biocultural em Saberes e Sistemas Agrícolas Tradicionais: uma meta-análise quantitativa}
+
+\author{Catuxe Varjão de Santana Oliveira\textsuperscript{1,*} \and Luiz Diego Vidal Santos\textsuperscript{2}}
+
+\date{}
+\maketitle
+
+\noindent\textsuperscript{1} Programa de Pós-Graduação em Ciências da Propriedade Intelectual (PPGPI), Universidade Federal de Sergipe (UFS), São Cristóvão, SE, Brasil \\
+\textsuperscript{2} Universidade Estadual de Feira de Santana (UEFS), Feira de Santana, BA, Brasil \\
+\textsuperscript{*} Autor correspondente: \href{mailto:catuxe@academico.ufs.br}{catuxe@academico.ufs.br}
+
+%% ============================================================
+%% RESUMO
+%% ============================================================
+\begin{abstract}
+A ausência de síntese quantitativa sobre a vulnerabilidade biocultural de saberes agrícolas tradicionais limita a priorização de intervenções de salvaguarda em comunidades detentoras desses sistemas. Este estudo investiga como diferentes dimensões de vulnerabilidade biocultural se associam à degradação de saberes e sistemas agrícolas tradicionais, avaliando a variabilidade dessas associações e identificando fatores contextuais que as modulam. Conduziu-se meta-análise hierárquica de três níveis (REML, RVE-CR2) com integração multi-tier de evidência quantitativa e qualitativa, adotando $lnRR$ como métrica de efeito. A busca sistemática (2016--2026) recuperou 365 registros; 47 estudos compuseram a síntese final, gerando 222 observações ($k = 37$ por dimensão). A vulnerabilidade jurídica ($V_{5}$) concentrou o mais alto efeito, correspondendo a uma redução de 24,3\% nos indicadores de proteção formal. As cinco dimensões restantes oscilaram em torno do equilíbrio, com destaque para organização social ($V_{6}$), cuja tendência positiva de 18,7\% sugere ativação de mecanismos de coesão comunitária em resposta a intervenções de salvaguarda. Comunidades de agricultores sul-americanos concentraram a maior fragilidade jurídica (redução de 37,1\%), e intervenções ancoradas em territórios simbólicos apresentaram os maiores efeitos protetores simultâneos sobre proteção jurídica e coesão social. A carência de instrumentos jurídicos voltados à regularização de intangíveis, como indicações geográficas, marcas coletivas e registros de patrimônio imaterial, surge como o vetor de vulnerabilidade biocultural dos SSAT, e políticas de salvaguarda para comunidades quilombolas podem beneficiar-se da articulação entre reforço jurídico e práticas territoriais.
+\end{abstract}
+
+\medskip
+\noindent\textbf{Keywords:} Propriedade intelectual coletiva $\cdot$ Salvaguarda patrimonial $\cdot$ Ativos Intangíveis $\cdot$ Meta-análise hierárquica $\cdot$ Integração multi-tier de evidência
+
+%% Numeração de linhas para revisão
+\linenumbers
+
+%% ============================================================
+%% 1. INTRODUÇÃO
+%% ============================================================
+\section{Introdução}
+\label{sec:intro}
+
+A expansão de sistemas agrícolas intensivos sobre biomas de alta sociobiodiversidade tem promovido a simplificação de agroecossistemas tradicionais cujos arranjos produtivos dependem de saberes etnobotânicos consolidados ao longo de gerações \citep{Altieri2004}. A substituição progressiva de policultivos por monoculturas reduz a base genética manejada e interrompe ciclos de seleção local que sustentam variedades adaptadas a condições edafoclimáticas específicas, comprometendo mecanismos de estabilização ambiental dependentes dessa diversidade \citep{Jarvis2008}. Reduções de 30 a 50\% no domínio de rotinas etnobotânicas entre gerações consecutivas foram documentadas em comunidades submetidas à homogeneização produtiva \citep{ReyesGarcia2013}, indicando que a erosão do conhecimento ecológico local e a perda de agrobiodiversidade tendem a operar de forma concomitante.
+
+No quadro da visão baseada em recursos \citep{Barney1991}, saberes agroecológicos tradicionais reúnem atributos de raridade, inimitabilidade e enraizamento territorial que os qualificam como ativos intangíveis de vantagem competitiva sustentável. Esses ativos, contudo, permanecem sub-representados em instâncias nacionais (IPHAN, INPI, CGen) e internacionais (FAO-GIAHS) de proteção patrimonial, o que pode ampliar a vulnerabilidade territorial e epistêmica de comunidades quilombolas do semiárido brasileiro \citep{Santilli2009,Cunha2009,Goncalves2022}.
+
+A vulnerabilidade biocultural desses sistemas não opera, contudo, como processo unidimensional. Quando a proporção de jovens que dominam rotinas agroecológicas decresce entre coortes consecutivas, a perda envolve não apenas informação técnica, mas o conjunto de competências que sustenta a manutenção de variedades locais, como exemplo a leitura de sinais edafoclimáticos e a adaptação de calendários de cultivo \citep{ReyesGarcia2013,GomezBaggethun2013}.
+
+Essa erosão intergeracional tende a afetar a complexidade biocultural dos agroecossistemas, uma vez que a simplificação do repertório de manejo pode reduzir a riqueza de espécies cultivadas e comprometer interações solo-planta cuja manutenção depende de transmissão oral continuada \citep{Brush2004,Jarvis2008,Bastos2022}. 
+
+O resultado é um sistema progressivamente homogeneizado, cuja perda de capacidade adaptativa compromete a resiliência frente a perturbações climáticas e econômicas, retroalimentando a própria erosão dos saberes que o sustentavam \citep{Tran2025,Aniah2019}.
+
+Paralelamente, a exclusividade geográfica dos repertórios de manejo confere a cada território um grau de singularidade cuja perda é irreversível, uma vez que práticas endêmicas, desenvolvidas ao longo de gerações sob condições edafoclimáticas específicas, não são reconstituíveis por transferência horizontal entre comunidades \citep{Laborde2023,Ens2016}. 
+
+A literatura reconhece essa singularidade, porém a avalia predominantemente por inventários qualitativos que não permitem comparação paramétrica entre territórios \citep{CalvetMir2016,LaRosa2021,Saiba2023}, impedindo análises mais profundas e a identificação de quais comunidades concentram os maiores riscos de perda irreversível.
+
+A fragilidade se amplifica no plano institucional. A ausência de registros formais estruturados expõe os saberes a dois riscos convergentes, a invisibilidade perante políticas públicas de proteção \citep{Santilli2009} e a vulnerabilidade a apropriação indevida por agentes externos, como ilustrado pelo caso San-Hoodia, em que compostos bioativos de uso tradicional San foram patenteados sem consentimento prévio informado \citep{Wynberg2015}. Esse cenário é agravado pela persistente lacuna entre os mecanismos previstos no Protocolo de Nagoia e a sua efetiva implementação em legislações nacionais, que ainda carecem de instrumentos capazes de reconhecer o caráter coletivo e dinâmico desses ativos intangíveis \citep{Laird2020}.
+
+Sem indicações geográficas, marcas coletivas ou registros de patrimônio imaterial que vinculem formalmente o saber ao território, a proteção depende exclusivamente da capacidade organizacional da própria comunidade, cuja vitalidade, expressa pela frequência de eventos de transmissão, pelo número de mestres de saberes ativos e pela existência de protocolos comunitários de governança, constitui a última linha de defesa contra a desagregação do sistema \citep{FalsBorda1991,Ostrom1990}. A degradação dessa organização social fecha o ciclo de retroalimentação, acelerando a erosão intergeracional que originou todo o processo \citep{Agrawal2002}.
+
+Diante da fragmentação das abordagens disponíveis na literatura, a meta-análise quantitativa constitui a ferramenta metodológica adequada para sintetizar tamanhos de efeito padronizados de múltiplos estudos empíricos, modelar heterogeneidade entre contextos e identificar moderadores da variabilidade nos resultados \citep{Page2021,Borenstein2009,Pustejovsky2022}.
+
+Se a degradação biocultural dos SSAT resulta da interação de múltiplas dimensões de vulnerabilidade, é plausível que dimensões institucionais, particularmente a carência de instrumentos jurídicos voltados à regularização de intangíveis, exerçam efeitos de maior magnitude do que dimensões ecológicas ou organizacionais, e que a transmissão intergeracional opere como variável mediadora cujo enfraquecimento pode precipitar o declínio das demais dimensões.
+
+Nesse contexto, este estudo investiga como diferentes dimensões de vulnerabilidade biocultural se associam à degradação de saberes e sistemas agrícolas tradicionais, avaliando a variabilidade dessas associações e identificando fatores contextuais que as modulam.
+
+%% ============================================================
+%% 2. MATERIAIS E MÉTODOS
+%% ============================================================
+
+\section{Materiais e métodos}
+\label{sec:methods}
+
+\subsection{Registro e conformidade PRISMA 2020}
+\label{sec:prisma}
+
+Este estudo foi conduzido em conformidade com as diretrizes PRISMA~2020 para revisões sistemáticas e meta-análises \citep{Page2021}. 
+
+A Fig.~\ref{fig:prisma-flow} apresenta o diagrama de fluxo PRISMA~2020, que sintetiza o processo de identificação, triagem, deduplicação e seleção dos 48 estudos elegíveis a partir das duas bases consultadas.
+
+\begin{figure}[!ht]
+\centering
+\includegraphics[width=0.68\textwidth]{3-FIGURAS/prisma_flowdiagram_artigo2_en.pdf}
+\caption{Diagrama de fluxo PRISMA 2020 mapeando a busca sistemática, restrições de triagem e a desduplicação entre bancos de dados.}
+\label{fig:prisma-flow}
+\end{figure}
+
+O protocolo foi pré-registrado na plataforma OSF Registries (Open Science Framework; DOI: \url{https://doi.org/10.17605/OSF.IO/XXXXX}). A condução seguiu adicionalmente as recomendações do Cochrane Handbook for Systematic Reviews of Interventions \citep{Higgins2019} para extração de dados, avaliação de risco de viés e síntese quantitativa.
+
+\subsection{Framework conceitual}
+\label{sec:framework}
+
+A vulnerabilidade biocultural de Saberes e Sistemas Agrícolas Tradicionais (SSAT) foi modelada como construto latente hexadimensional, fundamentado na convergência entre a taxonomia de riscos de erosão de conhecimento tradicional \citep{Agrawal2002}, os indicadores de resiliência de sistemas socioecológicos \citep{Folke2016} e dimensões de vulnerabilidade identificadas na literatura. O framework postula que a vulnerabilidade biocultural agregada resulta da interação de seis dimensões funcionais ($V_1$--$V_6$), cada uma quantificável por indicadores proxy extraíveis da literatura empírica, e que intervenções de salvaguarda produzem efeitos mensuráveis e diferenciados sobre essas dimensões. A magnitude relativa desses efeitos fornece a hierarquização empírica das dimensões de vulnerabilidade, cujos rankings e parâmetros de heterogeneidade poderão subsidiar a construção de instrumentos compostos de avaliação em estudos subsequentes. O mapeamento sistemático da densidade de evidência por dimensão orienta a identificação de lacunas e a elicitação de dados primários em investigações complementares.
+
+\subsection{Critérios de elegibilidade (PICOS)}
+\label{sec:picos}
+
+Os critérios de elegibilidade foram definidos pelo framework PICOS (Tabela~\ref{tab:picos}) para assegurar transparência, replicabilidade e comparabilidade dos estudos incluídos.
+
+\begin{table}[htbp]
+\caption{Framework PICOS (critérios de elegibilidade para a meta-análise de dimensões de vulnerabilidade biocultural).}
+\label{tab:picos}
+\centering
+\small
+\begin{tabular}{p{2.5cm}p{10.5cm}}
+\toprule
+\textbf{Elemento} & \textbf{Descrição} \\
+\midrule
+P (População) & Saberes e Sistemas Agrícolas Tradicionais (SSAT) mantidos por comunidades quilombolas do Semiárido brasileiro (bioma Caatinga) como população primária, e comunidades indígenas, camponesas ou ribeirinhas de outras regiões tropicais e subtropicais como amostra comparativa de controle. \\
+I (Intervenção) & Práticas de salvaguarda, documentação estruturada, registro patrimonial, proteção jurídica, governança comunitária de saberes, ou programas de revitalização de transmissão intergeracional. \\
+C (Comparação) & Comunidades ou sistemas sem intervenções formais de salvaguarda, com documentação convencional não padronizada, ou condições pré-intervenção (delineamentos antes-depois). \\
+O (Desfechos) & Indicadores quantitativos de vulnerabilidade biocultural operacionalizados como proxy das seis dimensões ($V_1$--$V_6$), incluindo proporção de jovens praticantes, índices de diversidade de espécies, indicadores de endemismo de práticas, taxas de registro formal, métricas de proteção jurídica e indicadores de vitalidade organizacional (Tabela~\ref{tab:proxies}). \\
+S (Delineamento) & Estudos empíricos comparativos (experimentais, quasi-experimentais, transversais comparativos com grupo de comparação identificável, ou longitudinais antes-depois) publicados entre 2016 e 2026, em inglês, português ou espanhol, reportando dados quantitativos (médias, tamanhos amostrais e medidas de variância) ou evidência semi-quantitativa convertível (p-values com tamanhos amostrais, estatísticas de teste ANOVA/Kruskal-Wallis, ou julgamentos direcionais codificáveis em escala ordinal), conforme o protocolo de integração multi-tier descrito adiante. \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+A operacionalização do componente Outcomes admitiu cinco tiers de evidência em ordem decrescente de precisão, desde indicadores contínuos com variâncias completas (Tier~1) até julgamentos qualitativos direcionais convertidos em $lnRR$ sintéticos (Tier~4). A janela temporal (2016--2026) concentra o maior volume de produção sobre vulnerabilidade biocultural e salvaguarda de conhecimentos tradicionais. Foram incluídos delineamentos transversais comparativos (comunidades com vs.\ sem intervenção) e longitudinais antes-depois, reconhecendo que intervenções de salvaguarda biocultural raramente permitem randomização controlada \citep{Shadish2002}.
+
+\subsection{Estratégia de busca e bases de dados}
+\label{sec:search}
+
+Registros bibliográficos foram sistematicamente recuperados de duas bases de dados indexadas, Scopus e Web of Science Core Collection. A estratégia de busca combinou descritores em inglês, português e espanhol organizados em três blocos semânticos conectados por operador AND, com variações internas conectadas por OR.
+
+O bloco populacional incluiu os termos \textit{traditional agricultural system}, \textit{traditional ecological knowledge}, \textit{indigenous farming}, \textit{quilombola}, \textit{smallholder}, \textit{agrobiodiversity}, \textit{agroecology} e equivalentes em português e espanhol. O bloco de intervenção e exposição compreendeu \textit{safeguard*}, \textit{documentation}, \textit{heritage registration}, \textit{legal protection}, \textit{intangible heritage}, \textit{biocultural conservation}, \textit{community governance} e equivalentes. O bloco de desfechos incluiu \textit{vulnerability}, \textit{erosion}, \textit{knowledge loss}, \textit{intergenerational transmission}, \textit{biodiversity index}, \textit{cultural complexity}, \textit{documentation status} e equivalentes.
+
+As buscas foram complementadas por rastreamento de referências dos estudos incluídos (\textit{backward snowballing}) e citações dos estudos incluídos (\textit{forward snowballing} via Google Scholar), para minimizar omissão de estudos relevantes não indexados nas bases primárias. Todos os registros foram exportados em formato BibTeX, unificados em base de dados consolidada e submetidos a remoção automática de duplicatas mediante o pacote \textit{revtools} do R \citep{Westgate2019}.
+
+\subsection{Triagem e seleção}
+\label{sec:screening}
+
+Previamente à triagem formal, os dois revisores conduziram exercício piloto de calibração com amostra aleatória de 50 registros para padronizar a interpretação dos critérios de elegibilidade e reduzir discordâncias sistemáticas. Discrepâncias identificadas no piloto foram discutidas até consenso operacional, e a concordância resultante superou o limiar de concordância substancial ($\kappa \geq 0{,}61$), habilitando o início da triagem em escala.
+
+A triagem formal foi conduzida em duas fases por dois revisores independentes. Na fase de títulos e resumos, todos os registros foram avaliados contra os critérios PICOS, com discordâncias resolvidas por consenso ou consulta a terceiro revisor. A concordância interavaliadores na triagem formal foi quantificada pelo coeficiente kappa de Cohen ($\kappa$), com limiar de concordância substancial ($\kappa \geq 0{,}61$) conforme critérios de \citet{Landis1977}. Na fase de texto completo, os registros pré-selecionados foram avaliados integralmente para verificação de adequação aos critérios de elegibilidade, disponibilidade de dados quantitativos para extração e ausência de sobreposição amostral com outros estudos incluídos.
+
+Revisões narrativas, capítulos de livro, editoriais e relatos de experiência sem qualquer dado comparativo foram excluídos. Publicações com evidência exclusivamente qualitativa, porém contendo julgamentos direcionais sobre mudança em indicadores de vulnerabilidade biocultural (aumento, estabilidade ou redução), foram retidas e classificadas como Tier~3 ou Tier~4 conforme o protocolo de integração multi-tier, assegurando representatividade do espectro metodológico da literatura interdisciplinar. Para estudos que reportaram dados em formato insuficiente (médias sem variância, ou dados exclusivamente gráficos), foi tentado contato com os autores correspondentes antes da reclassificação ao tier correspondente. O fluxo de seleção seguiu o diagrama PRISMA~2020 \citep{Page2021}, documentando registros em cada etapa, razões de exclusão e o tier de evidência atribuído.
+
+\subsection{Classificação funcional das dimensões de vulnerabilidade ($V_1$--$V_6$) e variáveis proxy}
+\label{sec:dimensions}
+
+Os indicadores extraídos dos estudos primários foram organizados em seis dimensões funcionais de vulnerabilidade biocultural, derivadas da convergência entre a revisão de escopo e a taxonomia de riscos de erosão do conhecimento tradicional \citep{Agrawal2002}. Para cada dimensão, foram definidos indicadores proxy operacionalizáveis, unidades de medida esperadas e a disponibilidade estimada de estudos empíricos quantitativos na literatura (Tabela~\ref{tab:proxies}).
+
+\begin{table}[htbp]
+\caption{Dimensões de vulnerabilidade biocultural ($V_1$--$V_6$), variáveis proxy operacionalizáveis, unidades de medida e disponibilidade estimada de evidência quantitativa para cálculo de $lnRR$.}
+\label{tab:proxies}
+\centering
+\footnotesize
+\begin{tabular}{p{0.8cm}p{2.2cm}p{4.5cm}p{2.5cm}p{1.5cm}}
+\toprule
+\textbf{Dim.} & \textbf{Denominação} & \textbf{Variáveis proxy (indicadores extraíveis)} & \textbf{Unidade de medida} & \textbf{Disp.} \\
+\midrule
+$V_1$ & Erosão Intergeracional & Proporção de jovens ($<$ 35 anos) com domínio do saber; taxa de transmissão ativa (eventos/ano); índice de conhecimento etnobotânico por faixa etária & \%, eventos$\cdot$ano$^{-1}$, escore & Alta \\
+$V_2$ & Complexidade Biocultural & Riqueza de espécies manejadas (Shannon $H'$, Simpson $1-D$); número de variedades locais mantidas; número de interações solo-planta codificadas no saber & índice, contagem & Alta \\
+$V_3$ & Singularidade Territorial & Índice de beta-diversidade de práticas entre comunidades (Jaccard, Bray-Curtis); índice de endemismo de variedades locais; proporção de práticas exclusivas (\%) & índice, \% & Baixa \\
+$V_4$ & Status de Documentação & Número de saberes com registro formal (inventários, audiovisual); completude de fichas técnicas (\%); taxa de digitalização de acervos (\%) & contagem, \% & Moderada \\
+$V_5$ & Vulnerabilidade Jurídica & Número de mecanismos formais de proteção existentes (IG, marca coletiva, registro IPHAN); existência de protocolo comunitário; lacuna regulatória & contagem, binário, ordinal & Baixa \\
+$V_6$ & Organização Social & Número de mestres de saberes ativos; frequência de reuniões comunitárias de transmissão (eventos/mês); vitalidade de protocolos comunitários de governança & contagem, eventos$\cdot$mês$^{-1}$, escore & Moderada \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+As dimensões $V_1$ (Erosão Intergeracional) e $V_2$ (Complexidade Biocultural) operacionalizam, respectivamente, o risco de descontinuidade na transmissão vertical do conhecimento e a riqueza de interações ecológicas codificadas nos sistemas tradicionais. $V_1$ captura proporções de jovens com domínio do saber e índices de conhecimento etnobotânico estratificados por faixa etária, com alta disponibilidade de estudos comparativos em etnobotânica \citep{ReyesGarcia2013,GomezBaggethun2013}. $V_2$ emprega índices de diversidade (Shannon $H'$, Simpson $1-D$) e contagens de variedades locais, sustentada pela literatura de agrobiodiversidade e conservação \textit{in situ} \citep{Jarvis2008,Brush2004}. A dimensão $V_3$ (Singularidade Territorial) captura a exclusividade geográfica das práticas via índices de beta-diversidade (Jaccard, Bray-Curtis) e taxa de endemismo de variedades locais, admitindo como proxies complementares os índices de dissimilaridade calculáveis a partir de inventários de $V_1$ e $V_2$.
+
+As dimensões institucionais $V_4$ (Status de Documentação) e $V_5$ (Vulnerabilidade Jurídica) mensuram, respectivamente, o grau de registro formal dos saberes e a exposição a apropriação indevida por ausência de instrumentos de proteção (indicações geográficas, marcas coletivas, registros de patrimônio imaterial). Estudos avaliativos de programas patrimoniais (IPHAN, UNESCO, FAO-GIAHS) fornecem dados de completude pré/pós-intervenção, e relatórios institucionais foram considerados elegíveis quando contiveram grupo de comparação. A dimensão $V_6$ (Organização Social para Transmissão) quantifica a vitalidade das estruturas comunitárias de governança do conhecimento (mestres de saberes ativos, frequência de eventos de transmissão, protocolos comunitários), com dados oriundos de surveys de capital social e ação coletiva \citep{Ostrom1990,Pretty2003}.
+
+\subsection{Diagnóstico de disponibilidade de evidência e estratégia analítica por dimensão}
+\label{sec:diagnosis}
+
+A estratégia analítica foi planejada de modo a adequar a complexidade do modelo à densidade de evidência disponível por dimensão (Tabela~S4). Conforme \citet{Borenstein2009}, dimensões com $k \geq 10$ receberiam meta-análise completa (subgrupos e meta-regressão multivariada), ao passo que dimensões com $k < 10$ seriam tratadas com estratégia exploratória (efeito agregado e sensibilidade \textit{leave-one-out}). Após a integração multi-tier, todas as seis dimensões atingiram $k = 37$, habilitando meta-análise completa para o conjunto integral. O critério mínimo para inclusão na síntese quantitativa foi fixado em $k \geq 3$ estudos independentes.
+
+\subsection{Protocolo de extração de dados}
+\label{sec:extraction}
+
+A extração de dados seguiu protocolo estruturado em três blocos, com formulário eletrônico padronizado preenchido por dois revisores independentes e discordâncias resolvidas por consenso.
+
+O bloco de metadados do estudo registrou autor, ano de publicação, DOI, país, bioma ou região biogeográfica (semiárido, cerrado, amazônia, mata atlântica, savana, floresta tropical, outro), tipo de comunidade (quilombola, indígena, camponesa, ribeirinha, outra), tipo de intervenção (documentação audiovisual, registro patrimonial formal, proteção jurídica ativa, governança comunitária, programa de revitalização de transmissão, nenhuma/controle), duração da intervenção em anos e delineamento (experimental, quasi-experimental, transversal comparativo, longitudinal antes-depois).
+
+O bloco de dados para cálculo de tamanho de efeito registrou, para cada comparação pareada, a dimensão funcional atribuída ($V_1$--$V_6$), o indicador proxy específico (conforme Tabela~\ref{tab:proxies}), a unidade de medida, a média sob intervenção ($\bar{X}_T$), o desvio-padrão sob intervenção ($SD_T$), o tamanho amostral sob intervenção ($n_T$), a média sob controle ($\bar{X}_C$), o desvio-padrão sob controle ($SD_C$) e o tamanho amostral controle ($n_C$). Quando os estudos reportaram erro-padrão ($EP$), a conversão para desvio-padrão foi realizada por
+%
+\begin{equation}
+SD = EP \times \sqrt{n}
+\label{eq:sd-ep}
+\end{equation}
+
+\noindent Quando apenas intervalos de confiança foram disponíveis, médias e desvios-padrão foram estimados conforme \citet{Betancur2022}. Dados apresentados exclusivamente em figuras foram digitalizados mediante WebPlotDigitizer v4.3 \citep{Rohatgi2020}. Quando estudos reportaram resultados para múltiplas comunidades, práticas ou períodos, os dados foram extraídos separadamente para cada condição, preservando a resolução e evitando que efeitos de tratamento fossem obscurecidos por agregação.
+
+O bloco de moderadores registrou as variáveis moderadoras pré-definidas para meta-regressões. O moderador \textit{tipo de intervenção} diferenciou quatro categorias (documentação, registro patrimonial, proteção jurídica, governança comunitária). O moderador \textit{região biogeográfica} controlou variabilidade edafoclimática e cultural (semiárido, cerrado, amazônia, mata atlântica, outro tropical, outro subtropical). Um moderador derivado, \textit{congruência com Semiárido NE~II}, foi codificado como variável binária (1 = estudo conduzido em comunidades quilombolas ou no bioma Caatinga do Território de Identidade Semiárido Nordeste II; 0 = demais contextos), permitindo quantificar a transferibilidade dos tamanhos de efeito para o contexto-alvo da arquitetura de salvaguarda.
+
+O moderador \textit{tempo desde intervenção} foi registrado como variável contínua (anos) e categorizado em três níveis (curto prazo $<$ 3~anos, médio prazo 3--10~anos, longo prazo $>$ 10~anos) para análises de subgrupo. O moderador \textit{tipo de comunidade} diferenciou quilombolas, indígenas, camponesas e ribeirinhas. O escore de qualidade metodológica (NOS) foi registrado como moderador contínuo para verificar associação entre qualidade dos estudos e magnitude dos efeitos.
+
+\subsection{Protocolo de integração de evidência multi-tier}
+\label{sec:multitier}
+
+Os 48 estudos elegíveis foram classificados em cinco tiers de evidência segundo a completude dos dados reportados, seguindo protocolo de integração multi-tier com conversões calibradas e propagação explícita de incerteza. Estudos com médias, desvios-padrão e tamanhos amostrais para ambos os grupos (Tier~1) permitiram cálculo direto de $lnRR$ e $v_i$ conforme Equações~\ref{eq:lnrr} e~\ref{eq:vi}.
+
+Quando apenas p-values numéricos e tamanhos amostrais eram identificáveis (Tier~2a), o tamanho de efeito foi obtido pela cadeia $p \rightarrow z \rightarrow d \rightarrow lnOR \rightarrow lnRR$, operacionalizada pela sequência de conversões expressa nas Equações~\ref{eq:z-conv}--\ref{eq:lnrr-conv}.
+%
+\begin{align}
+z &= \Phi^{-1}(1 - p/2) \label{eq:z-conv} \\
+d &= z \cdot \sqrt{\frac{1}{n_T} + \frac{1}{n_C}} \label{eq:d-conv} \\
+lnOR &= \frac{d \cdot \pi}{\sqrt{3}} \label{eq:lnor-conv} \\
+lnRR &= lnOR - \ln\!\bigl(1 - p_0 + p_0 \cdot e^{lnOR}\bigr) \label{eq:lnrr-conv}
+\end{align}
+
+\noindent A Equação~\ref{eq:z-conv} converte o p-value bilateral no quantil $z$ da distribuição normal padrão, e a Equação~\ref{eq:d-conv} traduz $z$ na diferença de médias padronizada $d$ \citep{Borenstein2009}. A Equação~\ref{eq:lnor-conv} transforma $d$ em log-odds ratio pela conversão de \citet{Hasselblad1995}, e a Equação~\ref{eq:lnrr-conv} converte o $lnOR$ resultante em $lnRR$ pela transformação de \citet{Zhang1998} com prevalência basal $p_0 = 0{,}5$ como prior não-informativo. Quando o coeficiente de variação ($CV$) mediano dos estudos Tier~1 na mesma dimensão estava disponível, a conversão alternativa
+%
+\begin{equation}
+lnRR \approx d \cdot CV_{ref}
+\label{eq:lnrr-cv}
+\end{equation}
+
+\noindent proposta por \citet{Lajeunesse2011} foi empregada por sua maior precisão.
+
+A mesma cadeia foi aplicada a estudos que reportaram estatísticas de teste sem p-values explícitos (Tier~2b), adotando thresholds conservadores ($p = 0{,}05$ para efeitos moderados/fortes, $p = 0{,}10$ para efeitos fracos). Estudos que apresentaram comparações numéricas tabuladas sem estatísticas de teste (Tier~3) e estudos com conclusões exclusivamente narrativas (Tier~4) foram submetidos à codificação ordinal independente por dois revisores, com inflação adicional de variância ($\times 1{,}5$) no caso qualitativo.
+
+A incerteza associada a cada conversão foi propagada inflando o erro-padrão conforme
+%
+\begin{equation}
+SE_{adj} = SE \cdot \sqrt{1 + \sigma^2_{conv}}
+\label{eq:se-adj}
+\end{equation}
+
+\noindent onde $\sigma_{conv}$ assume valores crescentes por tier ($0{,}15$ para Tier~2a, $0{,}25$ para Tier~2b, $0{,}35$ para Tier~3 e $0{,}50$ para Tier~4), assegurando ponderação proporcional à precisão epistemológica de cada registro no modelo hierárquico. A robustez dos resultados à inclusão de registros convertidos foi avaliada por meta-regressão com a variável indicadora \textit{evidência direta} (Tier~1 vs.~demais) como moderador, e por análise de sensibilidade restrita ao subconjunto Tier~1.
+
+\subsection{Codificação ordinal e conversão para $lnRR$ sintético}
+\label{sec:coding}
+
+Para os registros classificados como Tier~3 e Tier~4, dois revisores independentes codificaram cada comparação em duas dimensões, seguindo protocolo de codificação com calibração prévia ($\kappa \geq 0{,}61$). A dimensão de direção do efeito atribuiu valores $+1$ (vulnerabilidade agravada), $0$ (neutro) ou $-1$ (vulnerabilidade reduzida) com base na interpretação do texto original. A dimensão de intensidade classificou a magnitude percebida em fraca (1), moderada (2) ou forte (3) com base na ênfase narrativa, significância estatística reportada (quando disponível) e amplitude da mudança descrita.
+
+Os escores ordinais foram convertidos em $lnOR$ sintéticos pelo mapeamento a quantis fixos da distribuição logit-normal com variância $\pi^2/3 \approx 3{,}29$ \citep{Hasselblad1995}, resultando em $lnOR$ de $-0{,}405$ (fraco), $+0{,}405$ (moderado) e $+1{,}386$ (forte), multiplicados pela direção codificada. A conversão subsequente de $lnOR$ para $lnRR$ empregou a transformação de \citet{Zhang1998} com $p_0 = 0{,}5$, e a variância do $lnRR$ sintético incorporou tanto a variância fixa logística ($\pi^2/3$) quanto a inflação por incerteza de conversão.
+
+Como verificação de robustez, implementou-se um modelo bayesiano hierárquico em \textit{brms} \citep{Burkner2017} onde os $lnRR$ dos Tiers~1--2 entraram como observações gaussianas com erro-padrão conhecido, enquanto os julgamentos ordinais dos Tiers~3--4 entraram via família cumulativa (logit), compartilhando o mesmo parâmetro $\theta_{dim}$ no nível superior do modelo. Essa formulação permite que evidência qualitativa funcione como prior empírico atualizável por dados quantitativos, preservando coerência interna sem inflação de graus de liberdade e convergindo para o estimador frequencista quando $k$ é suficiente \citep{Rover2020}.
+
+\subsection{Avaliação de qualidade metodológica}
+\label{sec:nos}
+
+A qualidade metodológica dos estudos incluídos foi avaliada mediante versão adaptada da Newcastle-Ottawa Scale (NOS) para estudos observacionais \citep{Wells2000}, ajustada ao contexto de avaliação de intervenções de salvaguarda biocultural. A escala adaptada compreende três domínios com pontuação máxima de 9 estrelas.
+
+O domínio Seleção (máximo 4 estrelas) avaliou a representatividade da amostra comunitária, a seleção do grupo de comparação, a definição operacional da intervenção de salvaguarda e a demonstração de que o desfecho não estava presente no início do estudo (para delineamentos longitudinais). O domínio Comparabilidade (máximo 2 estrelas) avaliou se os grupos foram comparáveis em relação a fatores de confusão (tamanho da comunidade, acesso a infraestrutura, escolaridade média, tempo de reconhecimento formal) e se controles estatísticos foram aplicados. O domínio Desfechos (máximo 3 estrelas) avaliou se os indicadores foram mensurados com instrumentos validados ou padronizados, se o seguimento foi suficiente para capturar efeitos e se a taxa de atrito foi reportada e aceitável ($<$ 20\%).
+
+Cada estudo recebeu pontuação total (0--9), classificada em alta qualidade (7--9 estrelas), moderada (4--6) e baixa (0--3). A pontuação NOS foi utilizada como moderador contínuo na meta-regressão para verificar associação entre qualidade e magnitude de efeito, e como critério de análise de sensibilidade (restrição a estudos de alta qualidade).
+
+\subsection{Tratamento de dados faltantes e estrutura hierárquica}
+\label{sec:missing}
+
+A composição do corpus (94\% dos registros sem médias e desvios-padrão completos) tornou impraticável a imputação múltipla por equações encadeadas (MICE), cuja validade requer proporção substancial de dados observados para sustentar as distribuições condicionais \citep{vanBuuren2011}. Em substituição, adotou-se o protocolo de integração multi-tier descrito na Seção~\ref{sec:multitier}, que converte evidência qualitativa e semiquantitativa em $lnRR$ sintéticos com propagação explícita de incerteza por tier. Essa abordagem preservou todos os 47~estudos elegíveis (222~registros, $k = 37$ por dimensão), evitando o viés de exclusão que resultaria de restringir a meta-análise aos cinco estudos com dados quantitativos completos. Análises de sensibilidade compararam estimativas do modelo completo ($k = 37$) com o subconjunto restrito a registros Tier~1 ($k_{T1} = 3\text{--}5$, conforme dimensão) para avaliar a influência da composição de tiers nos resultados.
+
+A base de dados foi estruturada hierarquicamente em três níveis para controlar dependências estatísticas decorrentes de múltiplas comparações extraídas de um mesmo estudo \citep{Pustejovsky2022}. O Nível~1 (observação) representou cada comparação pareada entre intervenção e controle, vinculada a um indicador proxy específico, com $lnRR$ e variância amostral calculados. O Nível~2 (estudo) agrupou observações provenientes da mesma publicação, com efeitos aleatórios capturando condições compartilhadas (contexto geográfico, equipe de pesquisa, protocolo de coleta). O Nível~3 (meta-análise) incorporou efeitos fixos (moderadores) e a variância residual entre estudos ($\tau^2$), estimados por REML. 
+
+Essa estrutura evita a inflação artificial da precisão que resultaria de tratar observações dependentes como independentes \citep{Cheung2014}. A matriz de variância-covariância dos efeitos intra-estudo ($\mathbf{V}_j$) foi construída assumindo correlação constante $\rho$ entre pares de tamanhos de efeito provenientes do mesmo estudo, conforme o modelo de efeitos correlados de \citet{Pustejovsky2022}, com valor de referência $\rho = 0{,}8$. Análises de sensibilidade variaram $\rho$ no intervalo $[0{,}5;\; 1{,}0]$ para avaliar a robustez das estimativas globais e dos intervalos de confiança à especificação da correlação intra-estudo. A estimação robusta de variância (\textit{robust variance estimation}, RVE) com correção de pequena amostra (CR2) foi aplicada via pacote \textit{clubSandwich} (versão $\geq$ 0.5.5) para produzir erros-padrão válidos independentemente da especificação exata de $\rho$ \citep{Pustejovsky2022}.
+
+A heterogeneidade global foi quantificada pelo teste $Q$ de Cochran e pelo índice $I^2$ (Equação~\ref{eq:i2}), interpretado segundo os limiares de \citet{Higgins2003}, em que $I^2 < 25\%$ indica baixa heterogeneidade, 25--75\% moderada e $> 75\%$ alta.
+
+\begin{equation}
+I^2 = \frac{Q - (k-1)}{Q} \times 100
+\label{eq:i2}
+\end{equation}
+
+\subsection{Análise estatística}
+\label{sec:stats}
+
+O logaritmo da razão de resposta ($lnRR$) foi adotado como métrica de tamanho de efeito por sua interpretabilidade proporcional e menor sensibilidade a \textit{outliers} comparado à diferença de médias padronizada \citep{Hedges1999}, sendo calculado conforme Equação~\ref{eq:lnrr}.
+
+\begin{equation}
+lnRR = \ln\left(\frac{\bar{X}_{T}}{\bar{X}_{C}}\right)
+\label{eq:lnrr}
+\end{equation}
+
+\noindent Valores de $lnRR > 0$ indicam melhoria do indicador sob intervenção de salvaguarda (aumento de diversidade, transmissão, documentação), enquanto $lnRR < 0$ indicam deterioração. Para facilitar a interpretação, os $lnRR$ foram retrotransformados em variação percentual pela expressão $(e^{lnRR} - 1) \times 100$. A variância amostral associada a cada $lnRR$ foi estimada conforme Equação~\ref{eq:vi} \citep{Hedges1999}.
+
+\begin{equation}
+v_i = \frac{SD_T^2}{n_T \cdot \bar{X}_T^2} + \frac{SD_C^2}{n_C \cdot \bar{X}_C^2}
+\label{eq:vi}
+\end{equation}
+
+O modelo hierárquico de efeitos mistos foi ajustado com estimador de máxima verossimilhança restrita (REML) para estimar a variância entre estudos ($\tau^2$), conforme Equação~\ref{eq:model}.
+
+\begin{equation}
+lnRR_{ij} = \mu + \bm{\beta} \cdot \mathbf{X}_{ij} + u_j + \epsilon_{ij}
+\label{eq:model}
+\end{equation}
+
+\noindent onde $lnRR_{ij}$ é o tamanho de efeito da observação $i$ no estudo $j$, $\mu$ é o intercepto (efeito médio global ou por dimensão), $\bm{\beta} \cdot \mathbf{X}_{ij}$ é o vetor de moderadores fixos, $u_j \sim N(0, \tau^2)$ é o efeito aleatório de estudo e $\epsilon_{ij}$ é o erro residual.
+
+O intervalo de predição complementou o IC~95\% para indicar a faixa esperada de efeitos em estudos futuros \citep{IntHout2016}. Para dimensões com $k < 15$, aplicou-se adicionalmente a correção de Hartung-Knapp-Sidik-Jonkman (HKSJ), que emprega a distribuição $t$ com $k-1$ graus de liberdade, produzindo cobertura mais conservadora \citep{Higgins2019}. Estimativas de $\tau^2$ foram comparadas entre os métodos DerSimonian-Laird e REML para avaliar robustez à escolha do estimador \citep{Borenstein2009}.
+
+A identificação de estudos atípicos ou influentes foi conduzida por resíduos estudentizados com correção de Bonferroni ($\alpha = 0{,}05$) e pela distância de Cook, com limiar $D_i > 4/k$ \citep{Viechtbauer2010}. Análises de sensibilidade \textit{leave-one-out} foram conduzidas para todas as dimensões, e a técnica \textit{leave-one-study-out} (excluindo todas as observações de um estudo de cada vez) foi aplicada para avaliar a dependência dos resultados a publicações individuais.
+
+O viés de publicação foi avaliado por inspeção visual de funnel plots (dispersão de $lnRR$ vs.\ erro-padrão), complementada pelo teste de Begg e Mazumdar \citep{Begg1994} e pelo teste de Egger \citep{Sterne2005}. Para dimensões com $k < 10$, os testes foram reportados mas interpretados com cautela devido ao baixo poder estatístico, conforme \citet{Sterne2011}. O método \textit{trim-and-fill} de Duval e Tweedie foi aplicado como análise suplementar para estimar estudos potencialmente faltantes e o efeito ajustado \citep{Duval2000}.
+
+Meta-regressões multivariadas com moderadores fixos foram conduzidas para cada dimensão, testando se tipo de intervenção, região biogeográfica e tipo de comunidade explicaram proporção significativa da heterogeneidade residual. Os moderadores tempo desde intervenção e qualidade metodológica (NOS) foram excluídos da análise final por ausência completa de dados codificáveis na maioria dos registros. O teste omnibus ($Q_M$) avaliou a significância conjunta dos moderadores, e coeficientes individuais foram interpretados com IC~95\%. Análises de subgrupo foram conduzidas para moderadores categóricos, utilizando o teste $Q_{between}$ e reportando heterogeneidade residual ($I^2_{within}$) dentro de cada subgrupo.
+
+Todas as análises foram conduzidas em R (versão 4.5.1) com os pacotes \textit{metafor} (versão 4.8-0) \citep{Viechtbauer2010} (modelos hierárquicos, meta-regressão), \textit{clubSandwich} \citep{Pustejovsky2022} (RVE com CR2), \textit{meta} (versão 8.2-1; forest plots, subgrupos) e \textit{dmetar} (influência, sensibilidade). O nível de significância foi fixado em $\alpha = 0{,}05$.
+
+\subsection{Outputs funcionais da meta-análise}
+\label{sec:outputs}
+
+A meta-análise foi projetada para produzir quatro entregas quantitativas funcionalmente integradas, que articulam o ranking de magnitudes de efeito ($\overline{lnRR}$) por dimensão ($V_1$--$V_6$), os índices de heterogeneidade ($I^2$, $\tau^2$) que sinalizam variabilidade contextual e condicionam transferibilidade, os coeficientes de meta-regressão dos moderadores contextuais (tipo de comunidade, região, tempo desde intervenção) e os intervalos de confiança de 95\% dos $lnRR$, permitindo hierarquizar a responsividade das dimensões a intervenções de salvaguarda e delimitar a precisão empírica das estimativas produzidas.
+
+Para as dimensões $V_3$ e $V_5$, cujas estimativas a priori eram previstas como exploratórias, a integração multi-tier elevou $k$ ao limiar confirmatório, embora a base de evidência direta (Tier~1) permaneça restrita e as estimativas devam ser interpretadas com cautela. Os outputs consolidados orientam investigações subsequentes, incluindo a construção futura de um índice composto de salvaguarda biocultural.
+
+\subsection{Análise de lacunas de evidência}
+\label{sec:gaps}
+
+Para cada dimensão funcional ($V_1$--$V_6$), foi conduzida uma análise sistemática de lacunas de evidência, contabilizando o número de variáveis proxy listadas na Tabela~\ref{tab:proxies} para as quais nenhum estudo elegível reportou dados quantitativos suficientes para cálculo de $lnRR$. Essa contagem produz um vetor de ``evidência ausente'' por dimensão, que identifica as variáveis não cobertas pela literatura empírica existente e que, portanto, demandam elicitação em investigações complementares futuras. Adicionalmente, para cada variável proxy com evidência disponível, foi registrado se os dados provêm exclusivamente de contextos geográficos sem congruência com o Semiárido NE~II (moderador binário = 0), sinalizando variáveis cuja validade de transferência é condicionada e que requerem validação territorial complementar. O mapeamento entre indicadores extraídos da meta-análise e dimensões funcionais de vulnerabilidade é consolidado na Tabela~S3.
+
+A Fig.~\ref{fig:methods-flow} sintetiza o encadeamento operacional completo, desde a definição do framework conceitual até a produção dos outputs funcionais da síntese meta-analítica.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.82\textwidth]{3-FIGURAS/methods_flowchart.pdf}
+\caption{Fluxograma metodológico integrando as etapas de escopo, triagem, classificação multi-tier, síntese estatística e produção de outputs funcionais.}
+\label{fig:methods-flow}
+\end{figure}
+
+
+%% ============================================================
+%% 3. RESULTADOS
+%% ============================================================
+\section{Resultados e Discussão}
+\label{sec:results}
+
+\subsection{Fluxo de seleção PRISMA}
+\label{sec:prisma-flow}
+
+A busca sistemática (2016--2026) recuperou 365 registros (193 Scopus via API, 172 Web of Science via exportação direta). Filtros de tipo documental e de janela temporal excluíram 33 registros não elegíveis (capítulos, conferências e editoriais) e 20 registros fora do período, reduzindo o corpus a 310 candidatos. A deduplicação cruzada por DOI e normalização de títulos eliminou 117 duplicatas interbases (sobreposição de 81\%), resultando em 193 registros únicos com contribuição líquida de 27 registros exclusivos da Web of Science.
+
+A triagem semântica exigiu presença simultânea de descritores dos Blocos~1 (população) e 2 ou 3 (intervenção/desfechos), reduzindo o corpus de 193 para 42 registros. A correspondência fuzzy (\textit{stringdist}, método OSA, limiar $= 5$) via \textit{revtools} \citep{Westgate2019} não identificou duplicatas adicionais, porém a re-triagem manual de 139 registros sem resumo na exportação Scopus resgatou seis estudos elegíveis \citep{Aswani2020,Bussmann2018,Ghanimi2022,Malapane2024,RodriguezCruz2022,Rodriguez2018}, elevando o corpus de 42 para 48 registros e fixando a exclusão em 145.
+
+A taxa de retenção de 24,9\% ($48/193$) reflete a especificidade do escopo, que exige convergência simultânea entre evidência populacional, mensuração de vulnerabilidade e intervenção de salvaguarda, combinação intrinsecamente rara na literatura indexada \citep{Agrawal2002,GomezBaggethun2013}. A exclusão dos 145 registros decorreu da convergência de ausência de desfechos quantitativos (perspectiva descritiva sem grupos de comparação), desalinhamento temático com o domínio de salvaguarda (blocos populacionais sem interseção com intervenção ou desfechos) e predominância de abordagens qualitativas sem parâmetros estatísticos extraíveis para cálculo de $lnRR$.
+
+Os 48 registros retidos compreendem 46 artigos originais e duas revisões, publicados entre 2016 e 2026, com predomínio de registros Scopus ($n = 33$, 68,8\%) e contribuição complementar da Web of Science ($n = 15$, 31,2\%), conforme detalhado na Fig.~\ref{fig:prisma-flow}. Um estudo (ID=36) foi excluído durante a codificação por dados insuficientes, resultando em 47~estudos finais.
+
+\subsection{Composição da base de evidência multi-tier}
+\label{sec:tier-composition}
+
+Dos 47 estudos finais, cinco (10,6\%) forneceram médias e desvios-padrão completos (Tier~1, 18~registros), sete (14,9\%) reportaram estatísticas inferenciais convertíveis (Tier~2a: 21~registros a partir de $p$-values; Tier~2b: 21~registros a partir de limiares ANOVA), e 35 (74,5\%) contribuíram exclusivamente com evidência qualitativa codificada ordinalmente (Tier~3: 74~registros com tabelas cruzadas; Tier~4: 88~registros qualitativos puros). A conversão multi-tier produziu 222~registros com $lnRR$ e variância associada, totalizando $k = 37$ estudos com dados válidos por dimensão. Todas as seis dimensões ($V_1$--$V_6$) atingiram o limiar confirmatório de $k \geq 15$, permitindo meta-análise completa para o conjunto integral.
+
+\subsection{Síntese meta-analítica por dimensão}
+\label{sec:meta-results}
+
+O modelo hierárquico de três níveis (observação/estudo/meta-análise) com estimador REML e RVE-CR2 (Fig.~\ref{fig:forest-agregado}) indicou que apenas a dimensão $V_5$ (vulnerabilidade jurídica) apresentou efeito significativo entre as seis dimensões de vulnerabilidade biocultural.
+
+A vulnerabilidade jurídica ($V_5$) concentra o único efeito significativamente negativo ($\overline{lnRR} = -0{,}279$; IC~95\%: $[-0{,}49;\; -0{,}06]$; $p < 0{,}05$), correspondendo a uma redução de 24,3\% nos indicadores de proteção formal. Esse resultado é consistente com a desconexão entre regimes consuetudinários de posse e marcos regulatórios nacionais de propriedade intelectual \citep{Santilli2009}. A heterogeneidade moderada dessa dimensão ($I^2 = 30{,}7\%$; $\tau^2 = 0{,}171$) sinaliza que o gradiente de vulnerabilidade jurídica é condicionado por fatores regionais e institucionais, explorados na subseção de moderadores. Em contraste, a organização social ($V_6$) apresentou tendência positiva de 18,7\% ($\overline{lnRR} = +0{,}172$; IC~95\%: $[-0{,}05;\; 0{,}40]$; $p \approx 0{,}13$), compatível com a hipótese de que intervenções de salvaguarda ativam mecanismos de coesão comunitária que se traduzem em maior frequência de eventos de transmissão e vitalidade dos protocolos de governança \citep{Ostrom1990,Pretty2003}, embora a significância estatística não tenha sido alcançada na escala global.
+
+As quatro dimensões intermediárias oscilam em torno do equilíbrio, com $I^2$ variando de 2,4\% ($V_2$, complexidade biocultural) a 14,8\% ($V_1$, erosão intergeracional). A erosão intergeracional ($V_1$, $\overline{lnRR} = -0{,}017$) e o status de documentação ($V_4$, $\overline{lnRR} = +0{,}007$) apresentaram efeitos próximos de zero, ao passo que a singularidade territorial ($V_3$, $\overline{lnRR} = +0{,}072$) e a complexidade biocultural ($V_2$, $\overline{lnRR} = +0{,}045$) exibiram tendências positivas modestas, consistentes com o potencial protetor de práticas de conservação \textit{in situ} \citep{Jarvis2008,Brush2004}. Os intervalos de predição amplos para todas as dimensões (e.g., $V_5$ com PI~95\% de $[-1{,}11;\; 0{,}56]$) delimitam a variabilidade esperada entre contextos futuros, sem alterar a direção do efeito principal observado para $V_5$ (Fig.~\ref{fig:forest-agregado}).
+
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.95\textwidth]{3-FIGURAS/forest_agregado_V1_V6.pdf}
+\caption{Forest plot agregado das seis dimensões de vulnerabilidade biocultural ($k = 37$ estudos por dimensão). Pontos representam o $\overline{lnRR}$ com IC~95\% (linhas contínuas) e intervalo de predição (linhas tracejadas). A linha vertical tracejada indica o efeito nulo.}
+\label{fig:forest-agregado}
+\end{figure}
+
+\subsection{Meta-regressão e moderadores}
+\label{sec:meta-regression}
+
+A meta-regressão multivariada incluiu três moderadores fixos (tipo de intervenção, região biogeográfica e tipo de comunidade) para identificar quais características contextuais condicionam a magnitude e a direção dos efeitos observados. O teste omnibus atingiu significância marginal apenas para $V_5$ (vulnerabilidade jurídica, $Q_M = 3{,}82$; $p = 0{,}070$), indicando que a combinação de moderadores explica parte da heterogeneidade excepcional dessa dimensão ($I^2 = 30{,}7\%$). Para as demais, os valores de $Q_M$ não atingiram significância ($V_2$: $Q_M = 2{,}31$, $p = 0{,}179$; $V_1$: $Q_M = 2{,}18$, $p = 0{,}196$; $V_6$: $Q_M = 1{,}48$, $p = 0{,}355$; $V_4$: $Q_M = 1{,}20$, $p = 0{,}464$; $V_3$: $Q_M = 0{,}79$, $p = 0{,}700$), o que não impede que coeficientes individuais revelem padrões mecanísticos relevantes.
+
+A estratificação por região biogeográfica (Fig.~\ref{fig:meta-reg-regiao}) indica que o gradiente continental modula a magnitude do efeito jurídico com assimetria consistente com regimes institucionais distintos. Para $V_5$, a América do Sul ($k = 12$; $\overline{lnRR} = -0{,}464$; IC~95\%: $[-0{,}77;\; -0{,}16]$) e a Ásia ($k = 4$; $\overline{lnRR} = -0{,}557$; IC~95\%: $[-1{,}04;\; -0{,}07]$) concentraram efeitos significativamente negativos, padrão interpretável como reflexo de contextos onde a pressão fundiária sobre territórios tradicionais se conjuga com marcos regulatórios que não reconhecem adequadamente a posse consuetudinária. 
+
+Já África ($k = 10$; $\overline{lnRR} = -0{,}061$) e a Europa ($k = 6$; $\overline{lnRR} = -0{,}125$) mantiveram intervalos compatíveis com neutralidade, sugerindo que mecanismos compensatórios regionais (custódia comunitária de sementes, redes etnobotânicas formalizadas) atenuam a erosão jurídica observada em outras latitudes. Para $V_3$ (singularidade territorial), a região africana exibiu efeito significativamente positivo ($k = 10$; $\overline{lnRR} = +0{,}231$; IC~95\%: $[0{,}14;\; 0{,}32]$), consistente com intervenções de conservação \textit{in situ} que reforçam a exclusividade territorial das práticas.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.95\textwidth]{3-FIGURAS/meta_regressao_regiao.pdf}
+\caption{Meta-regressão: efeito por região biogeográfica para cada dimensão de vulnerabilidade. Cada bolha representa uma observação estudo-dimensão, com tamanho proporcional ao peso ($1/v_i$). A faixa cinza delimita a zona de efeito negligenciável ($|lnRR| < 0{,}1$).}
+\label{fig:meta-reg-regiao}
+\end{figure}
+
+A estratificação por tipo de comunidade (Fig.~\ref{fig:meta-reg-comunidade}) adiciona uma camada explicativa complementar. Para $V_5$, comunidades de agricultores apresentaram o efeito negativo mais pronunciado ($k = 12$; $\overline{lnRR} = -0{,}395$; IC~95\%: $[-0{,}73;\; -0{,}06]$), contexto no qual políticas agrícolas convencionais colidem com regimes consuetudinários de posse, acirrando insegurança de \textit{tenure}. Comunidades indígenas, em contraste, mantiveram efeito negativo sem significância ($\overline{lnRR} = -0{,}241$; IC~95\%: $[-0{,}60;\; 0{,}12]$), possivelmente porque marcos regulatórios específicos (protocolos de Nagoya, legislações de propriedade intelectual coletiva) proporcionam proteção parcial que não alcança agricultores tradicionais sem reconhecimento étnico-territorial formal. Para $V_6$ (organização social), comunidades rurais exibiram a maior tendência positiva ($k = 7$; $\overline{lnRR} = +0{,}688$; IC~95\%: $[-0{,}26;\; 1{,}63]$), sugerindo que a organização coletiva em contextos rurais pode funcionar como mecanismo compensatório diante da vulnerabilidade em outras dimensões, embora a amplitude do intervalo imponha cautela.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.95\textwidth]{3-FIGURAS/meta_regressao_comunidade.pdf}
+\caption{Meta-regressão: efeito por tipo de comunidade para cada dimensão de vulnerabilidade. Cada bolha representa uma observação estudo-dimensão, com tamanho proporcional ao peso ($1/v_i$). A faixa cinza delimita a zona de efeito negligenciável ($|lnRR| < 0{,}1$).}
+\label{fig:meta-reg-comunidade}
+\end{figure}
+
+No domínio das intervenções (Fig.~\ref{fig:meta-reg-intervencao}), os coeficientes individuais revelaram contrastes relevantes. Para $V_5$, a conservação de bosques sagrados ($\beta = +1{,}496$; $p = 0{,}014$) e a conservação biocultural ($\beta = +0{,}416$; $p = 0{,}022$) apresentaram efeitos protetores significativos, resultado consistente com a hipótese de que intervenções ancoradas em territórios simbólicos podem produzir efeitos protetores sobre a segurança jurídica, enquanto indicadores de conhecimento ecológico apresentaram efeito negativo ($\beta = -0{,}919$; $p < 0{,}001$), sugerindo que a mera catalogação de espécies não se traduz em ganho social tangível. Para $V_6$, a conservação de bosques sagrados novamente demonstrou o maior efeito positivo ($\beta = +1{,}407$; $p = 0{,}001$), seguida de conhecimento tradicional sobre erosão ($\beta = +0{,}643$; $p = 0{,}009$) e conhecimento sobre inundações ($\beta = +0{,}455$; $p = 0{,}020$), sugerindo um padrão em que estratégias que vinculam reforço normativo a práticas rituais podem ativar simultaneamente documentação e coesão social. Para $V_2$ (complexidade biocultural), apesar do teste omnibus não significativo, cinco coeficientes individuais atingiram $p < 0{,}10$, com destaque para \textit{home garden knowledge transmission} ($\beta = -0{,}783$; $p = 0{,}019$) e conservação de bosques sagrados ($\beta = -0{,}658$; $p = 0{,}029$), indicando que intervenções de conservação \textit{in situ} produzem efeito protetor detectável mesmo quando a heterogeneidade global é baixa ($I^2 = 2{,}4\%$). Os tamanhos amostrais reduzidos por subgrupo ($k = 1$--$5$) limitam, contudo, a generalização desses achados.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.95\textwidth]{3-FIGURAS/meta_regressao_intervencao.pdf}
+\caption{Meta-regressão: efeito por macro-categoria de intervenção para cada dimensão de vulnerabilidade. Cada bolha representa uma observação estudo-dimensão, com tamanho proporcional ao peso ($1/v_i$). As 27 categorias originais foram agrupadas em seis macro-categorias para facilitar a visualização.}
+\label{fig:meta-reg-intervencao}
+\end{figure}
+
+\subsection{Viés de publicação e análises de sensibilidade}
+\label{sec:bias-sensitivity}
+
+Assimetria significativa foi detectada pelo teste de Begg em $V_3$ (singularidade territorial; $\tau = 0{,}48$; $p < 0{,}001$) e $V_5$ (vulnerabilidade jurídica; $\tau = 0{,}63$; $p < 0{,}001$), ao passo que as demais dimensões ($V_1$ erosão intergeracional, $V_2$ complexidade biocultural, $V_4$ status de documentação e $V_6$ organização social) permaneceram sem evidência de viés ($p > 0{,}15$). No plano interpretativo, essa distribuição sugere concentração de publicações com direções de efeito desbalanceadas nas dimensões de maior carga institucional, possivelmente porque estudos com resultados positivos ou estatisticamente significativos tendem a maior probabilidade de publicação do que estudos com resultados nulos ou negativos \citep{Song2010}. 
+
+Em seguida, o \textit{trim-and-fill} deslocou o efeito de $V_5$ para valores mais negativos após ajuste ($-0{,}279 \to -0{,}501$ com 12~estudos imputados), reforçando a interpretação de que o achado principal não decorre de artefato de publicação. 
+
+Ao variar a correlação intra-estudo no intervalo $\rho = 0{,}5\text{--}1{,}0$, observou-se estabilidade das estimativas, o que indica baixa sensibilidade dos resultados à especificação desse parâmetro. Embora a comparação entre REML e DerSimonian-Laird tenha produzido diferenças em $\tau^2$ (maiores para DL em $V_5$: 0,318 vs.\ 0,171), os $\overline{lnRR}$ permaneceram consistentes ($\Delta < 0{,}003$ para $V_5$), sustentando a mesma conclusão substantiva. 
+
+Na análise de sensibilidade por tier, a comparação entre o modelo completo ($k = 37$) e o subconjunto Tier~1 ($k_{T1} = 3\text{--}5$) mostrou diferença direcional para $V_5$ ($\overline{lnRR}_{T1} = +0{,}419$ vs.\ $\overline{lnRR}_{full} = -0{,}279$). Esse contraste é compatível com a composição do subconjunto Tier~1, concentrado em intervenções de conservação bem-sucedidas, ao passo que o modelo completo preserva a heterogeneidade contextual do corpus e sustenta $V_5$ como a dimensão de maior vulnerabilidade.
+
+Sob esse mesmo critério, a análise \textit{leave-one-out} (Fig.~\ref{fig:loo}) manteve a estabilidade do modelo, já que a exclusão de qualquer estudo isolado não alterou nem a direção nem a significância dos efeitos nas seis dimensões. Com $\Delta_{\max} < 0{,}09$, os deslocamentos permaneceram modestos, sem evidência de influência desproporcional de estudo individual nas estimativas globais.
+
+\begin{figure}[htbp]
+\centering
+\begin{subfigure}[b]{0.95\textwidth}
+  \centering
+  \includegraphics[width=\textwidth]{3-FIGURAS/leave_one_out_V1_V3.pdf}
+  \caption{Dimensões $V_1$--$V_3$: erosão intergeracional, complexidade biocultural e singularidade territorial.}
+  \label{fig:loo-a}
+\end{subfigure}
+
+\vspace{0.5cm}
+
+\begin{subfigure}[b]{0.95\textwidth}
+  \centering
+  \includegraphics[width=\textwidth]{3-FIGURAS/leave_one_out_V4_V6.pdf}
+  \caption{Dimensões $V_4$--$V_6$: status de documentação, vulnerabilidade jurídica e organização social.}
+  \label{fig:loo-b}
+\end{subfigure}
+\caption{Análise \textit{leave-one-out}: estabilidade das estimativas de $\overline{lnRR}$ após exclusão sequencial de cada estudo. (a) Dimensões $V_1$--$V_3$. (b) Dimensões $V_4$--$V_6$. A linha vermelha tracejada indica a estimativa global com todos os estudos incluídos.}
+\label{fig:loo}
+\end{figure}
+
+\subsection{O paradoxo da vulnerabilidade reconhecida mas não mensurada}
+\label{sec:thematic-profile}
+
+O corpus de 48 registros concentra-se em \textit{traditional knowledge}, \textit{biocultural diversity}, \textit{agrobiodiversity} e \textit{ethnobotany}, confirmando a adequação da filtragem PICOS à interseção entre conhecimento ecológico local e conservação. Essa coesão temática mascara, contudo, uma disjunção epistemológica, pois virtualmente todos os registros reconhecem ameaças aos saberes tradicionais \citep{Mobarak2025,LaRosa2021,Suwardi2025,Essien2025}, porém apenas 7 dos 48 (14,6\%) empregam ``vulnerabilidade'' como variável de investigação e somente \citet{Zeleke2025} operacionaliza o conceito com framework de 15 indicadores estruturados em exposição, sensibilidade e capacidade adaptativa. A proporção de 31 estudos qualitativos para 17 quantitativos (64,6\% vs.\ 35,4\%) confirma que a vulnerabilidade biocultural permanece metodologicamente suboperacionalizada, fenômeno atribuível a tradições etnográficas que tratam a quantificação com cautela por risco de descontextualização \citep{Agrawal2002}. A presente meta-análise busca preencher essa lacuna metodológica entre o acervo descritivo e a quantificação necessária para subsidiar decisões de salvaguarda.
+
+\subsection{Erosão intergeracional como variável-nexo}
+\label{sec:dimensional-coverage}
+
+Dentre as seis dimensões de vulnerabilidade propostas ($V_1$--$V_6$), a erosão intergeracional ($V_1$) se distingue na leitura do corpus não como uma dimensão equivalente às demais, mas como o mecanismo pelo qual todas as outras se reproduzem ou colapsam. Doze dos 48 estudos documentam explicitamente processos de transferência de conhecimento, e a diversidade dos contextos investigados indica que a transmissão não é um ato singular, mas um sistema de práticas distribuídas que assume formas distintas dependendo do ecossistema, do gênero e da estrutura comunitária.
+
+\citet{Cantor2025} demonstra que o conhecimento necessário para a pesca cooperativa com golfinhos na costa brasileira é transmitido por aprendizado situado, cuja ruptura implica não apenas perda de saber técnico, mas dissolução de uma relação interespecífica coevoluída. \citet{Sibanda2025} evidencia que a custódia feminina de sementes crioulas no Zimbabwe sustenta simultaneamente a soberania alimentar doméstica, a identidade cultural e a transmissão de conhecimento intergeracional, de modo que a vulnerabilidade seminal e a vulnerabilidade epistêmica são, nesse contexto, a mesma variável. \citet{Gerner2025} revela que a preservação de saberes sobre plantas medicinais na Europa depende de dinâmicas sociais comunitárias cujo enfraquecimento por migração desestrutura os mecanismos informais de transferência.
+
+Esses estudos, em conjunto, indicam que a transmissão intergeracional não opera como dimensão estanque, mas como variável mediadora cuja falha pode precipitar o declínio das demais dimensões. A co-ocorrência sistemática entre vetores de pressão exógena (migração, urbanização, integração de mercado) e erosão de saberes em pelo menos cinco estudos independentes \citep{Tran2025,Moller2023,Bastos2022,VazquezDelfin2022,Aniah2019} sustenta essa interpretação, na medida em que \citet{Tran2025} documenta como políticas de relocação no Vietnam desarticulam redes comunitárias de gestão hídrica tradicional, \citet{Moller2023} identifica a emigração como vetor primário de perda de saberes ecológicos em comunidades rurais sul-africanas, e \citet{Aniah2019} demonstra que a variabilidade climática no norte de Gana força a adoção de estratégias de subsistência alternativas que competem com a transmissão de práticas agrícolas tradicionais.
+
+Essa centralidade funcional de $V_1$ tem implicação direta para a interpretação dos rankings de magnitude de efeito e para a eventual construção de instrumentos compostos de avaliação de vulnerabilidade. Se a erosão intergeracional opera como nexo causal entre pressões exógenas e o decaimento de todas as dimensões, tratá-la com peso simétrico às demais subestimaria sua contribuição real para a vulnerabilidade agregada, o que deve ser considerado em estudos subsequentes de modelagem. O efeito próximo de zero observado para $V_1$ ($\overline{lnRR} = -0{,}017$) não contradiz essa centralidade, pois reflete a contrabalancagem entre comunidades onde a transmissão é ativamente reforçada por intervenções de salvaguarda e comunidades onde o colapso já se instalou, cancelando o efeito agregado.
+
+A dimensão de status de documentação ($V_4$) apresentou efeito praticamente nulo ($\overline{lnRR} = +0{,}007$), porém a meta-regressão revelou coeficientes individuais significativos que iluminam a dinâmica interna dessa dimensão. Estudos focados em indicadores de conhecimento ecológico ($\beta = +0{,}918$; $p < 0{,}001$) e avaliação de adaptação climática ($\beta = +0{,}637$; $p < 0{,}001$) capturam processos de registro formal onde inventários estruturados, acervos audiovisuais e protocolos de digitalização transformam conhecimento tácito em documentação auditável \citep{Zeleke2025,Suwardi2025}. Em contraste, avaliações agroflorestais apresentaram coeficiente negativo ($\beta = -0{,}673$; $p = 0{,}062$), sugerindo que abordagens de documentação setorializadas fragmentam o saber em componentes descontextualizados, comprometendo a integralidade do registro. A convergência entre os seis estudos que alimentam essa dimensão \citep{Sibanda2025,deSousa2024,Goncalves2022,Avila2021,Edo2024,RodriguezCruz2022} indica que a eficácia do registro depende menos do volume de dados catalogados e mais da fidelidade com que os protocolos de documentação preservam as relações funcionais entre práticas, territórios e agentes de transmissão.
+
+A lacuna mais evidente do corpus reside na suboperacionalização da vulnerabilidade jurídica como variável de investigação. Embora $V_5$ concentre o único efeito significativo da síntese, nenhum dos 48 estudos primários emprega ``vulnerabilidade jurídica'' como variável explícita, descrevendo processos equivalentes sob terminologias fragmentadas como ``erosão da diversidade biocultural'' \citep{Mobarak2025}, ``perda de conhecimento local e indígena'' \citep{Suwardi2025} e ``desaparecimento da história oral'' \citep{LaRosa2021}. Essa dispersão terminológica sugere que uma dimensão empiricamente relevante permanece conceitualmente difusa, reforçando a necessidade de marcos analíticos unificados como o aqui proposto.
+
+\subsection{Implicações para a avaliação de vulnerabilidade e direcionamento da extração}
+\label{sec:vulnerability-implications}
+
+A reflexão sobre o conteúdo dos registros retidos revela condicionantes que afetam diretamente a formulação de estratégias de salvaguarda parametrizadas por evidência, permitindo hierarquizar intervenções por magnitude de efeito e contexto de aplicação.
+
+A convergência entre os resultados de meta-regressão e a análise de subgrupos aponta três prioridades para a formulação de estratégias de salvaguarda. Comunidades de agricultores sul-americanos apresentaram a maior vulnerabilidade jurídica ($\overline{lnRR} = -0{,}464$ para região, $-0{,}395$ para tipo de comunidade), sugerindo que intervenções de fortalecimento de regimes de tenure e registro patrimonial formal podem ser prioritárias nesses contextos. Estratégias ancoradas em territórios simbólicos (bosques sagrados, áreas cerimoniais) apresentaram os maiores coeficientes protetores ($\beta_{V5} = +1{,}496$; $\beta_{V6} = +1{,}407$), sugerindo que a articulação entre práticas rituais e visibilidade institucional pode produzir efeitos simultâneos sobre documentação e coesão social. Abordagens centradas exclusivamente em indicadores ecológicos isolados ($\beta_{V5} = -0{,}919$) não apenas não se associaram a efeitos protetores, mas podem ter capturado processos de erosão já em andamento.
+
+A composição metodológica do corpus (64,6\% de estudos qualitativos) reflete uma tensão epistemológica constitutiva do campo, na qual a quantificação de saberes tácitos e relacionais enfrenta objeções legítimas quanto a reificação \citep{Agrawal2002,GomezBaggethun2013}. A estratégia adotada nesta meta-análise responde parcialmente a essa tensão ao ancorar as estimativas em razões de resposta com propagação explícita de incerteza e ao manter $I^2$ como parâmetro de cautela interpretativa.
+
+A identificação de gênero como tema transversal em oito estudos (16,7\%) sugere que esse moderador pode ser relevante para a compreensão da vulnerabilidade biocultural e merece investigação em meta-regressões futuras. \citet{Sibanda2025} demonstra que a custódia feminina de sementes crioulas sustenta autonomia alimentar e transmissão de conhecimento simultaneamente, \citet{RomeroSilva2026} documenta o papel de mulheres na conservação de agrobiodiversidade em \textit{homegardens} mesoamericanos, e \citet{MugiNgenga2016} identifica assimetrias de gênero na intensificação agrícola, sinalizando que comunidades com maior participação feminina na governança de saberes podem apresentar magnitudes de efeito distintas em $V_1$ (erosão intergeracional) e $V_4$ (status de documentação).
+
+No plano geográfico, os quatro estudos brasileiros retidos \citep{Goncalves2022,Bastos2022,deSousa2024,Avila2021} foram conduzidos em biomas e territórios distintos do Semiárido Nordeste~II, condição controlada pelo moderador binário de congruência geográfica. O índice composto de salvaguarda ora proposto, ponderado pelos coeficientes moderadores aqui identificados, será validado em campo mediante coleta de dados primários em comunidades quilombolas do Vale do Catuxe, confrontando os parâmetros meta-analíticos com variáveis in situ de transmissão, documentação e proteção jurídica.
+
+\subsection{Moderadores e estabilidade das estimativas}
+\label{sec:moderadores-discussao}
+
+Os determinantes contextuais dos efeitos observados e a robustez das estimativas emergem da convergência entre meta-regressão e análise de sensibilidade, permitindo discriminar padrões estruturais de padrões contingentes à composição do corpus.
+
+O gradiente continental de vulnerabilidade jurídica é visível na estratificação por região biogeográfica (Fig.~\ref{fig:meta-reg-regiao}), onde América do Sul e Ásia concentram os efeitos negativos significativos para $V_5$. Esse padrão geográfico é consistente com contextos onde a pressão fundiária sobre territórios tradicionais se conjuga com fragilidade institucional, acelerando a perda de documentação formal de saberes. Nas regiões africana e europeia, contudo, os intervalos de confiança permanecem compatíveis com neutralidade, sugerindo que fatores protetores regionais operam como \textit{buffers} contra a erosão documental. No Zimbabwe, a custódia comunitária de sementes documentada por \citet{Sibanda2025} exemplifica esse mecanismo compensatório, enquanto as redes etnobotânicas europeias descritas por \citet{Gerner2025} representam estruturas de salvaguarda funcionalmente análogas. Essa assimetria geográfica sugere que políticas de proteção podem beneficiar-se de calibração regional, priorizando a América Latina e o Sudeste Asiático.
+
+Quando a estratificação recai sobre o tipo de comunidade (Fig.~\ref{fig:meta-reg-comunidade}), observa-se uma gradação de vulnerabilidade. Comunidades de agricultores tradicionais apresentam a maior fragilidade jurídica ($\overline{lnRR} = -0{,}395$), superando tanto comunidades indígenas ($\overline{lnRR} = -0{,}241$) quanto rurais ($\overline{lnRR} = -0{,}156$). Essa diferença sugere que os mecanismos de proteção legal disponíveis para povos indígenas, incluindo marcos regulatórios de propriedade intelectual e protocolos de Nagoya, proporcionam proteção parcial que não alcança comunidades de agricultores tradicionais sem reconhecimento étnico-territorial formal. Em contraste, a tendência positiva de $V_6$ em comunidades rurais ($\overline{lnRR} = +0{,}688$), embora sem significância estatística, aponta para a organização coletiva como possível mecanismo compensatório diante da vulnerabilidade em outras dimensões.
+
+O papel das intervenções como moderadores da vulnerabilidade revela contrastes relevantes (Fig.~\ref{fig:meta-reg-intervencao}). Intervenções ancoradas em territórios simbólicos, como a conservação de bosques sagrados, emergiram como o moderador com maior efeito protetor simultâneo em $V_5$ ($\beta = +1{,}496$; $p = 0{,}014$) e $V_6$ ($\beta = +1{,}407$; $p = 0{,}001$), indicando que práticas territorialmente enraizadas podem produzir efeitos sinérgicos sobre documentação e coesão social. Indicadores de conhecimento ecológico, em contrapartida, apresentaram efeito negativo em $V_5$ ($\beta = -0{,}919$; $p < 0{,}001$), sugerindo que esse tipo de mensuração pode capturar processos erosivos já em andamento. Esses contrastes reforçam a necessidade de distinguir entre intervenções \textit{ex situ}, focadas em monitoramento e catalogação, e intervenções \textit{in situ}, voltadas ao fortalecimento de práticas territoriais, na formulação de estratégias de salvaguarda.
+
+O diagnóstico de robustez pela análise \textit{leave-one-out} (Fig.~\ref{fig:loo}) corrobora a estabilidade do achado principal. Para $V_5$, nenhuma exclusão individual reverteu a direção do efeito negativo ($\Delta_{\max} = 0{,}075$), e a remoção de \citet{Sibanda2025}, estudo com maior peso amostral, aprofundou a estimativa de $-0{,}279$ para $-0{,}354$, o que indica que o resultado não depende de um único estudo influente. Em $V_3$ (singularidade territorial), a maior sensibilidade observada ($\Delta_{\max} = 0{,}088$, correspondendo a 123\% do efeito global) converge com a assimetria detectada pelo teste de Begg ($\tau = 0{,}48$), sinalizando maior condicionamento da estimativa à distribuição amostral entre contextos. Para $V_2$ (complexidade biocultural), a baixa sensibilidade à exclusão ($\Delta_{\max} = 0{,}032$) alinha-se com a baixa heterogeneidade ($I^2 = 2{,}4\%$), indicando a dimensão com efeito mais homogeneamente distribuído entre os estudos.
+
+\subsection{Limitações}
+\label{sec:limitations}
+
+Considerando a natureza meta-analítica desta pesquisa, é pertinente reconhecer algumas limitações. Uma delas refere-se à predominância de evidência qualitativa no corpus (74,5\% dos registros classificados como Tier~3 ou Tier~4), o que significa que a maioria dos tamanhos de efeito deriva de conversões ordinais; todavia, a inflação de variância aplicada por tier foi desenhada para acomodar essa incerteza, e os resultados permaneceram estáveis na análise de sensibilidade. Outra possível limitação diz respeito aos tamanhos amostrais reduzidos em algumas estratificações por região e tipo de comunidade ($k = 1$--$12$), o que pode restringir a transferência dos achados para contextos não representados. Ainda assim, os padrões observados são consistentes com a literatura e oferecem base para a formulação de hipóteses em investigações futuras.
+
+
+%% ============================================================
+%% 5. CONCLUSÃO
+%% ============================================================
+\section{Conclusão}
+\label{sec:conclusions}
+
+Os resultados indicam que a fragilidade institucional, operacionalizada pela vulnerabilidade jurídica ($V_5$), constitui o vetor de maior magnitude de degradação biocultural em saberes e sistemas agrícolas tradicionais, ao passo que indicadores ecológicos e de documentação apresentaram efeitos próximos de zero. A ausência de mecanismos formais de proteção expõe os saberes tradicionais a processos erosivos cuja reversão por estratégias de catalogação isolada não foi observada no corpus analisado. A transmissão intergeracional ($V_1$) opera como variável mediadora cuja falha pode precipitar o declínio simultâneo das demais dimensões, sinalizando que a continuidade desses sistemas depende mais da manutenção das condições jurídicas, territoriais e sociais do que do volume de saberes documentados. Intervenções ancoradas em territórios simbólicos apresentaram os maiores coeficientes protetores simultâneos sobre $V_5$ e $V_6$, enquanto comunidades de agricultores tradicionais sul-americanos concentraram a maior vulnerabilidade jurídica. A co-ocorrência entre vetores de pressão exógena e erosão de saberes reforça a interpretação de que a descontinuidade intergeracional constitui o mecanismo pelo qual as demais dimensões se deterioram. Pesquisas futuras poderão validar o índice composto de salvaguarda proposto em comunidades quilombolas do Vale do Catuxe, confrontando os parâmetros meta-analíticos com variáveis de campo.
+
+%% ============================================================
+%% Declaração de contribuição dos autores (CRediT)
+%% ============================================================
+\section*{Declaração de contribuição dos autores (CRediT)}
+
+\textbf{Catuxe Varjão de Santana Oliveira:} Conceituação, Metodologia, Investigação, Análise formal, Curadoria de dados, Escrita -- rascunho original. \textbf{Luiz Diego Vidal Santos:} Metodologia, Análise formal, Validação, Escrita -- revisão e edição.
+
+
+%% ============================================================
+%% Declaração de conflito de interesses
+%% ============================================================
+\section*{Declaração de conflito de interesses}
+
+Os autores declaram não possuir conflitos de interesse financeiros ou relações pessoais conhecidas que possam ter influenciado o trabalho relatado neste artigo.
+
+
+%% ============================================================
+%% Disponibilidade de dados
+%% ============================================================
+\section*{Disponibilidade de dados}
+
+O dataset de extração, os scripts de análise e os outputs meta-analíticos estão disponíveis no Mendeley Data (\url{https://doi.org/10.17632/mh5sbx7ky7.1}).
+
+
+%% ============================================================
+%% Agradecimentos
+%% ============================================================
+\section*{Agradecimentos}
+
+O presente trabalho foi realizado com apoio da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior -- Brasil (CAPES). Os autores agradecem ao Programa de Pós-Graduação em Ciências da Propriedade Intelectual (PPGPI/UFS) pelo apoio institucional.
+
+
+%% ============================================================
+%% MATERIAL SUPLEMENTAR
+%% ============================================================
+\section*{Material Suplementar}
+
+O Material Suplementar associado a este artigo pode ser encontrado na versão online em [DOI a ser inserido]. O documento contém: (S1) Diagrama de fluxo PRISMA detalhando o processo de seleção de estudos; (S2) Tabela de resultados da meta-análise por dimensão de vulnerabilidade biocultural ($k = 37$ estudos, modelo \texttt{rma.mv} com REML e RVE-CR2, $\rho = 0{,}8$), incluindo intervalos de predição; (S3) Tabela de mapeamento entre indicadores meta-analíticos e dimensões funcionais; (S4) Tabela de diagnóstico de viabilidade por dimensão.
+
+%% ============================================================
+%% REFERÊNCIAS
+%% ============================================================
+\bibliographystyle{plainnat}    %% natbib autor-ano (compatível com Springer)
+\bibliography{references}
+
+\end{document}
