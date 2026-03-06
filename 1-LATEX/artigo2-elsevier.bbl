@@ -1,4 +1,4 @@
-\begin{thebibliography}{63}
+\begin{thebibliography}{86}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -43,6 +43,14 @@ JVD Avila, CR~Clement, AB~Junqueira, T~Ticktin, and AM~Steward.
 \newblock \emph{JOURNAL OF ETHNOBIOLOGY}, 41:\penalty0 409--427, 2021.
 \newblock \doi{10.2993/0278-0771-41.3.409}.
 
+\bibitem[Balogun and Kalusopa(2021)]{Balogun2021}
+Tolulope Balogun and Trywell Kalusopa.
+\newblock Digital preservation of indigenous knowledge systems: a framework for
+  {South Africa}.
+\newblock \emph{Records Management Journal}, 31\penalty0 (3):\penalty0
+  304--321, 2021.
+\newblock \doi{10.1108/RMJ-12-2020-0042}.
+
 \bibitem[Barney(1991)]{Barney1991}
 Jay Barney.
 \newblock Firm resources and sustained competitive advantage.
@@ -57,12 +65,40 @@ J.G. Bastos.
 \newblock \emph{Frontiers in Forests and Global Change}, 5, 2022.
 \newblock \doi{10.3389/ffgc.2022.696757}.
 
+\bibitem[Bavikatte and Robinson(2011)]{BavikatteRobinson2011}
+Kabir~S. Bavikatte and Daniel~F. Robinson.
+\newblock Towards a people's history of the law: biocultural jurisprudence and
+  the {Nagoya Protocol} on access and benefit sharing.
+\newblock \emph{Law, Environment and Development Journal}, 7:\penalty0 35,
+  2011.
+
 \bibitem[Begg and Mazumdar(1994)]{Begg1994}
 Colin~B. Begg and Madhuchhanda Mazumdar.
 \newblock Operating characteristics of a rank correlation test for publication
   bias.
 \newblock \emph{Biometrics}, 50\penalty0 (4):\penalty0 1088--1101, 1994.
 \newblock \doi{10.2307/2533446}.
+
+\bibitem[Berkes(2004)]{Berkes2004}
+Fikret Berkes.
+\newblock Rethinking community-based conservation.
+\newblock \emph{Conservation Biology}, 18\penalty0 (3):\penalty0 621--630,
+  2004.
+\newblock \doi{10.1111/j.1523-1739.2004.00077.x}.
+
+\bibitem[Berkes(2007)]{Berkes2007}
+Fikret Berkes.
+\newblock Community-based conservation in a globalized world.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 104\penalty0
+  (39):\penalty0 15188--15193, 2007.
+\newblock \doi{10.1073/pnas.0702098104}.
+
+\bibitem[Berkes and Turner(2006)]{BerkesTurner2006}
+Fikret Berkes and Nancy~J. Turner.
+\newblock Knowledge, learning and the evolution of conservation practice for
+  social-ecological system resilience.
+\newblock \emph{Human Ecology}, 34:\penalty0 479--494, 2006.
+\newblock \doi{10.1007/s10745-006-9008-2}.
 
 \bibitem[Betancur and Ioannidis(2022)]{Betancur2022}
 Mar{\'i}a~Isabel Betancur and John P.~A. Ioannidis.
@@ -106,6 +142,13 @@ L.~Calvet-Mir.
 \newblock \emph{Society and Natural Resources}, 29, 2016.
 \newblock \doi{10.1080/08941920.2015.1094711}.
 
+\bibitem[C{\'a}mara-Leret and Bascompte(2021)]{CamaraLeret2021}
+Rodrigo C{\'a}mara-Leret and Jordi Bascompte.
+\newblock Language extinction triggers the loss of unique medicinal knowledge.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 118\penalty0
+  (24):\penalty0 e2103683118, 2021.
+\newblock \doi{10.1073/pnas.2103683118}.
+
 \bibitem[Cantor et~al.(2025)Cantor, Santos-Silva, Daura-Jorge, Machado,
   Peterson, da~Rosa, Simoes-Lopes, Valle-Pereira, Zank, and
   Hanazaki]{Cantor2025}
@@ -115,6 +158,14 @@ M~Cantor, B~Santos-Silva, FG~Daura-Jorge, AMS Machado, D~Peterson, DX~da~Rosa,
   reciprocal human-dolphin relationship.
 \newblock \emph{PEOPLE AND NATURE}, 7:\penalty0 974--989, 2025.
 \newblock \doi{10.1002/pan3.10679}.
+
+\bibitem[Cottier and Panizzon(2004)]{Cottier2004}
+Thomas Cottier and Marion Panizzon.
+\newblock Legal perspectives on traditional knowledge: the case for
+  intellectual property protection.
+\newblock \emph{Journal of International Economic Law}, 7\penalty0
+  (2):\penalty0 371--399, 2004.
+\newblock \doi{10.1093/jiel/7.2.371}.
 
 \bibitem[da~Cunha(2009)]{Cunha2009}
 Manuela~Carneiro da~Cunha.
@@ -127,6 +178,13 @@ T.B. de~Sousa.
   cerrado-caatinga ecotone, southwest piauí, brazil.
 \newblock \emph{Sustainability in Debate}, 15, 2024.
 \newblock \doi{10.18472/SustDeb.v15n3.2024.55679}.
+
+\bibitem[Dutfield(2004)]{Dutfield2004}
+Graham Dutfield.
+\newblock \emph{Intellectual Property, Biogenetic Resources and Traditional
+  Knowledge}.
+\newblock Earthscan, London, 2004.
+\newblock \doi{10.4324/9781849770859}.
 
 \bibitem[Duval and Tweedie(2000)]{Duval2000}
 Sue Duval and Richard Tweedie.
@@ -167,6 +225,23 @@ Orlando Fals-Borda and Muhammad~Anisur Rahman.
   InvestigaciÃ³n-AcciÃ³n Participativa}.
 \newblock CINEP, BogotÃ¡, Colombia, 1991.
 
+\bibitem[Fern{\'a}ndez-Llamazares et~al.(2021)Fern{\'a}ndez-Llamazares,
+  Lepofsky, Lertzman, Armstrong, Brondizio, Gavin, Lyver, Nicholas, Reo,
+  Reyes-Garc{\'i}a, et~al.]{FernandezLlamazares2021}
+{\'A}lvaro Fern{\'a}ndez-Llamazares, Dana Lepofsky, Ken Lertzman, Chelsey~G.
+  Armstrong, Eduardo~S. Brondizio, Michael~C. Gavin, Philip~O'B. Lyver,
+  George~P. Nicholas, Nicholas~J. Reo, Victoria Reyes-Garc{\'i}a, et~al.
+\newblock Scientists' warning to humanity on threats to {Indigenous} and local
+  knowledge systems.
+\newblock \emph{Journal of Ethnobiology}, 41\penalty0 (2):\penalty0 144--169,
+  2021.
+\newblock \doi{10.2993/0278-0771-41.2.144}.
+
+\bibitem[Folke(2004)]{Folke2004}
+Carl Folke.
+\newblock Traditional knowledge in social--ecological systems.
+\newblock \emph{Ecology and Society}, 9\penalty0 (3):\penalty0 7, 2004.
+
 \bibitem[Folke et~al.(2016)Folke, Biggs, Norstr{\"o}m, Reyers, and
   Rockstr{\"o}m]{Folke2016}
 Carl Folke, Reinette Biggs, Albert~V. Norstr{\"o}m, Belinda Reyers, and Johan
@@ -206,6 +281,13 @@ M.C. Gonçalves.
 \newblock \emph{Journal of Ethnobiology}, 42, 2022.
 \newblock \doi{10.2993/0278-0771-42.2.241}.
 
+\bibitem[Gruberg et~al.(2022)Gruberg, Meinhold, and
+  Reyes-Garc{\'i}a]{Gruberg2022}
+Hannah Gruberg, Katharina Meinhold, and Victoria Reyes-Garc{\'i}a.
+\newblock Traditional ecological knowledge erosion among the {Tsimane'}.
+\newblock \emph{Human Ecology}, 50:\penalty0 1053--1066, 2022.
+\newblock \doi{10.1007/s10745-022-00375-9}.
+
 \bibitem[Hasselblad and Hedges(1995)]{Hasselblad1995}
 V.~Hasselblad and L.V. Hedges.
 \newblock {Meta-analysis of screening and diagnostic tests}.
@@ -218,6 +300,14 @@ Larry~V. Hedges, Jessica Gurevitch, and Peter~S. Curtis.
 \newblock The meta-analysis of response ratios in experimental ecology.
 \newblock \emph{Ecology}, 80\penalty0 (4):\penalty0 1150--1156, 1999.
 \newblock \doi{10.1890/0012-9658(1999)080[1150:TMORRI]2.0.CO;2}.
+
+\bibitem[Hedges and Kipila(2020)]{HedgesKipila2020}
+Samantha Hedges and Calvin Kipila.
+\newblock Intergenerational erosion of traditional ecological knowledge and its
+  implications for {Maasai} rangeland management.
+\newblock \emph{Journal of Ethnobiology}, 40\penalty0 (4):\penalty0 535--551,
+  2020.
+\newblock \doi{10.2993/0278-0771-40.4.535}.
 
 \bibitem[Higgins et~al.(2003)Higgins, Thompson, Deeks, and Altman]{Higgins2003}
 Julian P.~T. Higgins, Simon~G. Thompson, Jonathan~J. Deeks, and Douglas~G.
@@ -279,6 +369,14 @@ M.J. Lajeunesse.
 \newblock \emph{Ecology}, 92\penalty0 (11):\penalty0 2049--2055, 2011.
 \newblock \doi{10.1890/11-0423.1}.
 
+\bibitem[Maina(2012)]{Maina2012}
+Christine~K. Maina.
+\newblock Traditional knowledge management and preservation: intersections with
+  {Library} and {Information Science}.
+\newblock \emph{International Information and Library Review}, 44\penalty0
+  (1):\penalty0 13--27, 2012.
+\newblock \doi{10.1016/j.iilr.2012.01.001}.
+
 \bibitem[Malapane et~al.(2024)Malapane, Chanza, and Musakwa]{Malapane2024}
 O.L. Malapane, N.~Chanza, and W.~Musakwa.
 \newblock {Transmission of indigenous knowledge systems under changing
@@ -309,6 +407,21 @@ V.~Møller.
 \newblock \emph{Social Indicators Research}, 165, 2023.
 \newblock \doi{10.1007/s11205-023-03063-3}.
 
+\bibitem[Nemog{\'a} et~al.(2022)Nemog{\'a}, Appasamy, et~al.]{Nemoga2022}
+Gabriel~Ricardo Nemog{\'a}, Abinaya Appasamy, et~al.
+\newblock Protecting indigenous and local knowledge through a biocultural
+  diversity framework.
+\newblock \emph{The Journal of Environment \& Development}, 31\penalty0
+  (4):\penalty0 385--413, 2022.
+\newblock \doi{10.1177/10704965221104781}.
+
+\bibitem[Olsson et~al.(2004)Olsson, Folke, and Berkes]{OlssonFolkeBerkes2004}
+Per Olsson, Carl Folke, and Fikret Berkes.
+\newblock Adaptive comanagement for building resilience in social--ecological
+  systems.
+\newblock \emph{Environmental Management}, 34:\penalty0 75--90, 2004.
+\newblock \doi{10.1007/s00267-003-0101-7}.
+
 \bibitem[Ostrom(1990)]{Ostrom1990}
 Elinor Ostrom.
 \newblock \emph{Governing the Commons: The Evolution of Institutions for
@@ -335,6 +448,12 @@ Matthew~J. Page, David Moher, Patrick~M. Bossuyt, Isabelle Boutron, Tammy~C.
 \newblock URL \url{https://www.bmj.com/content/372/bmj.n160
   https://www.bmj.com/content/372/bmj.n160.abstract}.
 
+\bibitem[Poorna et~al.(2014)Poorna, Mymoon, and Hariharan]{Poorna2014}
+R.~Lakshmi Poorna, M.~Mymoon, and A.~Hariharan.
+\newblock Preservation and protection of traditional knowledge --- diverse
+  documentation initiatives across the globe.
+\newblock \emph{Current Science}, 107\penalty0 (8):\penalty0 1240--1246, 2014.
+
 \bibitem[Pretty and Smith(2003)]{Pretty2003}
 Jules Pretty and David Smith.
 \newblock Social capital in biodiversity conservation and management.
@@ -349,8 +468,24 @@ James~E. Pustejovsky and Elizabeth Tipton.
 \newblock \emph{Prevention Science}, 23\penalty0 (3):\penalty0 425--438, 2022.
 \newblock \doi{10.1007/s11121-021-01246-3}.
 
-\bibitem[Reyes-Garc{\'i}a et~al.(2013)Reyes-Garc{\'i}a, Luz, Gueze,
-  Paneque-G{\'a}lvez, Maci{\'a}, Orta-Mart{\'i}nez, Pino, and
+\bibitem[Rathwell et~al.(2015)Rathwell, Armitage, and Berkes]{Rathwell2015}
+Kaitlyn~J. Rathwell, Derek Armitage, and Fikret Berkes.
+\newblock Bridging knowledge systems to enhance governance of the environmental
+  commons: a typology of settings.
+\newblock \emph{International Journal of the Commons}, 9\penalty0 (2):\penalty0
+  751--773, 2015.
+\newblock \doi{10.18352/ijc.526}.
+
+\bibitem[Rayne et~al.(2022)Rayne, Byrne, and Rollins]{Rayne2022}
+Alyssa Rayne, Maree Byrne, and Lee~A. Rollins.
+\newblock Integrating place-based knowledge for culturally significant species
+  recovery.
+\newblock \emph{Evolutionary Applications}, 15\penalty0 (4):\penalty0 630--644,
+  2022.
+\newblock \doi{10.1111/eva.13367}.
+
+\bibitem[Reyes-Garc{\'i}a et~al.(2013{\natexlab{a}})Reyes-Garc{\'i}a, Luz,
+  Gueze, Paneque-G{\'a}lvez, Maci{\'a}, Orta-Mart{\'i}nez, Pino, and
   Rubio-Campillo]{ReyesGarcia2013}
 Victoria Reyes-Garc{\'i}a, Ariadna Luz, Maximilien Gueze, Jaime
   Paneque-G{\'a}lvez, Manuel Maci{\'a}, Mart{\'i} Orta-Mart{\'i}nez, Joan Pino,
@@ -358,8 +493,37 @@ Victoria Reyes-Garc{\'i}a, Ariadna Luz, Maximilien Gueze, Jaime
 \newblock Secular trends on traditional ecological knowledge: An analysis of
   changes in different domains of knowledge among {Tsimane'} men.
 \newblock \emph{Learning and Individual Differences}, 27:\penalty0 206--212,
-  2013.
+  2013{\natexlab{a}}.
 \newblock \doi{10.1016/j.lindif.2013.01.011}.
+
+\bibitem[Reyes-Garc{\'i}a et~al.(2013{\natexlab{b}})Reyes-Garc{\'i}a, Luz,
+  Gueze, Paneque-G{\'a}lvez, Maci{\'a}, Orta-Mart{\'i}nez, and
+  Pino]{ReyesGarcia2013evidence}
+Victoria Reyes-Garc{\'i}a, Ariadna~C. Luz, Maximilien Gueze, Jaime
+  Paneque-G{\'a}lvez, Manuel~J. Maci{\'a}, Mart{\'i} Orta-Mart{\'i}nez, and
+  Joan Pino.
+\newblock Evidence of traditional knowledge loss among a contemporary
+  indigenous society.
+\newblock \emph{Evolution and Human Behavior}, 34\penalty0 (4):\penalty0
+  249--257, 2013{\natexlab{b}}.
+\newblock \doi{10.1016/j.evolhumbehav.2013.01.002}.
+
+\bibitem[Reyes-Garc{\'i}a et~al.(2014)Reyes-Garc{\'i}a, Calvet-Mir, Vila,
+  Aceituno-Mata, Garnatje, Jesch, Lastra, Parada, Rigat, Vall{\`e}s, and
+  Pardo-de Santayana]{ReyesGarcia2014}
+Victoria Reyes-Garc{\'i}a, Laura Calvet-Mir, Sara Vila, Laura Aceituno-Mata,
+  Teresa Garnatje, Alexandra Jesch, Juan~Jos{\'e} Lastra, Montserrat Parada,
+  Montserrat Rigat, Joan Vall{\`e}s, and Manuel Pardo-de Santayana.
+\newblock Resilience of traditional knowledge systems: the case of agricultural
+  knowledge in home gardens of the {Iberian Peninsula}.
+\newblock \emph{Global Environmental Change}, 24:\penalty0 223--231, 2014.
+\newblock \doi{10.1016/j.gloenvcha.2013.11.004}.
+
+\bibitem[Robinson(2014)]{Robinson2014}
+Daniel~F. Robinson.
+\newblock \emph{Biodiversity, Access and Benefit-Sharing: Global Case Studies}.
+\newblock Routledge, 2014.
+\newblock \doi{10.4324/9781315882819}.
 
 \bibitem[Rodr{\'\i}guez et~al.(2018)Rodr{\'\i}guez, {\O}rting, Andreasen,
   Jacobsen, and Sorensen]{Rodriguez2018}
@@ -437,6 +601,14 @@ A.B. Suwardi.
 \newblock \emph{Ecological Frontiers}, 2025.
 \newblock \doi{10.1016/j.ecofro.2025.10.014}.
 
+\bibitem[Tang and Gavin(2016)]{TangGavin2016}
+Rui Tang and Michael~C. Gavin.
+\newblock A classification of threats to traditional ecological knowledge and
+  conservation responses.
+\newblock \emph{Conservation and Society}, 14\penalty0 (1):\penalty0 57--70,
+  2016.
+\newblock \doi{10.4103/0972-4923.182799}.
+
 \bibitem[Tran(2025)]{Tran2025}
 T.A. Tran.
 \newblock Erosion of traditional ecological knowledge under conditions of
@@ -494,5 +666,17 @@ J.~Zhang and K.F. Yu.
   cohort studies of common outcomes}.
 \newblock \emph{JAMA}, 280\penalty0 (19):\penalty0 1690--1691, 1998.
 \newblock \doi{10.1001/jama.280.19.1690}.
+
+\bibitem[Zimmerer et~al.(2018)Zimmerer, de~Haan, Jones, Creed-Kanashiro, Tello,
+  Carri{\'o}n, Meza, Plasencia~Amaya, Cruz-Garc{\'i}a, Takat{\=o}, and
+  Reyes]{Zimmerer2018}
+Karl~S. Zimmerer, Stef de~Haan, Andrew~D. Jones, Hilary Creed-Kanashiro,
+  Mar{\'i}a Tello, Manuel Carri{\'o}n, Karen Meza, Fredy Plasencia~Amaya,
+  Gina~S. Cruz-Garc{\'i}a, Rhowell~R. Takat{\=o}, and Mar{\'i}a~E. Reyes.
+\newblock The biodiversity of food systems: mountain ecology, remoteness, and
+  the rise of agrobiodiversity.
+\newblock \emph{Annals of the American Association of Geographers},
+  108\penalty0 (2):\penalty0 355--375, 2018.
+\newblock \doi{10.1080/24694452.2017.1354069}.
 
 \end{thebibliography}

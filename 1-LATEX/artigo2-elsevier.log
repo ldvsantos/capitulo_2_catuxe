@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.23)  6 MAR 2026 13:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.23)  6 MAR 2026 19:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -731,57 +731,71 @@ Overfull \hbox (1.39291pt too wide) in paragraph at lines 337--338
  []
 
 [17] [18]
-<3-FIGURAS/forest_agregado_V1_V6.pdf, id=564, 794.97pt x 505.89pt>
+<3-FIGURAS/forest_agregado_V1_V6.pdf, id=574, 794.97pt x 505.89pt>
 File: 3-FIGURAS/forest_agregado_V1_V6.pdf Graphic file (type pdf)
 <use 3-FIGURAS/forest_agregado_V1_V6.pdf>
 Package pdftex.def Info: 3-FIGURAS/forest_agregado_V1_V6.pdf  used on input lin
 e 351.
 (pdftex.def)             Requested size: 432.48051pt x 275.22212pt.
  [19 <./3-FIGURAS/forest_agregado_V1_V6.pdf>]
-<3-FIGURAS/meta_regressao_regiao.pdf, id=579, 1011.78pt x 650.43pt>
+<3-FIGURAS/meta_regressao_regiao.pdf, id=589, 1011.78pt x 650.43pt>
 File: 3-FIGURAS/meta_regressao_regiao.pdf Graphic file (type pdf)
 <use 3-FIGURAS/meta_regressao_regiao.pdf>
 Package pdftex.def Info: 3-FIGURAS/meta_regressao_regiao.pdf  used on input lin
 e 367.
 (pdftex.def)             Requested size: 432.48051pt x 278.022pt.
-<3-FIGURAS/meta_regressao_comunidade.pdf, id=581, 1011.78pt x 650.43pt>
+ [20]
+<3-FIGURAS/meta_regressao_comunidade.pdf, id=597, 1011.78pt x 650.43pt>
 File: 3-FIGURAS/meta_regressao_comunidade.pdf Graphic file (type pdf)
 <use 3-FIGURAS/meta_regressao_comunidade.pdf>
 Package pdftex.def Info: 3-FIGURAS/meta_regressao_comunidade.pdf  used on input
  line 376.
 (pdftex.def)             Requested size: 432.48051pt x 278.022pt.
- [20] [21 <./3-FIGURAS/meta_regressao_regiao.pdf> <./3-FIGURAS/meta_regressao_c
-omunidade.pdf>]
+ [21 <./3-FIGURAS/meta_regressao_regiao.pdf>]
 <3-FIGURAS/meta_regressao_intervencao.pdf, id=615, 1011.78pt x 650.43pt>
 File: 3-FIGURAS/meta_regressao_intervencao.pdf Graphic file (type pdf)
 <use 3-FIGURAS/meta_regressao_intervencao.pdf>
 Package pdftex.def Info: 3-FIGURAS/meta_regressao_intervencao.pdf  used on inpu
 t line 385.
 (pdftex.def)             Requested size: 432.48051pt x 278.022pt.
- [22]
+ [22 <./3-FIGURAS/meta_regressao_comunidade.pdf>]
 [23 <./3-FIGURAS/meta_regressao_intervencao.pdf>]
-<3-FIGURAS/leave_one_out_V1_V3.pdf, id=640, 867.24pt x 433.62pt>
+<3-FIGURAS/leave_one_out_V1_V3.pdf, id=650, 867.24pt x 433.62pt>
 File: 3-FIGURAS/leave_one_out_V1_V3.pdf Graphic file (type pdf)
 <use 3-FIGURAS/leave_one_out_V1_V3.pdf>
 Package pdftex.def Info: 3-FIGURAS/leave_one_out_V1_V3.pdf  used on input line 
 407.
 (pdftex.def)             Requested size: 432.48051pt x 216.24045pt.
-<3-FIGURAS/leave_one_out_V4_V6.pdf, id=641, 867.24pt x 433.62pt>
+<3-FIGURAS/leave_one_out_V4_V6.pdf, id=651, 867.24pt x 433.62pt>
 File: 3-FIGURAS/leave_one_out_V4_V6.pdf Graphic file (type pdf)
 <use 3-FIGURAS/leave_one_out_V4_V6.pdf>
 Package pdftex.def Info: 3-FIGURAS/leave_one_out_V4_V6.pdf  used on input line 
 416.
 (pdftex.def)             Requested size: 432.48051pt x 216.24045pt.
- [24] [25 <./3-FIGURAS/leave_one_out_V1_V3.pdf> <./3-FIGURAS/leave_one_out_V4_V
-6.pdf>] [26] [27] [28]
-[29] [30]
+
+
+! LaTeX Error: Unicode character Ì§ (U+0327)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.429 ...gena sem oferecer mÃ©tricas de mensuracÌ§
+                                                  Ã£o padronizadas. A presen...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[24] [25 <./3-FIGURAS/leave_one_out_V1_V3.pdf> <./3-FIGURAS/leave_one_out_V4_V6
+.pdf>] [26] [27] [28] [29] [30] [31]
 Overfull \hbox (3.57971pt too wide) in paragraph at lines 490--491
 \T1/cmr/bx/n/12 Catuxe Var-jão de San-tana Oliveira: \T1/cmr/m/n/12 Con-ceitu-a
 ção, Metodolo-gia, In-ves-ti-gação, Análise
  []
 
-[31] (artigo2-elsevier.bbl [32] [33] [34] [35] [36] [37] [38] [39]) [40]
-(artigo2-elsevier.aux)
+[32] [33] (artigo2-elsevier.bbl [34] [35] [36] [37] [38] [39] [40] [41]
+[42] [43]) [44] (artigo2-elsevier.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-29>
@@ -790,13 +804,13 @@ Package rerunfilecheck Info: File `artigo2-elsevier.out' has not changed.
 (rerunfilecheck)             Checksum: D1541D0F165BA882F96625C762302445;7228.
  ) 
 Here is how much of TeX's memory you used:
- 13210 strings out of 467871
- 208575 string characters out of 5418376
- 626404 words of memory out of 5000000
- 41754 multiletter control sequences out of 15000+600000
+ 13308 strings out of 467871
+ 210526 string characters out of 5418376
+ 627840 words of memory out of 5000000
+ 41825 multiletter control sequences out of 15000+600000
  657016 words of font info for 120 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,12n,79p,1927b,691s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 69i,12n,79p,1927b,739s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1200.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
 0\tcti1200.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
@@ -839,9 +853,9 @@ MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/vidal/AppData/Local/Programs/Mi
 KTeX/fonts/type1/public/lm/lmri7.pfb><C:/Users/vidal/AppData/Local/Programs/MiK
 TeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/vidal/AppData/Local/Programs/M
 iKTeX/fonts/type1/public/lm/lmsy7.pfb>
-Output written on artigo2-elsevier.pdf (40 pages, 833352 bytes).
+Output written on artigo2-elsevier.pdf (44 pages, 860867 bytes).
 PDF statistics:
- 1575 PDF objects out of 1728 (max. 8388607)
- 158 named destinations out of 1000 (max. 500000)
+ 1687 PDF objects out of 1728 (max. 8388607)
+ 185 named destinations out of 1000 (max. 500000)
  265 words of extra memory for PDF output out of 10000 (max. 10000000)
 

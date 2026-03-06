@@ -6,45 +6,45 @@ The style file: plainnat.bst
 Reallocating 'name_of_file' (item size: 1) to 11 items.
 Database file #1: references.bib
 Warning--empty journal in Wynberg2015
-You've used 63 entries,
+You've used 86 entries,
             2773 wiz_defined-function locations,
-            1069 strings with 19413 characters,
-and the built_in function-call counts, 30107 in all, are:
-= -- 2654
-> -- 1973
-< -- 38
-+ -- 675
-- -- 612
-* -- 2563
-:= -- 4865
-add.period$ -- 249
-call.type$ -- 63
-change.case$ -- 383
-chr.to.int$ -- 63
-cite$ -- 127
-duplicate$ -- 1263
-empty$ -- 2253
-format.name$ -- 697
-if$ -- 6153
-int.to.chr$ -- 1
+            1232 strings with 24761 characters,
+and the built_in function-call counts, 42066 in all, are:
+= -- 3744
+> -- 2730
+< -- 51
++ -- 933
+- -- 846
+* -- 3634
+:= -- 6748
+add.period$ -- 338
+call.type$ -- 86
+change.case$ -- 526
+chr.to.int$ -- 85
+cite$ -- 173
+duplicate$ -- 1733
+empty$ -- 3157
+format.name$ -- 968
+if$ -- 8603
+int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 74
-newline$ -- 383
-num.names$ -- 252
-pop$ -- 684
+missing$ -- 99
+newline$ -- 518
+num.names$ -- 344
+pop$ -- 923
 preamble$ -- 1
-purify$ -- 330
+purify$ -- 452
 quote$ -- 0
-skip$ -- 986
+skip$ -- 1349
 stack$ -- 0
-substring$ -- 877
-swap$ -- 65
+substring$ -- 1421
+swap$ -- 90
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 633
+type$ -- 876
 warning$ -- 1
-while$ -- 243
+while$ -- 351
 width$ -- 0
-write$ -- 944
+write$ -- 1282
 (There was 1 warning)
