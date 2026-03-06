@@ -1,22 +1,22 @@
 # Fdb version 4
-["bibtex artigo2-elsevier"] 1772798746.9265 "artigo2-elsevier.aux" "artigo2-elsevier.bbl" "artigo2-elsevier" 1772798792.14623 0
+["bibtex artigo2-elsevier"] 1772814204.44343 "artigo2-elsevier.aux" "artigo2-elsevier.bbl" "artigo2-elsevier" 1772814310.93891 0
   "./references.bib" 1772587727 1119509 688aa7cb417011d4df745e84e68facb1 ""
   "C:/Users/vidal/AppData/Local/Programs/MiKTeX/bibtex/bst/natbib/plainnat.bst" 1284455456 26816 ffe5423d2019860bad9f54bc402fac15 ""
-  "artigo2-elsevier.aux" 1772798790 22417 ab24cc0f0c78096ddd66527d7a6ebde0 "pdflatex"
+  "artigo2-elsevier.aux" 1772814309 21419 c8ac876173f9e3e15ac43ed304a6eb65 "pdflatex"
   (generated)
   "artigo2-elsevier.bbl"
   "artigo2-elsevier.blg"
   (rewritten before read)
-["pdflatex"] 1772798789.18741 "c:/Users/vidal/OneDrive/Documentos/13 - CLONEGIT/artigo_2_catuxe/1-LATEX/artigo2-elsevier.tex" "artigo2-elsevier.pdf" "artigo2-elsevier" 1772798792.1481 0
+["pdflatex"] 1772814307.39509 "c:/Users/vidal/OneDrive/Documentos/13 - CLONEGIT/artigo_2_catuxe/1-LATEX/artigo2-elsevier.tex" "artigo2-elsevier.pdf" "artigo2-elsevier" 1772814310.93977 0
   "3-FIGURAS/forest_agregado_V1_V6.pdf" 1772582310 5685 738f63d68b5c615f892a18be6a6c4547 ""
   "3-FIGURAS/leave_one_out_V1_V3.pdf" 1772582339 12675 476084560c1d42520b7a828284e1567f ""
   "3-FIGURAS/leave_one_out_V4_V6.pdf" 1772582341 12534 7bcee52d64ed6f329b476338cecb33cf ""
   "3-FIGURAS/meta_regressao_comunidade.pdf" 1772582330 19997 e063940025dd9e9a5995ccf995f285f6 ""
   "3-FIGURAS/meta_regressao_intervencao.pdf" 1772582334 20101 f8a9d547d2e89a31fd90e02b3959e92c ""
   "3-FIGURAS/meta_regressao_regiao.pdf" 1772582324 20413 2cf36b6dd2965f6d615e4bd5df04421e ""
-  "3-FIGURAS/methods_flowchart.pdf" 1772479438 178373 db8cd6f2dbc5a87b6039c99246d016f0 ""
+  "3-FIGURAS/methods_flowchart.pdf" 1772814199 179204 cfeec79a6731466e3a51f629b304981c ""
   "3-FIGURAS/prisma_flowdiagram_artigo2_en.pdf" 1772478478 20597 08dfd226a522a6387b70a405b80dddd5 ""
-  "C:/Users/vidal/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1772746542 176275 99b003ccec986b114e2c060f5b3d8d7f ""
+  "C:/Users/vidal/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1772809021 176275 99b003ccec986b114e2c060f5b3d8d7f ""
   "C:/Users/vidal/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi450/ecss0800.pk" 1772202151 11964 293743330a4849fc1bcdc1a9532ce678 ""
   "C:/Users/vidal/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk" 1770806302 25420 a261c516f6be27d8911b390e259a7cce ""
   "C:/Users/vidal/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1095.pk" 1772202149 28976 93fcb8dfeae622c15f68e2c2db2d5a6e ""
@@ -170,11 +170,11 @@
   "C:/Users/vidal/AppData/Local/Programs/MiKTeX/tex/latex/setspace/setspace.sty" 1670403145 22490 8cac309b79a4c53a4ffce4b1b07aead0 ""
   "C:/Users/vidal/AppData/Local/Programs/MiKTeX/tex/latex/tools/bm.sty" 1761901070 13389 9f718787b5d641dbc0271856c125f004 ""
   "C:/Users/vidal/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "artigo2-elsevier.aux" 1772798790 22417 ab24cc0f0c78096ddd66527d7a6ebde0 "pdflatex"
-  "artigo2-elsevier.bbl" 1772798747 24909 a95a55934b530bd8600afa8e0ffcb079 "bibtex artigo2-elsevier"
-  "artigo2-elsevier.out" 1772798790 7480 1cbec5d3a77daccf0365e8bf70bc5df7 "pdflatex"
-  "artigo2-elsevier.tex" 1772798787 80804 c2a09d9ec7017e2ac9345571a4945c11 ""
-  "c:/Users/vidal/OneDrive/Documentos/13 - CLONEGIT/artigo_2_catuxe/1-LATEX/artigo2-elsevier.tex" 1772798787 80804 c2a09d9ec7017e2ac9345571a4945c11 ""
+  "artigo2-elsevier.aux" 1772814309 21419 c8ac876173f9e3e15ac43ed304a6eb65 "pdflatex"
+  "artigo2-elsevier.bbl" 1772814205 22448 cd011f38f3537f4fd028ea56362d7626 "bibtex artigo2-elsevier"
+  "artigo2-elsevier.out" 1772814309 7228 d1541d0f165ba882f96625c762302445 "pdflatex"
+  "artigo2-elsevier.tex" 1772814305 68526 56f83efb424987eb04e3e9fe9c2a7f95 ""
+  "c:/Users/vidal/OneDrive/Documentos/13 - CLONEGIT/artigo_2_catuxe/1-LATEX/artigo2-elsevier.tex" 1772814305 68526 56f83efb424987eb04e3e9fe9c2a7f95 ""
   (generated)
   "artigo2-elsevier.aux"
   "artigo2-elsevier.log"

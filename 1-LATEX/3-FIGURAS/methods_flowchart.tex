@@ -43,10 +43,7 @@
   {48 estudos eleg\'iveis\\[-2pt]
    {\scriptsize Sele\c{c}\~ao detalhada no fluxo PRISMA\,2020}};
 
-\node[sidebox, right=1.2cm of input48] (nos)
-  {Avalia\c{c}\~ao de qualidade\\[-2pt]
-   {\scriptsize NOS adaptada, 0--9 estrelas}};
-\draw[darr] (input48) -- (nos);
+%% NOS removida do artigo — caixa eliminada
 
 %% FASE I — Classificação
 \node[phase] at (ph1 |- input48.south) [below=0.8cm] (ph3)
@@ -91,10 +88,7 @@
 \draw[arr] (t12.south) -- ++(0,-0.3) -| ([xshift=-1.0cm]conv.north);
 \draw[arr] (t34.south) -- ++(0,-0.3) -| ([xshift=1.0cm]conv.north);
 
-\node[sidebox, right=1.2cm of conv] (mice)
-  {Imputa\c{c}\~ao MICE\\[-2pt]
-   {\scriptsize Dados faltantes, 20 imputa\c{c}\~oes}};
-\draw[darr] (conv) -- (mice);
+%% MICE impratic\'{a}vel (94\% sem dados completos) — caixa eliminada
 
 %% FASE II
 \node[phase] at (ph3 |- conv.south) [below=0.8cm] (ph4)
@@ -107,7 +101,7 @@
 
 \node[mainbox, below=of model] (metareg)
   {Meta-regress\~ao + vi\'es de publica\c{c}\~ao\\[-2pt]
-   {\scriptsize Moderadores fixos, Egger/Begg, \textit{leave-one-out}}};
+   {\scriptsize Moderadores fixos, Begg, \textit{trim-and-fill}, \textit{leave-one-out}}};
 \draw[arr] (model) -- (metareg);
 
 %% FASE III
@@ -121,7 +115,7 @@
 
 \node[mainbox, below=of out] (gaps)
   {Mapeamento de lacunas de evid\^encia\\[-2pt]
-   {\scriptsize Vari\'aveis proxy sem cobertura, congru\^encia NE\,II}};
+   {\scriptsize Vari\'aveis proxy sem cobertura por dimens\~ao}};
 \draw[arr] (out) -- (gaps);
 
 \end{tikzpicture}

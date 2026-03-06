@@ -1,4 +1,4 @@
-\begin{thebibliography}{70}
+\begin{thebibliography}{63}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -87,14 +87,6 @@ Stephen~B. Brush.
   World}.
 \newblock Yale University Press, New Haven, 2004.
 
-\bibitem[B{\"u}rkner(2017)]{Burkner2017}
-P.-C. B{\"u}rkner.
-\newblock {\textit{brms}: An {R} package for {B}ayesian multilevel models using
-  {Stan}}.
-\newblock \emph{Journal of Statistical Software}, 80\penalty0 (1):\penalty0
-  1--28, 2017.
-\newblock \doi{10.18637/jss.v080.i01}.
-
 \bibitem[Bussmann et~al.(2018)Bussmann, Paniagua-Zambrana, Hart, Moya-Huanca,
   Ortiz-Soria, Ortiz-Vaca, Ortiz-{\'A}lvarez, Soria-Mor{\'a}n, Soria-Mor{\'a}n,
   Ch{\'a}vez, Ch{\'a}vez-Moreno, Ch{\'a}vez-Moreno, Roca, and
@@ -124,14 +116,6 @@ M~Cantor, B~Santos-Silva, FG~Daura-Jorge, AMS Machado, D~Peterson, DX~da~Rosa,
   reciprocal human-dolphin relationship.
 \newblock \emph{PEOPLE AND NATURE}, 7:\penalty0 974--989, 2025.
 \newblock \doi{10.1002/pan3.10679}.
-
-\bibitem[Cheung(2014)]{Cheung2014}
-Mike W.-L. Cheung.
-\newblock Modeling dependent effect sizes with three-level meta-analyses: A
-  structural equation modeling approach.
-\newblock \emph{Psychological Methods}, 19\penalty0 (2):\penalty0 211--229,
-  2014.
-\newblock \doi{10.1037/a0032968}.
 
 \bibitem[da~Cunha(2009)]{Cunha2009}
 Manuela~Carneiro da~Cunha.
@@ -303,12 +287,6 @@ M.J. Lajeunesse.
 \newblock \emph{Ecology}, 92\penalty0 (11):\penalty0 2049--2055, 2011.
 \newblock \doi{10.1890/11-0423.1}.
 
-\bibitem[Landis and Koch(1977)]{Landis1977}
-J.~Richard Landis and Gary~G. Koch.
-\newblock The measurement of observer agreement for categorical data.
-\newblock \emph{Biometrics}, 33\penalty0 (1):\penalty0 159--174, 1977.
-\newblock \doi{10.2307/2529310}.
-
 \bibitem[M.(2025)]{Sibanda2025}
 Sibanda M.
 \newblock Guardians of heritage: women’s position in traditional seed systems
@@ -438,14 +416,6 @@ Ankit Rohatgi.
 \newblock Version 4.3. Available from:
   \url{https://automeris.io/WebPlotDigitizer}.
 
-\bibitem[R{\"o}ver(2020)]{Rover2020}
-C.~R{\"o}ver.
-\newblock {Bayesian random-effects meta-analysis using the bayesmeta {R}
-  package}.
-\newblock \emph{Journal of Statistical Software}, 93\penalty0 (6):\penalty0
-  1--51, 2020.
-\newblock \doi{10.18637/jss.v093.i06}.
-
 \bibitem[Santilli(2009)]{Santilli2009}
 Juliana Santilli.
 \newblock \emph{Agrobiodiversidade e Direitos dos Agricultores}.
@@ -467,23 +437,6 @@ Fujian Song, Sujata Parekh, Lee Hooper, Yoon~K. Loke, John Ryder, Alex~J.
 \newblock \emph{Health Technology Assessment}, 14\penalty0 (8):\penalty0 iii,
   ix--xi, 1--193, 2010.
 \newblock \doi{10.3310/hta14080}.
-
-\bibitem[Sterne and Egger(2005)]{Sterne2005}
-Jonathan A.~C. Sterne and Matthias Egger.
-\newblock Regression methods to detect publication and other bias in
-  meta-analysis.
-\newblock \emph{Publication Bias in Meta-Analysis: Prevention, Assessment and
-  Adjustments}, pages 99--110, 2005.
-
-\bibitem[Sterne et~al.(2011)Sterne, Sutton, Ioannidis, Terrin, Jones, Lau,
-  Carpenter, R{\"u}cker, Harbord, Schmid, and et~al.]{Sterne2011}
-Jonathan A.~C. Sterne, Alex~J. Sutton, John P.~A. Ioannidis, Norma Terrin,
-  David~R. Jones, Joseph Lau, James Carpenter, Gerta R{\"u}cker, Roger~M.
-  Harbord, Christopher~H. Schmid, and et~al.
-\newblock Recommendations for examining and interpreting funnel plot asymmetry
-  in meta-analyses of randomised controlled trials.
-\newblock \emph{BMJ}, 343:\penalty0 d4002, 2011.
-\newblock \doi{10.1136/bmj.d4002}.
 
 \bibitem[T.A.(2025)]{Tran2025}
 Tran T.A.
@@ -512,15 +465,6 @@ Wolfgang Viechtbauer.
 \newblock \emph{Journal of Statistical Software}, 36\penalty0 (3):\penalty0
   1--48, 2010.
 \newblock \doi{10.18637/jss.v036.i03}.
-
-\bibitem[Wells et~al.(2000)Wells, Shea, O'Connell, Peterson, Welch, Losos, and
-  Tugwell]{Wells2000}
-George~A. Wells, Barry Shea, Dianne O'Connell, Jennifer Peterson, Vivian Welch,
-  Mark Losos, and Peter Tugwell.
-\newblock The {Newcastle-Ottawa Scale} ({NOS}) for assessing the quality of
-  nonrandomised studies in meta-analyses, 2000.
-\newblock Ottawa Hospital Research Institute. Available from:
-  \url{http://www.ohri.ca/programs/clinical_epidemiology/oxford.asp}.
 
 \bibitem[Westgate(2019)]{Westgate2019}
 Martin~J. Westgate.
