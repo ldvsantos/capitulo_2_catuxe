@@ -5,21 +5,6 @@
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[A.(2021)]{LaRosa2021}
-La~Rosa A.
-\newblock Ethnobotany of the aegadian islands: safeguarding biocultural refugia
-  in the mediterranean.
-\newblock \emph{Journal of Ethnobiology and Ethnomedicine}, 17, 2021.
-\newblock \doi{10.1186/s13002-021-00470-z}.
-
-\bibitem[A.B.(2025)]{Suwardi2025}
-Suwardi A.B.
-\newblock Ecological functions, ecosystem services, and biocultural
-  significance of wild edible fruits in a biodiversity hotspot: Evidence from
-  west kalimantan, indonesia.
-\newblock \emph{Ecological Frontiers}, 2025.
-\newblock \doi{10.1016/j.ecofro.2025.10.014}.
-
 \bibitem[Agrawal(2002)]{Agrawal2002}
 Arun Agrawal.
 \newblock \emph{Dismantling the Divide Between Indigenous and Scientific
@@ -33,6 +18,13 @@ Arun Agrawal.
 Miguel~A. Altieri.
 \newblock \emph{Agroecology: The Science of Sustainable Agriculture}.
 \newblock Westview Press, Boulder, 2 edition, 2004.
+
+\bibitem[Aniah(2019)]{Aniah2019}
+P.~Aniah.
+\newblock Smallholder farmers' livelihood adaptation to climate variability and
+  ecological changes in the savanna agro ecological zone of ghana.
+\newblock \emph{Heliyon}, 5, 2019.
+\newblock \doi{10.1016/j.heliyon.2019.e01492}.
 
 \bibitem[Aswani et~al.(2020)Aswani, Ferse, St{\"a}bler, and
   Chong-Montenegro]{Aswani2020}
@@ -57,6 +49,13 @@ Jay Barney.
 \newblock \emph{Journal of Management}, 17\penalty0 (1):\penalty0 99--120,
   1991.
 \newblock \doi{10.1177/014920639101700108}.
+
+\bibitem[Bastos(2022)]{Bastos2022}
+J.G. Bastos.
+\newblock A biodiversity hotspot losing its biocultural heritage: The challenge
+  to biocultural conservation of brazilwood (paubrasilia echinata).
+\newblock \emph{Frontiers in Forests and Global Change}, 5, 2022.
+\newblock \doi{10.3389/ffgc.2022.696757}.
 
 \bibitem[Begg and Mazumdar(1994)]{Begg1994}
 Colin~B. Begg and Madhuchhanda Mazumdar.
@@ -100,12 +99,12 @@ R.W. Bussmann, N.Y. Paniagua-Zambrana, R.E. Hart, A.L. Moya-Huanca,
 \newblock \emph{Economic Botany}, 72\penalty0 (1):\penalty0 81--93, 2018.
 \newblock \doi{10.1007/s12231-018-9401-y}.
 
-\bibitem[C.(2025)]{Mobarak2025}
-Mobarak C.
-\newblock Farm trees as cultural keystone species: Bridging biocultural
-  conservation and sustainable development in the morocco high atlas mountains.
-\newblock \emph{Mountain Research and Development}, 45, 2025.
-\newblock \doi{10.1659/mrd.2024.00024}.
+\bibitem[Calvet-Mir(2016)]{CalvetMir2016}
+L.~Calvet-Mir.
+\newblock The transmission of home garden knowledge: Safeguarding biocultural
+  diversity and enhancing social–ecological resilience.
+\newblock \emph{Society and Natural Resources}, 29, 2016.
+\newblock \doi{10.1080/08941920.2015.1094711}.
 
 \bibitem[Cantor et~al.(2025)Cantor, Santos-Silva, Daura-Jorge, Machado,
   Peterson, da~Rosa, Simoes-Lopes, Valle-Pereira, Zank, and
@@ -122,8 +121,8 @@ Manuela~Carneiro da~Cunha.
 \newblock \emph{Cultura com Aspas e Outros Ensaios}.
 \newblock Cosac Naify, S{\~a}o Paulo, 2009.
 
-\bibitem[de~Sousa~T.B.(2024)]{deSousa2024}
-de~Sousa~T.B.
+\bibitem[de~Sousa(2024)]{deSousa2024}
+T.B. de~Sousa.
 \newblock Strategies for managing agrobiodiversity by peasant farmers in the
   cerrado-caatinga ecotone, southwest piauí, brazil.
 \newblock \emph{Sustainability in Debate}, 15, 2024.
@@ -135,13 +134,6 @@ Sue Duval and Richard Tweedie.
   adjusting for publication bias in meta-analysis.
 \newblock \emph{Biometrics}, 56\penalty0 (2):\penalty0 455--463, 2000.
 \newblock \doi{10.1111/j.0006-341X.2000.00455.x}.
-
-\bibitem[E.B.(2025)]{Zeleke2025}
-Zeleke E.B.
-\newblock Vulnerability assessment of smallholder farmers to climate change in
-  the awash basin, ethiopia.
-\newblock \emph{Environmental and Sustainability Indicators}, 28, 2025.
-\newblock \doi{10.1016/j.indic.2025.100927}.
 
 \bibitem[Edo et~al.(2024)Edo, Woldemichael, and Beyene]{Edo2024}
 Kasim Edo, Leul Woldemichael, and Tadesse Beyene.
@@ -207,6 +199,13 @@ Erik G{\'o}mez-Baggethun and Victoria Reyes-Garc{\'i}a.
 \newblock \emph{Human Ecology}, 41\penalty0 (4):\penalty0 643--647, 2013.
 \newblock \doi{10.1007/s10745-013-9577-9}.
 
+\bibitem[Gonçalves(2022)]{Goncalves2022}
+M.C. Gonçalves.
+\newblock Traditional agriculture and food sovereignty: Quilombola knowledge
+  and management of food crops.
+\newblock \emph{Journal of Ethnobiology}, 42, 2022.
+\newblock \doi{10.2993/0278-0771-42.2.241}.
+
 \bibitem[Hasselblad and Hedges(1995)]{Hasselblad1995}
 V.~Hasselblad and L.V. Hedges.
 \newblock {Meta-analysis of screening and diagnostic tests}.
@@ -249,19 +248,12 @@ Devra~I. Jarvis, Toby Hodgkin, Anthony H.~D. Brown, John Tuxill,
   and Applications in Research Practices}.
 \newblock Yale University Press, New Haven, 2008.
 
-\bibitem[J.G.(2022)]{Bastos2022}
-Bastos J.G.
-\newblock A biodiversity hotspot losing its biocultural heritage: The challenge
-  to biocultural conservation of brazilwood (paubrasilia echinata).
-\newblock \emph{Frontiers in Forests and Global Change}, 5, 2022.
-\newblock \doi{10.3389/ffgc.2022.696757}.
-
-\bibitem[L.(2016)]{CalvetMir2016}
-Calvet-Mir L.
-\newblock The transmission of home garden knowledge: Safeguarding biocultural
-  diversity and enhancing social–ecological resilience.
-\newblock \emph{Society and Natural Resources}, 29, 2016.
-\newblock \doi{10.1080/08941920.2015.1094711}.
+\bibitem[La~Rosa(2021)]{LaRosa2021}
+A.~La~Rosa.
+\newblock Ethnobotany of the aegadian islands: safeguarding biocultural refugia
+  in the mediterranean.
+\newblock \emph{Journal of Ethnobiology and Ethnomedicine}, 17, 2021.
+\newblock \doi{10.1186/s13002-021-00470-z}.
 
 \bibitem[Laborde et~al.(2023)Laborde, Tesfaye, and Muchenje]{Laborde2023}
 N.~Laborde, N.~Tesfaye, and S.~Muchenje.
@@ -287,13 +279,6 @@ M.J. Lajeunesse.
 \newblock \emph{Ecology}, 92\penalty0 (11):\penalty0 2049--2055, 2011.
 \newblock \doi{10.1890/11-0423.1}.
 
-\bibitem[M.(2025)]{Sibanda2025}
-Sibanda M.
-\newblock Guardians of heritage: women’s position in traditional seed systems
-  and agroecology in zimbabwe.
-\newblock \emph{Agriculture and Food Security}, 14, 2025.
-\newblock \doi{10.1186/s40066-025-00573-w}.
-
 \bibitem[Malapane et~al.(2024)Malapane, Chanza, and Musakwa]{Malapane2024}
 O.L. Malapane, N.~Chanza, and W.~Musakwa.
 \newblock {Transmission of indigenous knowledge systems under changing
@@ -301,19 +286,12 @@ O.L. Malapane, N.~Chanza, and W.~Musakwa.
 \newblock \emph{Environmental Science and Policy}, 161:\penalty0 103861, 2024.
 \newblock \doi{10.1016/j.envsci.2024.103861}.
 
-\bibitem[M.C.(2022)]{Goncalves2022}
-Gonçalves M.C.
-\newblock Traditional agriculture and food sovereignty: Quilombola knowledge
-  and management of food crops.
-\newblock \emph{Journal of Ethnobiology}, 42, 2022.
-\newblock \doi{10.2993/0278-0771-42.2.241}.
-
-\bibitem[M.J.(2026)]{RomeroSilva2026}
-Romero-Silva M.J.
-\newblock Colourful agrobiodiversity: morphology and phenology of bean
-  landraces to face commodification of the commons in the southern andes.
-\newblock \emph{Botanical Studies}, 67, 2026.
-\newblock \doi{10.1186/s40529-025-00488-6}.
+\bibitem[Mobarak(2025)]{Mobarak2025}
+C.~Mobarak.
+\newblock Farm trees as cultural keystone species: Bridging biocultural
+  conservation and sustainable development in the morocco high atlas mountains.
+\newblock \emph{Mountain Research and Development}, 45, 2025.
+\newblock \doi{10.1659/mrd.2024.00024}.
 
 \bibitem[Mugi-Ngenga et~al.(2016)Mugi-Ngenga, Mucheru-Muna, Mugwe, Ngetich,
   Mairura, and Mugendi]{MugiNgenga2016}
@@ -324,27 +302,19 @@ EW~Mugi-Ngenga, MW~Mucheru-Muna, JN~Mugwe, FK~Ngetich, FS~Mairura, and
 \newblock \emph{JOURNAL OF RURAL STUDIES}, 43:\penalty0 49--60, 2016.
 \newblock \doi{10.1016/j.jrurstud.2015.11.004}.
 
+\bibitem[Møller(2023)]{Moller2023}
+V.~Møller.
+\newblock Nature-connectedness and well-being experienced during best and worst
+  times of life: A case for safeguarding biocultural diversity.
+\newblock \emph{Social Indicators Research}, 165, 2023.
+\newblock \doi{10.1007/s11205-023-03063-3}.
+
 \bibitem[Ostrom(1990)]{Ostrom1990}
 Elinor Ostrom.
 \newblock \emph{Governing the Commons: The Evolution of Institutions for
   Collective Action}.
 \newblock Cambridge University Press, Cambridge, 1990.
 \newblock \doi{10.1017/CBO9780511807763}.
-
-\bibitem[P.(2019)]{Aniah2019}
-Aniah P.
-\newblock Smallholder farmers' livelihood adaptation to climate variability and
-  ecological changes in the savanna agro ecological zone of ghana.
-\newblock \emph{Heliyon}, 5, 2019.
-\newblock \doi{10.1016/j.heliyon.2019.e01492}.
-
-\bibitem[P.(2022)]{VazquezDelfin2022}
-Vázquez-Delfin P.
-\newblock Adaptation and biocultural conservation of traditional agroforestry
-  systems in the tehuacán valley: access to resources and livelihoods
-  strategies.
-\newblock \emph{Heliyon}, 8, 2022.
-\newblock \doi{10.1016/j.heliyon.2022.e09805}.
 
 \bibitem[Page et~al.(2021)Page, Moher, Bossuyt, Boutron, Hoffmann, Mulrow,
   Shamseer, Tetzlaff, Akl, Brennan, Chou, Glanville, Grimshaw, Hrobjartsson,
@@ -416,6 +386,20 @@ Ankit Rohatgi.
 \newblock Version 4.3. Available from:
   \url{https://automeris.io/WebPlotDigitizer}.
 
+\bibitem[Romero-Silva(2026)]{RomeroSilva2026}
+M.J. Romero-Silva.
+\newblock Colourful agrobiodiversity: morphology and phenology of bean
+  landraces to face commodification of the commons in the southern andes.
+\newblock \emph{Botanical Studies}, 67, 2026.
+\newblock \doi{10.1186/s40529-025-00488-6}.
+
+\bibitem[Saiba(2023)]{Saiba2023}
+Y.~Saiba.
+\newblock Ethnobotany and conservation applications in the noken making by the
+  sougb tribe of west papua, indonesia.
+\newblock \emph{Biodiversitas}, 24, 2023.
+\newblock \doi{10.13057/biodiv/d240861}.
+
 \bibitem[Santilli(2009)]{Santilli2009}
 Juliana Santilli.
 \newblock \emph{Agrobiodiversidade e Direitos dos Agricultores}.
@@ -426,6 +410,13 @@ William~R. Shadish, Thomas~D. Cook, and Donald~T. Campbell.
 \newblock \emph{Experimental and Quasi-Experimental Designs for Generalized
   Causal Inference}.
 \newblock Houghton Mifflin, Boston, 2002.
+
+\bibitem[Sibanda(2025)]{Sibanda2025}
+M.~Sibanda.
+\newblock Guardians of heritage: women’s position in traditional seed systems
+  and agroecology in zimbabwe.
+\newblock \emph{Agriculture and Food Security}, 14, 2025.
+\newblock \doi{10.1186/s40066-025-00573-w}.
 
 \bibitem[Song et~al.(2010)Song, Parekh, Hooper, Loke, Ryder, Sutton, Hing,
   Kwok, Islam, Camm, and Harvey]{Song2010}
@@ -438,19 +429,20 @@ Fujian Song, Sujata Parekh, Lee Hooper, Yoon~K. Loke, John Ryder, Alex~J.
   ix--xi, 1--193, 2010.
 \newblock \doi{10.3310/hta14080}.
 
-\bibitem[T.A.(2025)]{Tran2025}
-Tran T.A.
+\bibitem[Suwardi(2025)]{Suwardi2025}
+A.B. Suwardi.
+\newblock Ecological functions, ecosystem services, and biocultural
+  significance of wild edible fruits in a biodiversity hotspot: Evidence from
+  west kalimantan, indonesia.
+\newblock \emph{Ecological Frontiers}, 2025.
+\newblock \doi{10.1016/j.ecofro.2025.10.014}.
+
+\bibitem[Tran(2025)]{Tran2025}
+T.A. Tran.
 \newblock Erosion of traditional ecological knowledge under conditions of
   hydrosocial rupture: Insights from the mekong floodplains communities.
 \newblock \emph{Ambio}, 54, 2025.
 \newblock \doi{10.1007/s13280-025-02172-2}.
-
-\bibitem[V.(2023)]{Moller2023}
-Møller V.
-\newblock Nature-connectedness and well-being experienced during best and worst
-  times of life: A case for safeguarding biocultural diversity.
-\newblock \emph{Social Indicators Research}, 165, 2023.
-\newblock \doi{10.1007/s11205-023-03063-3}.
 
 \bibitem[van Buuren and Groothuis-Oudshoorn(2011)]{vanBuuren2011}
 Stef van Buuren and Karin Groothuis-Oudshoorn.
@@ -465,6 +457,14 @@ Wolfgang Viechtbauer.
 \newblock \emph{Journal of Statistical Software}, 36\penalty0 (3):\penalty0
   1--48, 2010.
 \newblock \doi{10.18637/jss.v036.i03}.
+
+\bibitem[Vázquez-Delfin(2022)]{VazquezDelfin2022}
+P.~Vázquez-Delfin.
+\newblock Adaptation and biocultural conservation of traditional agroforestry
+  systems in the tehuacán valley: access to resources and livelihoods
+  strategies.
+\newblock \emph{Heliyon}, 8, 2022.
+\newblock \doi{10.1016/j.heliyon.2022.e09805}.
 
 \bibitem[Westgate(2019)]{Westgate2019}
 Martin~J. Westgate.
@@ -481,12 +481,12 @@ Rachel Wynberg, Doris Schroeder, and Roger Chennells.
 \newblock 2009.
 \newblock \doi{10.1007/978-90-481-3123-5}.
 
-\bibitem[Y.(2023)]{Saiba2023}
-Saiba Y.
-\newblock Ethnobotany and conservation applications in the noken making by the
-  sougb tribe of west papua, indonesia.
-\newblock \emph{Biodiversitas}, 24, 2023.
-\newblock \doi{10.13057/biodiv/d240861}.
+\bibitem[Zeleke(2025)]{Zeleke2025}
+E.B. Zeleke.
+\newblock Vulnerability assessment of smallholder farmers to climate change in
+  the awash basin, ethiopia.
+\newblock \emph{Environmental and Sustainability Indicators}, 28, 2025.
+\newblock \doi{10.1016/j.indic.2025.100927}.
 
 \bibitem[Zhang and Yu(1998)]{Zhang1998}
 J.~Zhang and K.F. Yu.
