@@ -40,27 +40,27 @@
 \node[phase] (ph1) {ENTRADA\\[-2pt]{\scriptsize PRISMA}};
 
 \node[mainbox, right=0.7cm of ph1] (input48)
-  {48 estudos eleg\'iveis\\[-2pt]
-   {\scriptsize Sele\c{c}\~ao detalhada no fluxo PRISMA\,2020}};
+  {48 estudos elegíveis\\[-2pt]
+   {\scriptsize Seleção detalhada no fluxo PRISMA\,2020}};
 
 %% NOS removida do artigo — caixa eliminada
 
 %% FASE I — Classificação
 \node[phase] at (ph1 |- input48.south) [below=0.8cm] (ph3)
-  {FASE I\\[-2pt]{\scriptsize Classifica\c{c}\~ao}};
+  {FASE I\\[-2pt]{\scriptsize Classificação}};
 
 \node[mainbox, right=0.7cm of ph3] (dim)
-  {Atribui\c{c}\~ao dimensional $V_1$\,--\,$V_6$\\[-2pt]
-   {\scriptsize Diagn\'ostico de evid\^encia por dimens\~ao}};
+  {Atribuição dimensional $V_1$\,--\,$V_8$\\[-2pt]
+   {\scriptsize Diagnóstico de evidência por dimensão}};
 \draw[arr] (input48) -- (dim);
 
 \node[mainbox, below=of dim] (ext)
-  {Extra\c{c}\~ao de dados\\[-2pt]
+  {Extração de dados\\[-2pt]
    {\scriptsize Blocos A (metadados), B ($lnRR$), C (moderadores)}};
 \draw[arr] (dim) -- (ext);
 
 \node[mainbox, below=of ext] (tier)
-  {Classifica\c{c}\~ao multi-tier\\[-2pt]
+  {Classificação multi-tier\\[-2pt]
    {\scriptsize T1 (direto) $\mid$ T2a/b ($p \!\rightarrow\! lnRR$) $\mid$ T3--T4 (ordinal)}};
 \draw[arr] (ext) -- (tier);
 
@@ -72,8 +72,8 @@
 
 \node[branchbox, below right=0.9cm and -0.2cm of tier] (t34)
   {T3--T4\\[-2pt]
-   {\scriptsize Codifica\c{c}\~ao ordinal}\\[-2pt]
-   {\scriptsize $\rightarrow$ $lnRR$ sint\'etico}};
+   {\scriptsize Codificação ordinal}\\[-2pt]
+   {\scriptsize $\rightarrow$ $lnRR$ sintético}};
 
 \draw[arr] (tier.south) -- ++(0,-0.35) -| (t12.north);
 \draw[arr] (tier.south) -- ++(0,-0.35) -| (t34.north);
@@ -83,7 +83,7 @@
 
 \node[mainbox] at (midconv) (conv)
   {$lnRR_i + v_i$ unificados\\[-2pt]
-   {\scriptsize Infla\c{c}\~ao de vari\^ancia por $\sigma_{\mathrm{conv}}$ tier-espec\'ifica}};
+   {\scriptsize Inflação de variância por $\sigma_{\mathrm{conv}}$ tier-específica}};
 
 \draw[arr] (t12.south) -- ++(0,-0.3) -| ([xshift=-1.0cm]conv.north);
 \draw[arr] (t34.south) -- ++(0,-0.3) -| ([xshift=1.0cm]conv.north);
@@ -92,15 +92,15 @@
 
 %% FASE II
 \node[phase] at (ph3 |- conv.south) [below=0.8cm] (ph4)
-  {FASE II\\[-2pt]{\scriptsize S\'intese}};
+  {FASE II\\[-2pt]{\scriptsize Síntese}};
 
 \node[mainbox, right=0.7cm of ph4] (model)
-  {Modelo hier\'arquico de efeitos mistos (REML)\\[-2pt]
-   {\scriptsize 3 n\'iveis, RVE--CR2, IC\,95\% + predi\c{c}\~ao}};
+  {Modelo hierárquico de efeitos mistos (REML)\\[-2pt]
+   {\scriptsize 3 níveis, RVE--CR2, IC\,95\% + predição}};
 \draw[arr] (conv) -- (model);
 
 \node[mainbox, below=of model] (metareg)
-  {Meta-regress\~ao + vi\'es de publica\c{c}\~ao\\[-2pt]
+  {Meta-regressão + viés de publicação\\[-2pt]
    {\scriptsize Moderadores fixos, Begg, \textit{trim-and-fill}, \textit{leave-one-out}}};
 \draw[arr] (model) -- (metareg);
 
@@ -109,13 +109,13 @@
   {FASE III\\[-2pt]{\scriptsize Outputs}};
 
 \node[mainbox, right=0.7cm of ph5] (out)
-  {Outputs da s\'intese meta-anal\'itica\\[-2pt]
-   {\scriptsize $\overline{lnRR}$ (pesos), $I^2$ (pertin\^encia), moderadores, IC\,95\%}};
+  {Outputs da síntese meta-analítica\\[-2pt]
+   {\scriptsize $\overline{lnRR}$ (pesos), $I^2$ (pertinência), moderadores, IC\,95\%}};
 \draw[arr] (metareg) -- (out);
 
 \node[mainbox, below=of out] (gaps)
-  {Mapeamento de lacunas de evid\^encia\\[-2pt]
-   {\scriptsize Vari\'aveis proxy sem cobertura por dimens\~ao}};
+  {Mapeamento de lacunas de evidência\\[-2pt]
+   {\scriptsize Variáveis proxy sem cobertura por dimensão}};
 \draw[arr] (out) -- (gaps);
 
 \end{tikzpicture}

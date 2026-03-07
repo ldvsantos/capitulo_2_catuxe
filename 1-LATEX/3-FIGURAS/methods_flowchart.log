@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.23)  6 MAR 2026 13:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.23)  7 MAR 2026 07:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -555,8 +555,7 @@ File: tikzlibrarycalc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 tex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count319
-)
-No file methods_flowchart.aux.
+) (methods_flowchart.aux)
 \openout1 = `methods_flowchart.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
@@ -666,10 +665,10 @@ L3 programming layer <2025-12-29>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 15138 strings out of 467871
- 310224 string characters out of 5418376
- 703618 words of memory out of 5000000
- 43726 multiletter control sequences out of 15000+600000
+ 15141 strings out of 467871
+ 310383 string characters out of 5418376
+ 703608 words of memory out of 5000000
+ 43727 multiletter control sequences out of 15000+600000
  668308 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,8n,121p,431b,748s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -683,7 +682,7 @@ rs/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users
 /vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri7.pfb><C:/Users/
 vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/User
 s/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy7.pfb>
-Output written on methods_flowchart.pdf (1 page, 179204 bytes).
+Output written on methods_flowchart.pdf (1 page, 178550 bytes).
 PDF statistics:
  66 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
