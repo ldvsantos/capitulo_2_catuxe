@@ -1,6 +1,6 @@
 # ================================================================
 # 07_outputs_ISB.R — Consolidação dos 4 outputs para o ISB
-# Artigo 2: Meta-análise de vulnerabilidade biocultural (V1–V6)
+# Artigo 2: Meta-análise de vulnerabilidade biocultural (V1–V8)
 #
 # Gera a tabela-resumo com as 4 entregas quantitativas que
 # alimentam o Índice de Salvaguarda Biocultural (ISB):
@@ -22,10 +22,12 @@ mr      <- readRDS(file.path(DIR_OUTPUT, "meta_regressao.rds"))
 nomes_dim <- c(
   "V1" = "Erosao Intergeracional",
   "V2" = "Complexidade Biocultural",
-  "V3" = "Singularidade Territorial",
-  "V4" = "Status de Documentacao",
-  "V5" = "Vulnerabilidade Juridica",
-  "V6" = "Organizacao Social"
+  "V3" = "Status de Documentacao",
+  "V4" = "Vulnerabilidade Juridica",
+  "V5" = "Organizacao Social",
+  "V6" = "Vitalidade Linguistica",
+  "V7" = "Integracao ao Mercado",
+  "V8" = "Exposicao Climatica"
 )
 
 # ===============================================================

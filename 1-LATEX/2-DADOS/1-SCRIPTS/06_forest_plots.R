@@ -1,5 +1,5 @@
 # ================================================================
-# 06_forest_plots.R — Forest plots por dimensão (V1–V6) e agregado
+# 06_forest_plots.R — Forest plots por dimensão (V1–V8) e agregado
 # Artigo 2: Meta-análise de vulnerabilidade biocultural
 # Adaptado de: 11-ARTIGO_MA / grafico_agregado.R,
 #              efeito_aleatorio_fisicas.R
@@ -17,19 +17,23 @@ res_dim <- readRDS(file.path(DIR_OUTPUT, "resultados_por_dimensao.rds"))
 cores_dim <- c(
   "V1" = "#D55E00",   # Erosão Intergeracional — vermelho
   "V2" = "#009E73",   # Complexidade Biocultural — verde
-  "V3" = "#56B4E9",   # Singularidade Territorial — azul claro
-  "V4" = "#E69F00",   # Status de Documentação — amarelo
-  "V5" = "#CC79A7",   # Vulnerabilidade Jurídica — rosa
-  "V6" = "#0072B2"    # Organização Social — azul escuro
+  "V3" = "#56B4E9",   # Status de Documentação — azul claro
+  "V4" = "#E69F00",   # Vulnerabilidade Jurídica — amarelo
+  "V5" = "#CC79A7",   # Organização Social — rosa
+  "V6" = "#0072B2",   # Vitalidade Linguística — azul escuro
+  "V7" = "#F0E442",   # Integração ao Mercado — amarelo claro
+  "V8" = "#999999"    # Exposição Climática — cinza
 )
 
 nomes_dim <- c(
   "V1" = "Erosao Intergeracional",
   "V2" = "Complexidade Biocultural",
-  "V3" = "Singularidade Territorial",
-  "V4" = "Status de Documentacao",
-  "V5" = "Vulnerabilidade Juridica",
-  "V6" = "Organizacao Social"
+  "V3" = "Status de Documentacao",
+  "V4" = "Vulnerabilidade Juridica",
+  "V5" = "Organizacao Social",
+  "V6" = "Vitalidade Linguistica",
+  "V7" = "Integracao ao Mercado",
+  "V8" = "Exposicao Climatica"
 )
 
 # ===============================================================
@@ -91,6 +95,9 @@ for (dim in levels(bd$Dimensao)) {
 res_plot <- res_dim %>%
   filter(!is.na(lnRR)) %>%
   mutate(
+    # se = 0 ocorre quando todos os estudos têm lnRR=0 (ex: V6).
+    # Substituir por valor mínimo para que metagen/forest renderize.
+    se_plot = ifelse(se < 1e-6, 0.001, se),
     label = paste0(Dimensao, " — ", nomes_dim[Dimensao],
                    " (k = ", k, ")"),
     label = fct_reorder(label, lnRR)
@@ -98,7 +105,7 @@ res_plot <- res_dim %>%
 
 meta_agg <- metagen(
   TE       = res_plot$lnRR,
-  seTE     = res_plot$se,
+  seTE     = res_plot$se_plot,
   studlab  = res_plot$label,
   sm       = "lnRR",
   method.tau = "DL",
@@ -106,7 +113,7 @@ meta_agg <- metagen(
   random   = TRUE
 )
 
-pdf(file.path(DIR_OUTPUT, "forest_agregado_V1_V6.pdf"), width = 11, height = 7)
+pdf(file.path(DIR_OUTPUT, "forest_agregado_V1_V8.pdf"), width = 11, height = 7)
 
 forest(
   meta_agg,
@@ -122,18 +129,45 @@ forest(
   atransf          = identity,
   at               = seq(-1, 1, by = 0.2),
   xlab             = "lnRR (log response ratio)",
-  rightcols        = c("effect", "ci", "w.random"),
-  rightlabs        = c("lnRR", "IC 95%", "Peso (%)"),
+  rightcols        = c("effect", "ci", "w.random", "pval"),
+  rightlabs        = c("lnRR", "IC 95%", "Peso (%)", "p-value"),
   leftcols         = c("studlab"),
   leftlabs         = c("Dimensão de vulnerabilidade (k)"),
   smlab            = "Efeito agregado por dimensão"
 )
 
 dev.off()
-cat("✔ Forest plot agregado V1–V6.\n")
+
+# PNG para o agregado metagen
+png(file.path(DIR_OUTPUT, "forest_agregado_V1_V8.png"), width = 11, height = 7,
+    units = "in", res = 300)
+
+forest(
+  meta_agg,
+  comb.fixed       = FALSE,
+  comb.random      = TRUE,
+  overall          = TRUE,
+  print.tau2       = TRUE,
+  print.I2         = TRUE,
+  col.square       = cores_dim[as.character(res_plot$Dimensao)],
+  col.diamond      = "black",
+  digits           = 3,
+  digits.TE        = 3,
+  atransf          = identity,
+  at               = seq(-1, 1, by = 0.2),
+  xlab             = "lnRR (log response ratio)",
+  rightcols        = c("effect", "ci", "w.random", "pval"),
+  rightlabs        = c("lnRR", "IC 95%", "Peso (%)", "p-value"),
+  leftcols         = c("studlab"),
+  leftlabs         = c("Dimensão de vulnerabilidade (k)"),
+  smlab            = "Efeito agregado por dimensão"
+)
+
+dev.off()
+cat("✔ Forest plot agregado V1–V8.\n")
 
 # ===============================================================
-# 3. Forest plot com ggplot2 (publicação)
+# 3. Forest plot com ggplot2 (publicação — backup)
 # ===============================================================
 
 p <- ggplot(res_plot, aes(x = lnRR, y = label)) +
@@ -158,7 +192,7 @@ p <- ggplot(res_plot, aes(x = lnRR, y = label)) +
     plot.subtitle = element_text(size = 10, color = "gray40")
   )
 
-ggsave(file.path(DIR_OUTPUT, "forest_agregado_V1_V6.pdf"), p, width = 10, height = 6)
-ggsave(file.path(DIR_OUTPUT, "forest_agregado_V1_V6.png"), p, width = 10, height = 6, dpi = 300)
+ggsave(file.path(DIR_OUTPUT, "forest_ggplot_V1_V8.pdf"), p, width = 10, height = 6)
+ggsave(file.path(DIR_OUTPUT, "forest_ggplot_V1_V8.png"), p, width = 10, height = 6, dpi = 300)
 
 cat("✔ Forest plots concluídos e exportados.\n")

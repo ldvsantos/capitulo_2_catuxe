@@ -36,7 +36,7 @@ bd <- readxl::read_excel(fp_conv, sheet = "DADOS_CONVERTIDOS") %>%
     Study_ID = as.integer(Study_ID),
     Year     = as.integer(Year),
     across(c(lnRR, vi, sigma_conv, n_T, n_C, NOS), as.numeric),
-    Dimensao         = factor(Dimensao, levels = paste0("V", 1:6)),
+    Dimensao         = factor(Dimensao, levels = paste0("V", 1:8)),
     Tier             = factor(Tier, levels = c("T1", "T2a", "T2b", "T3", "T4")),
     Tipo_Intervencao = factor(Tipo_Intervencao),
     Regiao           = factor(Regiao),
@@ -46,13 +46,13 @@ bd <- readxl::read_excel(fp_conv, sheet = "DADOS_CONVERTIDOS") %>%
 
 # Preencher moderadores (Tipo_Intervencao, Regiao, Tipo_Comunidade) a partir
 # da bd_extracao original (script 31 não transfere essas colunas para T2-T4)
-fp_orig <- file.path(DIR_DADOS, "2-DADOS_TABULADOS", "bd_extracao_PREENCHIDO.xlsx")
+fp_orig <- file.path(DIR_DADOS, "2-DADOS_TABULADOS", "bd_extracao_PREENCHIDO_V8.xlsx")
 if (file.exists(fp_orig)) {
   bd_orig <- readxl::read_excel(fp_orig, sheet = "Sheet1") %>%
     select(Study_ID, Dimensao, Tipo_Intervencao, Regiao, Tipo_Comunidade) %>%
     mutate(
       Study_ID = as.integer(Study_ID),
-      Dimensao = factor(Dimensao, levels = paste0("V", 1:6))
+      Dimensao = factor(Dimensao, levels = paste0("V", 1:8))
     ) %>%
     distinct(Study_ID, Dimensao, .keep_all = TRUE)
 

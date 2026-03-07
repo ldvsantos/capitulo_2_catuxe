@@ -5,7 +5,7 @@
 #   (A) Meta-regressão — coeficientes de moderadores por dimensão
 #   (B) Sensibilidade Tier — dumbbell plot (T1 vs modelo completo)
 #   (C1) Leave-one-out V1–V3
-#   (C2) Leave-one-out V4–V6
+#   (C2) Leave-one-out V4–V5
 # =============================================================================
 
 library(here)
@@ -29,18 +29,21 @@ theme_artigo <- theme_minimal(base_size = 11) +
     legend.position    = "bottom"
   )
 
-# Paleta de cores para dimensões
+# Paleta de cores para dimensões (V1–V8)
 dim_cores <- c(
-  "V1" = "#E69F00", "V2" = "#56B4E9", "V3" = "#009E73",
-  "V4" = "#F0E442", "V5" = "#D55E00", "V6" = "#0072B2"
+  "V1" = "#D55E00", "V2" = "#009E73", "V3" = "#56B4E9",
+  "V4" = "#E69F00", "V5" = "#CC79A7", "V6" = "#0072B2",
+  "V7" = "#F0E442", "V8" = "#999999"
 )
 dim_nomes <- c(
   "V1" = "V1 Erosao Intergeracional",
   "V2" = "V2 Complexidade Biocultural",
-  "V3" = "V3 Singularidade Territorial",
-  "V4" = "V4 Status de Documentacao",
-  "V5" = "V5 Vulnerabilidade Juridica",
-  "V6" = "V6 Organizacao Social"
+  "V3" = "V3 Status de Documentacao",
+  "V4" = "V4 Vulnerabilidade Juridica",
+  "V5" = "V5 Organizacao Social",
+  "V6" = "V6 Vitalidade Linguistica",
+  "V7" = "V7 Integracao ao Mercado",
+  "V8" = "V8 Exposicao Climatica"
 )
 
 res <- read_excel(file.path(DIR_OUT, "resultados_por_dimensao.xlsx"))
@@ -284,6 +287,7 @@ gerar_loo <- function(dims, sufixo, titulo_parte) {
 
 gerar_loo(c("V1", "V2", "V3"), "V1_V3", "V1–V3")
 gerar_loo(c("V4", "V5", "V6"), "V4_V6", "V4–V6")
+gerar_loo(c("V7", "V8"),       "V7_V8", "V7–V8")
 
 
 cat("\n>>> Todos os gráficos complementares gerados com sucesso!\n")

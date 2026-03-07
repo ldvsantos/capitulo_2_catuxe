@@ -1,0 +1,35 @@
+DIAGNOSTIC REPORT: Recodification V1-V6 → V1-V8
+============================================================
+Total rows: 432
+
+Dimension | Rows | Studies | Auto-coded
+--------------------------------------------------
+  V1   |   48 |   48    |   34  (Erosão Intergeracional e Migração)
+  V2   |   96 |   48    |   68  (Complexidade e Singularidade Biocultural)
+  V3   |   48 |   48    |   35  (Status de Documentação)
+  V4   |   48 |   48    |   34  (Vulnerabilidade Jurídica e Fundiária)
+  V5   |   48 |   48    |   34  (Organização Social e Governança)
+  V6   |   48 |   48    |    0  (Vitalidade Linguística)
+  V7   |   48 |   48    |    2  (Integração ao Mercado)
+  V8   |   48 |   48    |    4  (Exposição Climática)
+
+Auto-coding summary (V6-V8):
+--------------------------------------------------
+  V6 (Vitalidade Linguística): 0/48 auto-coded (0%)
+  V7 (Integração ao Mercado): 2/48 auto-coded (4%)
+  V8 (Exposição Climática): 4/48 auto-coded (8%)
+
+Direction distribution (auto-coded V6-V8):
+--------------------------------------------------
+  V6: +1=0, 0=0, -1=0
+  V7: +1=0, 0=2, -1=0
+  V8: +1=1, 0=3, -1=0
+
+============================================================
+NEXT STEPS:
+  1. Review auto-coded V6-V8 rows (yellow/green highlighting)
+  2. Manually validate direction/intensity for flagged rows
+  3. Run 30_preparar_codificacao_quali.py on _V8 file
+  4. Run 31_converter_quali_para_lnRR.py
+  5. Run R pipeline (02b → 03 → 04 → 05 → 06)
+============================================================

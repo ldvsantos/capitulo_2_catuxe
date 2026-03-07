@@ -1,5 +1,5 @@
 # ================================================================
-# 03_meta_analise_dimensao.R — Meta-análise hierárquica por V1–V6
+# 03_meta_analise_dimensao.R — Meta-análise hierárquica por V1–V8
 # Artigo 2: Meta-análise de vulnerabilidade biocultural
 # Adaptado de: 11-ARTIGO_MA / efeito_aleatorio_fisicas.R,
 #              efeito_aleatorio_biologicas.R, efeito_aleatorio_quimico.R

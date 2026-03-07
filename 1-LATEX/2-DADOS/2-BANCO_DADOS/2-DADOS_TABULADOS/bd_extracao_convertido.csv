@@ -1,223 +1,364 @@
-"Study_ID","Study","DOI","Year","Dimensao","Dimensao_Label","Proxy","n_T","m_T","sd_T","n_C","m_C","sd_C","Tipo_Intervencao","Regiao","Tipo_Comunidade","NOS","Tier","lnRR","vi","sigma_conv"
-18,"Nord A.","10.1002/ldr.3582",2020,"V1","Erosao Intergeracional","SOC (%) by farmer erosion perception",22,1.59,0.81,31,1.42,0.73,"Farmer perception survey","Europa","Agricultores",NA,"T1",0.113077144618971,0.0203217524743871,0
-18,"Nord A.","10.1002/ldr.3582",2020,"V2","Complexidade Biocultural","Slope assessment accuracy (farmer vs measured)",22,1.11,0.61,45,1.12,0.49,"Farmer perception survey","Europa","Agricultores",NA,"T1",-0.00896866998276038,0.0179809589226819,0
-20,"Sibanda M.","10.1186/s40066-025-00573-w",2025,"V2","Complexidade Biocultural","Ethnobotanical knowledge score (gender)",100,38.96,10.67,100,34.85,11.65,"Seed system assessment","Africa","Indigena",NA,"T1",0.111482341567801,0.00186754804965223,0
-20,"Sibanda M.","10.1186/s40066-025-00573-w",2025,"V3","Singularidade Territorial","Ethnobotanical knowledge score (age)",100,41.38,10.73,100,32.43,10.14,"Seed system assessment","Africa","Indigena",NA,"T1",0.243713751998171,0.00165003257084824,0
-20,"Sibanda M.","10.1186/s40066-025-00573-w",2025,"V4","Status de Documentacao","Ethnobotanical knowledge score (occupation)",58,37.64,11.44,52,32.98,11.62,"Seed system assessment","Africa","Indigena",NA,"T1",0.132165997585726,0.00397996979195552,0
-20,"Sibanda M.","10.1186/s40066-025-00573-w",2025,"V5","Vulnerabilidade Juridica","Ethnobotanical knowledge score (education)",123,39.94,10.59,8,21,5.24,"Seed system assessment","Africa","Indigena",NA,"T1",0.642855890264246,0.00835433810056234,0
-20,"Sibanda M.","10.1186/s40066-025-00573-w",2025,"V6","Organizacao Social","Ethnobotanical knowledge score (family type)",42,39.81,11.21,158,36.13,11.28,"Seed system assessment","Africa","Indigena",NA,"T1",0.0969945918526769,0.00250480868433435,0
-31,"Frascaroli, F; Bhagwat, S; Guarino, R; Chiarucci, ","10.1007/s13280-015-0738-5",2016,"V1","Erosao Intergeracional","Land-cover diversity (Shannon H') at SNS vs reference",30,0.74,0.274,30,0.45,0.3288,"Sacred grove conservation","Europa","Rural",NA,"T1",0.49740260343385,0.0223657950274599,0
-31,"Frascaroli, F; Bhagwat, S; Guarino, R; Chiarucci, ","10.1007/s13280-015-0738-5",2016,"V2","Complexidade Biocultural","Landscape heterogeneity (Shannon) at SNS vs reference",30,0.78,0.4384,30,0.86,0.4932,"Sacred grove conservation","Europa","Rural",NA,"T1",-0.0976384695639159,0.0214930185527132,0
-31,"Frascaroli, F; Bhagwat, S; Guarino, R; Chiarucci, ","10.1007/s13280-015-0738-5",2016,"V5","Vulnerabilidade Juridica","Large tree frequency at SNS vs reference",30,78,98.64,30,28,43.84,"Sacred grove conservation","Europa","Rural",NA,"T1",1.02450431651439,0.135023776516524,0
-31,"Frascaroli, F; Bhagwat, S; Guarino, R; Chiarucci, ","10.1007/s13280-015-0738-5",2016,"V6","Organizacao Social","Anthropogenic area proportion (%) at SNS vs reference",30,10.2,10.96,30,2.3,3.836,"Sacred grove conservation","Europa","Rural",NA,"T1",1.48947859735512,0.131207172501876,0
-45,"Ghanimi, R.; Ouhammou, A.; Babahmad, R.A.","10.4314/ejhs.v32i6.22",2022,"V2","Complexidade Biocultural","Intergenerational knowledge transfer indicator",100,41.38,10.73,100,32.43,10.14,"Ethnobotanical survey","America do Sul","Pastoralistas",NA,"T1",0.243713751998171,0.00165003257084824,0
-47,"Rodríguez-Cruz, L.A.; Álvarez-Berríos, N.; Niles, M.T.","10.1088/1748-9326/ac6004",2022,"V1","Erosao Intergeracional","Farm size (cuerdas, food security)",124,75.6,118.5,154,45.1,81.6,"Post-disaster food security","Caribe","Agricultores",NA,"T1",0.516574036676855,0.0410711887411567,0
-47,"Rodríguez-Cruz, L.A.; Álvarez-Berríos, N.; Niles, M.T.","10.1088/1748-9326/ac6004",2022,"V2","Complexidade Biocultural","Farmer age (food security)",124,52.5,13.5,154,56.4,13,"Post-disaster food security","Caribe","Agricultores",NA,"T1",-0.0716559889064352,0.000878236564474056,0
-47,"Rodríguez-Cruz, L.A.; Álvarez-Berríos, N.; Niles, M.T.","10.1088/1748-9326/ac6004",2022,"V3","Singularidade Territorial","Social network count (food security status)",124,2.6,2.2,154,2.1,2.1,"Post-disaster food security","Caribe","Agricultores",NA,"T1",0.213574100298059,0.0122675091657722,0
-47,"Rodríguez-Cruz, L.A.; Álvarez-Berríos, N.; Niles, M.T.","10.1088/1748-9326/ac6004",2022,"V4","Status de Documentacao","Farm production count (food security status)",124,3.4,2.5,154,3.3,2.7,"Post-disaster food security","Caribe","Agricultores",NA,"T1",0.0298529631496811,0.00870703341734135,0
-47,"Rodríguez-Cruz, L.A.; Álvarez-Berríos, N.; Niles, M.T.","10.1088/1748-9326/ac6004",2022,"V5","Vulnerabilidade Juridica","Landslide exposure (km²)",124,9.1,11.6,154,12.2,16.4,"Post-disaster food security","Caribe","Agricultores",NA,"T1",-0.293161538216406,0.0248382632822061,0
-47,"Rodríguez-Cruz, L.A.; Álvarez-Berríos, N.; Niles, M.T.","10.1088/1748-9326/ac6004",2022,"V6","Organizacao Social","Distance from hurricane eye (km)",124,25.3,15.1,154,18.9,12.3,"Post-disaster food security","Caribe","Agricultores",NA,"T1",0.291642473667878,0.00562291613796783,0
-2,"Calvet-Mir L.","10.1080/08941920.2015.1094711",2016,"V1","Erosao Intergeracional","Agrobiodiversity index / species richness",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-2,"Calvet-Mir L.","10.1080/08941920.2015.1094711",2016,"V2","Complexidade Biocultural","Traditional knowledge score",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-2,"Calvet-Mir L.","10.1080/08941920.2015.1094711",2016,"V3","Singularidade Territorial","Cultural complexity / social network indicator",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-2,"Calvet-Mir L.","10.1080/08941920.2015.1094711",2016,"V4","Status de Documentacao","Food security / dietary diversity indicator",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.182322,1.15533,0.5
-2,"Calvet-Mir L.","10.1080/08941920.2015.1094711",2016,"V5","Vulnerabilidade Juridica","Documentation status / knowledge formalization",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-2,"Calvet-Mir L.","10.1080/08941920.2015.1094711",2016,"V6","Organizacao Social","External pressure / land use change indicator",30,NA,NA,30,NA,NA,"","","",NA,"T4",0,6.168503,0.5
-3,"Bastos J.G.","10.3389/ffgc.2022.696757",2022,"V1","Erosao Intergeracional","Agrobiodiversidade",30,NA,NA,30,NA,NA,"","","",NA,"T3",0.182322,0.691658,0.35
-3,"Bastos J.G.","10.3389/ffgc.2022.696757",2022,"V2","Complexidade Biocultural","Transmissao Intergeracional",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.182322,1.15533,0.5
-3,"Bastos J.G.","10.3389/ffgc.2022.696757",2022,"V3","Singularidade Territorial","Complexidade Cultural",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.182322,1.15533,0.5
-3,"Bastos J.G.","10.3389/ffgc.2022.696757",2022,"V4","Status de Documentacao","Seguranca Alimentar",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-3,"Bastos J.G.","10.3389/ffgc.2022.696757",2022,"V5","Vulnerabilidade Juridica","Status de Documentacao",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.223144,0.307403,0.35
-3,"Bastos J.G.","10.3389/ffgc.2022.696757",2022,"V6","Organizacao Social","Governanca/Resiliencia",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.182322,1.15533,0.5
-4,"Romero-Silva M.J.","10.1186/s40529-025-00488-6",2026,"V1","Erosao Intergeracional","Agrobiodiversidade",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.223144,0.307403,0.35
-4,"Romero-Silva M.J.","10.1186/s40529-025-00488-6",2026,"V2","Complexidade Biocultural","Transmissao Intergeracional",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.182322,1.15533,0.5
-4,"Romero-Silva M.J.","10.1186/s40529-025-00488-6",2026,"V3","Singularidade Territorial","Complexidade Cultural",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-4,"Romero-Silva M.J.","10.1186/s40529-025-00488-6",2026,"V4","Status de Documentacao","Seguranca Alimentar",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-4,"Romero-Silva M.J.","10.1186/s40529-025-00488-6",2026,"V5","Vulnerabilidade Juridica","Status de Documentacao",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.223144,0.307403,0.35
-4,"Romero-Silva M.J.","10.1186/s40529-025-00488-6",2026,"V6","Organizacao Social","Governanca/Resiliencia",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.182322,1.15533,0.5
-5,"de Sousa T.B.","10.18472/SustDeb.v15n3.2024.55679",2024,"V1","Erosao Intergeracional","Agrobiodiversidade",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.223144,0.307403,0.35
-5,"de Sousa T.B.","10.18472/SustDeb.v15n3.2024.55679",2024,"V2","Complexidade Biocultural","Transmissao Intergeracional",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.182322,1.15533,0.5
-5,"de Sousa T.B.","10.18472/SustDeb.v15n3.2024.55679",2024,"V3","Singularidade Territorial","Complexidade Cultural",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-5,"de Sousa T.B.","10.18472/SustDeb.v15n3.2024.55679",2024,"V4","Status de Documentacao","Seguranca Alimentar",30,NA,NA,30,NA,NA,"","","",NA,"T3",0.182322,0.691658,0.35
-5,"de Sousa T.B.","10.18472/SustDeb.v15n3.2024.55679",2024,"V5","Vulnerabilidade Juridica","Status de Documentacao",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.223144,0.307403,0.35
-5,"de Sousa T.B.","10.18472/SustDeb.v15n3.2024.55679",2024,"V6","Organizacao Social","Governanca/Resiliencia",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.182322,1.15533,0.5
-6,"Sarmiento F.O.","10.3390/geographies3010002",2023,"V1","Erosao Intergeracional","Agrobiodiversidade",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.182322,1.15533,0.5
-6,"Sarmiento F.O.","10.3390/geographies3010002",2023,"V2","Complexidade Biocultural","Transmissao Intergeracional",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.182322,1.15533,0.5
-6,"Sarmiento F.O.","10.3390/geographies3010002",2023,"V3","Singularidade Territorial","Complexidade Cultural",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-6,"Sarmiento F.O.","10.3390/geographies3010002",2023,"V4","Status de Documentacao","Seguranca Alimentar",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-6,"Sarmiento F.O.","10.3390/geographies3010002",2023,"V5","Vulnerabilidade Juridica","Status de Documentacao",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.223144,0.307403,0.35
-6,"Sarmiento F.O.","10.3390/geographies3010002",2023,"V6","Organizacao Social","Governanca/Resiliencia",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.182322,1.15533,0.5
-7,"Aldasoro Maya E.M.","10.3389/fsufs.2022.1081400",2023,"V1","Erosao Intergeracional","Agrobiodiversity index / species richness",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.223144,0.307403,0.35
-7,"Aldasoro Maya E.M.","10.3389/fsufs.2022.1081400",2023,"V2","Complexidade Biocultural","Intergenerational knowledge transfer indicator",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.223144,0.307403,0.35
-7,"Aldasoro Maya E.M.","10.3389/fsufs.2022.1081400",2023,"V3","Singularidade Territorial","Cultural complexity / social network indicator",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.223144,0.307403,0.35
-7,"Aldasoro Maya E.M.","10.3389/fsufs.2022.1081400",2023,"V4","Status de Documentacao","Food security / dietary diversity indicator",30,NA,NA,30,NA,NA,"","","",NA,"T3",0.182322,0.691658,0.35
-7,"Aldasoro Maya E.M.","10.3389/fsufs.2022.1081400",2023,"V5","Vulnerabilidade Juridica","Documentation status / knowledge formalization",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.223144,0.307403,0.35
-7,"Aldasoro Maya E.M.","10.3389/fsufs.2022.1081400",2023,"V6","Organizacao Social","External pressure / land use change indicator",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.223144,0.307403,0.35
-8,"Franco-Moraes J.","10.5751/ES-13711-280137",2023,"V1","Erosao Intergeracional","Agrobiodiversidade",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.223144,0.307403,0.35
-8,"Franco-Moraes J.","10.5751/ES-13711-280137",2023,"V2","Complexidade Biocultural","Transmissao Intergeracional",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-8,"Franco-Moraes J.","10.5751/ES-13711-280137",2023,"V3","Singularidade Territorial","Complexidade Cultural",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-8,"Franco-Moraes J.","10.5751/ES-13711-280137",2023,"V4","Status de Documentacao","Seguranca Alimentar",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-8,"Franco-Moraes J.","10.5751/ES-13711-280137",2023,"V5","Vulnerabilidade Juridica","Status de Documentacao",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.223144,0.307403,0.35
-8,"Franco-Moraes J.","10.5751/ES-13711-280137",2023,"V6","Organizacao Social","Governanca/Resiliencia",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-9,"Latorre E.C.","10.15451/ec2018-03-07.04-1-34",2018,"V1","Erosao Intergeracional","Agrobiodiversidade",30,NA,NA,30,NA,NA,"","","",NA,"T3",0.182322,0.691658,0.35
-9,"Latorre E.C.","10.15451/ec2018-03-07.04-1-34",2018,"V2","Complexidade Biocultural","Transmissao Intergeracional",30,NA,NA,30,NA,NA,"","","",NA,"T3",0.182322,0.691658,0.35
-9,"Latorre E.C.","10.15451/ec2018-03-07.04-1-34",2018,"V3","Singularidade Territorial","Complexidade Cultural",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-9,"Latorre E.C.","10.15451/ec2018-03-07.04-1-34",2018,"V4","Status de Documentacao","Seguranca Alimentar",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-9,"Latorre E.C.","10.15451/ec2018-03-07.04-1-34",2018,"V5","Vulnerabilidade Juridica","Status de Documentacao",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.223144,0.307403,0.35
-9,"Latorre E.C.","10.15451/ec2018-03-07.04-1-34",2018,"V6","Organizacao Social","Governanca/Resiliencia",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.182322,1.15533,0.5
-10,"Mobarak C.","10.1659/mrd.2024.00024",2025,"V1","Erosao Intergeracional","Agrobiodiversity index / species richness",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-10,"Mobarak C.","10.1659/mrd.2024.00024",2025,"V2","Complexidade Biocultural","Intergenerational knowledge transfer indicator",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.182322,1.15533,0.5
-10,"Mobarak C.","10.1659/mrd.2024.00024",2025,"V3","Singularidade Territorial","Cultural complexity / social network indicator",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-10,"Mobarak C.","10.1659/mrd.2024.00024",2025,"V4","Status de Documentacao","Agricultural production indicator",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-10,"Mobarak C.","10.1659/mrd.2024.00024",2025,"V5","Vulnerabilidade Juridica","Documentation status / knowledge formalization",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-10,"Mobarak C.","10.1659/mrd.2024.00024",2025,"V6","Organizacao Social","External pressure / land use change indicator",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.182322,1.15533,0.5
-11,"Andreotti F.","10.1007/s13593-023-00891-y",2023,"V1","Erosao Intergeracional","Agrobiodiversidade",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.223144,0.307403,0.35
-11,"Andreotti F.","10.1007/s13593-023-00891-y",2023,"V2","Complexidade Biocultural","Transmissao Intergeracional",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.182322,1.15533,0.5
-11,"Andreotti F.","10.1007/s13593-023-00891-y",2023,"V3","Singularidade Territorial","Complexidade Cultural",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-11,"Andreotti F.","10.1007/s13593-023-00891-y",2023,"V4","Status de Documentacao","Seguranca Alimentar",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.182322,1.15533,0.5
-11,"Andreotti F.","10.1007/s13593-023-00891-y",2023,"V5","Vulnerabilidade Juridica","Status de Documentacao",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.223144,0.307403,0.35
-11,"Andreotti F.","10.1007/s13593-023-00891-y",2023,"V6","Organizacao Social","Governanca/Resiliencia",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-12,"Suwardi A.B.","10.1016/j.ecofro.2025.10.014",2025,"V1","Erosao Intergeracional","Agrobiodiversidade",30,NA,NA,30,NA,NA,"","","",NA,"T2b",-0.369843,0.039027,0.25
-12,"Suwardi A.B.","10.1016/j.ecofro.2025.10.014",2025,"V2","Complexidade Biocultural","Transmissao Intergeracional",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.182322,1.15533,0.5
-12,"Suwardi A.B.","10.1016/j.ecofro.2025.10.014",2025,"V3","Singularidade Territorial","Complexidade Cultural",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-12,"Suwardi A.B.","10.1016/j.ecofro.2025.10.014",2025,"V4","Status de Documentacao","Seguranca Alimentar",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-12,"Suwardi A.B.","10.1016/j.ecofro.2025.10.014",2025,"V5","Vulnerabilidade Juridica","Status de Documentacao",30,NA,NA,30,NA,NA,"","","",NA,"T2b",-0.680428,0.132098,0.25
-12,"Suwardi A.B.","10.1016/j.ecofro.2025.10.014",2025,"V6","Organizacao Social","Governanca/Resiliencia",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.182322,1.15533,0.5
-13,"Plieninger T.","10.1007/s11625-022-01155-6",2023,"V1","Erosao Intergeracional","Agrobiodiversity index / species richness",30,NA,NA,30,NA,NA,"","","",NA,"T3",0,3.692877,0.35
-13,"Plieninger T.","10.1007/s11625-022-01155-6",2023,"V2","Complexidade Biocultural","Intergenerational knowledge transfer indicator",30,NA,NA,30,NA,NA,"","","",NA,"T3",0.182322,0.691658,0.35
-13,"Plieninger T.","10.1007/s11625-022-01155-6",2023,"V3","Singularidade Territorial","Cultural complexity / social network indicator",30,NA,NA,30,NA,NA,"","","",NA,"T3",0.182322,0.691658,0.35
-13,"Plieninger T.","10.1007/s11625-022-01155-6",2023,"V4","Status de Documentacao","Food security / dietary diversity indicator",30,NA,NA,30,NA,NA,"","","",NA,"T3",0,3.692877,0.35
-13,"Plieninger T.","10.1007/s11625-022-01155-6",2023,"V5","Vulnerabilidade Juridica","Documentation status / knowledge formalization",30,NA,NA,30,NA,NA,"","","",NA,"T3",0,3.692877,0.35
-13,"Plieninger T.","10.1007/s11625-022-01155-6",2023,"V6","Organizacao Social","External pressure / land use change indicator",30,NA,NA,30,NA,NA,"","","",NA,"T3",0.182322,0.691658,0.35
-14,"Oloriz C.","10.3390/SU12187320",2020,"V1","Erosao Intergeracional","Agrobiodiversity index / species richness",30,NA,NA,30,NA,NA,"","","",NA,"T3",0,3.692877,0.35
-14,"Oloriz C.","10.3390/SU12187320",2020,"V2","Complexidade Biocultural","Intergenerational knowledge transfer indicator",30,NA,NA,30,NA,NA,"","","",NA,"T3",0.182322,0.691658,0.35
-14,"Oloriz C.","10.3390/SU12187320",2020,"V3","Singularidade Territorial","Cultural complexity / social network indicator",30,NA,NA,30,NA,NA,"","","",NA,"T3",0.182322,0.691658,0.35
-14,"Oloriz C.","10.3390/SU12187320",2020,"V4","Status de Documentacao","Food security / dietary diversity indicator",30,NA,NA,30,NA,NA,"","","",NA,"T3",0.182322,0.691658,0.35
-14,"Oloriz C.","10.3390/SU12187320",2020,"V5","Vulnerabilidade Juridica","Documentation status / knowledge formalization",30,NA,NA,30,NA,NA,"","","",NA,"T3",0.182322,0.691658,0.35
-14,"Oloriz C.","10.3390/SU12187320",2020,"V6","Organizacao Social","External pressure / land use change indicator",30,NA,NA,30,NA,NA,"","","",NA,"T3",0.470004,1.229614,0.35
-15,"Tran T.A.","10.1007/s13280-025-02172-2",2025,"V1","Erosao Intergeracional","Agrobiodiversidade",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.182322,1.15533,0.5
-15,"Tran T.A.","10.1007/s13280-025-02172-2",2025,"V2","Complexidade Biocultural","Transmissao Intergeracional",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.470004,2.053921,0.5
-15,"Tran T.A.","10.1007/s13280-025-02172-2",2025,"V3","Singularidade Territorial","Complexidade Cultural",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.182322,1.15533,0.5
-15,"Tran T.A.","10.1007/s13280-025-02172-2",2025,"V4","Status de Documentacao","Seguranca Alimentar",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.182322,1.15533,0.5
-15,"Tran T.A.","10.1007/s13280-025-02172-2",2025,"V5","Vulnerabilidade Juridica","Status de Documentacao",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.223144,0.307403,0.35
-15,"Tran T.A.","10.1007/s13280-025-02172-2",2025,"V6","Organizacao Social","Governanca/Resiliencia",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.470004,2.053921,0.5
-16,"Saiba Y.","10.13057/biodiv/d240861",2023,"V1","Erosao Intergeracional","Agrobiodiversidade",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-16,"Saiba Y.","10.13057/biodiv/d240861",2023,"V2","Complexidade Biocultural","Transmissao Intergeracional",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.182322,1.15533,0.5
-16,"Saiba Y.","10.13057/biodiv/d240861",2023,"V3","Singularidade Territorial","Complexidade Cultural",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-16,"Saiba Y.","10.13057/biodiv/d240861",2023,"V4","Status de Documentacao","Seguranca Alimentar",30,NA,NA,30,NA,NA,"","","",NA,"T4",0,6.168503,0.5
-16,"Saiba Y.","10.13057/biodiv/d240861",2023,"V5","Vulnerabilidade Juridica","Status de Documentacao",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-16,"Saiba Y.","10.13057/biodiv/d240861",2023,"V6","Organizacao Social","Governanca/Resiliencia",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.182322,1.15533,0.5
-17,"Vázquez-Delfin P.","10.1016/j.heliyon.2022.e09805",2022,"V1","Erosao Intergeracional","Agrobiodiversity index / species richness",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-17,"Vázquez-Delfin P.","10.1016/j.heliyon.2022.e09805",2022,"V2","Complexidade Biocultural","Intergenerational knowledge transfer indicator",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.182322,1.15533,0.5
-17,"Vázquez-Delfin P.","10.1016/j.heliyon.2022.e09805",2022,"V3","Singularidade Territorial","Cultural complexity / social network indicator",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-17,"Vázquez-Delfin P.","10.1016/j.heliyon.2022.e09805",2022,"V4","Status de Documentacao","Livelihood diversity index",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.182322,1.15533,0.5
-17,"Vázquez-Delfin P.","10.1016/j.heliyon.2022.e09805",2022,"V5","Vulnerabilidade Juridica","Documentation status / knowledge formalization",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-17,"Vázquez-Delfin P.","10.1016/j.heliyon.2022.e09805",2022,"V6","Organizacao Social","External pressure / land use change indicator",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.470004,2.053921,0.5
-18,"Nord A.","10.1002/ldr.3582",2020,"V3","Singularidade Territorial","Farmer knowledge network (cross-site)",30,NA,NA,30,NA,NA,"","","",NA,"T2b",0,0.070833,0.25
-18,"Nord A.","10.1002/ldr.3582",2020,"V4","Status de Documentacao","Agricultural productivity by soil management",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.223144,0.307403,0.35
-18,"Nord A.","10.1002/ldr.3582",2020,"V5","Vulnerabilidade Juridica","Soil degradation documentation accuracy",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.916291,0.076851,0.35
-18,"Nord A.","10.1002/ldr.3582",2020,"V6","Organizacao Social","Soil fertility score by farmer perception group",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.223144,0.307403,0.35
-20,"Sibanda M.","10.1186/s40066-025-00573-w",2025,"V1","Erosao Intergeracional","Plant species recognized (seed custodianship)",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.916291,0.076851,0.35
-21,"Tabe-Ojong M.P.","10.1002/ldr.4569",2023,"V1","Erosao Intergeracional","Agrobiodiversity index / species richness",30,NA,NA,30,NA,NA,"","","",NA,"T2a",-0.486026,0.038405,0.15
-21,"Tabe-Ojong M.P.","10.1002/ldr.4569",2023,"V2","Complexidade Biocultural","Intergenerational knowledge transfer indicator",30,NA,NA,30,NA,NA,"","","",NA,"T2a",-0.222363,0.008039,0.15
-21,"Tabe-Ojong M.P.","10.1002/ldr.4569",2023,"V3","Singularidade Territorial","Cultural complexity / social network indicator",30,NA,NA,30,NA,NA,"","","",NA,"T2a",0,0.068167,0.15
-21,"Tabe-Ojong M.P.","10.1002/ldr.4569",2023,"V4","Status de Documentacao","Food security / dietary diversity indicator",30,NA,NA,30,NA,NA,"","","",NA,"T2a",-0.544239,0.048156,0.15
-21,"Tabe-Ojong M.P.","10.1002/ldr.4569",2023,"V5","Vulnerabilidade Juridica","Documentation status / knowledge formalization",30,NA,NA,30,NA,NA,"","","",NA,"T2a",-0.894178,0.129993,0.15
-21,"Tabe-Ojong M.P.","10.1002/ldr.4569",2023,"V6","Organizacao Social","External pressure / land use change indicator",30,NA,NA,30,NA,NA,"","","",NA,"T2a",-0.432896,0.030468,0.15
-22,"Aniah P.","10.1016/j.heliyon.2019.e01492",2019,"V1","Erosao Intergeracional","Agrobiodiversity index / species richness",30,NA,NA,30,NA,NA,"","","",NA,"T2b",0.369843,0.039027,0.25
-22,"Aniah P.","10.1016/j.heliyon.2019.e01492",2019,"V2","Complexidade Biocultural","Intergenerational knowledge transfer indicator",30,NA,NA,30,NA,NA,"","","",NA,"T2b",0.169208,0.008169,0.25
-22,"Aniah P.","10.1016/j.heliyon.2019.e01492",2019,"V3","Singularidade Territorial","Cultural complexity / social network indicator",30,NA,NA,30,NA,NA,"","","",NA,"T2b",0.506172,0.073102,0.25
-22,"Aniah P.","10.1016/j.heliyon.2019.e01492",2019,"V4","Status de Documentacao","Livelihood diversity index",30,NA,NA,30,NA,NA,"","","",NA,"T2b",0.414141,0.048936,0.25
-22,"Aniah P.","10.1016/j.heliyon.2019.e01492",2019,"V5","Vulnerabilidade Juridica","Documentation status / knowledge formalization",30,NA,NA,30,NA,NA,"","","",NA,"T2b",0.680428,0.132098,0.25
-22,"Aniah P.","10.1016/j.heliyon.2019.e01492",2019,"V6","Organizacao Social","Climate change perception indicator",30,NA,NA,30,NA,NA,"","","",NA,"T2b",0.329413,0.030961,0.25
-25,"Alemayehu A.","10.1016/j.envdev.2023.100908",2023,"V1","Erosao Intergeracional","Agrobiodiversidade",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.182322,1.15533,0.5
-25,"Alemayehu A.","10.1016/j.envdev.2023.100908",2023,"V2","Complexidade Biocultural","Transmissao Intergeracional",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.470004,2.053921,0.5
-25,"Alemayehu A.","10.1016/j.envdev.2023.100908",2023,"V3","Singularidade Territorial","Complexidade Cultural",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-25,"Alemayehu A.","10.1016/j.envdev.2023.100908",2023,"V4","Status de Documentacao","Seguranca Alimentar",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.182322,1.15533,0.5
-25,"Alemayehu A.","10.1016/j.envdev.2023.100908",2023,"V5","Vulnerabilidade Juridica","Status de Documentacao",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-25,"Alemayehu A.","10.1016/j.envdev.2023.100908",2023,"V6","Organizacao Social","Governanca/Resiliencia",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.182322,1.15533,0.5
-27,"La Rosa A.","10.1186/s13002-021-00470-z",2021,"V1","Erosao Intergeracional","Species richness / ethnobotanical indices",30,NA,NA,30,NA,NA,"","","",NA,"T3",0.182322,0.691658,0.35
-27,"La Rosa A.","10.1186/s13002-021-00470-z",2021,"V2","Complexidade Biocultural","Intergenerational knowledge transfer indicator",30,NA,NA,30,NA,NA,"","","",NA,"T3",0.470004,1.229614,0.35
-27,"La Rosa A.","10.1186/s13002-021-00470-z",2021,"V3","Singularidade Territorial","Cultural complexity / social network indicator",30,NA,NA,30,NA,NA,"","","",NA,"T3",0.182322,0.691658,0.35
-27,"La Rosa A.","10.1186/s13002-021-00470-z",2021,"V4","Status de Documentacao","Food security / dietary diversity indicator",30,NA,NA,30,NA,NA,"","","",NA,"T3",0.182322,0.691658,0.35
-27,"La Rosa A.","10.1186/s13002-021-00470-z",2021,"V5","Vulnerabilidade Juridica","Documentation status / knowledge formalization",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.223144,0.307403,0.35
-27,"La Rosa A.","10.1186/s13002-021-00470-z",2021,"V6","Organizacao Social","External pressure / land use change indicator",30,NA,NA,30,NA,NA,"","","",NA,"T3",0.182322,0.691658,0.35
-29,"Fernández-Llamazares, A; Cabeza, M","10.1111/conl.12398",2018,"V1","Erosao Intergeracional","Agrobiodiversity index / species richness",30,NA,NA,30,NA,NA,"","","",NA,"T4",0,6.168503,0.5
-29,"Fernández-Llamazares, A; Cabeza, M","10.1111/conl.12398",2018,"V2","Complexidade Biocultural","Traditional knowledge score",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.916291,0.12837,0.5
-29,"Fernández-Llamazares, A; Cabeza, M","10.1111/conl.12398",2018,"V3","Singularidade Territorial","Cultural complexity / social network indicator",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-29,"Fernández-Llamazares, A; Cabeza, M","10.1111/conl.12398",2018,"V4","Status de Documentacao","Food security / dietary diversity indicator",30,NA,NA,30,NA,NA,"","","",NA,"T4",0,6.168503,0.5
-29,"Fernández-Llamazares, A; Cabeza, M","10.1111/conl.12398",2018,"V5","Vulnerabilidade Juridica","Conservation status indicator",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-29,"Fernández-Llamazares, A; Cabeza, M","10.1111/conl.12398",2018,"V6","Organizacao Social","External pressure / land use change indicator",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-30,"Gerner, IR; Zerbe, S; Säumel, I","10.1177/02780771251349282",2025,"V1","Erosao Intergeracional","Agrobiodiversity index / species richness",26,NA,NA,26,NA,NA,"","","",NA,"T3",-0.223144,0.309246,0.35
-30,"Gerner, IR; Zerbe, S; Säumel, I","10.1177/02780771251349282",2025,"V2","Complexidade Biocultural","Intergenerational knowledge transfer indicator",26,NA,NA,26,NA,NA,"","","",NA,"T3",0,3.692877,0.35
-30,"Gerner, IR; Zerbe, S; Säumel, I","10.1177/02780771251349282",2025,"V3","Singularidade Territorial","Cultural complexity / social network indicator",26,NA,NA,26,NA,NA,"","","",NA,"T3",-0.223144,0.309246,0.35
-30,"Gerner, IR; Zerbe, S; Säumel, I","10.1177/02780771251349282",2025,"V4","Status de Documentacao","Food security / dietary diversity indicator",26,NA,NA,26,NA,NA,"","","",NA,"T3",0,3.692877,0.35
-30,"Gerner, IR; Zerbe, S; Säumel, I","10.1177/02780771251349282",2025,"V5","Vulnerabilidade Juridica","Documentation status / knowledge formalization",26,NA,NA,26,NA,NA,"","","",NA,"T3",-0.223144,0.309246,0.35
-30,"Gerner, IR; Zerbe, S; Säumel, I","10.1177/02780771251349282",2025,"V6","Organizacao Social","External pressure / land use change indicator",26,NA,NA,26,NA,NA,"","","",NA,"T3",0,3.692877,0.35
-31,"Frascaroli, F; Bhagwat, S; Guarino, R; Chiarucci, ","10.1007/s13280-015-0738-5",2016,"V3","Singularidade Territorial","Sacred grove cultural significance",30,NA,NA,30,NA,NA,"","","",NA,"T2a",-0.506172,0.07035,0.15
-31,"Frascaroli, F; Bhagwat, S; Guarino, R; Chiarucci, ","10.1007/s13280-015-0738-5",2016,"V4","Status de Documentacao","Ecosystem services from sacred groves",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-32,"Edo, K; Kidane, L; Beyene, T","10.4314/mejs.v16i1.6",2024,"V1","Erosao Intergeracional","Species diversity homegarden",65,NA,NA,65,NA,NA,"","","",NA,"T2a",-0.916291,0.073061,0.3
-32,"Edo, K; Kidane, L; Beyene, T","10.4314/mejs.v16i1.6",2024,"V2","Complexidade Biocultural","Intergenerational knowledge transfer indicator",65,NA,NA,65,NA,NA,"","","",NA,"T2a",-0.223144,0.292243,0.3
-32,"Edo, K; Kidane, L; Beyene, T","10.4314/mejs.v16i1.6",2024,"V3","Singularidade Territorial","Cultural complexity / social network indicator",65,NA,NA,65,NA,NA,"","","",NA,"T2a",-0.223144,0.292243,0.3
-32,"Edo, K; Kidane, L; Beyene, T","10.4314/mejs.v16i1.6",2024,"V4","Status de Documentacao","Food security / dietary diversity indicator",65,NA,NA,65,NA,NA,"","","",NA,"T2a",-0.916291,0.073061,0.3
-32,"Edo, K; Kidane, L; Beyene, T","10.4314/mejs.v16i1.6",2024,"V5","Vulnerabilidade Juridica","Documentation status / knowledge formalization",65,NA,NA,65,NA,NA,"","","",NA,"T2a",-0.223144,0.292243,0.3
-32,"Edo, K; Kidane, L; Beyene, T","10.4314/mejs.v16i1.6",2024,"V6","Organizacao Social","External pressure / land use change indicator",65,NA,NA,65,NA,NA,"","","",NA,"T2a",0.182322,0.657546,0.3
-35,"Mondal, MSH","10.2298/IJGI240802003M",2025,"V1","Erosao Intergeracional","Agrobiodiversidade",377,NA,NA,68,NA,NA,"","","",NA,"T4",0,6.168503,0.5
-35,"Mondal, MSH","10.2298/IJGI240802003M",2025,"V2","Complexidade Biocultural","Transmissao Intergeracional",377,NA,NA,68,NA,NA,"","","",NA,"T4",0.182322,1.116398,0.5
-35,"Mondal, MSH","10.2298/IJGI240802003M",2025,"V3","Singularidade Territorial","Complexidade Cultural",377,NA,NA,68,NA,NA,"","","",NA,"T4",-0.223144,0.496177,0.5
-35,"Mondal, MSH","10.2298/IJGI240802003M",2025,"V4","Status de Documentacao","Seguranca Alimentar",377,NA,NA,68,NA,NA,"","","",NA,"T4",0.182322,1.116398,0.5
-35,"Mondal, MSH","10.2298/IJGI240802003M",2025,"V5","Vulnerabilidade Juridica","Status de Documentacao",377,NA,NA,68,NA,NA,"","","",NA,"T2a",-0.582821,0.032463,0.15
-35,"Mondal, MSH","10.2298/IJGI240802003M",2025,"V6","Organizacao Social","Governanca/Resiliencia",377,NA,NA,68,NA,NA,"","","",NA,"T4",0.182322,1.116398,0.5
-38,"García, RM; Parra-Quijano, M; Martínez-Fernández, ","10.1002/csc2.20620",2021,"V1","Erosao Intergeracional","Agrobiodiversity index / species richness",30,NA,NA,30,NA,NA,"","","",NA,"T2b",-0.369843,0.039027,0.25
-38,"García, RM; Parra-Quijano, M; Martínez-Fernández, ","10.1002/csc2.20620",2021,"V2","Complexidade Biocultural","Intergenerational knowledge transfer indicator",30,NA,NA,30,NA,NA,"","","",NA,"T2b",0,0.007916,0.25
-38,"García, RM; Parra-Quijano, M; Martínez-Fernández, ","10.1002/csc2.20620",2021,"V3","Singularidade Territorial","Cultural complexity / social network indicator",30,NA,NA,30,NA,NA,"","","",NA,"T2b",0,0.070833,0.25
-38,"García, RM; Parra-Quijano, M; Martínez-Fernández, ","10.1002/csc2.20620",2021,"V4","Status de Documentacao","Food security / dietary diversity indicator",30,NA,NA,30,NA,NA,"","","",NA,"T2b",0,0.047417,0.25
-38,"García, RM; Parra-Quijano, M; Martínez-Fernández, ","10.1002/csc2.20620",2021,"V5","Vulnerabilidade Juridica","Documentation status / knowledge formalization",30,NA,NA,30,NA,NA,"","","",NA,"T2b",-0.680428,0.132098,0.25
-38,"García, RM; Parra-Quijano, M; Martínez-Fernández, ","10.1002/csc2.20620",2021,"V6","Organizacao Social","External pressure / land use change indicator",30,NA,NA,30,NA,NA,"","","",NA,"T2b",-0.329413,0.030961,0.25
-41,"Mugi-Ngenga, EW; Mucheru-Muna, MW; Mugwe, JN; Nget","10.1016/j.jrurstud.2015.11.004",2016,"V1","Erosao Intergeracional","Agrobiodiversity index / species richness",30,NA,NA,30,NA,NA,"","","",NA,"T2b",0.369843,0.039027,0.25
-41,"Mugi-Ngenga, EW; Mucheru-Muna, MW; Mugwe, JN; Nget","10.1016/j.jrurstud.2015.11.004",2016,"V2","Complexidade Biocultural","Intergenerational knowledge transfer indicator",30,NA,NA,30,NA,NA,"","","",NA,"T2b",0.169208,0.008169,0.25
-41,"Mugi-Ngenga, EW; Mucheru-Muna, MW; Mugwe, JN; Nget","10.1016/j.jrurstud.2015.11.004",2016,"V3","Singularidade Territorial","Cultural complexity / social network indicator",30,NA,NA,30,NA,NA,"","","",NA,"T2b",0,0.070833,0.25
-41,"Mugi-Ngenga, EW; Mucheru-Muna, MW; Mugwe, JN; Nget","10.1016/j.jrurstud.2015.11.004",2016,"V4","Status de Documentacao","Food security / dietary diversity indicator",30,NA,NA,30,NA,NA,"","","",NA,"T2b",0.414141,0.048936,0.25
-41,"Mugi-Ngenga, EW; Mucheru-Muna, MW; Mugwe, JN; Nget","10.1016/j.jrurstud.2015.11.004",2016,"V5","Vulnerabilidade Juridica","Documentation status / knowledge formalization",30,NA,NA,30,NA,NA,"","","",NA,"T2b",-0.680428,0.132098,0.25
-41,"Mugi-Ngenga, EW; Mucheru-Muna, MW; Mugwe, JN; Nget","10.1016/j.jrurstud.2015.11.004",2016,"V6","Organizacao Social","Climate change perception indicator",30,NA,NA,30,NA,NA,"","","",NA,"T2b",0.329413,0.030961,0.25
-43,"Aswani, S.; Ferse, S.C.A.; Stäbler, M.","10.1016/j.ecolind.2020.106865",2020,"V1","Erosao Intergeracional","Taxonomic distinctness index (ITD)",30,NA,NA,30,NA,NA,"","","",NA,"T2a",0.620826,0.039677,0.15
-43,"Aswani, S.; Ferse, S.C.A.; Stäbler, M.","10.1016/j.ecolind.2020.106865",2020,"V2","Complexidade Biocultural","Intergenerational knowledge transfer indicator",30,NA,NA,30,NA,NA,"","","",NA,"T2a",0.284036,0.008305,0.15
-43,"Aswani, S.; Ferse, S.C.A.; Stäbler, M.","10.1016/j.ecolind.2020.106865",2020,"V3","Singularidade Territorial","Cultural complexity / social network indicator",30,NA,NA,30,NA,NA,"","","",NA,"T2a",0.849671,0.074318,0.15
-43,"Aswani, S.; Ferse, S.C.A.; Stäbler, M.","10.1016/j.ecolind.2020.106865",2020,"V4","Status de Documentacao","Food security / dietary diversity indicator",30,NA,NA,30,NA,NA,"","","",NA,"T2a",0.695185,0.04975,0.15
-43,"Aswani, S.; Ferse, S.C.A.; Stäbler, M.","10.1016/j.ecolind.2020.106865",2020,"V5","Vulnerabilidade Juridica","Documentation status / knowledge formalization",30,NA,NA,30,NA,NA,"","","",NA,"T2a",-1.14218,0.134296,0.15
-43,"Aswani, S.; Ferse, S.C.A.; Stäbler, M.","10.1016/j.ecolind.2020.106865",2020,"V6","Organizacao Social","External pressure / land use change indicator",30,NA,NA,30,NA,NA,"","","",NA,"T2a",0.55296,0.031476,0.15
-44,"Bussmann, R.W.; Paniagua-Zambrana, N.Y.","10.1007/s12231-018-9401-y",2018,"V1","Erosao Intergeracional","Agrobiodiversity index / species richness",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.223144,0.307403,0.35
-44,"Bussmann, R.W.; Paniagua-Zambrana, N.Y.","10.1007/s12231-018-9401-y",2018,"V2","Complexidade Biocultural","Intergenerational knowledge transfer indicator",30,NA,NA,30,NA,NA,"","","",NA,"T3",0,3.692877,0.35
-44,"Bussmann, R.W.; Paniagua-Zambrana, N.Y.","10.1007/s12231-018-9401-y",2018,"V3","Singularidade Territorial","Cultural complexity / social network indicator",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.223144,0.307403,0.35
-44,"Bussmann, R.W.; Paniagua-Zambrana, N.Y.","10.1007/s12231-018-9401-y",2018,"V4","Status de Documentacao","Food security / dietary diversity indicator",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.223144,0.307403,0.35
-44,"Bussmann, R.W.; Paniagua-Zambrana, N.Y.","10.1007/s12231-018-9401-y",2018,"V5","Vulnerabilidade Juridica","Documentation status / knowledge formalization",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.916291,0.076851,0.35
-44,"Bussmann, R.W.; Paniagua-Zambrana, N.Y.","10.1007/s12231-018-9401-y",2018,"V6","Organizacao Social","External pressure / land use change indicator",30,NA,NA,30,NA,NA,"","","",NA,"T3",0,3.692877,0.35
-45,"Ghanimi, R.; Ouhammou, A.; Babahmad, R.A.","10.4314/ejhs.v32i6.22",2022,"V1","Erosao Intergeracional","Wild edible plant species cited",65,NA,NA,65,NA,NA,"","","",NA,"T3",0.182322,0.677152,0.35
-45,"Ghanimi, R.; Ouhammou, A.; Babahmad, R.A.","10.4314/ejhs.v32i6.22",2022,"V3","Singularidade Territorial","Cultural complexity / social network indicator",30,NA,NA,30,NA,NA,"","","",NA,"T3",0.182322,0.691658,0.35
-45,"Ghanimi, R.; Ouhammou, A.; Babahmad, R.A.","10.4314/ejhs.v32i6.22",2022,"V4","Status de Documentacao","Food security / dietary diversity indicator",30,NA,NA,30,NA,NA,"","","",NA,"T3",0.182322,0.691658,0.35
-45,"Ghanimi, R.; Ouhammou, A.; Babahmad, R.A.","10.4314/ejhs.v32i6.22",2022,"V5","Vulnerabilidade Juridica","Documentation status / knowledge formalization",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.223144,0.307403,0.35
-45,"Ghanimi, R.; Ouhammou, A.; Babahmad, R.A.","10.4314/ejhs.v32i6.22",2022,"V6","Organizacao Social","External pressure / land use change indicator",30,NA,NA,30,NA,NA,"","","",NA,"T3",0.182322,0.691658,0.35
-46,"Malapane, O.L.; Chanza, N.; Musakwa, W.","10.1016/j.envsci.2024.103861",2024,"V1","Erosao Intergeracional","Agrobiodiversity index / species richness",30,NA,NA,30,NA,NA,"","","",NA,"T3",0,3.692877,0.35
-46,"Malapane, O.L.; Chanza, N.; Musakwa, W.","10.1016/j.envsci.2024.103861",2024,"V2","Complexidade Biocultural","Intergenerational knowledge transfer indicator",30,NA,NA,30,NA,NA,"","","",NA,"T3",0.470004,1.229614,0.35
-46,"Malapane, O.L.; Chanza, N.; Musakwa, W.","10.1016/j.envsci.2024.103861",2024,"V3","Singularidade Territorial","Cultural complexity / social network indicator",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.223144,0.307403,0.35
-46,"Malapane, O.L.; Chanza, N.; Musakwa, W.","10.1016/j.envsci.2024.103861",2024,"V4","Status de Documentacao","Food security / dietary diversity indicator",30,NA,NA,30,NA,NA,"","","",NA,"T3",0,3.692877,0.35
-46,"Malapane, O.L.; Chanza, N.; Musakwa, W.","10.1016/j.envsci.2024.103861",2024,"V5","Vulnerabilidade Juridica","Documentation status / knowledge formalization",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.223144,0.307403,0.35
-46,"Malapane, O.L.; Chanza, N.; Musakwa, W.","10.1016/j.envsci.2024.103861",2024,"V6","Organizacao Social","External pressure / land use change indicator",30,NA,NA,30,NA,NA,"","","",NA,"T3",0.470004,1.229614,0.35
-48,"Rodríguez, J.P.; Ørting, B.; Andreasen, C.","10.1007/s10722-017-0544-y",2018,"V1","Erosao Intergeracional","Agrobiodiversidade",17,NA,NA,3,NA,NA,"","","",NA,"T2a",1.505724,0.272028,0.15
-48,"Rodríguez, J.P.; Ørting, B.; Andreasen, C.","10.1007/s10722-017-0544-y",2018,"V2","Complexidade Biocultural","Transmissao Intergeracional",17,NA,NA,13,NA,NA,"","","",NA,"T4",0.182322,1.20033,0.5
-48,"Rodríguez, J.P.; Ørting, B.; Andreasen, C.","10.1007/s10722-017-0544-y",2018,"V3","Singularidade Territorial","Complexidade Cultural",17,NA,NA,13,NA,NA,"","","",NA,"T3",0.182322,0.718598,0.35
-48,"Rodríguez, J.P.; Ørting, B.; Andreasen, C.","10.1007/s10722-017-0544-y",2018,"V4","Status de Documentacao","Seguranca Alimentar",17,NA,NA,13,NA,NA,"","","",NA,"T4",0.182322,1.20033,0.5
-48,"Rodríguez, J.P.; Ørting, B.; Andreasen, C.","10.1007/s10722-017-0544-y",2018,"V5","Vulnerabilidade Juridica","Status de Documentacao",17,NA,NA,13,NA,NA,"","","",NA,"T4",-0.223144,0.53348,0.5
-48,"Rodríguez, J.P.; Ørting, B.; Andreasen, C.","10.1007/s10722-017-0544-y",2018,"V6","Organizacao Social","Governanca/Resiliencia",17,NA,NA,13,NA,NA,"","","",NA,"T4",0.470004,2.133921,0.5
-37,"","",NA,"V1","","Agrobiodiversidade",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.223144,0.307403,0.35
-37,"","",NA,"V2","","Transmissão Intergeracional",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.223144,0.307403,0.35
-37,"","",NA,"V3","","Complexidade Cultural",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.223144,0.307403,0.35
-37,"","",NA,"V4","","Segurança Alimentar",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.223144,0.307403,0.35
-37,"","",NA,"V5","","Status de Documentação",30,NA,NA,30,NA,NA,"","","",NA,"T3",-0.223144,0.307403,0.35
-37,"","",NA,"V6","","Governança/Resiliência",30,NA,NA,30,NA,NA,"","","",NA,"T3",0.182322,0.691658,0.35
-39,"","",NA,"V1","","Agrobiodiversidade",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.182322,1.15533,0.5
-39,"","",NA,"V2","","Transmissao Intergeracional",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-39,"","",NA,"V3","","Complexidade Cultural",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-39,"","",NA,"V4","","Seguranca Alimentar",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.182322,1.15533,0.5
-39,"","",NA,"V5","","Status de Documentacao",30,NA,NA,30,NA,NA,"","","",NA,"T4",-0.223144,0.51348,0.5
-39,"","",NA,"V6","","Governanca/Resiliencia",30,NA,NA,30,NA,NA,"","","",NA,"T4",0.182322,1.15533,0.5
+Study_ID,Study,DOI,Year,Dimensao,Dimensao_Label,Proxy,n_T,m_T,sd_T,n_C,m_C,sd_C,Tipo_Intervencao,Regiao,Tipo_Comunidade,NOS,Tier,lnRR,vi,sigma_conv
+18,Nord A.,10.1002/ldr.3582,2020,V1,Erosão Intergeracional e Migração,SOC (%) by farmer erosion perception,22,1.59,0.81,31,1.42,0.73,Farmer perception survey,Europa,Agricultores,,T1,0.11307714461897085,0.02032175247438712,0.0
+18,Nord A.,10.1002/ldr.3582,2020,V2,Complexidade e Singularidade Biocultural,Slope assessment accuracy (farmer vs measured),22,1.11,0.61,45,1.12,0.49,Farmer perception survey,Europa,Agricultores,,T1,-0.008968669982760375,0.01798095892268189,0.0
+20,Sibanda M.,10.1186/s40066-025-00573-w,2025,V2,Complexidade e Singularidade Biocultural,Ethnobotanical knowledge score (gender),100,38.96,10.67,100,34.85,11.65,Seed system assessment,Africa,Indigena,,T1,0.11148234156780144,0.0018675480496522304,0.0
+20,Sibanda M.,10.1186/s40066-025-00573-w,2025,V2,Complexidade e Singularidade Biocultural,Ethnobotanical knowledge score (age),100,41.38,10.73,100,32.43,10.14,Seed system assessment,Africa,Indigena,,T1,0.24371375199817052,0.0016500325708482429,0.0
+20,Sibanda M.,10.1186/s40066-025-00573-w,2025,V3,Status de Documentação,Ethnobotanical knowledge score (occupation),58,37.64,11.44,52,32.98,11.62,Seed system assessment,Africa,Indigena,,T1,0.1321659975857262,0.0039799697919555245,0.0
+20,Sibanda M.,10.1186/s40066-025-00573-w,2025,V4,Vulnerabilidade Jurídica e Fundiária,Ethnobotanical knowledge score (education),123,39.94,10.59,8,21,5.24,Seed system assessment,Africa,Indigena,,T1,0.642855890264246,0.008354338100562337,0.0
+20,Sibanda M.,10.1186/s40066-025-00573-w,2025,V5,Organização Social e Governança,Ethnobotanical knowledge score (family type),42,39.81,11.21,158,36.13,11.28,Seed system assessment,Africa,Indigena,,T1,0.09699459185267693,0.002504808684334349,0.0
+31,"Frascaroli, F; Bhagwat, S; Guarino, R; Chiarucci,",10.1007/s13280-015-0738-5,2016,V1,Erosão Intergeracional e Migração,Land-cover diversity (Shannon H') at SNS vs reference,30,0.74,0.274,30,0.45,0.3288,Sacred grove conservation,Europa,Rural,,T1,0.49740260343384995,0.02236579502745989,0.0
+31,"Frascaroli, F; Bhagwat, S; Guarino, R; Chiarucci,",10.1007/s13280-015-0738-5,2016,V2,Complexidade e Singularidade Biocultural,Landscape heterogeneity (Shannon) at SNS vs reference,30,0.78,0.4384,30,0.86,0.4932,Sacred grove conservation,Europa,Rural,,T1,-0.09763846956391593,0.02149301855271319,0.0
+31,"Frascaroli, F; Bhagwat, S; Guarino, R; Chiarucci,",10.1007/s13280-015-0738-5,2016,V4,Vulnerabilidade Jurídica e Fundiária,Large tree frequency at SNS vs reference,30,78,98.64,30,28,43.84,Sacred grove conservation,Europa,Rural,,T1,1.0245043165143877,0.13502377651652378,0.0
+31,"Frascaroli, F; Bhagwat, S; Guarino, R; Chiarucci,",10.1007/s13280-015-0738-5,2016,V5,Organização Social e Governança,Anthropogenic area proportion (%) at SNS vs reference,30,10.2,10.96,30,2.3,3.836,Sacred grove conservation,Europa,Rural,,T1,1.4894785973551214,0.13120717250187572,0.0
+45,"Ghanimi, R.; Ouhammou, A.; Babahmad, R.A.",10.4314/ejhs.v32i6.22,2022,V2,Complexidade e Singularidade Biocultural,Intergenerational knowledge transfer indicator,100,41.38,10.73,100,32.43,10.14,Ethnobotanical survey,America do Sul,Pastoralistas,,T1,0.24371375199817052,0.0016500325708482429,0.0
+47,"Rodríguez-Cruz, L.A.; Álvarez-Berríos, N.; Niles, M.T.",10.1088/1748-9326/ac6004,2022,V1,Erosão Intergeracional e Migração,"Farm size (cuerdas, food security)",124,75.6,118.5,154,45.1,81.6,Post-disaster food security,Caribe,Agricultores,,T1,0.5165740366768545,0.04107118874115673,0.0
+47,"Rodríguez-Cruz, L.A.; Álvarez-Berríos, N.; Niles, M.T.",10.1088/1748-9326/ac6004,2022,V2,Complexidade e Singularidade Biocultural,Farmer age (food security),124,52.5,13.5,154,56.4,13,Post-disaster food security,Caribe,Agricultores,,T1,-0.07165598890643517,0.0008782365644740555,0.0
+47,"Rodríguez-Cruz, L.A.; Álvarez-Berríos, N.; Niles, M.T.",10.1088/1748-9326/ac6004,2022,V2,Complexidade e Singularidade Biocultural,Social network count (food security status),124,2.6,2.2,154,2.1,2.1,Post-disaster food security,Caribe,Agricultores,,T1,0.2135741002980591,0.012267509165772194,0.0
+47,"Rodríguez-Cruz, L.A.; Álvarez-Berríos, N.; Niles, M.T.",10.1088/1748-9326/ac6004,2022,V3,Status de Documentação,Farm production count (food security status),124,3.4,2.5,154,3.3,2.7,Post-disaster food security,Caribe,Agricultores,,T1,0.02985296314968113,0.00870703341734135,0.0
+47,"Rodríguez-Cruz, L.A.; Álvarez-Berríos, N.; Niles, M.T.",10.1088/1748-9326/ac6004,2022,V4,Vulnerabilidade Jurídica e Fundiária,Landslide exposure (km²),124,9.1,11.6,154,12.2,16.4,Post-disaster food security,Caribe,Agricultores,,T1,-0.29316153821640645,0.024838263282206143,0.0
+47,"Rodríguez-Cruz, L.A.; Álvarez-Berríos, N.; Niles, M.T.",10.1088/1748-9326/ac6004,2022,V5,Organização Social e Governança,Distance from hurricane eye (km),124,25.3,15.1,154,18.9,12.3,Post-disaster food security,Caribe,Agricultores,,T1,0.291642473667878,0.005622916137967832,0.0
+2,Calvet-Mir L.,10.1080/08941920.2015.1094711,2016,V1,Erosão Intergeracional e Migração,Agrobiodiversity index / species richness,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+2,Calvet-Mir L.,10.1080/08941920.2015.1094711,2016,V2,Complexidade e Singularidade Biocultural,Traditional knowledge score,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+2,Calvet-Mir L.,10.1080/08941920.2015.1094711,2016,V2,Complexidade e Singularidade Biocultural,Cultural complexity / social network indicator,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+2,Calvet-Mir L.,10.1080/08941920.2015.1094711,2016,V3,Status de Documentação,Food security / dietary diversity indicator,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+2,Calvet-Mir L.,10.1080/08941920.2015.1094711,2016,V4,Vulnerabilidade Jurídica e Fundiária,Documentation status / knowledge formalization,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+2,Calvet-Mir L.,10.1080/08941920.2015.1094711,2016,V5,Organização Social e Governança,External pressure / land use change indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+3,Bastos J.G.,10.3389/ffgc.2022.696757,2022,V1,Erosão Intergeracional e Migração,Agrobiodiversidade,30,,,30,,,,,,,T3,0.182322,0.691658,0.35
+3,Bastos J.G.,10.3389/ffgc.2022.696757,2022,V2,Complexidade e Singularidade Biocultural,Transmissao Intergeracional,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+3,Bastos J.G.,10.3389/ffgc.2022.696757,2022,V2,Complexidade e Singularidade Biocultural,Complexidade Cultural,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+3,Bastos J.G.,10.3389/ffgc.2022.696757,2022,V3,Status de Documentação,Seguranca Alimentar,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+3,Bastos J.G.,10.3389/ffgc.2022.696757,2022,V4,Vulnerabilidade Jurídica e Fundiária,Status de Documentacao,30,,,30,,,,,,,T3,-0.223144,0.307403,0.35
+3,Bastos J.G.,10.3389/ffgc.2022.696757,2022,V5,Organização Social e Governança,Governanca/Resiliencia,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+4,Romero-Silva M.J.,10.1186/s40529-025-00488-6,2026,V1,Erosão Intergeracional e Migração,Agrobiodiversidade,30,,,30,,,,,,,T3,-0.223144,0.307403,0.35
+4,Romero-Silva M.J.,10.1186/s40529-025-00488-6,2026,V2,Complexidade e Singularidade Biocultural,Transmissao Intergeracional,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+4,Romero-Silva M.J.,10.1186/s40529-025-00488-6,2026,V2,Complexidade e Singularidade Biocultural,Complexidade Cultural,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+4,Romero-Silva M.J.,10.1186/s40529-025-00488-6,2026,V3,Status de Documentação,Seguranca Alimentar,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+4,Romero-Silva M.J.,10.1186/s40529-025-00488-6,2026,V4,Vulnerabilidade Jurídica e Fundiária,Status de Documentacao,30,,,30,,,,,,,T3,-0.223144,0.307403,0.35
+4,Romero-Silva M.J.,10.1186/s40529-025-00488-6,2026,V5,Organização Social e Governança,Governanca/Resiliencia,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+5,de Sousa T.B.,10.18472/SustDeb.v15n3.2024.55679,2024,V1,Erosão Intergeracional e Migração,Agrobiodiversidade,30,,,30,,,,,,,T3,-0.223144,0.307403,0.35
+5,de Sousa T.B.,10.18472/SustDeb.v15n3.2024.55679,2024,V2,Complexidade e Singularidade Biocultural,Transmissao Intergeracional,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+5,de Sousa T.B.,10.18472/SustDeb.v15n3.2024.55679,2024,V2,Complexidade e Singularidade Biocultural,Complexidade Cultural,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+5,de Sousa T.B.,10.18472/SustDeb.v15n3.2024.55679,2024,V3,Status de Documentação,Seguranca Alimentar,30,,,30,,,,,,,T3,0.182322,0.691658,0.35
+5,de Sousa T.B.,10.18472/SustDeb.v15n3.2024.55679,2024,V4,Vulnerabilidade Jurídica e Fundiária,Status de Documentacao,30,,,30,,,,,,,T3,-0.223144,0.307403,0.35
+5,de Sousa T.B.,10.18472/SustDeb.v15n3.2024.55679,2024,V5,Organização Social e Governança,Governanca/Resiliencia,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+6,Sarmiento F.O.,10.3390/geographies3010002,2023,V1,Erosão Intergeracional e Migração,Agrobiodiversidade,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+6,Sarmiento F.O.,10.3390/geographies3010002,2023,V2,Complexidade e Singularidade Biocultural,Transmissao Intergeracional,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+6,Sarmiento F.O.,10.3390/geographies3010002,2023,V2,Complexidade e Singularidade Biocultural,Complexidade Cultural,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+6,Sarmiento F.O.,10.3390/geographies3010002,2023,V3,Status de Documentação,Seguranca Alimentar,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+6,Sarmiento F.O.,10.3390/geographies3010002,2023,V4,Vulnerabilidade Jurídica e Fundiária,Status de Documentacao,30,,,30,,,,,,,T3,-0.223144,0.307403,0.35
+6,Sarmiento F.O.,10.3390/geographies3010002,2023,V5,Organização Social e Governança,Governanca/Resiliencia,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+7,Aldasoro Maya E.M.,10.3389/fsufs.2022.1081400,2023,V1,Erosão Intergeracional e Migração,Agrobiodiversity index / species richness,30,,,30,,,,,,,T3,-0.223144,0.307403,0.35
+7,Aldasoro Maya E.M.,10.3389/fsufs.2022.1081400,2023,V2,Complexidade e Singularidade Biocultural,Intergenerational knowledge transfer indicator,30,,,30,,,,,,,T3,-0.223144,0.307403,0.35
+7,Aldasoro Maya E.M.,10.3389/fsufs.2022.1081400,2023,V2,Complexidade e Singularidade Biocultural,Cultural complexity / social network indicator,30,,,30,,,,,,,T3,-0.223144,0.307403,0.35
+7,Aldasoro Maya E.M.,10.3389/fsufs.2022.1081400,2023,V3,Status de Documentação,Food security / dietary diversity indicator,30,,,30,,,,,,,T3,0.182322,0.691658,0.35
+7,Aldasoro Maya E.M.,10.3389/fsufs.2022.1081400,2023,V4,Vulnerabilidade Jurídica e Fundiária,Documentation status / knowledge formalization,30,,,30,,,,,,,T3,-0.223144,0.307403,0.35
+7,Aldasoro Maya E.M.,10.3389/fsufs.2022.1081400,2023,V5,Organização Social e Governança,External pressure / land use change indicator,30,,,30,,,,,,,T3,-0.223144,0.307403,0.35
+8,Franco-Moraes J.,10.5751/ES-13711-280137,2023,V1,Erosão Intergeracional e Migração,Agrobiodiversidade,30,,,30,,,,,,,T3,-0.223144,0.307403,0.35
+8,Franco-Moraes J.,10.5751/ES-13711-280137,2023,V2,Complexidade e Singularidade Biocultural,Transmissao Intergeracional,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+8,Franco-Moraes J.,10.5751/ES-13711-280137,2023,V2,Complexidade e Singularidade Biocultural,Complexidade Cultural,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+8,Franco-Moraes J.,10.5751/ES-13711-280137,2023,V3,Status de Documentação,Seguranca Alimentar,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+8,Franco-Moraes J.,10.5751/ES-13711-280137,2023,V4,Vulnerabilidade Jurídica e Fundiária,Status de Documentacao,30,,,30,,,,,,,T3,-0.223144,0.307403,0.35
+8,Franco-Moraes J.,10.5751/ES-13711-280137,2023,V5,Organização Social e Governança,Governanca/Resiliencia,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+9,Latorre E.C.,10.15451/ec2018-03-07.04-1-34,2018,V1,Erosão Intergeracional e Migração,Agrobiodiversidade,30,,,30,,,,,,,T3,0.182322,0.691658,0.35
+9,Latorre E.C.,10.15451/ec2018-03-07.04-1-34,2018,V2,Complexidade e Singularidade Biocultural,Transmissao Intergeracional,30,,,30,,,,,,,T3,0.182322,0.691658,0.35
+9,Latorre E.C.,10.15451/ec2018-03-07.04-1-34,2018,V2,Complexidade e Singularidade Biocultural,Complexidade Cultural,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+9,Latorre E.C.,10.15451/ec2018-03-07.04-1-34,2018,V3,Status de Documentação,Seguranca Alimentar,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+9,Latorre E.C.,10.15451/ec2018-03-07.04-1-34,2018,V4,Vulnerabilidade Jurídica e Fundiária,Status de Documentacao,30,,,30,,,,,,,T3,-0.223144,0.307403,0.35
+9,Latorre E.C.,10.15451/ec2018-03-07.04-1-34,2018,V5,Organização Social e Governança,Governanca/Resiliencia,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+10,Mobarak C.,10.1659/mrd.2024.00024,2025,V1,Erosão Intergeracional e Migração,Agrobiodiversity index / species richness,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+10,Mobarak C.,10.1659/mrd.2024.00024,2025,V2,Complexidade e Singularidade Biocultural,Intergenerational knowledge transfer indicator,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+10,Mobarak C.,10.1659/mrd.2024.00024,2025,V2,Complexidade e Singularidade Biocultural,Cultural complexity / social network indicator,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+10,Mobarak C.,10.1659/mrd.2024.00024,2025,V3,Status de Documentação,Agricultural production indicator,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+10,Mobarak C.,10.1659/mrd.2024.00024,2025,V4,Vulnerabilidade Jurídica e Fundiária,Documentation status / knowledge formalization,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+10,Mobarak C.,10.1659/mrd.2024.00024,2025,V5,Organização Social e Governança,External pressure / land use change indicator,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+11,Andreotti F.,10.1007/s13593-023-00891-y,2023,V1,Erosão Intergeracional e Migração,Agrobiodiversidade,30,,,30,,,,,,,T3,-0.223144,0.307403,0.35
+11,Andreotti F.,10.1007/s13593-023-00891-y,2023,V2,Complexidade e Singularidade Biocultural,Transmissao Intergeracional,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+11,Andreotti F.,10.1007/s13593-023-00891-y,2023,V2,Complexidade e Singularidade Biocultural,Complexidade Cultural,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+11,Andreotti F.,10.1007/s13593-023-00891-y,2023,V3,Status de Documentação,Seguranca Alimentar,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+11,Andreotti F.,10.1007/s13593-023-00891-y,2023,V4,Vulnerabilidade Jurídica e Fundiária,Status de Documentacao,30,,,30,,,,,,,T3,-0.223144,0.307403,0.35
+11,Andreotti F.,10.1007/s13593-023-00891-y,2023,V5,Organização Social e Governança,Governanca/Resiliencia,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+12,Suwardi A.B.,10.1016/j.ecofro.2025.10.014,2025,V1,Erosão Intergeracional e Migração,Agrobiodiversidade,30,,,30,,,,,,,T2b,-0.369843,0.039027,0.25
+12,Suwardi A.B.,10.1016/j.ecofro.2025.10.014,2025,V2,Complexidade e Singularidade Biocultural,Transmissao Intergeracional,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+12,Suwardi A.B.,10.1016/j.ecofro.2025.10.014,2025,V2,Complexidade e Singularidade Biocultural,Complexidade Cultural,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+12,Suwardi A.B.,10.1016/j.ecofro.2025.10.014,2025,V3,Status de Documentação,Seguranca Alimentar,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+12,Suwardi A.B.,10.1016/j.ecofro.2025.10.014,2025,V4,Vulnerabilidade Jurídica e Fundiária,Status de Documentacao,30,,,30,,,,,,,T2b,-0.680428,0.132098,0.25
+12,Suwardi A.B.,10.1016/j.ecofro.2025.10.014,2025,V5,Organização Social e Governança,Governanca/Resiliencia,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+13,Plieninger T.,10.1007/s11625-022-01155-6,2023,V1,Erosão Intergeracional e Migração,Agrobiodiversity index / species richness,30,,,30,,,,,,,T3,0.0,3.692877,0.35
+13,Plieninger T.,10.1007/s11625-022-01155-6,2023,V2,Complexidade e Singularidade Biocultural,Intergenerational knowledge transfer indicator,30,,,30,,,,,,,T3,0.182322,0.691658,0.35
+13,Plieninger T.,10.1007/s11625-022-01155-6,2023,V2,Complexidade e Singularidade Biocultural,Cultural complexity / social network indicator,30,,,30,,,,,,,T3,0.182322,0.691658,0.35
+13,Plieninger T.,10.1007/s11625-022-01155-6,2023,V3,Status de Documentação,Food security / dietary diversity indicator,30,,,30,,,,,,,T3,0.0,3.692877,0.35
+13,Plieninger T.,10.1007/s11625-022-01155-6,2023,V4,Vulnerabilidade Jurídica e Fundiária,Documentation status / knowledge formalization,30,,,30,,,,,,,T3,0.0,3.692877,0.35
+13,Plieninger T.,10.1007/s11625-022-01155-6,2023,V5,Organização Social e Governança,External pressure / land use change indicator,30,,,30,,,,,,,T3,0.182322,0.691658,0.35
+14,Oloriz C.,10.3390/SU12187320,2020,V1,Erosão Intergeracional e Migração,Agrobiodiversity index / species richness,30,,,30,,,,,,,T3,0.0,3.692877,0.35
+14,Oloriz C.,10.3390/SU12187320,2020,V2,Complexidade e Singularidade Biocultural,Intergenerational knowledge transfer indicator,30,,,30,,,,,,,T3,0.182322,0.691658,0.35
+14,Oloriz C.,10.3390/SU12187320,2020,V2,Complexidade e Singularidade Biocultural,Cultural complexity / social network indicator,30,,,30,,,,,,,T3,0.182322,0.691658,0.35
+14,Oloriz C.,10.3390/SU12187320,2020,V3,Status de Documentação,Food security / dietary diversity indicator,30,,,30,,,,,,,T3,0.182322,0.691658,0.35
+14,Oloriz C.,10.3390/SU12187320,2020,V4,Vulnerabilidade Jurídica e Fundiária,Documentation status / knowledge formalization,30,,,30,,,,,,,T3,0.182322,0.691658,0.35
+14,Oloriz C.,10.3390/SU12187320,2020,V5,Organização Social e Governança,External pressure / land use change indicator,30,,,30,,,,,,,T3,0.470004,1.229614,0.35
+15,Tran T.A.,10.1007/s13280-025-02172-2,2025,V1,Erosão Intergeracional e Migração,Agrobiodiversidade,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+15,Tran T.A.,10.1007/s13280-025-02172-2,2025,V2,Complexidade e Singularidade Biocultural,Transmissao Intergeracional,30,,,30,,,,,,,T4,0.470004,2.053921,0.5
+15,Tran T.A.,10.1007/s13280-025-02172-2,2025,V2,Complexidade e Singularidade Biocultural,Complexidade Cultural,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+15,Tran T.A.,10.1007/s13280-025-02172-2,2025,V3,Status de Documentação,Seguranca Alimentar,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+15,Tran T.A.,10.1007/s13280-025-02172-2,2025,V4,Vulnerabilidade Jurídica e Fundiária,Status de Documentacao,30,,,30,,,,,,,T3,-0.223144,0.307403,0.35
+15,Tran T.A.,10.1007/s13280-025-02172-2,2025,V5,Organização Social e Governança,Governanca/Resiliencia,30,,,30,,,,,,,T4,0.470004,2.053921,0.5
+16,Saiba Y.,10.13057/biodiv/d240861,2023,V1,Erosão Intergeracional e Migração,Agrobiodiversidade,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+16,Saiba Y.,10.13057/biodiv/d240861,2023,V2,Complexidade e Singularidade Biocultural,Transmissao Intergeracional,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+16,Saiba Y.,10.13057/biodiv/d240861,2023,V2,Complexidade e Singularidade Biocultural,Complexidade Cultural,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+16,Saiba Y.,10.13057/biodiv/d240861,2023,V3,Status de Documentação,Seguranca Alimentar,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+16,Saiba Y.,10.13057/biodiv/d240861,2023,V4,Vulnerabilidade Jurídica e Fundiária,Status de Documentacao,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+16,Saiba Y.,10.13057/biodiv/d240861,2023,V5,Organização Social e Governança,Governanca/Resiliencia,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+17,Vázquez-Delfin P.,10.1016/j.heliyon.2022.e09805,2022,V1,Erosão Intergeracional e Migração,Agrobiodiversity index / species richness,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+17,Vázquez-Delfin P.,10.1016/j.heliyon.2022.e09805,2022,V2,Complexidade e Singularidade Biocultural,Intergenerational knowledge transfer indicator,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+17,Vázquez-Delfin P.,10.1016/j.heliyon.2022.e09805,2022,V2,Complexidade e Singularidade Biocultural,Cultural complexity / social network indicator,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+17,Vázquez-Delfin P.,10.1016/j.heliyon.2022.e09805,2022,V3,Status de Documentação,Livelihood diversity index,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+17,Vázquez-Delfin P.,10.1016/j.heliyon.2022.e09805,2022,V4,Vulnerabilidade Jurídica e Fundiária,Documentation status / knowledge formalization,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+17,Vázquez-Delfin P.,10.1016/j.heliyon.2022.e09805,2022,V5,Organização Social e Governança,External pressure / land use change indicator,30,,,30,,,,,,,T4,0.470004,2.053921,0.5
+18,Nord A.,10.1002/ldr.3582,2020,V2,Complexidade e Singularidade Biocultural,Farmer knowledge network (cross-site),30,,,30,,,,,,,T2b,0.0,0.007916,0.25
+18,Nord A.,10.1002/ldr.3582,2020,V3,Status de Documentação,Agricultural productivity by soil management,30,,,30,,,,,,,T3,-0.223144,0.307403,0.35
+18,Nord A.,10.1002/ldr.3582,2020,V4,Vulnerabilidade Jurídica e Fundiária,Soil degradation documentation accuracy,30,,,30,,,,,,,T3,-0.916291,0.076851,0.35
+18,Nord A.,10.1002/ldr.3582,2020,V5,Organização Social e Governança,Soil fertility score by farmer perception group,30,,,30,,,,,,,T3,-0.223144,0.307403,0.35
+20,Sibanda M.,10.1186/s40066-025-00573-w,2025,V1,Erosão Intergeracional e Migração,Plant species recognized (seed custodianship),30,,,30,,,,,,,T3,-0.916291,0.076851,0.35
+21,Tabe-Ojong M.P.,10.1002/ldr.4569,2023,V1,Erosão Intergeracional e Migração,Agrobiodiversity index / species richness,30,,,30,,,,,,,T2a,-0.486026,0.038405,0.15
+21,Tabe-Ojong M.P.,10.1002/ldr.4569,2023,V2,Complexidade e Singularidade Biocultural,Intergenerational knowledge transfer indicator,30,,,30,,,,,,,T2a,-0.222363,0.008039,0.15
+21,Tabe-Ojong M.P.,10.1002/ldr.4569,2023,V2,Complexidade e Singularidade Biocultural,Cultural complexity / social network indicator,30,,,30,,,,,,,T2a,0.0,0.007618,0.15
+21,Tabe-Ojong M.P.,10.1002/ldr.4569,2023,V3,Status de Documentação,Food security / dietary diversity indicator,30,,,30,,,,,,,T2a,-0.544239,0.048156,0.15
+21,Tabe-Ojong M.P.,10.1002/ldr.4569,2023,V4,Vulnerabilidade Jurídica e Fundiária,Documentation status / knowledge formalization,30,,,30,,,,,,,T2a,-0.894178,0.129993,0.15
+21,Tabe-Ojong M.P.,10.1002/ldr.4569,2023,V5,Organização Social e Governança,External pressure / land use change indicator,30,,,30,,,,,,,T2a,-0.432896,0.030468,0.15
+22,Aniah P.,10.1016/j.heliyon.2019.e01492,2019,V1,Erosão Intergeracional e Migração,Agrobiodiversity index / species richness,30,,,30,,,,,,,T2b,0.369843,0.039027,0.25
+22,Aniah P.,10.1016/j.heliyon.2019.e01492,2019,V2,Complexidade e Singularidade Biocultural,Intergenerational knowledge transfer indicator,30,,,30,,,,,,,T2b,0.169208,0.008169,0.25
+22,Aniah P.,10.1016/j.heliyon.2019.e01492,2019,V2,Complexidade e Singularidade Biocultural,Cultural complexity / social network indicator,30,,,30,,,,,,,T2b,0.169208,0.008169,0.25
+22,Aniah P.,10.1016/j.heliyon.2019.e01492,2019,V3,Status de Documentação,Livelihood diversity index,30,,,30,,,,,,,T2b,0.414141,0.048936,0.25
+22,Aniah P.,10.1016/j.heliyon.2019.e01492,2019,V4,Vulnerabilidade Jurídica e Fundiária,Documentation status / knowledge formalization,30,,,30,,,,,,,T2b,0.680428,0.132098,0.25
+22,Aniah P.,10.1016/j.heliyon.2019.e01492,2019,V5,Organização Social e Governança,Climate change perception indicator,30,,,30,,,,,,,T2b,0.329413,0.030961,0.25
+25,Alemayehu A.,10.1016/j.envdev.2023.100908,2023,V1,Erosão Intergeracional e Migração,Agrobiodiversidade,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+25,Alemayehu A.,10.1016/j.envdev.2023.100908,2023,V2,Complexidade e Singularidade Biocultural,Transmissao Intergeracional,30,,,30,,,,,,,T4,0.470004,2.053921,0.5
+25,Alemayehu A.,10.1016/j.envdev.2023.100908,2023,V2,Complexidade e Singularidade Biocultural,Complexidade Cultural,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+25,Alemayehu A.,10.1016/j.envdev.2023.100908,2023,V3,Status de Documentação,Seguranca Alimentar,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+25,Alemayehu A.,10.1016/j.envdev.2023.100908,2023,V4,Vulnerabilidade Jurídica e Fundiária,Status de Documentacao,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+25,Alemayehu A.,10.1016/j.envdev.2023.100908,2023,V5,Organização Social e Governança,Governanca/Resiliencia,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+27,La Rosa A.,10.1186/s13002-021-00470-z,2021,V1,Erosão Intergeracional e Migração,Species richness / ethnobotanical indices,30,,,30,,,,,,,T3,0.182322,0.691658,0.35
+27,La Rosa A.,10.1186/s13002-021-00470-z,2021,V2,Complexidade e Singularidade Biocultural,Intergenerational knowledge transfer indicator,30,,,30,,,,,,,T3,0.470004,1.229614,0.35
+27,La Rosa A.,10.1186/s13002-021-00470-z,2021,V2,Complexidade e Singularidade Biocultural,Cultural complexity / social network indicator,30,,,30,,,,,,,T3,0.182322,0.691658,0.35
+27,La Rosa A.,10.1186/s13002-021-00470-z,2021,V3,Status de Documentação,Food security / dietary diversity indicator,30,,,30,,,,,,,T3,0.182322,0.691658,0.35
+27,La Rosa A.,10.1186/s13002-021-00470-z,2021,V4,Vulnerabilidade Jurídica e Fundiária,Documentation status / knowledge formalization,30,,,30,,,,,,,T3,-0.223144,0.307403,0.35
+27,La Rosa A.,10.1186/s13002-021-00470-z,2021,V5,Organização Social e Governança,External pressure / land use change indicator,30,,,30,,,,,,,T3,0.182322,0.691658,0.35
+29,"Fernández-Llamazares, A; Cabeza, M",10.1111/conl.12398,2018,V1,Erosão Intergeracional e Migração,Agrobiodiversity index / species richness,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+29,"Fernández-Llamazares, A; Cabeza, M",10.1111/conl.12398,2018,V2,Complexidade e Singularidade Biocultural,Traditional knowledge score,30,,,30,,,,,,,T4,-0.916291,0.12837,0.5
+29,"Fernández-Llamazares, A; Cabeza, M",10.1111/conl.12398,2018,V2,Complexidade e Singularidade Biocultural,Cultural complexity / social network indicator,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+29,"Fernández-Llamazares, A; Cabeza, M",10.1111/conl.12398,2018,V3,Status de Documentação,Food security / dietary diversity indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+29,"Fernández-Llamazares, A; Cabeza, M",10.1111/conl.12398,2018,V4,Vulnerabilidade Jurídica e Fundiária,Conservation status indicator,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+29,"Fernández-Llamazares, A; Cabeza, M",10.1111/conl.12398,2018,V5,Organização Social e Governança,External pressure / land use change indicator,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+30,"Gerner, IR; Zerbe, S; Säumel, I",10.1177/02780771251349282,2025,V1,Erosão Intergeracional e Migração,Agrobiodiversity index / species richness,26,,,26,,,,,,,T3,-0.223144,0.309246,0.35
+30,"Gerner, IR; Zerbe, S; Säumel, I",10.1177/02780771251349282,2025,V2,Complexidade e Singularidade Biocultural,Intergenerational knowledge transfer indicator,26,,,26,,,,,,,T3,0.0,3.692877,0.35
+30,"Gerner, IR; Zerbe, S; Säumel, I",10.1177/02780771251349282,2025,V2,Complexidade e Singularidade Biocultural,Cultural complexity / social network indicator,26,,,26,,,,,,,T3,-0.223144,0.309246,0.35
+30,"Gerner, IR; Zerbe, S; Säumel, I",10.1177/02780771251349282,2025,V3,Status de Documentação,Food security / dietary diversity indicator,26,,,26,,,,,,,T3,0.0,3.692877,0.35
+30,"Gerner, IR; Zerbe, S; Säumel, I",10.1177/02780771251349282,2025,V4,Vulnerabilidade Jurídica e Fundiária,Documentation status / knowledge formalization,26,,,26,,,,,,,T3,-0.223144,0.309246,0.35
+30,"Gerner, IR; Zerbe, S; Säumel, I",10.1177/02780771251349282,2025,V5,Organização Social e Governança,External pressure / land use change indicator,26,,,26,,,,,,,T3,0.0,3.692877,0.35
+31,"Frascaroli, F; Bhagwat, S; Guarino, R; Chiarucci, ",10.1007/s13280-015-0738-5,2016,V2,Complexidade e Singularidade Biocultural,Sacred grove cultural significance,30,,,30,,,,,,,T2a,-0.169208,0.007862,0.15
+31,"Frascaroli, F; Bhagwat, S; Guarino, R; Chiarucci, ",10.1007/s13280-015-0738-5,2016,V3,Status de Documentação,Ecosystem services from sacred groves,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+32,"Edo, K; Kidane, L; Beyene, T",10.4314/mejs.v16i1.6,2024,V1,Erosão Intergeracional e Migração,Species diversity homegarden,65,,,65,,,,,,,T2a,-0.916291,0.073061,0.3
+32,"Edo, K; Kidane, L; Beyene, T",10.4314/mejs.v16i1.6,2024,V2,Complexidade e Singularidade Biocultural,Intergenerational knowledge transfer indicator,65,,,65,,,,,,,T2a,-0.223144,0.292243,0.3
+32,"Edo, K; Kidane, L; Beyene, T",10.4314/mejs.v16i1.6,2024,V2,Complexidade e Singularidade Biocultural,Cultural complexity / social network indicator,65,,,65,,,,,,,T2a,-0.223144,0.292243,0.3
+32,"Edo, K; Kidane, L; Beyene, T",10.4314/mejs.v16i1.6,2024,V3,Status de Documentação,Food security / dietary diversity indicator,65,,,65,,,,,,,T2a,-0.916291,0.073061,0.3
+32,"Edo, K; Kidane, L; Beyene, T",10.4314/mejs.v16i1.6,2024,V4,Vulnerabilidade Jurídica e Fundiária,Documentation status / knowledge formalization,65,,,65,,,,,,,T2a,-0.223144,0.292243,0.3
+32,"Edo, K; Kidane, L; Beyene, T",10.4314/mejs.v16i1.6,2024,V5,Organização Social e Governança,External pressure / land use change indicator,65,,,65,,,,,,,T2a,0.182322,0.657546,0.3
+35,"Mondal, MSH",10.2298/IJGI240802003M,2025,V1,Erosão Intergeracional e Migração,Agrobiodiversidade,377,,,68,,,,,,,T4,0.0,6.168503,0.5
+35,"Mondal, MSH",10.2298/IJGI240802003M,2025,V2,Complexidade e Singularidade Biocultural,Transmissao Intergeracional,377,,,68,,,,,,,T4,0.182322,1.116398,0.5
+35,"Mondal, MSH",10.2298/IJGI240802003M,2025,V2,Complexidade e Singularidade Biocultural,Complexidade Cultural,377,,,68,,,,,,,T4,-0.223144,0.496177,0.5
+35,"Mondal, MSH",10.2298/IJGI240802003M,2025,V3,Status de Documentação,Seguranca Alimentar,377,,,68,,,,,,,T4,0.182322,1.116398,0.5
+35,"Mondal, MSH",10.2298/IJGI240802003M,2025,V4,Vulnerabilidade Jurídica e Fundiária,Status de Documentacao,377,,,68,,,,,,,T2a,-0.582821,0.032463,0.15
+35,"Mondal, MSH",10.2298/IJGI240802003M,2025,V5,Organização Social e Governança,Governanca/Resiliencia,377,,,68,,,,,,,T4,0.182322,1.116398,0.5
+38,"García, RM; Parra-Quijano, M; Martínez-Fernández, ",10.1002/csc2.20620,2021,V1,Erosão Intergeracional e Migração,Agrobiodiversity index / species richness,30,,,30,,,,,,,T2b,-0.369843,0.039027,0.25
+38,"García, RM; Parra-Quijano, M; Martínez-Fernández, ",10.1002/csc2.20620,2021,V2,Complexidade e Singularidade Biocultural,Intergenerational knowledge transfer indicator,30,,,30,,,,,,,T2b,0.0,0.007916,0.25
+38,"García, RM; Parra-Quijano, M; Martínez-Fernández, ",10.1002/csc2.20620,2021,V2,Complexidade e Singularidade Biocultural,Cultural complexity / social network indicator,30,,,30,,,,,,,T2b,0.0,0.007916,0.25
+38,"García, RM; Parra-Quijano, M; Martínez-Fernández, ",10.1002/csc2.20620,2021,V3,Status de Documentação,Food security / dietary diversity indicator,30,,,30,,,,,,,T2b,0.0,0.047417,0.25
+38,"García, RM; Parra-Quijano, M; Martínez-Fernández, ",10.1002/csc2.20620,2021,V4,Vulnerabilidade Jurídica e Fundiária,Documentation status / knowledge formalization,30,,,30,,,,,,,T2b,-0.680428,0.132098,0.25
+38,"García, RM; Parra-Quijano, M; Martínez-Fernández, ",10.1002/csc2.20620,2021,V5,Organização Social e Governança,External pressure / land use change indicator,30,,,30,,,,,,,T2b,-0.329413,0.030961,0.25
+41,"Mugi-Ngenga, EW; Mucheru-Muna, MW; Mugwe, JN; Nget",10.1016/j.jrurstud.2015.11.004,2016,V1,Erosão Intergeracional e Migração,Agrobiodiversity index / species richness,30,,,30,,,,,,,T2b,0.369843,0.039027,0.25
+41,"Mugi-Ngenga, EW; Mucheru-Muna, MW; Mugwe, JN; Nget",10.1016/j.jrurstud.2015.11.004,2016,V2,Complexidade e Singularidade Biocultural,Intergenerational knowledge transfer indicator,30,,,30,,,,,,,T2b,0.169208,0.008169,0.25
+41,"Mugi-Ngenga, EW; Mucheru-Muna, MW; Mugwe, JN; Nget",10.1016/j.jrurstud.2015.11.004,2016,V2,Complexidade e Singularidade Biocultural,Cultural complexity / social network indicator,30,,,30,,,,,,,T2b,0.0,0.007916,0.25
+41,"Mugi-Ngenga, EW; Mucheru-Muna, MW; Mugwe, JN; Nget",10.1016/j.jrurstud.2015.11.004,2016,V3,Status de Documentação,Food security / dietary diversity indicator,30,,,30,,,,,,,T2b,0.414141,0.048936,0.25
+41,"Mugi-Ngenga, EW; Mucheru-Muna, MW; Mugwe, JN; Nget",10.1016/j.jrurstud.2015.11.004,2016,V4,Vulnerabilidade Jurídica e Fundiária,Documentation status / knowledge formalization,30,,,30,,,,,,,T2b,-0.680428,0.132098,0.25
+41,"Mugi-Ngenga, EW; Mucheru-Muna, MW; Mugwe, JN; Nget",10.1016/j.jrurstud.2015.11.004,2016,V5,Organização Social e Governança,Climate change perception indicator,30,,,30,,,,,,,T2b,0.329413,0.030961,0.25
+43,"Aswani, S.; Ferse, S.C.A.; Stäbler, M.",10.1016/j.ecolind.2020.106865,2020,V1,Erosão Intergeracional e Migração,Taxonomic distinctness index (ITD),30,,,30,,,,,,,T2a,0.620826,0.039677,0.15
+43,"Aswani, S.; Ferse, S.C.A.; Stäbler, M.",10.1016/j.ecolind.2020.106865,2020,V2,Complexidade e Singularidade Biocultural,Intergenerational knowledge transfer indicator,30,,,30,,,,,,,T2a,0.284036,0.008305,0.15
+43,"Aswani, S.; Ferse, S.C.A.; Stäbler, M.",10.1016/j.ecolind.2020.106865,2020,V2,Complexidade e Singularidade Biocultural,Cultural complexity / social network indicator,30,,,30,,,,,,,T2a,0.284036,0.008305,0.15
+43,"Aswani, S.; Ferse, S.C.A.; Stäbler, M.",10.1016/j.ecolind.2020.106865,2020,V3,Status de Documentação,Food security / dietary diversity indicator,30,,,30,,,,,,,T2a,0.695185,0.04975,0.15
+43,"Aswani, S.; Ferse, S.C.A.; Stäbler, M.",10.1016/j.ecolind.2020.106865,2020,V4,Vulnerabilidade Jurídica e Fundiária,Documentation status / knowledge formalization,30,,,30,,,,,,,T2a,-1.14218,0.134296,0.15
+43,"Aswani, S.; Ferse, S.C.A.; Stäbler, M.",10.1016/j.ecolind.2020.106865,2020,V5,Organização Social e Governança,External pressure / land use change indicator,30,,,30,,,,,,,T2a,0.55296,0.031476,0.15
+44,"Bussmann, R.W.; Paniagua-Zambrana, N.Y.",10.1007/s12231-018-9401-y,2018,V1,Erosão Intergeracional e Migração,Agrobiodiversity index / species richness,30,,,30,,,,,,,T3,-0.223144,0.307403,0.35
+44,"Bussmann, R.W.; Paniagua-Zambrana, N.Y.",10.1007/s12231-018-9401-y,2018,V2,Complexidade e Singularidade Biocultural,Intergenerational knowledge transfer indicator,30,,,30,,,,,,,T3,0.0,3.692877,0.35
+44,"Bussmann, R.W.; Paniagua-Zambrana, N.Y.",10.1007/s12231-018-9401-y,2018,V2,Complexidade e Singularidade Biocultural,Cultural complexity / social network indicator,30,,,30,,,,,,,T3,-0.223144,0.307403,0.35
+44,"Bussmann, R.W.; Paniagua-Zambrana, N.Y.",10.1007/s12231-018-9401-y,2018,V3,Status de Documentação,Food security / dietary diversity indicator,30,,,30,,,,,,,T3,-0.223144,0.307403,0.35
+44,"Bussmann, R.W.; Paniagua-Zambrana, N.Y.",10.1007/s12231-018-9401-y,2018,V4,Vulnerabilidade Jurídica e Fundiária,Documentation status / knowledge formalization,30,,,30,,,,,,,T3,-0.916291,0.076851,0.35
+44,"Bussmann, R.W.; Paniagua-Zambrana, N.Y.",10.1007/s12231-018-9401-y,2018,V5,Organização Social e Governança,External pressure / land use change indicator,30,,,30,,,,,,,T3,0.0,3.692877,0.35
+45,"Ghanimi, R.; Ouhammou, A.; Babahmad, R.A.",10.4314/ejhs.v32i6.22,2022,V1,Erosão Intergeracional e Migração,Wild edible plant species cited,65,,,65,,,,,,,T3,0.182322,0.677152,0.35
+45,"Ghanimi, R.; Ouhammou, A.; Babahmad, R.A.",10.4314/ejhs.v32i6.22,2022,V2,Complexidade e Singularidade Biocultural,Cultural complexity / social network indicator,30,,,30,,,,,,,T3,0.182322,0.691658,0.35
+45,"Ghanimi, R.; Ouhammou, A.; Babahmad, R.A.",10.4314/ejhs.v32i6.22,2022,V3,Status de Documentação,Food security / dietary diversity indicator,30,,,30,,,,,,,T3,0.182322,0.691658,0.35
+45,"Ghanimi, R.; Ouhammou, A.; Babahmad, R.A.",10.4314/ejhs.v32i6.22,2022,V4,Vulnerabilidade Jurídica e Fundiária,Documentation status / knowledge formalization,30,,,30,,,,,,,T3,-0.223144,0.307403,0.35
+45,"Ghanimi, R.; Ouhammou, A.; Babahmad, R.A.",10.4314/ejhs.v32i6.22,2022,V5,Organização Social e Governança,External pressure / land use change indicator,30,,,30,,,,,,,T3,0.182322,0.691658,0.35
+46,"Malapane, O.L.; Chanza, N.; Musakwa, W.",10.1016/j.envsci.2024.103861,2024,V1,Erosão Intergeracional e Migração,Agrobiodiversity index / species richness,30,,,30,,,,,,,T3,0.0,3.692877,0.35
+46,"Malapane, O.L.; Chanza, N.; Musakwa, W.",10.1016/j.envsci.2024.103861,2024,V2,Complexidade e Singularidade Biocultural,Intergenerational knowledge transfer indicator,30,,,30,,,,,,,T3,0.470004,1.229614,0.35
+46,"Malapane, O.L.; Chanza, N.; Musakwa, W.",10.1016/j.envsci.2024.103861,2024,V2,Complexidade e Singularidade Biocultural,Cultural complexity / social network indicator,30,,,30,,,,,,,T3,-0.223144,0.307403,0.35
+46,"Malapane, O.L.; Chanza, N.; Musakwa, W.",10.1016/j.envsci.2024.103861,2024,V3,Status de Documentação,Food security / dietary diversity indicator,30,,,30,,,,,,,T3,0.0,3.692877,0.35
+46,"Malapane, O.L.; Chanza, N.; Musakwa, W.",10.1016/j.envsci.2024.103861,2024,V4,Vulnerabilidade Jurídica e Fundiária,Documentation status / knowledge formalization,30,,,30,,,,,,,T3,-0.223144,0.307403,0.35
+46,"Malapane, O.L.; Chanza, N.; Musakwa, W.",10.1016/j.envsci.2024.103861,2024,V5,Organização Social e Governança,External pressure / land use change indicator,30,,,30,,,,,,,T3,0.470004,1.229614,0.35
+48,"Rodríguez, J.P.; Ørting, B.; Andreasen, C.",10.1007/s10722-017-0544-y,2018,V1,Erosão Intergeracional e Migração,Agrobiodiversidade,17,,,3,,,,,,,T2a,1.505724,0.272028,0.15
+48,"Rodríguez, J.P.; Ørting, B.; Andreasen, C.",10.1007/s10722-017-0544-y,2018,V2,Complexidade e Singularidade Biocultural,Transmissao Intergeracional,17,,,13,,,,,,,T4,0.182322,1.20033,0.5
+48,"Rodríguez, J.P.; Ørting, B.; Andreasen, C.",10.1007/s10722-017-0544-y,2018,V2,Complexidade e Singularidade Biocultural,Complexidade Cultural,17,,,13,,,,,,,T3,0.182322,0.718598,0.35
+48,"Rodríguez, J.P.; Ørting, B.; Andreasen, C.",10.1007/s10722-017-0544-y,2018,V3,Status de Documentação,Seguranca Alimentar,17,,,13,,,,,,,T4,0.182322,1.20033,0.5
+48,"Rodríguez, J.P.; Ørting, B.; Andreasen, C.",10.1007/s10722-017-0544-y,2018,V4,Vulnerabilidade Jurídica e Fundiária,Status de Documentacao,17,,,13,,,,,,,T4,-0.223144,0.53348,0.5
+48,"Rodríguez, J.P.; Ørting, B.; Andreasen, C.",10.1007/s10722-017-0544-y,2018,V5,Organização Social e Governança,Governanca/Resiliencia,17,,,13,,,,,,,T4,0.470004,2.133921,0.5
+37,,,,V1,Erosão Intergeracional e Migração,Agrobiodiversidade,30,,,30,,,,,,,T3,-0.223144,0.307403,0.35
+37,,,,V2,Complexidade e Singularidade Biocultural,Transmissão Intergeracional,30,,,30,,,,,,,T3,-0.223144,0.307403,0.35
+37,,,,V2,Complexidade e Singularidade Biocultural,Complexidade Cultural,30,,,30,,,,,,,T3,-0.223144,0.307403,0.35
+37,,,,V3,Status de Documentação,Segurança Alimentar,30,,,30,,,,,,,T3,-0.223144,0.307403,0.35
+37,,,,V4,Vulnerabilidade Jurídica e Fundiária,Status de Documentação,30,,,30,,,,,,,T3,-0.223144,0.307403,0.35
+37,,,,V5,Organização Social e Governança,Governança/Resiliência,30,,,30,,,,,,,T3,0.182322,0.691658,0.35
+39,,,,V1,Erosão Intergeracional e Migração,Agrobiodiversidade,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+39,,,,V2,Complexidade e Singularidade Biocultural,Transmissao Intergeracional,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+39,,,,V2,Complexidade e Singularidade Biocultural,Complexidade Cultural,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+39,,,,V3,Status de Documentação,Seguranca Alimentar,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+39,,,,V4,Vulnerabilidade Jurídica e Fundiária,Status de Documentacao,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+39,,,,V5,Organização Social e Governança,Governanca/Resiliencia,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+1,Gonçalves M.C.,10.2993/0278-0771-42.2.241,2022,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+1,Gonçalves M.C.,10.2993/0278-0771-42.2.241,2022,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+1,Gonçalves M.C.,10.2993/0278-0771-42.2.241,2022,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+2,Calvet-Mir L.,10.1080/08941920.2015.1094711,2016,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+2,Calvet-Mir L.,10.1080/08941920.2015.1094711,2016,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+2,Calvet-Mir L.,10.1080/08941920.2015.1094711,2016,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+3,Bastos J.G.,10.3389/ffgc.2022.696757,2022,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+3,Bastos J.G.,10.3389/ffgc.2022.696757,2022,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+3,Bastos J.G.,10.3389/ffgc.2022.696757,2022,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+4,Romero-Silva M.J.,10.1186/s40529-025-00488-6,2026,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+4,Romero-Silva M.J.,10.1186/s40529-025-00488-6,2026,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T3,0.182322,0.691658,0.35
+4,Romero-Silva M.J.,10.1186/s40529-025-00488-6,2026,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+5,de Sousa T.B.,10.18472/SustDeb.v15n3.2024.55679,2024,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+5,de Sousa T.B.,10.18472/SustDeb.v15n3.2024.55679,2024,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+5,de Sousa T.B.,10.18472/SustDeb.v15n3.2024.55679,2024,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+6,Sarmiento F.O.,10.3390/geographies3010002,2023,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+6,Sarmiento F.O.,10.3390/geographies3010002,2023,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+6,Sarmiento F.O.,10.3390/geographies3010002,2023,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+7,Aldasoro Maya E.M.,10.3389/fsufs.2022.1081400,2023,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+7,Aldasoro Maya E.M.,10.3389/fsufs.2022.1081400,2023,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+7,Aldasoro Maya E.M.,10.3389/fsufs.2022.1081400,2023,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+8,Franco-Moraes J.,10.5751/ES-13711-280137,2023,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+8,Franco-Moraes J.,10.5751/ES-13711-280137,2023,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+8,Franco-Moraes J.,10.5751/ES-13711-280137,2023,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+9,Latorre E.C.,10.15451/ec2018-03-07.04-1-34,2018,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+9,Latorre E.C.,10.15451/ec2018-03-07.04-1-34,2018,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+9,Latorre E.C.,10.15451/ec2018-03-07.04-1-34,2018,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+10,Mobarak C.,10.1659/mrd.2024.00024,2025,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+10,Mobarak C.,10.1659/mrd.2024.00024,2025,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+10,Mobarak C.,10.1659/mrd.2024.00024,2025,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+11,Andreotti F.,10.1007/s13593-023-00891-y,2023,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+11,Andreotti F.,10.1007/s13593-023-00891-y,2023,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T3,0.0,3.692877,0.35
+11,Andreotti F.,10.1007/s13593-023-00891-y,2023,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+12,Suwardi A.B.,10.1016/j.ecofro.2025.10.014,2025,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+12,Suwardi A.B.,10.1016/j.ecofro.2025.10.014,2025,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+12,Suwardi A.B.,10.1016/j.ecofro.2025.10.014,2025,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+13,Plieninger T.,10.1007/s11625-022-01155-6,2023,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+13,Plieninger T.,10.1007/s11625-022-01155-6,2023,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+13,Plieninger T.,10.1007/s11625-022-01155-6,2023,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+14,Oloriz C.,10.3390/SU12187320,2020,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+14,Oloriz C.,10.3390/SU12187320,2020,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+14,Oloriz C.,10.3390/SU12187320,2020,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+15,Tran T.A.,10.1007/s13280-025-02172-2,2025,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+15,Tran T.A.,10.1007/s13280-025-02172-2,2025,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+15,Tran T.A.,10.1007/s13280-025-02172-2,2025,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+16,Saiba Y.,10.13057/biodiv/d240861,2023,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+16,Saiba Y.,10.13057/biodiv/d240861,2023,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+16,Saiba Y.,10.13057/biodiv/d240861,2023,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+17,Vázquez-Delfin P.,10.1016/j.heliyon.2022.e09805,2022,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+17,Vázquez-Delfin P.,10.1016/j.heliyon.2022.e09805,2022,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+17,Vázquez-Delfin P.,10.1016/j.heliyon.2022.e09805,2022,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+18,Nord A.,10.1002/ldr.3582,2020,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+18,Nord A.,10.1002/ldr.3582,2020,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+18,Nord A.,10.1002/ldr.3582,2020,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+19,Rollo M.F.,10.3390/su17094030,2025,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+19,Rollo M.F.,10.3390/su17094030,2025,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+19,Rollo M.F.,10.3390/su17094030,2025,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+20,Sibanda M.,10.1186/s40066-025-00573-w,2025,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+20,Sibanda M.,10.1186/s40066-025-00573-w,2025,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+20,Sibanda M.,10.1186/s40066-025-00573-w,2025,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+21,Tabe-Ojong M.P.,10.1002/ldr.4569,2023,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+21,Tabe-Ojong M.P.,10.1002/ldr.4569,2023,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+21,Tabe-Ojong M.P.,10.1002/ldr.4569,2023,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+22,Aniah P.,10.1016/j.heliyon.2019.e01492,2019,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+22,Aniah P.,10.1016/j.heliyon.2019.e01492,2019,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+22,Aniah P.,10.1016/j.heliyon.2019.e01492,2019,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T2b,0.369843,0.039027,0.25
+23,Møller V.,10.1007/s11205-023-03063-3,2023,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+23,Møller V.,10.1007/s11205-023-03063-3,2023,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+23,Møller V.,10.1007/s11205-023-03063-3,2023,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+24,Whaley O.Q.,10.11646/phytotaxa.389.1.1,2019,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+24,Whaley O.Q.,10.11646/phytotaxa.389.1.1,2019,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+24,Whaley O.Q.,10.11646/phytotaxa.389.1.1,2019,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+25,Alemayehu A.,10.1016/j.envdev.2023.100908,2023,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+25,Alemayehu A.,10.1016/j.envdev.2023.100908,2023,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+25,Alemayehu A.,10.1016/j.envdev.2023.100908,2023,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,-0.223144,0.51348,0.5
+26,Zeleke E.B.,10.1016/j.indic.2025.100927,2025,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+26,Zeleke E.B.,10.1016/j.indic.2025.100927,2025,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+26,Zeleke E.B.,10.1016/j.indic.2025.100927,2025,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+27,La Rosa A.,10.1186/s13002-021-00470-z,2021,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+27,La Rosa A.,10.1186/s13002-021-00470-z,2021,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+27,La Rosa A.,10.1186/s13002-021-00470-z,2021,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+28,"Montoya-Greenheck, F",10.1007/978-3-319-99513-7_23,2018,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+28,"Montoya-Greenheck, F",10.1007/978-3-319-99513-7_23,2018,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+28,"Montoya-Greenheck, F",10.1007/978-3-319-99513-7_23,2018,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+29,"Fernández-Llamazares, A; Cabeza, M",10.1111/conl.12398,2018,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+29,"Fernández-Llamazares, A; Cabeza, M",10.1111/conl.12398,2018,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+29,"Fernández-Llamazares, A; Cabeza, M",10.1111/conl.12398,2018,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+30,"Gerner, IR; Zerbe, S; Säumel, I",10.1177/02780771251349282,2025,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+30,"Gerner, IR; Zerbe, S; Säumel, I",10.1177/02780771251349282,2025,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+30,"Gerner, IR; Zerbe, S; Säumel, I",10.1177/02780771251349282,2025,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+31,"Frascaroli, F; Bhagwat, S; Guarino, R; Chiarucci,",10.1007/s13280-015-0738-5,2016,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+31,"Frascaroli, F; Bhagwat, S; Guarino, R; Chiarucci,",10.1007/s13280-015-0738-5,2016,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+31,"Frascaroli, F; Bhagwat, S; Guarino, R; Chiarucci,",10.1007/s13280-015-0738-5,2016,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+32,"Edo, K; Kidane, L; Beyene, T",10.4314/mejs.v16i1.6,2024,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+32,"Edo, K; Kidane, L; Beyene, T",10.4314/mejs.v16i1.6,2024,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+32,"Edo, K; Kidane, L; Beyene, T",10.4314/mejs.v16i1.6,2024,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+33,"Essien, EO; Lamichhane, S; Kalkat, A",10.54272/sach.2025.v39n1a6,2025,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+33,"Essien, EO; Lamichhane, S; Kalkat, A",10.54272/sach.2025.v39n1a6,2025,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+33,"Essien, EO; Lamichhane, S; Kalkat, A",10.54272/sach.2025.v39n1a6,2025,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+34,"Haghverdi, NP; Davtalab, J; Ghasemi, M; Norouzi, M",10.22034/BAGH.2025.486616.5698,2025,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+34,"Haghverdi, NP; Davtalab, J; Ghasemi, M; Norouzi, M",10.22034/BAGH.2025.486616.5698,2025,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+34,"Haghverdi, NP; Davtalab, J; Ghasemi, M; Norouzi, M",10.22034/BAGH.2025.486616.5698,2025,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+35,"Mondal, MSH",10.2298/IJGI240802003M,2025,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+35,"Mondal, MSH",10.2298/IJGI240802003M,2025,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+35,"Mondal, MSH",10.2298/IJGI240802003M,2025,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T2a,-0.223144,0.298503,0.3
+37,"Arce, A; de Haan, S; Burra, DD; Ccanto, R",10.3389/fsufs.2018.00043,2018,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+37,"Arce, A; de Haan, S; Burra, DD; Ccanto, R",10.3389/fsufs.2018.00043,2018,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+37,"Arce, A; de Haan, S; Burra, DD; Ccanto, R",10.3389/fsufs.2018.00043,2018,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T3,0.182322,0.691658,0.35
+38,"García, RM; Parra-Quijano, M; Martínez-Fernández,",10.1002/csc2.20620,2021,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+38,"García, RM; Parra-Quijano, M; Martínez-Fernández,",10.1002/csc2.20620,2021,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+38,"García, RM; Parra-Quijano, M; Martínez-Fernández,",10.1002/csc2.20620,2021,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+39,"Loos, J; von Wehrden, H",10.3390/su10051395,2018,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+39,"Loos, J; von Wehrden, H",10.3390/su10051395,2018,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+39,"Loos, J; von Wehrden, H",10.3390/su10051395,2018,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+40,"Avila, JVD; Clement, CR; Junqueira, AB; Ticktin, T",10.2993/0278-0771-41.3.409,2021,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+40,"Avila, JVD; Clement, CR; Junqueira, AB; Ticktin, T",10.2993/0278-0771-41.3.409,2021,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+40,"Avila, JVD; Clement, CR; Junqueira, AB; Ticktin, T",10.2993/0278-0771-41.3.409,2021,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.182322,1.15533,0.5
+41,"Mugi-Ngenga, EW; Mucheru-Muna, MW; Mugwe, JN; Nget",10.1016/j.jrurstud.2015.11.004,2016,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+41,"Mugi-Ngenga, EW; Mucheru-Muna, MW; Mugwe, JN; Nget",10.1016/j.jrurstud.2015.11.004,2016,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+41,"Mugi-Ngenga, EW; Mucheru-Muna, MW; Mugwe, JN; Nget",10.1016/j.jrurstud.2015.11.004,2016,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T2b,0.369843,0.039027,0.25
+42,"Cantor, M; Santos-Silva, B; Daura-Jorge, FG; Macha",10.1002/pan3.10679,2025,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+42,"Cantor, M; Santos-Silva, B; Daura-Jorge, FG; Macha",10.1002/pan3.10679,2025,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+42,"Cantor, M; Santos-Silva, B; Daura-Jorge, FG; Macha",10.1002/pan3.10679,2025,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+43,"Aswani, S.; Ferse, S.C.A.; Stäbler, M.",10.1016/j.ecolind.2020.106865,2020,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+43,"Aswani, S.; Ferse, S.C.A.; Stäbler, M.",10.1016/j.ecolind.2020.106865,2020,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+43,"Aswani, S.; Ferse, S.C.A.; Stäbler, M.",10.1016/j.ecolind.2020.106865,2020,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+44,"Bussmann, R.W.; Paniagua-Zambrana, N.Y.",10.1007/s12231-018-9401-y,2018,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+44,"Bussmann, R.W.; Paniagua-Zambrana, N.Y.",10.1007/s12231-018-9401-y,2018,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+44,"Bussmann, R.W.; Paniagua-Zambrana, N.Y.",10.1007/s12231-018-9401-y,2018,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+45,"Ghanimi, R.; Ouhammou, A.; Babahmad, R.A.",10.4314/ejhs.v32i6.22,2022,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+45,"Ghanimi, R.; Ouhammou, A.; Babahmad, R.A.",10.4314/ejhs.v32i6.22,2022,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+45,"Ghanimi, R.; Ouhammou, A.; Babahmad, R.A.",10.4314/ejhs.v32i6.22,2022,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+46,"Malapane, O.L.; Chanza, N.; Musakwa, W.",10.1016/j.envsci.2024.103861,2024,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+46,"Malapane, O.L.; Chanza, N.; Musakwa, W.",10.1016/j.envsci.2024.103861,2024,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+46,"Malapane, O.L.; Chanza, N.; Musakwa, W.",10.1016/j.envsci.2024.103861,2024,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+47,"Rodríguez-Cruz, L.A.; Álvarez-Berríos, N.; Niles, M.T.",10.1088/1748-9326/ac6004,2022,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+47,"Rodríguez-Cruz, L.A.; Álvarez-Berríos, N.; Niles, M.T.",10.1088/1748-9326/ac6004,2022,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+47,"Rodríguez-Cruz, L.A.; Álvarez-Berríos, N.; Niles, M.T.",10.1088/1748-9326/ac6004,2022,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T2a,0.470004,1.194013,0.3
+48,"Rodríguez, J.P.; Ørting, B.; Andreasen, C.",10.1007/s10722-017-0544-y,2018,V6,Vitalidade Linguística,Linguistic vitality / ethnolinguistic indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5
+48,"Rodríguez, J.P.; Ørting, B.; Andreasen, C.",10.1007/s10722-017-0544-y,2018,V7,Integração ao Mercado,Market integration / commercialization indicator,30,,,30,,,,,,,T3,0.182322,0.691658,0.35
+48,"Rodríguez, J.P.; Ørting, B.; Andreasen, C.",10.1007/s10722-017-0544-y,2018,V8,Exposição Climática,Climate exposure / extreme events indicator,30,,,30,,,,,,,T4,0.0,6.168503,0.5

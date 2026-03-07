@@ -38,8 +38,8 @@ from openpyxl.styles import PatternFill, Font
 # ── Caminhos ──────────────────────────────────────────────────────
 BASE = os.path.dirname(os.path.abspath(__file__))
 DIR_DADOS = os.path.join(BASE, "..", "2-BANCO_DADOS", "2-DADOS_TABULADOS")
-FP_COD = os.path.join(DIR_DADOS, "bd_codificacao_qualitativa.xlsx")
-FP_ORIG = os.path.join(DIR_DADOS, "bd_extracao_PREENCHIDO.xlsx")
+FP_COD = os.path.join(DIR_DADOS, "bd_codificacao_qualitativa_V8.xlsx")
+FP_ORIG = os.path.join(DIR_DADOS, "bd_extracao_PREENCHIDO_V8.xlsx")
 FP_OUT_XLSX = os.path.join(DIR_DADOS, "bd_extracao_convertido.xlsx")
 FP_OUT_CSV = os.path.join(DIR_DADOS, "bd_extracao_convertido.csv")
 
@@ -277,13 +277,23 @@ def main():
 
     # CV mediano por dimensão (para calibrar conversão T2)
     cv_dim = calcular_cv_por_dimensao(registros_t1)
-    print("CV medianos por dimensão (referência T1):")
+    print("CV medianos por dimensao (referencia T1):")
     for d in sorted(cv_dim.keys()):
         print(f"  {d}: CV = {cv_dim[d]:.4f}" if cv_dim[d] else f"  {d}: sem dados T1")
 
+    # Fallback CV_ref para dimensões sem T1 (V6, V7, V8):
+    # usar mediana dos CVs de todas as dimensões com T1
+    all_cvs = [v for v in cv_dim.values() if v is not None]
+    if all_cvs:
+        all_cvs.sort()
+        cv_fallback = all_cvs[len(all_cvs) // 2]
+    else:
+        cv_fallback = 0.5  # prior conservador
+    print(f"  CV fallback (mediana global): {cv_fallback:.4f}")
+
     # ── 2. Ler registros codificados ──
     if not os.path.exists(FP_COD):
-        print(f"ERRO: Arquivo de codificação não encontrado: {FP_COD}")
+        print(f"ERRO: Arquivo de codificacao nao encontrado: {FP_COD}")
         print("Execute 30_preparar_codificacao_quali.py primeiro e preencha a planilha.")
         return
 
@@ -351,6 +361,8 @@ def main():
 
         dim = rec.get("Dimensao", "")
         cv_ref = cv_dim.get(dim)
+        if cv_ref is None:
+            cv_ref = cv_fallback  # V6, V7, V8 sem T1
         sigma_conv = 0.0
 
         lnrr = None
@@ -498,7 +510,7 @@ def main():
     ws_res.cell(row=12, column=5, value="k T3+T4").font = Font(bold=True)
     ws_res.cell(row=12, column=6, value="lnRR médio").font = Font(bold=True)
 
-    dims = ["V1", "V2", "V3", "V4", "V5", "V6"]
+    dims = ["V1", "V2", "V3", "V4", "V5", "V6", "V7", "V8"]
     for idx, dim in enumerate(dims, 13):
         dim_recs = [r for r in todos if r["Dimensao"] == dim]
         ws_res.cell(row=idx, column=1, value=dim)
@@ -520,21 +532,21 @@ def main():
         for r in todos:
             writer.writerow({h: r.get(h) for h in out_headers})
 
-    print(f"\n✔ Banco convertido salvo em: {FP_OUT_XLSX}")
-    print(f"✔ CSV backup salvo em: {FP_OUT_CSV}")
-    print(f"\n=== RESUMO DA CONVERSÃO ===")
+    print(f"\n[OK] Banco convertido salvo em: {FP_OUT_XLSX}")
+    print(f"[OK] CSV backup salvo em: {FP_OUT_CSV}")
+    print(f"\n=== RESUMO DA CONVERSAO ===")
     for k, v in resumo:
         print(f"  {k}: {v}")
 
-    print(f"\n=== POR DIMENSÃO ===")
+    print(f"\n=== POR DIMENSAO ===")
     for dim in dims:
         dim_recs = [r for r in todos if r["Dimensao"] == dim]
         k_total = len(dim_recs)
         k_t1 = sum(1 for r in dim_recs if r["Tier"] == "T1")
         k_t2 = sum(1 for r in dim_recs if r["Tier"].startswith("T2"))
         k_t34 = sum(1 for r in dim_recs if r["Tier"] in ("T3", "T4"))
-        status = "Confirmatória" if k_total >= 10 else ("Exploratória" if k_total >= 3 else "Narrativa")
-        print(f"  {dim}: k={k_total} (T1={k_t1}, T2={k_t2}, T3/T4={k_t34}) → {status}")
+        status = "Confirmatoria" if k_total >= 10 else ("Exploratoria" if k_total >= 3 else "Narrativa")
+        print(f"  {dim}: k={k_total} (T1={k_t1}, T2={k_t2}, T3/T4={k_t34}) -> {status}")
 
 
 if __name__ == "__main__":

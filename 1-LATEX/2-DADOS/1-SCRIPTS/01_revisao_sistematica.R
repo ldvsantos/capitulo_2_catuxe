@@ -1,6 +1,6 @@
 # ================================================================
 # 01_revisao_sistematica.R -- Importacao, triagem e PRISMA
-# Artigo 2: Meta-analise de vulnerabilidade biocultural (V1-V6)
+# Artigo 2: Meta-analise de vulnerabilidade biocultural (V1-V8)
 # ================================================================
 
 source(here::here("2-DADOS", "1-SCRIPTS", "00_setup.R"))
