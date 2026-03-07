@@ -1,0 +1,41 @@
+{
+  "title": "Vulnerabilidade biocultural em Saberes e Sistemas Agrícolas Tradicionais: uma meta-análise quantitativa",
+  "description": "Dados, código-fonte e manuscrito do artigo que conduz meta-análise hierárquica de três níveis (REML, RVE-CR2) sobre vulnerabilidade biocultural de Saberes e Sistemas Agrícolas Tradicionais (SSAT), integrando 47 estudos (363 observações) codificados em oito dimensões de vulnerabilidade (V1–V8), com lnRR como métrica de efeito.",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "creators": [
+    {
+      "name": "Oliveira, Catuxe Varjão de Santana",
+      "affiliation": "Programa de Pós-Graduação em Ciências da Propriedade Intelectual (PPGPI), Universidade Federal de Sergipe",
+      "orcid": ""
+    },
+    {
+      "name": "Santos, Luiz Diego Vidal",
+      "affiliation": "Universidade Estadual de Feira de Santana",
+      "orcid": ""
+    }
+  ],
+  "keywords": [
+    "Propriedade intelectual coletiva",
+    "Salvaguarda patrimonial",
+    "Meta-análise hierárquica",
+    "Vulnerabilidade jurídica",
+    "Transmissão intergeracional",
+    "Integração ao mercado",
+    "Saberes agrícolas tradicionais",
+    "Vulnerabilidade biocultural"
+  ],
+  "license": {
+    "id": "CC-BY-4.0"
+  },
+  "doi": "10.5281/zenodo.18901340",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/ldvsantos/capitulo_2_catuxe",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "language": "por",
+  "access_right": "open"
+}

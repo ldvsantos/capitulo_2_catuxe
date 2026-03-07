@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: >-
+  Vulnerabilidade biocultural em Saberes e Sistemas Agrícolas
+  Tradicionais: uma meta-análise quantitativa
+message: >-
+  Se você utilizar este dataset ou código, por favor cite conforme abaixo.
+type: dataset
+doi: 10.5281/zenodo.18901340
+authors:
+  - family-names: Oliveira
+    given-names: Catuxe Varjão de Santana
+    affiliation: >-
+      Programa de Pós-Graduação em Ciências da Propriedade Intelectual
+      (PPGPI), Universidade Federal de Sergipe
+    email: catuxe@academico.ufs.br
+  - family-names: Santos
+    given-names: Luiz Diego Vidal
+    affiliation: Universidade Estadual de Feira de Santana
+    email: ldvsantos@uefs.br
+repository-code: https://github.com/ldvsantos/capitulo_2_catuxe
+keywords:
+  - Propriedade intelectual coletiva
+  - Salvaguarda patrimonial
+  - Meta-análise hierárquica
+  - Vulnerabilidade jurídica
+  - Transmissão intergeracional
+  - Integração ao mercado
+  - Saberes agrícolas tradicionais
+  - Vulnerabilidade biocultural
+license: CC-BY-4.0
