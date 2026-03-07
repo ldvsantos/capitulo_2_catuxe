@@ -1,6 +1,6 @@
 # ================================================================
 # 07_outputs_ISB.R — Consolidação dos 4 outputs para o ISB
-# Artigo 2: Meta-análise de vulnerabilidade biocultural (V1–V6)
+# Artigo 2: Meta-análise de vulnerabilidade biocultural (V1–V8)
 #
 # Gera a tabela-resumo com as 4 entregas quantitativas que
 # alimentam o Índice de Salvaguarda Biocultural (ISB):

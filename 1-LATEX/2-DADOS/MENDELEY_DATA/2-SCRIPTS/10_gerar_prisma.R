@@ -1,7 +1,7 @@
 #!/usr/bin/env Rscript
 # ================================================================
 # 10_gerar_prisma.R — Fluxograma PRISMA 2020 (PT + EN)
-# Artigo 2: Meta-análise de vulnerabilidade biocultural (V1–V6)
+# Artigo 2: Meta-análise de vulnerabilidade biocultural (V1–V8)
 #
 # Adaptado de: artigo_1_catuxe / gerar_prisma_portugues.R
 # Gera diagrama PRISMA 2020 usando o pacote PRISMA2020 do R

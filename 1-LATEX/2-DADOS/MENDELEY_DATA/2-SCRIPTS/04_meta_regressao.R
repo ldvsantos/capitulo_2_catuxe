@@ -1,6 +1,6 @@
 # ================================================================
 # 04_meta_regressao.R — Meta-regressão multivariada e subgrupos
-# Artigo 2: Meta-análise de vulnerabilidade biocultural (V1–V6)
+# Artigo 2: Meta-análise de vulnerabilidade biocultural (V1–V8)
 # Adaptado de: 11-ARTIGO_MA / meta_regressao_manejo_1.R
 # ================================================================
 

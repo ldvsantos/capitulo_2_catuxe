@@ -1,5 +1,5 @@
 # ================================================================
-# 06_forest_plots.R — Forest plots por dimensão (V1–V6) e agregado
+# 06_forest_plots.R — Forest plots por dimensão (V1–V8) e agregado
 # Artigo 2: Meta-análise de vulnerabilidade biocultural
 # Adaptado de: 11-ARTIGO_MA / grafico_agregado.R,
 #              efeito_aleatorio_fisicas.R
@@ -106,7 +106,7 @@ meta_agg <- metagen(
   random   = TRUE
 )
 
-pdf(file.path(DIR_OUTPUT, "forest_agregado_V1_V6.pdf"), width = 11, height = 7)
+pdf(file.path(DIR_OUTPUT, "forest_agregado_V1_V8.pdf"), width = 11, height = 7)
 
 forest(
   meta_agg,
@@ -130,7 +130,7 @@ forest(
 )
 
 dev.off()
-cat("✔ Forest plot agregado V1–V6.\n")
+cat("✔ Forest plot agregado V1–V8.\n")
 
 # ===============================================================
 # 3. Forest plot com ggplot2 (publicação)
@@ -158,7 +158,7 @@ p <- ggplot(res_plot, aes(x = lnRR, y = label)) +
     plot.subtitle = element_text(size = 10, color = "gray40")
   )
 
-ggsave(file.path(DIR_OUTPUT, "forest_agregado_V1_V6.pdf"), p, width = 10, height = 6)
-ggsave(file.path(DIR_OUTPUT, "forest_agregado_V1_V6.png"), p, width = 10, height = 6, dpi = 300)
+ggsave(file.path(DIR_OUTPUT, "forest_agregado_V1_V8.pdf"), p, width = 10, height = 6)
+ggsave(file.path(DIR_OUTPUT, "forest_agregado_V1_V8.png"), p, width = 10, height = 6, dpi = 300)
 
 cat("✔ Forest plots concluídos e exportados.\n")

@@ -2,7 +2,7 @@
 # 05_vies_sensibilidade.R — Viés de publicação e análise de
 #                            sensibilidade (leave-one-out, NOS,
 #                            trim-and-fill)
-# Artigo 2: Meta-análise de vulnerabilidade biocultural (V1–V6)
+# Artigo 2: Meta-análise de vulnerabilidade biocultural (V1–V8)
 # Adaptado de: 11-ARTIGO_MA / efeito_aleatorio_estudos.R
 # ================================================================
 

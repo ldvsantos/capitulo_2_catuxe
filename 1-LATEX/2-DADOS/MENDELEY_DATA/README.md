@@ -7,7 +7,7 @@ This dataset supports the article **"Vulnerability of traditional agricultural k
 ## Contents
 
 ### 1-DATABASE/
-- **bd_extracao_convertido.xlsx** — Extraction database with coded variables for all 48 included studies (V1–V6 dimensions, tier classification, effect sizes).
+- **bd_extracao_convertido.xlsx** — Extraction database with coded variables aligned to the V1–V8 architecture, including tier classification and effect sizes.
 - **bd_codificacao_qualitativa.xlsx** — Qualitative coding of studies classified as Tier 3–4, including ordinal conversion parameters.
 - **PRISMA_artigo2.csv** — PRISMA 2020 flow diagram data (identification, screening, eligibility, inclusion counts).
 - **consolidado_final.bib** — BibTeX file with all references included in the systematic review.
@@ -18,7 +18,7 @@ R scripts numbered sequentially to reproduce the full analytical pipeline:
 - **01_revisao_sistematica.R** — Systematic review search strategy and screening.
 - **02_extracao_dados.R** — Data extraction and lnRR calculation.
 - **02b_integrar_evidencia_mista.R** — Integration of mixed evidence (quantitative + qualitative tiers).
-- **03_meta_analise_dimensao.R** — Random-effects meta-analysis by dimension (V1–V6).
+- **03_meta_analise_dimensao.R** — Random-effects meta-analysis by dimension (V1–V8).
 - **03b_modelo_bayesiano_brms.R** — Bayesian meta-analysis (sensitivity check).
 - **04_meta_regressao.R** — Meta-regression with geographic, community, and intervention moderators.
 - **05_vies_sensibilidade.R** — Publication bias (Egger, Begg, trim-and-fill) and sensitivity analyses (tier, rho, DL vs. REML).

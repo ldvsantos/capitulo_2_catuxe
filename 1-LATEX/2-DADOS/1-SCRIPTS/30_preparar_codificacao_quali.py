@@ -297,7 +297,7 @@ def main():
         ("1",
          "Ler abstract + resultados + tabelas do estudo original."),
         ("2",
-         "Identificar a comparação mais relevante para a dimensão V1-V6 atribuída."),
+         "Identificar a comparação mais relevante para a dimensão atribuída."),
         ("3",
          "Codificar Direcao e Intensidade de forma independente (R1 e R2)."),
         ("4",

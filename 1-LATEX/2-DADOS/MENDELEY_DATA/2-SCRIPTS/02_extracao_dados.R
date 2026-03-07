@@ -1,6 +1,6 @@
 # ================================================================
 # 02_extracao_dados.R — Extração, cálculo de lnRR e imputação MICE
-# Artigo 2: Meta-análise de vulnerabilidade biocultural (V1–V6)
+# Artigo 2: Meta-análise de vulnerabilidade biocultural (V1–V8)
 # Adaptado de: 11-ARTIGO_MA / efeito_aleatorio_multi.R
 # ================================================================
 
@@ -10,7 +10,7 @@ source("00_setup.R")
 # 1. Carregar banco de dados de extração
 # ---------------------------------------------------------------
 # O banco deve conter as colunas:
-#   Study, Dimensao (V1–V6), Proxy, n_T, m_T, sd_T, n_C, m_C, sd_C,
+#   Study, Dimensao (V1–V8), Proxy, n_T, m_T, sd_T, n_C, m_C, sd_C,
 #   Tipo_Intervencao, Regiao, Tipo_Comunidade, Tempo_Intervencao, NOS
 
 bd <- readxl::read_excel(

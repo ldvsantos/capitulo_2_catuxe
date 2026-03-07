@@ -1,6 +1,6 @@
 ﻿# ================================================================
 # 08_busca_scopus_wos.py — Raspagem automatizada Scopus + WoS
-# Artigo 2: Meta-análise de vulnerabilidade biocultural (V1–V6)
+# Artigo 2: Meta-análise de vulnerabilidade biocultural (V1–V8)
 #
 # Executa as buscas dos 3 blocos semânticos descritos no §2.4
 # do manuscrito (PRISMA 2020) nas bases Scopus e Web of Science.

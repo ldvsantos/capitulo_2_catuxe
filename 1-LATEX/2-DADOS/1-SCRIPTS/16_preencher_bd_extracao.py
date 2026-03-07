@@ -3,7 +3,7 @@
 16_preencher_bd_extracao.py
 ===========================
 Preenche o bd_extracao.xlsx com:
-  1. 6 estudos resgatados (IDs 43-48) — metadados + 6 dimensões
+    1. 6 estudos resgatados (IDs 43-48) — metadados + bloco dimensional original
   2. Notas com dados quantitativos extraídos dos PDFs
   3. Pre-fill de n_T/m_T/sd_T/n_C/m_C/sd_C onde claramente disponíveis
   4. Preenchimento de Proxy, Tipo_Intervencao, Regiao, Tipo_Comunidade
@@ -402,7 +402,7 @@ def main():
             next_row += 1
             added_count += 1
         existing_ids.add(sid)
-        print(f"  + Adicionado ID={sid} ({study['study'][:30]}) com 6 dimensões")
+        print(f"  + Adicionado ID={sid} ({study['study'][:30]}) com bloco dimensional original")
 
     print(f"\nTotal linhas adicionadas: {added_count}")
     print(f"Total linhas agora: {next_row - 1}")

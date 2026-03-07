@@ -33,7 +33,7 @@ O pipeline multi-tier converteu toda a evidência qualitativa em tamanhos de efe
 | Métrica | Valor |
 |---|---|
 | Total estudos finais | **47** (48 − 1 excluído ID=36) |
-| Registros convertidos | **222** (37 estudos × 6 dimensões) |
+| Registros convertidos | **222** na etapa legada, posteriormente rearticulados para a arquitetura V1–V8 |
 | T1 (mean±SD direto) | 18 (5 estudos) |
 | T2a (p-value → lnRR) | 21 |
 | T2b (ANOVA → lnRR) | 21 |
@@ -64,7 +64,7 @@ O pipeline multi-tier converteu toda a evidência qualitativa em tamanhos de efe
 | T3 | Ordinal com tabela cruzada → lnOR → lnRR | 74 | 33.3% |
 | T4 | Qualitativo puro → ordinal → lnOR → lnRR (σ×1.5) | 88 | 39.6% |
 
-**Nota:** ID=36 excluído da codificação (dados insuficientes). Total final: 47 estudos × 6 dimensões = 222 registros (37 estudos com dados válidos por dimensão).
+**Nota:** ID=36 excluído da codificação (dados insuficientes). O total de 222 registros refere-se à etapa legada de conversão, anterior à consolidação final da arquitetura V1–V8.
 
 ### Estudos T1 (mean±SD direto)
 
@@ -73,8 +73,8 @@ O pipeline multi-tier converteu toda a evidência qualitativa em tamanhos de efe
 | 18 | V1, V2 | SOC%, slope accuracy (Nord et al.) |
 | 20 | V2-V6 | Ethnobotanical knowledge scores |
 | 31 | V1, V2, V5, V6 | Land-cover diversity (Frascaroli) |
-| 45 | V1-V6 | Farm diversity metrics |
-| 47 | V1-V6 | Farm/food security (Rodriguez-Cruz) |
+| 45 | Multidimensional | Farm diversity metrics |
+| 47 | Multidimensional | Farm/food security (Rodriguez-Cruz) |
 
 ---
 
@@ -103,7 +103,7 @@ O pipeline multi-tier converteu toda a evidência qualitativa em tamanhos de efe
 
 **Passo 1. Atualizar Resultados (§3.2–3.5)** ⭐ PRÓXIMO  
 Substituir texto placeholder por resultados reais:
-- Rankings de $\overline{lnRR}$ por dimensão (V1–V6) — dados em `resultados_por_dimensao.xlsx`
+- Rankings de $\overline{lnRR}$ por dimensão (V1–V8) — dados em `resultados_por_dimensao.xlsx`
 - Índices de heterogeneidade ($I^2$, $\tau^2$) — dados em `resultados_por_dimensao.rds`
 - Coeficientes de meta-regressão — dados em `coeficientes_meta_regressao.xlsx`
 - Referências a forest plots e funnel plots gerados
@@ -152,7 +152,7 @@ PIPELINE EXECUTADO                  STATUS
          ▼                                     ▼
     bd_lnRR_misto.rds               FASE 2: PIPELINE ✅ COMPLETO
          │                          ┌─────────────────────────────────────┐
-         ├── rma.mv 3 níveis ─────► │ 03: Meta-análise (V1–V6)            │
+         ├── rma.mv 3 níveis ─────► │ 03: Meta-análise (V1–V8)            │
          ├── Meta-regressão ──────► │ 04: 3 moderadores                   │
          ├── Viés + sensibil. ───► │ 05: Funnel, LOO, trimfill, tier      │
          ├── Forest plots ────────► │ 06: 8 PDFs + 1 PNG                  │
@@ -210,14 +210,14 @@ PIPELINE EXECUTADO                  STATUS
 | Arquivo | Descrição | Status |
 |---|---|---|
 | `bd_lnRR_misto.rds` | Base integrada multi-tier | ✅ |
-| `resultados_por_dimensao.rds/.xlsx` | Resultados meta-análise V1–V6 | ✅ |
+| `resultados_por_dimensao.rds/.xlsx` | Resultados meta-análise V1–V8 | ✅ |
 | `meta_regressao.rds` | Modelo meta-regressão | ✅ |
 | `coeficientes_meta_regressao.xlsx` | Coeficientes estimados | ✅ |
 | `subgrupos.xlsx` / `moderadores_exploratoria.xlsx` | Análise subgrupos | ✅ |
-| `forest_V1–V6.pdf` | Forest plots por dimensão | ✅ |
-| `forest_agregado_V1_V6.pdf` | Forest plot agregado | ✅ |
-| `forest_ggplot_V1_V6.pdf/.png` | Forest plot ggplot | ✅ |
-| `funnel_V1–V6.pdf` | Funnel plots | ✅ |
+| `forest_V1.pdf` ... `forest_V8.pdf` | Forest plots por dimensão | ✅ |
+| `forest_agregado_V1_V8.pdf/.png` | Forest plot agregado | ✅ |
+| `forest_ggplot_V1_V8.pdf/.png` | Forest plot ggplot | ✅ |
+| `funnel_V1.pdf` ... `funnel_V8.pdf` | Funnel plots | ✅ |
 | `vies_publicacao.xlsx` / `trimfill.xlsx` | Diagnóstico viés | ✅ |
 | `leave_one_out.xlsx` | Análise sensibilidade LOO | ✅ |
 | `sensibilidade_rho.xlsx` / `sensibilidade_tier.xlsx` | Sensibilidade ρ e tier | ✅ |
