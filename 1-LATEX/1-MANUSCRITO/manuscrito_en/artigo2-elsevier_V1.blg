@@ -5,49 +5,46 @@ Reallocating 'name_of_file' (item size: 1) to 9 items.
 The style file: plainnat.bst
 Reallocating 'name_of_file' (item size: 1) to 11 items.
 Database file #1: references.bib
-Warning--I didn't find a database entry for "LewisSiomns2010"
-Warning--I didn't find a database entry for "ZentMaffi2009"
-Warning--I didn't find a database entry for "Godoy2005"
 Warning--empty journal in Wynberg2015
-You've used 84 entries,
+You've used 87 entries,
             2773 wiz_defined-function locations,
-            1225 strings with 24357 characters,
-and the built_in function-call counts, 41299 in all, are:
-= -- 3672
-> -- 2699
-< -- 50
-+ -- 922
-- -- 837
-* -- 3574
-:= -- 6626
-add.period$ -- 330
-call.type$ -- 84
-change.case$ -- 517
-chr.to.int$ -- 83
-cite$ -- 169
-duplicate$ -- 1693
-empty$ -- 3087
-format.name$ -- 957
-if$ -- 8441
+            1241 strings with 25086 characters,
+and the built_in function-call counts, 42724 in all, are:
+= -- 3807
+> -- 2789
+< -- 52
++ -- 952
+- -- 864
+* -- 3693
+:= -- 6854
+add.period$ -- 341
+call.type$ -- 87
+change.case$ -- 536
+chr.to.int$ -- 86
+cite$ -- 175
+duplicate$ -- 1749
+empty$ -- 3190
+format.name$ -- 991
+if$ -- 8733
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 97
-newline$ -- 506
-num.names$ -- 336
-pop$ -- 910
+missing$ -- 99
+newline$ -- 523
+num.names$ -- 348
+pop$ -- 936
 preamble$ -- 1
-purify$ -- 445
+purify$ -- 460
 quote$ -- 0
-skip$ -- 1321
+skip$ -- 1368
 stack$ -- 0
-substring$ -- 1399
-swap$ -- 88
+substring$ -- 1455
+swap$ -- 90
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 854
+type$ -- 887
 warning$ -- 1
-while$ -- 344
+while$ -- 357
 width$ -- 0
-write$ -- 1252
-(There were 4 warnings)
+write$ -- 1296
+(There was 1 warning)

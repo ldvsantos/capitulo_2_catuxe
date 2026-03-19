@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.23)  19 MAR 2026 14:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.23)  19 MAR 2026 16:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -421,7 +421,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 {C:/Users/vidal/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3] [4]
 
 pdfTeX warning: pdflatex (file ../../3-FIGURAS/prisma_flowdiagram_artigo2_en.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../../3-FIGURAS/prisma_flowdiagram_artigo2_en.pdf, id=239, 600.2425pt x 578.16pt>
+<../../3-FIGURAS/prisma_flowdiagram_artigo2_en.pdf, id=222, 600.2425pt x 578.16pt>
 File: ../../3-FIGURAS/prisma_flowdiagram_artigo2_en.pdf Graphic file (type pdf)
 <use ../../3-FIGURAS/prisma_flowdiagram_artigo2_en.pdf>
 Package pdftex.def Info: ../../3-FIGURAS/prisma_flowdiagram_artigo2_en.pdf  used on input line 100.
@@ -444,12 +444,12 @@ Underfull \hbox (badness 2903) in paragraph at lines 132--133
 
 LaTeX Warning: Float too large for page by 2.33124pt on input line 135.
 
-[6] [7]
+
 Overfull \hbox (3.00227pt too wide) in paragraph at lines 144--145
 []\T1/cmr/m/n/12 As bus-cas foram com-ple-men-tadas por \T1/cmr/m/it/12 back-ward \T1/cmr/m/n/12 e \T1/cmr/m/it/12 for-ward snow-balling \T1/cmr/m/n/12 (Google Scholar).
  []
 
-[8]
+[6] [7]
 Overfull \hbox (2.02333pt too wide) in paragraph at lines 167--167
 []\T1/cmr/bx/n/10 Dim.| 
  []
@@ -682,12 +682,12 @@ Overfull \hbox (1.23901pt too wide) in paragraph at lines 183--183
 
 LaTeX Warning: Float too large for page by 98.646pt on input line 186.
 
-[9] [10]
+[8] [9]
 Overfull \hbox (20.612pt too wide) in paragraph at lines 190--190
 []\T1/cmr/bx/n/14.4 Diagnóstico de disponi-bil-i-dade de ev-idên-cia e es-traté-gia analítica
  []
 
-[11] [12] [13]
+[10] [11] [12]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 247.
@@ -696,23 +696,23 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 247.
 
-[14]
+[13]
 Overfull \hbox (0.48065pt too wide) in paragraph at lines 261--262
 \T1/cmr/m/n/12 tornou im-prat-icável a im-putação múlti-pla (MICE) [[]van Bu-uren and Groothuis-Oudshoorn[],
  []
 
-[15]
+[14]
 Overfull \hbox (2.04839pt too wide) in paragraph at lines 291--292
 []\T1/cmr/m/n/12 O mod-elo hi-erárquico de efeitos mis-tos foi ajus-tado com es-ti-mador de máx-ima verossim-
  []
 
-[16]
-<../../3-FIGURAS/methods_flowchart.pdf, id=494, 407.08385pt x 497.30695pt>
+[15] [16]
+<../../3-FIGURAS/methods_flowchart.pdf, id=464, 407.08385pt x 497.30695pt>
 File: ../../3-FIGURAS/methods_flowchart.pdf Graphic file (type pdf)
 <use ../../3-FIGURAS/methods_flowchart.pdf>
 Package pdftex.def Info: ../../3-FIGURAS/methods_flowchart.pdf  used on input line 326.
 (pdftex.def)             Requested size: 373.3035pt x 456.05582pt.
- [17] [18 <../../3-FIGURAS/methods_flowchart.pdf>]
+ [17 <../../3-FIGURAS/methods_flowchart.pdf>] [18]
 Overfull \hbox (0.2488pt too wide) in paragraph at lines 352--353
 \T1/cmr/m/n/12 Dos 47 es-tu-dos fi-nais, cinco (10,6%) fornece-ram mé-dias e desvios-padrão com-ple-tos (Tier 1,
  []
@@ -722,42 +722,42 @@ Overfull \hbox (1.39291pt too wide) in paragraph at lines 352--353
 \T1/cmr/m/n/12 18 reg-istros), sete (14,9%) re-por-taram es-tatís-ti-cas in-fer-en-ci-ais con-vertíveis (Tier 2a: 21 reg-
  []
 
-[19] [20]
-<../../3-FIGURAS/forest_agregado_V1_V8.pdf, id=632, 794.97pt x 505.89pt>
+[19]
+<../../3-FIGURAS/forest_agregado_V1_V8.pdf, id=584, 794.97pt x 505.89pt>
 File: ../../3-FIGURAS/forest_agregado_V1_V8.pdf Graphic file (type pdf)
 <use ../../3-FIGURAS/forest_agregado_V1_V8.pdf>
 Package pdftex.def Info: ../../3-FIGURAS/forest_agregado_V1_V8.pdf  used on input line 368.
 (pdftex.def)             Requested size: 432.48051pt x 275.22212pt.
- [21] [22 <../../3-FIGURAS/forest_agregado_V1_V8.pdf>]
-<../../3-FIGURAS/meta_regressao_regiao.pdf, id=651, 1011.78pt x 650.43pt>
+ [20] [21 <../../3-FIGURAS/forest_agregado_V1_V8.pdf>]
+<../../3-FIGURAS/meta_regressao_regiao.pdf, id=605, 1011.78pt x 650.43pt>
 File: ../../3-FIGURAS/meta_regressao_regiao.pdf Graphic file (type pdf)
 <use ../../3-FIGURAS/meta_regressao_regiao.pdf>
 Package pdftex.def Info: ../../3-FIGURAS/meta_regressao_regiao.pdf  used on input line 384.
 (pdftex.def)             Requested size: 432.48051pt x 278.022pt.
- [23 <../../3-FIGURAS/meta_regressao_regiao.pdf>]
-<../../3-FIGURAS/meta_regressao_comunidade.pdf, id=669, 1011.78pt x 650.43pt>
+ [22 <../../3-FIGURAS/meta_regressao_regiao.pdf>]
+<../../3-FIGURAS/meta_regressao_comunidade.pdf, id=623, 1011.78pt x 650.43pt>
 File: ../../3-FIGURAS/meta_regressao_comunidade.pdf Graphic file (type pdf)
 <use ../../3-FIGURAS/meta_regressao_comunidade.pdf>
 Package pdftex.def Info: ../../3-FIGURAS/meta_regressao_comunidade.pdf  used on input line 393.
 (pdftex.def)             Requested size: 432.48051pt x 278.022pt.
- [24 <../../3-FIGURAS/meta_regressao_comunidade.pdf>]
-<../../3-FIGURAS/meta_regressao_intervencao.pdf, id=687, 1011.78pt x 650.43pt>
+ [23 <../../3-FIGURAS/meta_regressao_comunidade.pdf>]
+<../../3-FIGURAS/meta_regressao_intervencao.pdf, id=641, 1011.78pt x 650.43pt>
 File: ../../3-FIGURAS/meta_regressao_intervencao.pdf Graphic file (type pdf)
 <use ../../3-FIGURAS/meta_regressao_intervencao.pdf>
 Package pdftex.def Info: ../../3-FIGURAS/meta_regressao_intervencao.pdf  used on input line 402.
 (pdftex.def)             Requested size: 432.48051pt x 278.022pt.
- [25 <../../3-FIGURAS/meta_regressao_intervencao.pdf>]
-<../../3-FIGURAS/leave_one_out_V1_V3.pdf, id=707, 867.24pt x 433.62pt>
+ [24 <../../3-FIGURAS/meta_regressao_intervencao.pdf>]
+<../../3-FIGURAS/leave_one_out_V1_V3.pdf, id=660, 867.24pt x 433.62pt>
 File: ../../3-FIGURAS/leave_one_out_V1_V3.pdf Graphic file (type pdf)
 <use ../../3-FIGURAS/leave_one_out_V1_V3.pdf>
 Package pdftex.def Info: ../../3-FIGURAS/leave_one_out_V1_V3.pdf  used on input line 422.
 (pdftex.def)             Requested size: 432.48051pt x 216.24045pt.
-<../../3-FIGURAS/leave_one_out_V4_V6.pdf, id=708, 867.24pt x 433.62pt>
+<../../3-FIGURAS/leave_one_out_V4_V6.pdf, id=661, 867.24pt x 433.62pt>
 File: ../../3-FIGURAS/leave_one_out_V4_V6.pdf Graphic file (type pdf)
 <use ../../3-FIGURAS/leave_one_out_V4_V6.pdf>
 Package pdftex.def Info: ../../3-FIGURAS/leave_one_out_V4_V6.pdf  used on input line 431.
 (pdftex.def)             Requested size: 432.48051pt x 216.24045pt.
-<../../3-FIGURAS/leave_one_out_V7_V8.pdf, id=709, 867.24pt x 433.62pt>
+<../../3-FIGURAS/leave_one_out_V7_V8.pdf, id=662, 867.24pt x 433.62pt>
 File: ../../3-FIGURAS/leave_one_out_V7_V8.pdf Graphic file (type pdf)
 <use ../../3-FIGURAS/leave_one_out_V7_V8.pdf>
 Package pdftex.def Info: ../../3-FIGURAS/leave_one_out_V7_V8.pdf  used on input line 440.
@@ -766,22 +766,22 @@ Package pdftex.def Info: ../../3-FIGURAS/leave_one_out_V7_V8.pdf  used on input 
 
 LaTeX Warning: Float too large for page by 102.87422pt on input line 446.
 
-[26] [27 <../../3-FIGURAS/leave_one_out_V1_V3.pdf> <../../3-FIGURAS/leave_one_out_V4_V6.pdf> <../../3-FIGURAS/leave_one_out_V7_V8.pdf>] [28]
+[25] [26 <../../3-FIGURAS/leave_one_out_V1_V3.pdf> <../../3-FIGURAS/leave_one_out_V4_V6.pdf> <../../3-FIGURAS/leave_one_out_V7_V8.pdf>] [27]
 Overfull \hbox (1.59457pt too wide) in paragraph at lines 466--467
 []\T1/cmr/m/n/12 A di-men-são de sta-tus de doc-u-men-tação ($\OML/cmm/m/it/12 V[]$\T1/cmr/m/n/12 ) ap-re-sen-tou efeito próx-imo de zero ($[] \OT1/cmr/m/n/12 =
  []
 
-[29] [30] [31] [32]
+[28] [29] [30] [31]
 Overfull \hbox (17.73611pt too wide) in paragraph at lines 487--488
 []\T1/cmr/m/n/12 Comunidades de agricul-tores tradi-cionais ap-re-sen-tam a maior frag-ili-dade ju-rídica ($[] \OT1/cmr/m/n/12 =
  []
 
-[33] [34] [35] (artigo2-elsevier_V1.bbl [36] [37] [38] [39] [40] [41] [42] [43] [44] [45]) [46]
+[32] [33] (artigo2-elsevier_V1.bbl [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44])
 Overfull \hbox (3.57971pt too wide) in paragraph at lines 544--545
 \T1/cmr/bx/n/12 Catuxe Var-jão de San-tana Oliveira: \T1/cmr/m/n/12 Con-ceitu-ação, Metodolo-gia, In-ves-ti-gação, Análise
  []
 
-[47] (artigo2-elsevier_V1.aux)
+[45] [46] (artigo2-elsevier_V1.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-29>
@@ -790,17 +790,17 @@ Package rerunfilecheck Info: File `artigo2-elsevier_V1.out' has not changed.
 (rerunfilecheck)             Checksum: 7F4257F3D3098538745DD1874A3C8685;7176.
  ) 
 Here is how much of TeX's memory you used:
- 13346 strings out of 467871
- 212717 string characters out of 5418376
- 631201 words of memory out of 5000000
+ 13345 strings out of 467871
+ 212710 string characters out of 5418376
+ 633200 words of memory out of 5000000
  41855 multiletter control sequences out of 15000+600000
  657016 words of font info for 120 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,12n,79p,2554b,737s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 69i,12n,79p,2633b,741s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcti1200.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi450\ecss0800.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi7.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi9.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr5.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri7.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy7.pfb>
-Output written on artigo2-elsevier_V1.pdf (47 pages, 912772 bytes).
+Output written on artigo2-elsevier_V1.pdf (46 pages, 897133 bytes).
 PDF statistics:
- 1760 PDF objects out of 2073 (max. 8388607)
- 191 named destinations out of 1000 (max. 500000)
+ 1686 PDF objects out of 1728 (max. 8388607)
+ 190 named destinations out of 1000 (max. 500000)
  270 words of extra memory for PDF output out of 10000 (max. 10000000)
 
