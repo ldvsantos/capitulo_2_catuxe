@@ -31,13 +31,16 @@
 
 \title{Fragilidade institucional e exposi\c{c}\~ao clim\'atica como vetores de vulnerabilidade biocultural em saberes e sistemas agr\'icolas tradicionais}
 
-\author{Catuxe Varjão de Santana Oliveira\textsuperscript{1,*} \and Luiz Diego Vidal Santos\textsuperscript{2}}
+\author{Catuxe Varjão de Santana Oliveira\textsuperscript{1,*} \and Luiz Diego Vidal Santos\textsuperscript{2} \and Paulo Roberto Gagliardi\textsuperscript{1} \and Tânia Cristina Azevedo\textsuperscript{3} \and Renisson Neponuceno de Araújo Filho\textsuperscript{4} \and Francisco Sandro Rodrigues Holanda\textsuperscript{5}}
 
 \date{}
 \maketitle
 
 \noindent\textsuperscript{1} Programa de Pós-Graduação em Ciências da Propriedade Intelectual (PPGPI), Universidade Federal de Sergipe (UFS), São Cristóvão, SE, Brasil \\
 \textsuperscript{2} Universidade Estadual de Feira de Santana (UEFS), Feira de Santana, BA, Brasil \\
+\textsuperscript{3} Departamento de Ciências Sociais Aplicadas, Universidade Estadual de Feira de Santana (UEFS), Feira de Santana, BA, Brasil \\
+\textsuperscript{4} Departamento de Tecnologia Rural, Universidade Federal Rural de Pernambuco (UFRPE), Recife, PE, Brasil \\
+\textsuperscript{5} Departamento de Engenharia Agronômica, Universidade Federal de Sergipe (UFS), São Cristóvão, SE, Brasil \\
 \textsuperscript{*} Autor correspondente: \href{mailto:catuxe@academico.ufs.br}{catuxe@academico.ufs.br}
 
 %% ============================================================
@@ -120,7 +123,7 @@ Os critérios de elegibilidade seguiram o framework PICOS (Tabela~\ref{tab:picos
 \caption{Framework PICOS (critérios de elegibilidade para a meta-análise de dimensões de vulnerabilidade biocultural).}
 \label{tab:picos}
 \centering
-\small
+\footnotesize
 \begin{tabular}{p{3.5cm} p{9.5cm}}
 \toprule
 \textbf{Elemento} & \textbf{Descrição} \\
@@ -161,8 +164,8 @@ Os indicadores extraídos foram organizados em oito dimensões funcionais de vul
 \caption{Dimensões de vulnerabilidade biocultural ($V_1$--$V_8$), variáveis proxy, unidades de medida e disponibilidade de evidência no corpus.}
 \label{tab:proxies}
 \centering
-\footnotesize
-\begin{tabular}{p{0.8cm}p{2.5cm}p{4.2cm}p{2.2cm}p{1.5cm}}
+\scriptsize
+\begin{tabular}{p{0.7cm}p{2.2cm}p{4.0cm}p{2.0cm}p{1.3cm}}
 \toprule
 \textbf{Dim.} & \textbf{Denominação} & \textbf{Variáveis proxy (indicadores extraíveis)} & \textbf{Unidade} & \textbf{Disp.} \\
 \midrule
@@ -244,7 +247,7 @@ SE_{adj} = SE \cdot \sqrt{1 + \sigma^2_{conv}}
 
 \noindent onde $\sigma_{conv}$ assume valores crescentes por tier ($0{,}15$ para Tier~2a, $0{,}25$ para Tier~2b, $0{,}35$ para Tier~3 e $0{,}50$ para Tier~4). A robustez foi avaliada por meta-regressão com indicadora \textit{evidência direta} (Tier~1 vs.~demais) e por análise de sensibilidade restrita ao subconjunto Tier~1.
 
-\subsection{Codificação ordinal e conversão para $lnRR$ sintético}
+\subsection{Codifica\c{c}\~ao ordinal e convers\~ao para \texorpdfstring{$lnRR$}{lnRR} sint\'etico}
 \label{sec:coding}
 
 Para os registros classificados como Tier~3 e Tier~4, dois revisores independentes codificaram cada comparação em duas dimensões, seguindo protocolo de codificação com calibração prévia ($\kappa \geq 0{,}61$). A dimensão de direção do efeito atribuiu valores $+1$ (vulnerabilidade agravada), $0$ (neutro) ou $-1$ (vulnerabilidade reduzida) com base na interpretação do texto original. A dimensão de intensidade classificou a magnitude percebida em fraca (1), moderada (2) ou forte (3) com base na ênfase narrativa, significância estatística reportada (quando disponível) e amplitude da mudança descrita.
@@ -417,31 +420,31 @@ Sob esse mesmo critério, a análise \textit{leave-one-out} (Fig.~\ref{fig:loo})
 
 \begin{figure}[htbp]
 \centering
-\begin{subfigure}[b]{0.95\textwidth}
+\begin{subfigure}[b]{0.78\textwidth}
   \centering
   \includegraphics[width=\textwidth]{3-FIGURAS/leave_one_out_V1_V3.pdf}
   \caption{Dimensões $V_1$--$V_3$: erosão intergeracional, complexidade biocultural e status de documentação}
   \label{fig:loo-a}
 \end{subfigure}
 
-\vspace{0.5cm}
+\vspace{0.2cm}
 
-\begin{subfigure}[b]{0.95\textwidth}
+\begin{subfigure}[b]{0.78\textwidth}
   \centering
   \includegraphics[width=\textwidth]{3-FIGURAS/leave_one_out_V4_V6.pdf}
   \caption{Dimensões $V_4$--$V_6$: vulnerabilidade jurídica, organização social e vitalidade linguística}
   \label{fig:loo-b}
 \end{subfigure}
 
-\vspace{0.5cm}
+\vspace{0.2cm}
 
-\begin{subfigure}[b]{0.95\textwidth}
+\begin{subfigure}[b]{0.78\textwidth}
   \centering
   \includegraphics[width=\textwidth]{3-FIGURAS/leave_one_out_V7_V8.pdf}
   \caption{Dimensões $V_7$--$V_8$: integração ao mercado e exposição climática}
   \label{fig:loo-c}
 \end{subfigure}
-\caption{Análise \textit{leave-one-out}: estabilidade das estimativas de $\overline{lnRR}$ após exclusão sequencial de cada estudo. (a) Dimensões $V_1$--$V_3$. (b) Dimensões $V_4$--$V_6$. (c) Dimensões $V_7$--$V_8$. A linha vermelha tracejada indica a estimativa global com todos os estudos incluídos}
+\caption{Análise \textit{leave-one-out}: estabilidade das estimativas de \texorpdfstring{$\overline{lnRR}$}{lnRR} após exclusão sequencial de cada estudo. (a) Dimensões $V_1$--$V_3$. (b) Dimensões $V_4$--$V_6$. (c) Dimensões $V_7$--$V_8$. A linha vermelha tracejada indica a estimativa global com todos os estudos incluídos}
 \label{fig:loo}
 \end{figure}
 
@@ -509,7 +512,7 @@ Os resultados indicam que a fragilidade institucional, operacionalizada pela vul
 %% ============================================================
 \section*{Agradecimentos}
 
-Os autores agradecem ao Programa de Pós-Graduação em Ciências da Propriedade Intelectual (PPGPI/UFS) pelo apoio institucional.
+Os autores agradecem ao Programa de Pós-Graduação em Ciências da Propriedade Intelectual (PPGPI/UFS) pelo apoio institucional. Este estudo contou com suporte do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) e da Fundação de Amparo à Pesquisa do Estado da Bahia (FAPESB).
 
 
 %% ============================================================
@@ -542,6 +545,10 @@ Os autores declaram não possuir conflitos de interesse financeiros ou relaçõe
 \subsection*{Author Contributions}
 
 \textbf{Catuxe Varjão de Santana Oliveira:} Conceituação, Metodologia, Investigação, Análise formal, Curadoria de dados, Escrita -- rascunho original. \textbf{Luiz Diego Vidal Santos:} Metodologia, Análise formal, Validação, Escrita -- revisão e edição.
+\textbf{Paulo Roberto Gagliardi:} Escrita -- revisão e edição, Supervisão.
+\textbf{Tânia Cristina Azevedo:} Escrita -- revisão e edição.
+\textbf{Renisson Neponuceno de Araújo Filho:} Escrita -- revisão e edição.
+\textbf{Francisco Sandro Rodrigues Holanda:} Escrita -- revisão e edição.
 
 \subsection*{Data Availability}
 

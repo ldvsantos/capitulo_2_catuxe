@@ -1,10 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.23)  19 MAR 2026 16:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.23)  19 MAR 2026 18:44
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/vidal/OneDrive/Documentos/13 - CLONEGIT/artigo_2_catuxe/1-LATEX/1-MANUSCRITO/manuscrito_pt/artigo2-elsevier_V1.tex"
-(c:/Users/vidal/OneDrive/Documentos/13 - CLONEGIT/artigo_2_catuxe/1-LATEX/1-MANUSCRITO/manuscrito_pt/artigo2-elsevier_V1.tex
+**./artigo2-elsevier_V1.tex
+(artigo2-elsevier_V1.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-29>
 (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -25,7 +24,7 @@ File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \bibindent=\dimen148
 ) (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
- (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks17
 \symAMSa=\mathgroup4
@@ -36,11 +35,10 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 )) (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2025/07/09 v2.17z AMS math features
 \@mathmargin=\skip51
-
 For additional information on amsmath, use the `?' option.
 (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2024/11/17 v2.01 AMS text
- (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks18
 \ex@=\dimen149
@@ -108,17 +106,19 @@ Package bm Info: No bold for \U/msb/m/n, using \pmb.
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
 ) (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/lineno\lineno.sty
 Package: lineno 2025/05/13 line numbers on paragraphs v5.5
- (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count295
-) (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+)
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
- (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks23
 ) (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-) (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+)
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 ))
 \linenopenalty=\count296
@@ -163,15 +163,18 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisrulewidth=\dimen175
 ) (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
- (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-) (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+)
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
- (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen176
@@ -183,11 +186,12 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \float@box=\box56
 \@float@everytoks=\toks28
 \@floatcapt=\box57
-) (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+) (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.st
+y
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
- (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
- (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen178
 \captionmargin=\dimen179
@@ -209,15 +213,24 @@ Package caption Info: New subtype `subtable' on input line 238.
 \c@subtable=\count312
 ) (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
- (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
-) (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+)
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+)
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
- (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -227,19 +240,24 @@ Package pdftexcmds Info: \pdfdraftmode found.
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 ) (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
- (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+)
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count313
-) (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
+ty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
 )
 \@linkdim=\dimen186
 \Hy@linkcounter=\count314
 \Hy@pagecounter=\count315
- (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
@@ -247,7 +265,7 @@ Now handling font encoding PD1 ...
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count316
- (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -260,16 +278,19 @@ Package hyperref Info: Backreferencing OFF on input line 4215.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4462.
 \c@Hy@tempcnt=\count317
- (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4801.
 \XeTeXLinkMargin=\dimen187
- (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
- (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
 ))
 \Fld@menulength=\count318
 \Field@Width=\dimen188
@@ -286,16 +307,21 @@ Package hyperref Info: PDF/A mode OFF on input line 6108.
 \c@Hfootnote=\count321
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
- (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
 \Fld@listcount=\count322
 \c@bookmark@seq@number=\count323
- (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
 Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
- (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
 )
 \Hy@SectionHShift=\skip54
 ) (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
@@ -306,7 +332,7 @@ LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count324
 ) (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count325
@@ -321,9 +347,12 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen196
 \Gm@layoutvoffset=\dimen197
 \Gm@dimlist=\toks29
- (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
-) (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+)
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count328
 ) (artigo2-elsevier_V1.aux)
@@ -347,7 +376,9 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
 LaTeX Font Info:    ... okay on input line 30.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
 LaTeX Font Info:    ... okay on input line 30.
- (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count329
 \scratchdimen=\dimen198
@@ -360,20 +391,24 @@ LaTeX Font Info:    ... okay on input line 30.
 \MPnumerator=\count333
 \makeMPintoPDFobject=\count334
 \everyMPtoPDFconversion=\toks31
-) (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+)
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring OFF on input line 30.
- (artigo2-elsevier_V1.out) (artigo2-elsevier_V1.out)
+(artigo2-elsevier_V1.out) (artigo2-elsevier_V1.out)
 \@outlinefile=\write3
 \openout3 = `artigo2-elsevier_V1.out'.
-
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -410,375 +445,365 @@ Package hyperref Info: Link coloring OFF on input line 30.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Trying to load font information for U+msa on input line 38.
+
 (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 38.
- (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+
+(C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+)
+Overfull \hbox (8.75801pt too wide) in paragraph at lines 39--44
+[]$ \T1/cmr/m/n/12 De-par-ta-mento de Tec-nolo-gia Ru-ral, Uni-ver-si-dade Fed-
+eral Ru-ral de Per-nam-buco (UFRPE),
+ []
+
+[1
 
 {C:/Users/vidal/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3] [4]
 
-pdfTeX warning: pdflatex (file ../../3-FIGURAS/prisma_flowdiagram_artigo2_en.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../../3-FIGURAS/prisma_flowdiagram_artigo2_en.pdf, id=222, 600.2425pt x 578.16pt>
+pdfTeX warning: pdflatex.exe (file ../../3-FIGURAS/prisma_flowdiagram_artigo2_e
+n.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allow
+ed
+<../../3-FIGURAS/prisma_flowdiagram_artigo2_en.pdf, id=222, 600.2425pt x 578.16
+pt>
 File: ../../3-FIGURAS/prisma_flowdiagram_artigo2_en.pdf Graphic file (type pdf)
+
 <use ../../3-FIGURAS/prisma_flowdiagram_artigo2_en.pdf>
-Package pdftex.def Info: ../../3-FIGURAS/prisma_flowdiagram_artigo2_en.pdf  used on input line 100.
+Package pdftex.def Info: ../../3-FIGURAS/prisma_flowdiagram_artigo2_en.pdf  use
+d on input line 102.
 (pdftex.def)             Requested size: 309.56265pt x 298.1836pt.
 [5 <../../3-FIGURAS/prisma_flowdiagram_artigo2_en.pdf>]
-Underfull \hbox (badness 1859) in paragraph at lines 129--130
-\T1/cmr/m/n/10.95 istro pat-ri-mo-nial, pro-teção ju-rídica, gov-er-nança co-
- []
-
-
-Underfull \hbox (badness 1817) in paragraph at lines 131--132
-\T1/cmr/m/n/10.95 op-era-cional-iza-dos como proxy das di-men-sões cod-i-fi-
- []
-
-
-Underfull \hbox (badness 2903) in paragraph at lines 132--133
-\T1/cmr/m/n/10.95 de com-para-ção iden-ti-ficável ou lon-gi-tu-di-nais antes-
- []
-
-
-LaTeX Warning: Float too large for page by 2.33124pt on input line 135.
-
-
-Overfull \hbox (3.00227pt too wide) in paragraph at lines 144--145
-[]\T1/cmr/m/n/12 As bus-cas foram com-ple-men-tadas por \T1/cmr/m/it/12 back-ward \T1/cmr/m/n/12 e \T1/cmr/m/it/12 for-ward snow-balling \T1/cmr/m/n/12 (Google Scholar).
+Underfull \hbox (badness 1205) in paragraph at lines 130--131
+[]\T1/cmr/m/n/10 Comunidades de-ten-toras de saberes so-cioecológi-cos tradi-
  []
 
 [6] [7]
-Overfull \hbox (2.02333pt too wide) in paragraph at lines 167--167
-[]\T1/cmr/bx/n/10 Dim.| 
+Overfull \hbox (3.00227pt too wide) in paragraph at lines 146--147
+[]\T1/cmr/m/n/12 As bus-cas foram com-ple-men-tadas por \T1/cmr/m/it/12 back-wa
+rd \T1/cmr/m/n/12 e \T1/cmr/m/it/12 for-ward snow-balling \T1/cmr/m/n/12 (Googl
+e Scholar).
  []
 
 
-Underfull \hbox (badness 2005) in paragraph at lines 167--167
-[]\T1/cmr/bx/n/10 Variáveis proxy (in-di-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 169--169
-[]\T1/cmr/m/n/10 Erosão In-terg-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 169--169
-\T1/cmr/m/n/10 era-cional e
- []
-
-
-Underfull \hbox (badness 3407) in paragraph at lines 169--169
-[]\T1/cmr/m/n/10 Proporção de jovens ($\OML/cmm/m/it/10 <$
- []
-
-
-Underfull \hbox (badness 1308) in paragraph at lines 169--169
-\T1/cmr/m/n/10 saber; taxa de trans-mis-
- []
-
-
-Underfull \hbox (badness 5726) in paragraph at lines 169--169
-\T1/cmr/m/n/10 líquido de jovens; pro-
+Overfull \hbox (1.18912pt too wide) in paragraph at lines 169--169
+[]\T1/cmr/bx/n/8 Dim.| 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 169--169
-[]\T1/cmr/m/n/10 %,
- []
-
-
-Overfull \hbox (1.23901pt too wide) in paragraph at lines 169--169
-\T1/cmr/m/n/10 eventos$\OMS/cmsy/m/n/10 ^^A$\T1/cmr/m/n/10 ano$[]$,
+[]\T1/cmr/bx/n/8 Variáveis proxy (in-di-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 171--171
-[]\T1/cmr/m/n/10 Complexidade
- []
-
-
-Underfull \hbox (badness 1275) in paragraph at lines 171--171
-\T1/cmr/m/n/10 e Sin-gu-lar-i-dade
- []
-
-
-Underfull \hbox (badness 1701) in paragraph at lines 171--171
-\T1/cmr/m/n/10 iedades lo-cais; in-ter-ações
+[]\T1/cmr/m/n/8 Erosão In-terg-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 171--171
-\T1/cmr/m/n/10 solo-planta cod-i-fi-cadas;
+\T1/cmr/m/n/8 era-cional e
+ []
+
+
+Underfull \hbox (badness 1755) in paragraph at lines 171--171
+[]\T1/cmr/m/n/8 Proporção de jovens ($\OML/cmm/m/it/8 <$ \T1/cmr/m/n/8 35
+ []
+
+
+Underfull \hbox (badness 5741) in paragraph at lines 171--171
+\T1/cmr/m/n/8 taxa de trans-mis-são ativa;
+ []
+
+
+Underfull \hbox (badness 3492) in paragraph at lines 171--171
+\T1/cmr/m/n/8 saldo mi-gratório líquido de
+ []
+
+
+Underfull \hbox (badness 1400) in paragraph at lines 171--171
+\T1/cmr/m/n/8 jovens; pro-porção de jovens
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 171--171
-\T1/cmr/m/n/10 pro-porção de práti-cas
+[]\T1/cmr/m/n/8 %,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 171--171
-\T1/cmr/m/n/10 ex-clu-si-vas; conec-tivi-dade
+\T1/cmr/m/n/8 eventos$\OMS/cmsy/m/n/8 ^^A$\T1/cmr/m/n/8 ano$[]$,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--171
-[]\T1/cmr/m/n/10 índice, con-
+Underfull \hbox (badness 10000) in paragraph at lines 173--173
+[]\T1/cmr/m/n/8 Complexidade
  []
 
 
-Underfull \hbox (badness 2961) in paragraph at lines 173--173
-[]\T1/cmr/m/n/10 Número de saberes com
+Underfull \hbox (badness 5726) in paragraph at lines 173--173
+\T1/cmr/m/n/8 e Sin-gu-lar-i-dade
  []
 
 
-Underfull \hbox (badness 7576) in paragraph at lines 173--173
-\T1/cmr/m/n/10 au-dio-vi-sual); com-ple-tude
+Underfull \hbox (badness 4752) in paragraph at lines 173--173
+[]\T1/cmr/m/n/8 Riqueza de es-pé-cies mane-
  []
 
 
-Overfull \hbox (1.22682pt too wide) in paragraph at lines 173--174
-[]\T1/cmr/m/n/10 Moderada| 
+Underfull \hbox (badness 1112) in paragraph at lines 173--173
+\T1/cmr/m/n/8 lo-cais; in-ter-ações solo-planta
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--175
-[]\T1/cmr/m/n/10 Vulnerabilidade
+Underfull \hbox (badness 4366) in paragraph at lines 173--173
+\T1/cmr/m/n/8 cod-i-fi-cadas; beta-diversidade
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--175
-\T1/cmr/m/n/10 Ju-rídica e
+Underfull \hbox (badness 2103) in paragraph at lines 173--173
+\T1/cmr/m/n/8 de práti-cas (Jac-card, Bray-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--175
-[]\T1/cmr/m/n/10 Número de mecan-is-mos
+Underfull \hbox (badness 1577) in paragraph at lines 173--173
+\T1/cmr/m/n/8 Curtis); en-demismo de var-
  []
 
 
-Underfull \hbox (badness 1424) in paragraph at lines 175--175
-\T1/cmr/m/n/10 for-mais de pro-teção (IG,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 175--175
-\T1/cmr/m/n/10 marca co-le-tiva, reg-istro
- []
-
-
-Underfull \hbox (badness 1484) in paragraph at lines 175--175
-\T1/cmr/m/n/10 reg-u-latória; ex-istên-cia de
- []
-
-
-Underfull \hbox (badness 3679) in paragraph at lines 175--175
-\T1/cmr/m/n/10 tí-tulo de posse co-le-tiva;
- []
-
-
-Underfull \hbox (badness 8038) in paragraph at lines 175--175
-\T1/cmr/m/n/10 con-fli-tos fundiários pen-
+Underfull \hbox (badness 10000) in paragraph at lines 173--173
+[]\T1/cmr/m/n/8 índice, con-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 175--175
-[]\T1/cmr/m/n/10 contagem,
+[]\T1/cmr/m/n/8 Número de saberes com
  []
 
 
-Underfull \hbox (badness 1675) in paragraph at lines 175--175
-\T1/cmr/m/n/10 binário, or-di-
+Underfull \hbox (badness 5133) in paragraph at lines 175--175
+\T1/cmr/m/n/8 reg-istro for-mal (in-ven-tários,
+ []
+
+
+Underfull \hbox (badness 2181) in paragraph at lines 175--175
+\T1/cmr/m/n/8 au-dio-vi-sual); com-ple-tude de
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 177--177
-[]\T1/cmr/m/n/10 Organização
+[]\T1/cmr/m/n/8 Vulnerabilidade
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 177--177
-[]\T1/cmr/m/n/10 Número de mestres de
+\T1/cmr/m/n/8 Ju-rídica e
  []
 
 
-Underfull \hbox (badness 1515) in paragraph at lines 177--177
-\T1/cmr/m/n/10 de re-uniões co-mu-nitárias;
+Underfull \hbox (badness 1430) in paragraph at lines 177--177
+[]\T1/cmr/m/n/8 Número de mecan-is-mos for-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 177--177
-\T1/cmr/m/n/10 vi-tal-i-dade de pro-to-co-los
- []
-
-
-Underfull \hbox (badness 1521) in paragraph at lines 177--177
-\T1/cmr/m/n/10 de mul-heres em posições
+Underfull \hbox (badness 2126) in paragraph at lines 177--177
+\T1/cmr/m/n/8 istên-cia de pro-to-colo co-mu-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 177--177
-[]\T1/cmr/m/n/10 contagem,
- []
-
-
-Overfull \hbox (2.4054pt too wide) in paragraph at lines 177--177
-\T1/cmr/m/n/10 eventos$\OMS/cmsy/m/n/10 ^^A$\T1/cmr/m/n/10 mês$[]$,
- []
-
-
-Overfull \hbox (1.22682pt too wide) in paragraph at lines 177--178
-[]\T1/cmr/m/n/10 Moderada| 
- []
-
-
-Underfull \hbox (badness 2126) in paragraph at lines 179--179
-[]\T1/cmr/m/n/10 Vitalidade Lin-
- []
-
-
-Underfull \hbox (badness 1337) in paragraph at lines 179--179
-\T1/cmr/m/n/10 porção de falantes $\OML/cmm/m/it/10 <$ \T1/cmr/m/n/10 30
+[]\T1/cmr/m/n/8 contagem,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 179--179
-[]\T1/cmr/m/n/10 ordinal, %,
+[]\T1/cmr/m/n/8 Organização
+ []
+
+
+Underfull \hbox (badness 1122) in paragraph at lines 179--179
+\T1/cmr/m/n/8 So-cial e Gov-er-
+ []
+
+
+Underfull \hbox (badness 5175) in paragraph at lines 179--179
+\T1/cmr/m/n/8 co-mu-nitárias; vi-tal-i-dade de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--179
+\T1/cmr/m/n/8 pro-to-co-los de gov-er-nança;
+ []
+
+
+Underfull \hbox (badness 5345) in paragraph at lines 179--179
+\T1/cmr/m/n/8 pro-porção de mul-heres em
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--179
+\T1/cmr/m/n/8 posições de de-cisão so-bre
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--179
+[]\T1/cmr/m/n/8 contagem,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--179
+\T1/cmr/m/n/8 eventos$\OMS/cmsy/m/n/8 ^^A$\T1/cmr/m/n/8 mês$[]$,
+ []
+
+
+Underfull \hbox (badness 7869) in paragraph at lines 181--181
+[]\T1/cmr/m/n/8 Vitalidade Lin-
+ []
+
+
+Underfull \hbox (badness 5245) in paragraph at lines 181--181
+[]\T1/cmr/m/n/8 Grau EGIDS (0--10); pro-
+ []
+
+
+Underfull \hbox (badness 2990) in paragraph at lines 181--181
+\T1/cmr/m/n/8 número de ter-mos et-no-tax-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 181--181
-[]\T1/cmr/m/n/10 Integração ao
- []
-
-
-Underfull \hbox (badness 6608) in paragraph at lines 181--181
-\T1/cmr/m/n/10 de sub-sti-tu-ição de var-
+[]\T1/cmr/m/n/8 ordinal, %,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 183--183
-[]\T1/cmr/m/n/10 Exposição
+[]\T1/cmr/m/n/8 Integração ao
  []
 
 
-Underfull \hbox (badness 3333) in paragraph at lines 183--183
-\T1/cmr/m/n/10 i-ta-tion In-dex); anoma-lia
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
+[]\T1/cmr/m/n/8 Exposição
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--183
-[]\T1/cmr/m/n/10 índice, $[]$C,
+Underfull \hbox (badness 1033) in paragraph at lines 185--185
+[]\T1/cmr/m/n/8 SPI (Stan-dard-ized Pre-cip-i-ta-
  []
 
 
-Overfull \hbox (1.23901pt too wide) in paragraph at lines 183--183
-\T1/cmr/m/n/10 eventos$\OMS/cmsy/m/n/10 ^^A$\T1/cmr/m/n/10 ano$[]$,
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
+[]\T1/cmr/m/n/8 índice, $[]$C,
  []
 
 
-LaTeX Warning: Float too large for page by 98.646pt on input line 186.
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
+\T1/cmr/m/n/8 eventos$\OMS/cmsy/m/n/8 ^^A$\T1/cmr/m/n/8 ano$[]$,
+ []
 
 [8] [9]
-Overfull \hbox (20.612pt too wide) in paragraph at lines 190--190
-[]\T1/cmr/bx/n/14.4 Diagnóstico de disponi-bil-i-dade de ev-idên-cia e es-traté-gia analítica
+Overfull \hbox (20.612pt too wide) in paragraph at lines 192--192
+[]\T1/cmr/bx/n/14.4 Diagnóstico de disponi-bil-i-dade de ev-idên-cia e es-traté
+-gia analítica
  []
 
-[10] [11] [12]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 247.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 247.
-
-[13]
-Overfull \hbox (0.48065pt too wide) in paragraph at lines 261--262
-\T1/cmr/m/n/12 tornou im-prat-icável a im-putação múlti-pla (MICE) [[]van Bu-uren and Groothuis-Oudshoorn[],
+[10] [11] [12] [13]
+Overfull \hbox (0.48065pt too wide) in paragraph at lines 263--264
+\T1/cmr/m/n/12 tornou im-prat-icável a im-putação múlti-pla (MICE) [[]van Bu-ur
+en and Groothuis-Oudshoorn[],
  []
 
 [14]
-Overfull \hbox (2.04839pt too wide) in paragraph at lines 291--292
-[]\T1/cmr/m/n/12 O mod-elo hi-erárquico de efeitos mis-tos foi ajus-tado com es-ti-mador de máx-ima verossim-
+Overfull \hbox (2.04839pt too wide) in paragraph at lines 293--294
+[]\T1/cmr/m/n/12 O mod-elo hi-erárquico de efeitos mis-tos foi ajus-tado com es
+-ti-mador de máx-ima verossim-
  []
 
 [15] [16]
-<../../3-FIGURAS/methods_flowchart.pdf, id=464, 407.08385pt x 497.30695pt>
+<../../3-FIGURAS/methods_flowchart.pdf, id=465, 407.08385pt x 497.30695pt>
 File: ../../3-FIGURAS/methods_flowchart.pdf Graphic file (type pdf)
 <use ../../3-FIGURAS/methods_flowchart.pdf>
-Package pdftex.def Info: ../../3-FIGURAS/methods_flowchart.pdf  used on input line 326.
+Package pdftex.def Info: ../../3-FIGURAS/methods_flowchart.pdf  used on input l
+ine 328.
 (pdftex.def)             Requested size: 373.3035pt x 456.05582pt.
- [17 <../../3-FIGURAS/methods_flowchart.pdf>] [18]
-Overfull \hbox (0.2488pt too wide) in paragraph at lines 352--353
-\T1/cmr/m/n/12 Dos 47 es-tu-dos fi-nais, cinco (10,6%) fornece-ram mé-dias e desvios-padrão com-ple-tos (Tier 1,
+[17 <../../3-FIGURAS/methods_flowchart.pdf>] [18]
+Overfull \hbox (0.2488pt too wide) in paragraph at lines 354--355
+\T1/cmr/m/n/12 Dos 47 es-tu-dos fi-nais, cinco (10,6%) fornece-ram mé-dias e de
+svios-padrão com-ple-tos (Tier 1,
  []
 
 
-Overfull \hbox (1.39291pt too wide) in paragraph at lines 352--353
-\T1/cmr/m/n/12 18 reg-istros), sete (14,9%) re-por-taram es-tatís-ti-cas in-fer-en-ci-ais con-vertíveis (Tier 2a: 21 reg-
+Overfull \hbox (1.39291pt too wide) in paragraph at lines 354--355
+\T1/cmr/m/n/12 18 reg-istros), sete (14,9%) re-por-taram es-tatís-ti-cas in-fer
+-en-ci-ais con-vertíveis (Tier 2a: 21 reg-
  []
 
 [19]
-<../../3-FIGURAS/forest_agregado_V1_V8.pdf, id=584, 794.97pt x 505.89pt>
+<../../3-FIGURAS/forest_agregado_V1_V8.pdf, id=585, 794.97pt x 505.89pt>
 File: ../../3-FIGURAS/forest_agregado_V1_V8.pdf Graphic file (type pdf)
 <use ../../3-FIGURAS/forest_agregado_V1_V8.pdf>
-Package pdftex.def Info: ../../3-FIGURAS/forest_agregado_V1_V8.pdf  used on input line 368.
+Package pdftex.def Info: ../../3-FIGURAS/forest_agregado_V1_V8.pdf  used on inp
+ut line 370.
 (pdftex.def)             Requested size: 432.48051pt x 275.22212pt.
- [20] [21 <../../3-FIGURAS/forest_agregado_V1_V8.pdf>]
-<../../3-FIGURAS/meta_regressao_regiao.pdf, id=605, 1011.78pt x 650.43pt>
+[20] [21 <../../3-FIGURAS/forest_agregado_V1_V8.pdf>]
+<../../3-FIGURAS/meta_regressao_regiao.pdf, id=606, 1011.78pt x 650.43pt>
 File: ../../3-FIGURAS/meta_regressao_regiao.pdf Graphic file (type pdf)
 <use ../../3-FIGURAS/meta_regressao_regiao.pdf>
-Package pdftex.def Info: ../../3-FIGURAS/meta_regressao_regiao.pdf  used on input line 384.
+Package pdftex.def Info: ../../3-FIGURAS/meta_regressao_regiao.pdf  used on inp
+ut line 386.
 (pdftex.def)             Requested size: 432.48051pt x 278.022pt.
- [22 <../../3-FIGURAS/meta_regressao_regiao.pdf>]
-<../../3-FIGURAS/meta_regressao_comunidade.pdf, id=623, 1011.78pt x 650.43pt>
+[22 <../../3-FIGURAS/meta_regressao_regiao.pdf>]
+<../../3-FIGURAS/meta_regressao_comunidade.pdf, id=624, 1011.78pt x 650.43pt>
 File: ../../3-FIGURAS/meta_regressao_comunidade.pdf Graphic file (type pdf)
 <use ../../3-FIGURAS/meta_regressao_comunidade.pdf>
-Package pdftex.def Info: ../../3-FIGURAS/meta_regressao_comunidade.pdf  used on input line 393.
+Package pdftex.def Info: ../../3-FIGURAS/meta_regressao_comunidade.pdf  used on
+ input line 395.
 (pdftex.def)             Requested size: 432.48051pt x 278.022pt.
- [23 <../../3-FIGURAS/meta_regressao_comunidade.pdf>]
-<../../3-FIGURAS/meta_regressao_intervencao.pdf, id=641, 1011.78pt x 650.43pt>
+[23 <../../3-FIGURAS/meta_regressao_comunidade.pdf>]
+<../../3-FIGURAS/meta_regressao_intervencao.pdf, id=642, 1011.78pt x 650.43pt>
 File: ../../3-FIGURAS/meta_regressao_intervencao.pdf Graphic file (type pdf)
 <use ../../3-FIGURAS/meta_regressao_intervencao.pdf>
-Package pdftex.def Info: ../../3-FIGURAS/meta_regressao_intervencao.pdf  used on input line 402.
+Package pdftex.def Info: ../../3-FIGURAS/meta_regressao_intervencao.pdf  used o
+n input line 404.
 (pdftex.def)             Requested size: 432.48051pt x 278.022pt.
- [24 <../../3-FIGURAS/meta_regressao_intervencao.pdf>]
-<../../3-FIGURAS/leave_one_out_V1_V3.pdf, id=660, 867.24pt x 433.62pt>
+[24 <../../3-FIGURAS/meta_regressao_intervencao.pdf>]
+<../../3-FIGURAS/leave_one_out_V1_V3.pdf, id=661, 867.24pt x 433.62pt>
 File: ../../3-FIGURAS/leave_one_out_V1_V3.pdf Graphic file (type pdf)
 <use ../../3-FIGURAS/leave_one_out_V1_V3.pdf>
-Package pdftex.def Info: ../../3-FIGURAS/leave_one_out_V1_V3.pdf  used on input line 422.
-(pdftex.def)             Requested size: 432.48051pt x 216.24045pt.
-<../../3-FIGURAS/leave_one_out_V4_V6.pdf, id=661, 867.24pt x 433.62pt>
+Package pdftex.def Info: ../../3-FIGURAS/leave_one_out_V1_V3.pdf  used on input
+ line 424.
+(pdftex.def)             Requested size: 355.08984pt x 177.54715pt.
+<../../3-FIGURAS/leave_one_out_V4_V6.pdf, id=662, 867.24pt x 433.62pt>
 File: ../../3-FIGURAS/leave_one_out_V4_V6.pdf Graphic file (type pdf)
 <use ../../3-FIGURAS/leave_one_out_V4_V6.pdf>
-Package pdftex.def Info: ../../3-FIGURAS/leave_one_out_V4_V6.pdf  used on input line 431.
-(pdftex.def)             Requested size: 432.48051pt x 216.24045pt.
-<../../3-FIGURAS/leave_one_out_V7_V8.pdf, id=662, 867.24pt x 433.62pt>
+Package pdftex.def Info: ../../3-FIGURAS/leave_one_out_V4_V6.pdf  used on input
+ line 433.
+(pdftex.def)             Requested size: 355.08984pt x 177.54715pt.
+<../../3-FIGURAS/leave_one_out_V7_V8.pdf, id=663, 867.24pt x 433.62pt>
 File: ../../3-FIGURAS/leave_one_out_V7_V8.pdf Graphic file (type pdf)
 <use ../../3-FIGURAS/leave_one_out_V7_V8.pdf>
-Package pdftex.def Info: ../../3-FIGURAS/leave_one_out_V7_V8.pdf  used on input line 440.
-(pdftex.def)             Requested size: 432.48051pt x 216.24045pt.
-
-
-LaTeX Warning: Float too large for page by 102.87422pt on input line 446.
-
-[25] [26 <../../3-FIGURAS/leave_one_out_V1_V3.pdf> <../../3-FIGURAS/leave_one_out_V4_V6.pdf> <../../3-FIGURAS/leave_one_out_V7_V8.pdf>] [27]
-Overfull \hbox (1.59457pt too wide) in paragraph at lines 466--467
-[]\T1/cmr/m/n/12 A di-men-são de sta-tus de doc-u-men-tação ($\OML/cmm/m/it/12 V[]$\T1/cmr/m/n/12 ) ap-re-sen-tou efeito próx-imo de zero ($[] \OT1/cmr/m/n/12 =
+Package pdftex.def Info: ../../3-FIGURAS/leave_one_out_V7_V8.pdf  used on input
+ line 442.
+(pdftex.def)             Requested size: 355.08984pt x 177.54715pt.
+[25] [26 <../../3-FIGURAS/leave_one_out_V1_V3.pdf> <../../3-FIGURAS/leave_one_o
+ut_V4_V6.pdf> <../../3-FIGURAS/leave_one_out_V7_V8.pdf>] [27]
+Overfull \hbox (1.59457pt too wide) in paragraph at lines 468--469
+[]\T1/cmr/m/n/12 A di-men-são de sta-tus de doc-u-men-tação ($\OML/cmm/m/it/12 
+V[]$\T1/cmr/m/n/12 ) ap-re-sen-tou efeito próx-imo de zero ($[] \OT1/cmr/m/n/12
+ =
  []
 
 [28] [29] [30] [31]
-Overfull \hbox (17.73611pt too wide) in paragraph at lines 487--488
-[]\T1/cmr/m/n/12 Comunidades de agricul-tores tradi-cionais ap-re-sen-tam a maior frag-ili-dade ju-rídica ($[] \OT1/cmr/m/n/12 =
+Overfull \hbox (17.73611pt too wide) in paragraph at lines 489--490
+[]\T1/cmr/m/n/12 Comunidades de agricul-tores tradi-cionais ap-re-sen-tam a mai
+or frag-ili-dade ju-rídica ($[] \OT1/cmr/m/n/12 =
  []
 
-[32] [33] (artigo2-elsevier_V1.bbl [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44])
-Overfull \hbox (3.57971pt too wide) in paragraph at lines 544--545
-\T1/cmr/bx/n/12 Catuxe Var-jão de San-tana Oliveira: \T1/cmr/m/n/12 Con-ceitu-ação, Metodolo-gia, In-ves-ti-gação, Análise
+[32] [33] (artigo2-elsevier_V1.bbl [34] [35] [36] [37] [38] [39] [40] [41] [42]
+[43] [44])
+Overfull \hbox (3.57971pt too wide) in paragraph at lines 546--547
+\T1/cmr/bx/n/12 Catuxe Var-jão de San-tana Oliveira: \T1/cmr/m/n/12 Con-ceitu-a
+ção, Metodolo-gia, In-ves-ti-gação, Análise
  []
 
 [45] [46] (artigo2-elsevier_V1.aux)
@@ -786,21 +811,66 @@ Overfull \hbox (3.57971pt too wide) in paragraph at lines 544--545
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-29>
  ***********
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `artigo2-elsevier_V1.out' has not changed.
 (rerunfilecheck)             Checksum: 7F4257F3D3098538745DD1874A3C8685;7176.
  ) 
 Here is how much of TeX's memory you used:
  13345 strings out of 467871
- 212710 string characters out of 5418376
- 633200 words of memory out of 5000000
- 41855 multiletter control sequences out of 15000+600000
- 657016 words of font info for 120 fonts, out of 8000000 for 9000
+ 212427 string characters out of 5418376
+ 633220 words of memory out of 5000000
+ 41856 multiletter control sequences out of 15000+600000
+ 657792 words of font info for 121 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,12n,79p,2633b,741s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcti1200.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi450\ecss0800.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi7.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi9.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr5.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri7.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy7.pfb>
-Output written on artigo2-elsevier_V1.pdf (46 pages, 897133 bytes).
+ 69i,12n,79p,2533b,741s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1200.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\tcti1200.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\ecbx0800.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecbx1000.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\vidal\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi450\ecss0800.pk> <C:\Users\vidal\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\vidal\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\vidal\
+AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\
+vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\
+Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk
+> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0
+800.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600
+\ecrm1000.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/
+dpi600\ecrm1440.pk> <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknapp
+en/ec/dpi600\ecrm2074.pk><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmbx12.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/vidal/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/vidal/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/vidal/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/
+vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmib10.pfb>
+<C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+r12.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmr6.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmr7.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmr8.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/vidal/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/vidal/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/vidal/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><C:/Users/vidal/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/lm/lmmi7.pfb><C:/Users/vidal/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/lm/lmmi9.pfb><C:/Users/vidal/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/lm/lmr5.pfb><C:/Users/vidal/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/vidal/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/vidal/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/vidal/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/lm/lmri7.pfb><C:/Users/vidal/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/vidal/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/lm/lmsy7.pfb>
+Output written on artigo2-elsevier_V1.pdf (46 pages, 918435 bytes).
 PDF statistics:
- 1686 PDF objects out of 1728 (max. 8388607)
+ 1757 PDF objects out of 2073 (max. 8388607)
  190 named destinations out of 1000 (max. 500000)
  270 words of extra memory for PDF output out of 10000 (max. 10000000)
 
