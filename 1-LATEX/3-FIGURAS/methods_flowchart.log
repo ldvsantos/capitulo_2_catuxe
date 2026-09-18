@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.23)  7 MAR 2026 07:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.18)  13 SEP 2026 16:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -652,7 +652,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 
 Non-PDF special ignored!
-<special> papersize=407.08408pt,497.30699pt
+<special> papersize=407.08408pt,496.79216pt
 {C:/Users/vidal/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/vida
 l/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/vidal/Ap
 pData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/vidal/Ap
@@ -665,10 +665,10 @@ L3 programming layer <2025-12-29>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 15141 strings out of 467871
- 310383 string characters out of 5418376
- 703608 words of memory out of 5000000
- 43727 multiletter control sequences out of 15000+600000
+ 15143 strings out of 467870
+ 310501 string characters out of 5418354
+ 702611 words of memory out of 5000000
+ 43730 multiletter control sequences out of 15000+600000
  668308 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,8n,121p,431b,748s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -682,7 +682,7 @@ rs/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users
 /vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri7.pfb><C:/Users/
 vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/User
 s/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy7.pfb>
-Output written on methods_flowchart.pdf (1 page, 178550 bytes).
+Output written on methods_flowchart.pdf (1 page, 178460 bytes).
 PDF statistics:
  66 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

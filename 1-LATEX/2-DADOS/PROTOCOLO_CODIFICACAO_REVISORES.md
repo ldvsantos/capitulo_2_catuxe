@@ -552,7 +552,7 @@ Notas_codificador: "Conclusão afirma diversidade maior em jardins tradicionais.
 
 ## 6. Procedimento Dupla-Cega e Concordância
 
-### 6.1 Fase 1 – Codificação independente
+### 6.1 Codificação independente
 
 1. Cada revisor (R1 e R2) recebe uma **cópia separada** da planilha `bd_codificacao_qualitativa.xlsx`.
 
@@ -565,7 +565,7 @@ Notas_codificador: "Conclusão afirma diversidade maior em jardins tradicionais.
 
 4. Manter um **log de tempo** aproximado: é esperado entre 5−10 minutos por registro para T2a/T2b e 10–20 minutos para T3/T4.
 
-### 6.2 Fase 2 – Cálculo de concordância
+### 6.2 Cálculo de concordância
 
 Após ambos os revisores concluírem, calcular a concordância inter-avaliadores usando o **kappa de Cohen (κ)** para as duas variáveis ordinais.
 
@@ -600,7 +600,7 @@ Usar κ ponderado quadrático, que atribui pesos proporcionais à distância ent
 
 **Meta mínima:** κ ≥ 0.61 antes de prosseguir para a conversão.
 
-### 6.3 Fase 3 – Consenso
+### 6.3 Consenso
 
 1. Gerar uma planilha de discordâncias contendo apenas os registros onde R1 ≥ R2 em Direcao ou Intensidade.
 
@@ -701,7 +701,7 @@ def cohen_kappa(r1, r2):
    ≥
 
 
-   →  FASE 0 → Preparação                                    →
+   →  Preparação                                    →
 
 
    →  ≥ Script 30 já executado → bd_codificacao_qualitativa   →
@@ -722,7 +722,7 @@ def cohen_kappa(r1, r2):
    ≥≥
 
 
-   →  FASE 1 – Codificação Independente (R1 e R2)            →
+   →  Codificação Independente (R1 e R2)            →
 
 
    →  ≥ 199 registros ≥ 7 campos amarelos                    →
@@ -743,7 +743,7 @@ def cohen_kappa(r1, r2):
    ≥≥
 
 
-   →  FASE 2 → Concordância                                  →
+   →  Concordância                                  →
 
 
    →  ≥ Mesclar planilhas R1 + R2                             →
@@ -764,7 +764,7 @@ def cohen_kappa(r1, r2):
    ≥≥
 
 
-   →  FASE 3 – Consenso                                      →
+   →  Consenso                                      →
 
 
    →  ≥ Resolver discordâncias (reunião presencial/remota)    →
@@ -782,7 +782,7 @@ def cohen_kappa(r1, r2):
    ≥≥
 
 
-   →  FASE 4 → Conversão Automatizada                        →
+   →  Conversão Automatizada                        →
 
 
    →  ≥ Executar: python 31_converter_quali_para_lnRR.py     →
@@ -800,7 +800,7 @@ def cohen_kappa(r1, r2):
    ≥≥
 
 
-   →  FASE 5 → Meta-Análise                                  →
+   →  Meta-Análise                                  →
 
 
    →  ≥ Executar: Rscript 02b_integrar_evidencia_mista.R     →

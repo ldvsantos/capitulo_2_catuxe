@@ -45,9 +45,9 @@
 
 %% NOS removida do artigo — caixa eliminada
 
-%% FASE I — Classificação
+%% CLASSIFICAÇÃO
 \node[phase] at (ph1 |- input48.south) [below=0.8cm] (ph3)
-  {FASE I\\[-2pt]{\scriptsize Classificação}};
+  {Classifica\c{c}\~ao};
 
 \node[mainbox, right=0.7cm of ph3] (dim)
   {Atribuição dimensional $V_1$\,--\,$V_8$\\[-2pt]
@@ -90,9 +90,9 @@
 
 %% MICE impratic\'{a}vel (94\% sem dados completos) — caixa eliminada
 
-%% FASE II
+%% SÍNTESE
 \node[phase] at (ph3 |- conv.south) [below=0.8cm] (ph4)
-  {FASE II\\[-2pt]{\scriptsize Síntese}};
+  {S\'{\i}ntese};
 
 \node[mainbox, right=0.7cm of ph4] (model)
   {Modelo hierárquico de efeitos mistos (REML)\\[-2pt]
@@ -104,9 +104,9 @@
    {\scriptsize Moderadores fixos, Begg, \textit{trim-and-fill}, \textit{leave-one-out}}};
 \draw[arr] (model) -- (metareg);
 
-%% FASE III
+%% OUTPUTS
 \node[phase] at (ph4 |- metareg.south) [below=0.8cm] (ph5)
-  {FASE III\\[-2pt]{\scriptsize Outputs}};
+  {Outputs};
 
 \node[mainbox, right=0.7cm of ph5] (out)
   {Outputs da síntese meta-analítica\\[-2pt]

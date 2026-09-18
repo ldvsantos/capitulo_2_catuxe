@@ -80,14 +80,14 @@ O pipeline multi-tier converteu toda a evidência qualitativa em tamanhos de efe
 
 ## 3. Próximos Passos (ordem de prioridade)
 
-### ✅ FASE 1 — Completar base de evidência — CONCLUÍDA
+### ✅ Base de evidência — CONCLUÍDA
 
 - ✅ Codificação qualitativa: 205/205 registros (100%)
 - ✅ Classificação multi-tier: T1–T4 atribuída a todos os registros
 - ✅ PDFs sem acesso tratados como T4 com inflação de variância
 - ✅ ID=36 excluído (dados insuficientes)
 
-### ✅ FASE 2 — Pipeline Estatístico — CONCLUÍDA
+### ✅ Pipeline estatístico — CONCLUÍDA
 
 - ✅ Script 31: conversão quali → lnRR (222 registros)
 - ✅ Script 02b: integração multi-tier → `bd_lnRR_misto.rds`
@@ -99,7 +99,7 @@ O pipeline multi-tier converteu toda a evidência qualitativa em tamanhos de efe
 - ⛔ Script 02: MICE desativado (94% missing — impraticável)
 - ⏳ Script 03b: modelo bayesiano (opcional, requer Stan/tidybayes)
 
-### ⏳ FASE 3 — Completar Manuscrito
+### ⏳ Manuscrito
 
 **Passo 1. Atualizar Resultados (§3.2–3.5)** ⭐ PRÓXIMO  
 Substituir texto placeholder por resultados reais:
@@ -114,7 +114,7 @@ O manuscrito tem marcadores `[GAP CRÍTICO:]` que precisam ser preenchidos.
 **Passo 3. Atualizar PROSPERO**  
 Substituir `CRD42024xxxxxx` pelo número real ou remover referência.
 
-### ⏳ FASE 4 — Finalização para Submissão
+### ⏳ Finalização para submissão
 
 **Passo 4. Verificar references.bib**  
 - Compilar LaTeX e verificar [?] warnings
@@ -140,7 +140,7 @@ O manuscrito usa `elsarticle.cls` — verificar conformidade com guidelines do p
 PIPELINE EXECUTADO                  STATUS
 ═══════════════════                 ══════
 
-47 estudos finais (ID=36 excl.)     FASE 1: EVIDÊNCIA ✅ COMPLETA
+47 estudos finais (ID=36 excl.)     EVIDÊNCIA ✅ COMPLETA
     │                               ┌─────────────────────────────────────┐
     ├── 18 T1 (mean±SD)  ─────────► │ Codificação: 205/205 (100%)         │
     ├── 21 T2a (p→d→lnRR) ───────► │ Conversão: 222 registros            │
@@ -150,7 +150,7 @@ PIPELINE EXECUTADO                  STATUS
                                     └─────────────────────────────────────┘
          │                                     │
          ▼                                     ▼
-    bd_lnRR_misto.rds               FASE 2: PIPELINE ✅ COMPLETO
+    bd_lnRR_misto.rds               PIPELINE ✅ COMPLETO
          │                          ┌─────────────────────────────────────┐
          ├── rma.mv 3 níveis ─────► │ 03: Meta-análise (V1–V8)            │
          ├── Meta-regressão ──────► │ 04: 3 moderadores                   │
@@ -160,7 +160,7 @@ PIPELINE EXECUTADO                  STATUS
                                     └─────────────────────────────────────┘
                                                │
     V5 SIGNIFICATIVO (p<0.05)                  ▼
-    lnRR = -0.279 [-0.49, -0.06]    FASE 3-4: MANUSCRITO ⏳ PENDENTE
+    lnRR = -0.279 [-0.49, -0.06]    MANUSCRITO ⏳ PENDENTE
     I² = 30.7%                      ┌─────────────────────────────────────┐
                                     │ Atualizar §3.2–3.5 com resultados   │
     44 arquivos em 3-OUTPUT/        │ Preencher GAPs, traduzir EN          │
